@@ -1,8 +1,13 @@
 Nido Manip: https://www.youtube.com/watch?v=nA2BGeMTXpg&t=560
+
 Pidgey Manip: https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDADDDLLLLAUUALU
+
 Pidgey No encounter Manip: https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDDDADLLLLUULUU
+
 Moon Manip: https://imgur.com/a/DAvE14v
+
 Koga, Early Erika and Rhyhorn HP Strats: https://pastebin.com/MRLfaK22
+
 Defensive Ranges: https://pastebin.com/prGV3ieu
  
 *All damage ranges in these notes include 1/39
