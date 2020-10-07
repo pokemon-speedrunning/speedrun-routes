@@ -1,7 +1,8 @@
 # Pokemon Red Oddish Backup with Greatball
-[A Press Map](https://imgur.com/a/IZWs2R4)
 
 ## IGT60 (including yoloball frames): 57/60
+
+[A Press Map](https://imgur.com/a/IZWs2R4)
 
 Both manips have the same outcome, pick whichever one you want
 
