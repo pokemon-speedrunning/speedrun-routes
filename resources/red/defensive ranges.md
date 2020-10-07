@@ -1,43 +1,59 @@
-FFEF Defensive ranges (MP - IT - Blizzard - Agatha Candy) 1/39 included
-------------------------------------------
-Notes :
- - <move>* denotes a badge boost, <move>** denotes 2, etc.
- - <move># denotes a critical hit
+# FFEF Defensive ranges 
+## (MP - IT - Blizzard - Agatha Candy)
+### Notes:
+ - `move`* denotes a badge boost, `move`** denotes 2, etc.
+ - `move`@-1 denotes a defensive stat drop, `move`@-2 denotes 2, etc.
+ - [`rolls`] denotes a critical hit
+   - Note : there are no [`rolls`] for stat changes because critical hits ignore all of them
  - All rolls include 1/39 max roll
- - PS : Poison Sting
- - QA : Quick Attack
- - LL : Leech Life
- - HP : Hydro Pump
- - HA : Horn Attack
- - Conf : hurting self in confusion
- 
-///////////////////////// ROUTE 3 /////////////////////////
-L8 NidoranM         L10 Caterpie        Tackle          4-5 [6-8]
-L9 NidoranM         L10 Weedle          PS              1-2 [2-3]
-L10 NidoranM        L10 Caterpie        Tackle          4-5 [5-7]
- 
-                    L11 Rattata         Tackle@0        7-9 [12-15]
-                                        @-1             11-13
-                                        QA@0            8-10 [13-16]
-                                        @-1             13-16
-                                        @-2             16-19
-L11 NidoranM        L11 Ekans           Wrap@0          3-4 [4-5]
-                                        @-1             4-5
-                                        @-2             5-6
-                                        @-3             6-8
-                                        @-4             7-9
-                                        PS@0            2-3 [2-3]
-                                        @-1             2-3
-                                        @-2             3-4
-                                        @-3             5-6
-                                        @-4             5-6
+ - Acronyms :
+   - PS : Poison Sting
+   - QA : Quick Attack
+   - LL : Leech Life
+   - HP : Hydro Pump
+   - HA : Horn Attack
+   - Conf : hurting self in confusion
+
+### Route 3
+
+L8 NidoranM L10 Caterpie Tackle 4-5 [6-8]
+L9 NidoranM L10 Weedle PS 1-2 [2-3]
+L10 NidoranM L10 Caterpie Tackle 4-5 [5-7]
+L11 Rattata         
+Tackle | [12-15]
+------------ | -------------
+@0 | 7-9 
+@-1 | 11-13  
+
+QA | [13-17]
+------------ | -------------
+@ 0 | 8-10
+@-1 | 13-16
+@-2 | 16-19
+
+L11 NidoranM L11 Ekans
+
+Wrap | [4-5]
+------------ | -------------
+@ 0 | 3-4 
+@-1 | 4-5
+@-2 | 5-6
+@-3 | 6-8
+@-4 | 7-9
+**PS** | **[2-3]**
+@ 0 | 2-3 
+@-1 |  2-3
+@-2 | 3-4
+@-3 | 5-6
+@-4 | 5-6
  
 L12 NidoranM        L9 Weedle           PS              1-2 [1-2]
                     L9 Caterpie         Tackle          3-4 [5-6]
  
 L13 NidoranM        L11 Caterpie        Tackle          3-4 [5-6]
+
+ ### Mt. Moon
  
-///////////////////////// MT. MOON /////////////////////////
 L14 NidoranM        L13 Rattata         Tackle@0        7-9 [12-15]
                                         @-1             11-13
                                         @-2             15-18
@@ -57,7 +73,8 @@ L16 Nidoking        L12 Grimer          Pound           4-5 [6-8]
                     L12 Koffing         Tackle@0        3-4 [5-6]
                                         Tackle@-2       5-7
  
-///////////////////////// NUGGET BRIDGE /////////////////////////
+### Nugget Bridge
+
 L17 Nidoking        L18 Pidgeotto       Gust/QA         8-10 [15-18]
 L18 Nidoking        L15 Rattata         Tackle/QA       5-7 [10-12]
                                         Hyper Fang      11-13 [18-22]
@@ -88,7 +105,8 @@ L20 Nidoking        L16 Pidgey          Gust/QA         5-7 [8-10]
                     L15 Zubat           Leech Life      5-6 [6-8]
                                         Bite            5-6 [8-10]
  
-///////////////////////// MISTY /////////////////////////
+### Misty
+
 L21 Nidoking        L15 NidoranM        Horn Attack     5-7 [9-11]
                                         Tackle          3-4 [5-7]
                     L15 NidoranF        Scratch         3-4 [5-7]
@@ -109,7 +127,8 @@ L24 Nidoking        L17 Machop          Karate Chop     5-7 [10-12]
 L25 Nidoking        L21 Starmie         BubbleBeam      35-42 [61-72]
                                         Water Gun       22-26 [37-44]
  
-///////////////////////// SURGE /////////////////////////
+### Surge
+
 L25 Nidoking        L16 Pidgey          QA              5-6 [7-9]
  
                     L16 Raticate        QA              5-7 [10-12]
@@ -132,7 +151,8 @@ L27 Nidoking        L20 Ivysaur         Vine Whip       8-10 [13-16]
                                         w/Screech       28
                                         w/Growl & Screech 21
  
-///////////////////////// FLY /////////////////////////
+### Fly
+
 L28 Nidoking        L18 Oddish          Absorb          5-6 [5-7]
                     L18 Bellsprout      Wrap            2-3 [3-4]
                                         Conf            13
@@ -152,7 +172,8 @@ L30 Nidoking        L20 Pidgey          QA              5-6 [8-10]
                                         Ember           7-9 [12-15]
                     L24 Vulpix          QA              4-5 [7-9]
  
-///////////////////////// POKEFLUTE /////////////////////////
+### Pokeflute
+
 L31 Nidoking        L25 Pidgeotto       QA              7-9 [15-18]
                     L23 Gyarados        Hydro Pump      57-68 [103-122]
                     L23 Growlithe       Bite            6-8 [12-15]
@@ -167,7 +188,8 @@ L33 Nidoking        L25 Golbat          Bite            8-10 [17-20]
                     L23 Raticate        QA              8-10 [15-18]
                                         Hyper Fang      15-18 [28-33]
  
-///////////////////////// SILPH /////////////////////////
+### Silph Co.
+
 L34 Nidoking        L33 Arbok           Bite            13-16 [27-32]
  
                     L37 Pidgeot         QA              15-18 [31-37]
@@ -184,7 +206,8 @@ L37 Nidoking        L37 Nidorino        Horn Attack     13-16 [28-34]
                                         Fury Attack     4-5 [7-9]
                     L37 Rhyhorn         Stomp/HA        16-19 [33-39]
  
-///////////////////////// KOGA /////////////////////////                
+### KOGA  
+
 L38 Nidoking        L34 Drowzee         Psychic         62-74 [122-144]
                                         Confusion       37-44 [68-80]
                     L34 Hypno           Confusion       42-50 [81-96]
@@ -192,18 +215,21 @@ L38 Nidoking        L34 Drowzee         Psychic         62-74 [122-144]
  
 L40 Nidoking        L43 Weezing         SD              79-94 [167-197]
  
-///////////////////////// ERIKA /////////////////////////
+### ERIKA
+
 L43 Nidoking        L29 Victreebel      Razor Leaf      15-18 [28-33]
                     L29 Vileplume       Petal Dance     18-22 [34-40]
                                         Mega Drain      11-13 [20-24]
  
-///////////////////////// SABRINA /////////////////////////
+### SABRINA
+
 L44 Nidoking        L38 Kadabra         Psychic         81-96 [165-194]
                                         Psybeam         57-68 [119-140]
 L45 Nidoking        L43 Alakazam        Psybeam         78-92 [163-192]
                                         Psywave         43-64
  
-///////////////////////// GIOVANNI /////////////////////////
+### GIOVANNI
+
                     L38 Machoke         Karate Chop     12-15 [25-30]
                                         Low Kick        9-11 [18-22]
  
@@ -214,14 +240,17 @@ L46 Nidoking        L45 Rhyhorn         HA/Stomp        18-22 [39-46]
                                         Horn Attack     20-24 [41-49]
                                         Tackle          11-13 [22-27]
  
-///////////////////////// FINAL /////////////////////////
+### Viridian Rival
+
 L47 Nidoking        L45 Gyarados        HP*             103-122 [241-284]
 L48 Nidoking        L50 Alakazam        Psychic         134-158 [282-332]
                                         Psybeam         98-116 [205-242]
  
 L48 Nidoking        L53 Venusaur        Razor Leaf      18-22 [74-87] 
                                         Vine Whip       12-15 [46-55]
- 
+                                        
+### Elite 4 
+
 L49 Nidoking        L54 Dewgong         Aurora Beam     81-96 [173-204]
                                         w/X Spec        55-66
  
