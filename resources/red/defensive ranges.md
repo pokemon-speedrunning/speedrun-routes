@@ -7,12 +7,12 @@
    - Note : there are no [`rolls`] for stat changes because critical hits ignore all of them
  - All rolls include 1/39 max roll
  - Acronyms :
-   - PS : Poison Sting
-   - QA : Quick Attack
+   - Poison Sting : Poison Sting
+   - Quick Attack : Quick Attack
    - LL : Leech Life
    - HP : Hydro Pump
    - HA : Horn Attack
-   - Conf : hurting self in confusion
+   - Hurt Self : hurting self in confusion
 
 ### Route 3
 
@@ -22,19 +22,19 @@
 
 L10 Caterpie | Tackle
 ------------ | -------------
-&nbsp; | 4-5 [6-8]
+&nbsp;       | 4-5 [6-8]
 
 </td><td>
 
-L10 Weedle | PS
+L10 Weedle   | Poison Sting
 ------------ | -------------
-&nbsp; | 1-2 [2-3]
+&nbsp;       | 1-2 [2-3]
 
 </td><td>
 
 L10 Caterpie | Tackle
 ------------ | -------------
-&nbsp; | 4-5 [5-7]
+&nbsp;       | 4-5 [5-7]
 
 </td></tr> </table>
 
@@ -42,21 +42,21 @@ L10 Caterpie | Tackle
 <table>
 <tr><td>
 
-L11 Rattata | Tackle | QA
+L11 Rattata  | Tackle        | Quick Attack
 ------------ | ------------- | -------------
-&nbsp; | 7-9 [12-15] | 8-10 [13-17]
-@-1 | 11-13 | 13-16
-@-2 |  | 16-19
+&nbsp;       | 7-9 [12-15]   | 8-10 [13-17]
+@-1          | 11-13         | 13-16
+@-2          |               | 16-19
 
 </td><td>
 
-L11 Ekans | Wrap | PS
+L11 Ekans    | Wrap          | Poison Sting
 ------------ | ------------- | -------------
-&nbsp; | 3-4 [4-5] | 2-3 [2-3]
-@-1 | 4-5 | 2-3
-@-2 | 5-6 | 3-4
-@-3 | 6-8 | 5-6
-@-4 | 7-9 | 5-6
+&nbsp;       | 3-4 [4-5]     | 2-3 [2-3]
+@-1          | 4-5           | 2-3
+@-2          | 5-6           | 3-4
+@-3          | 6-8           | 5-6
+@-4          | 7-9           | 5-6
 
 </td></tr> </table>
 
@@ -64,22 +64,22 @@ L11 Ekans | Wrap | PS
 <table>
 <tr><td>
 
-   L9 Weedle | PS
-   ------------ | -------------
-   &nbsp; | 1-2 [1-2]
+L9 Weedle    | Poison Sting
+------------ | -------------
+&nbsp;       | 1-2 [1-2]
 
 </td><td>
 
-   L9 Caterpie | Tackle
-   ------------ | -------------
-   &nbsp; | 3-4 [5-6]
+L9 Caterpie  | Tackle
+------------ | -------------
+&nbsp;       | 3-4 [5-6]
 
 </td></tr> </table>
 
 **Bug Catcher 3**:
-   L11 Caterpie | Tackle
-   ------------ | -------------
-   &nbsp; | 3-4 [5-6]
+L11 Caterpie | Tackle
+------------ | -------------
+&nbsp;       | 3-4 [5-6]
 
 ### Mt. Moon
 
@@ -87,19 +87,19 @@ L11 Ekans | Wrap | PS
 <table>
 <tr><td>
 
-  * L13 Rattata | Tackle | QA
-    ------------ | ------------- | -------------
-    &nbsp;| 7-9 [12-15] | 8-10 [13-16]
-    @-1 | 11-13 | 13-16
-    @-2 | 15-18 | 16-19
+L13 Rattata  | Tackle        | Quick Attack
+------------ | ------------- | -------------
+&nbsp;       | 7-9 [12-15]   | 8-10 [13-16]
+@-1          | 11-13         | 13-16
+@-2          | 15-18         | 16-19
 
 </td><td>
 
-    L13 Zubat | LL | Conf
-    ------------ | ------------- | -------------
-    &nbsp; | 6-8 [10-12] | 9
-    @-1 | 10-12 | 15
-    @-2 | 11-14 | 21
+L13 Zubat    | Leech Life    | Confused
+------------ | ------------- | -------------
+&nbsp;       | 6-8 [10-12]   | 9
+@-1          | 10-12         | 15
+@-2          | 11-14         | 21
 
 </td></tr> </table>
 
@@ -107,23 +107,23 @@ L11 Ekans | Wrap | PS
 <table>
 <tr><td>
 
-  * L12 Grimer | Pound
-    ------------ | -------------
-    &nbsp; | 4-5 [6-8]
+L12 Grimer   | Pound
+------------ | -------------
+&nbsp;       | 4-5 [6-8]
 
 </td><td>
 
-  * L12 Voltorb | Tackle
-    ------------ | -------------
-    &nbsp; | 2-3 [4-5]
-    @-2 |  4-5
+L12 Voltorb  | Tackle
+------------ | -------------
+&nbsp;       | 2-3 [4-5]
+@-2          | 4-5
 
 </td><td>
 
-  * L12 Koffing | Tackle
-    ------------ | -------------
-    &nbsp; | 3-4 [5-6]
-    @-2 |  5-7
+L12 Koffing  | Tackle
+------------ | -------------
+&nbsp;       | 3-4 [5-6]
+@-2          |  5-7
 
 </td></tr> </table>
 
@@ -133,21 +133,21 @@ L11 Ekans | Wrap | PS
 <table>
 <tr><td>
 
-   L18 Pidgeotto | Gust/QA
-   ------------ | -------------
-   &nbsp; | 8-10 [15-18]
+L18 Pidgeotto | Gust/Quick Attack
+------------  | -------------
+&nbsp;        | 8-10 [15-18]
 
 </td><td>
 
-   L15 Rattata | Tackle/QA | Hyper Fang
-   ------------ | ------------- | -------------
-   &nbsp; | 5-7 [10-12] | 11-13 [18-22]
+L15 Rattata  | Tackle/Quick Attack | Hyper Fang
+------------ | ------------------- | -------------
+&nbsp;       | 5-7 [10-12]         | 11-13 [18-22]
 
 </td><td>
 
-  L17 Bulbasaur | Vine Whip | Leech Seed
-  ------------ | ------------- | -------------
-  &nbsp; | 7-9  [12-15] | 3
+L17 Bulbasaur | Vine Whip     | Leech Seed
+------------- | ------------- | -------------
+&nbsp;        | 7-9  [12-15]  | 3
 
 </td></tr> </table>
 
@@ -155,59 +155,70 @@ L11 Ekans | Wrap | PS
 <table>
 <tr><td>
 
-   L14 Caterpie | Tackle
-   ------------ | -------------
-   &nbsp; | 2-3 [4-5]
+L14 Caterpie | Tackle
+------------ | -------------
+&nbsp;      | 2-3 [4-5]
 
-  </td><td>
+</td><td>
 
-  L14 Weedle | PS
-  ------------ | -------------
-  &nbsp; | 0-1 [0-1]
+L14 Weedle | Poison Sting
+------------ | -------------
+&nbsp; | 0-1 [0-1]
 
-  </td></tr> </table>
+</td></tr> </table>
 
-TODO
+**Female Jr Trainer**
+<table>
+<tr><td>
 
-**L19 Nidoking**
-  * L14 Pidgey | Gust/QA
-    ------------ | -------------
-    5-6 | [8-10]
+L14 Pidgey | Gust/Quick Attack
+------------ | -------------
+&nbsp; | 5-6 [8-10]
 
-  * L14 NidoranF | Scratch
-    ------------ | -------------
-    3-4 | [5-7]
-    &nbsp; | **Tackle**
-    3-4 | [5-6]
-    &nbsp; | **PS**
-    1-2 | [1-2]
+</td><td>
 
-  * L14 Rattata | QA
-    ------------ | -------------
-    5-7 | [8-10]
-    &nbsp; | **Hyper Fang**
-    10-12 | [16-19]
+L14 NidoranF | Scratch | Tackle | Poison Sting
+------------ | ------------- | ------------ | -------------
+&nbsp;  | 3-4 [5-7] | 3-4 [5-6] | 1-2 [1-2]
 
-  * L14 Ekans | Wrap
-    ------------ | -------------
-    2-3 | [3-4]
+</td></tr> </table>
 
-  * L14 Zubat | Leech Life
-    ------------ | -------------
-    5-6 | [6-8]
+**Male Jr Trainer**
+<table>
+<tr><td>
 
-**L20 Nidoking**
-  * L16 Pidgey | Gust/QA
-    ------------ | -------------
-    5-7 [8-10]
+L14 Rattata | Quick Attack | Hyper Fang
+------------ | ------------- | -------------
+&nbsp; | 5-7 [8-10] | 10-12 [16-19]
 
-  * L16 NidoranF | Scratch
-    ------------ | -------------
-    4-5 | [5-7]
-    &nbsp; | **Tackle**
-    3-4 | [5-7]
-    &nbsp; | **PS**
-    1-2 | [1-2]
+</td><td>
+
+L14 Ekans | Wrap
+------------ | -------------
+&nbsp; | 2-3 [3-4]
+
+</td><td>
+
+L14 Zubat | Leech Life
+------------ | -------------
+&nbsp; | 5-6 [6-8]
+
+
+</td></tr> </table>
+
+**Female Jr Trainer 2**
+<table>
+<tr><td>
+
+L16 Pidgey | Gust/Quick Attack
+------------ | -------------
+&nbsp; |5-7 [8-10]
+
+</td></tr>
+
+L16 NidoranF | Scratch      | Tackle       | Poison Sting
+------------ | -------------| ------------ | -------------
+&nbsp;       | 4-5 [5-7]    | 3-4 [5-7]    | 1-2 [1-2]
 
   * L18 Mankey | Karate Chop
     ------------ | -------------
@@ -235,38 +246,38 @@ L21 Nidoking        L15 NidoranM        Horn Attack     5-7 [9-11]
 L22 Nidoking        L13 Machop          Karate Chop     5-6 [7-9]
 
                     L13 Oddish          Absorb          3-4 [5-6]
-                    L13 Pidgey          QA              5-6 [5-7]
+                    L13 Pidgey          Quick Attack              5-6 [5-7]
 
 L24 Nidoking        L17 Machop          Karate Chop     5-7 [10-12]
                     L17 Drowzee         Confusion       20-24 [32-38]
                                         Pound           3-4 [5-7]
 
                     L19 Goldeen         Peck            4-5 [7-9]
-                                        Conf            13
+                                        Confused            13
 
 L25 Nidoking        L21 Starmie         BubbleBeam      35-42 [61-72]
                                         Water Gun       22-26 [37-44]
 
 ### Surge
 
-L25 Nidoking        L16 Pidgey          QA              5-6 [7-9]
+L25 Nidoking        L16 Pidgey          Quick Attack              5-6 [7-9]
 
-                    L16 Raticate        QA              5-7 [10-12]
+                    L16 Raticate        Quick Attack              5-7 [10-12]
 
-L26 Nidoking        L16 Pidgey          QA              5-6 [7-9]
+L26 Nidoking        L16 Pidgey          Quick Attack              5-6 [7-9]
 
-                    L16 Raticate        QA              5-7 [10-12]
+                    L16 Raticate        Quick Attack              5-7 [10-12]
 
-                    L19 Pidgeotto       Gust/QA         5-7 [11-13]
-                    L16 Raticate        QA              5-7 [10-12]
+                    L19 Pidgeotto       Gust/Quick Attack         5-7 [11-13]
+                    L16 Raticate        Quick Attack              5-7 [10-12]
                                         Hyper Fang      11-13 [18-22]
 L27 Nidoking        L20 Ivysaur         Vine Whip       8-10 [13-16]
                                         Leech Seed      5
 
                     L21 Voltorb         SonicBoom       20
                                         Tackle          3-4 [5-6]
-                    L18 Pikachu         QA              4-5 [6-8]
-                    L24 Raichu          Conf            14
+                    L18 Pikachu         Quick Attack              4-5 [6-8]
+                    L24 Raichu          Confused            14
                                         w/Growl         9
                                         w/Screech       28
                                         w/Growl & Screech 21
@@ -275,7 +286,7 @@ L27 Nidoking        L20 Ivysaur         Vine Whip       8-10 [13-16]
 
 L28 Nidoking        L18 Oddish          Absorb          5-6 [5-7]
                     L18 Bellsprout      Wrap            2-3 [3-4]
-                                        Conf            13
+                                        Confused            13
 
                     L20 Venonat         Tackle          4-5 [6-8]
 
@@ -287,14 +298,14 @@ L29 Nidoking        L23 Slowpoke        Confusion       15-18 [27-32]
                     L22 Oddish          Absorb          5-6 [8-10]
                     L22 Bulbasaur       Vine Whip       7-9 [12-15]
 
-L30 Nidoking        L20 Pidgey          QA              5-6 [8-10]
+L30 Nidoking        L20 Pidgey          Quick Attack              5-6 [8-10]
                     L24 Growlithe       Bite            7-9 [15-18]
                                         Ember           7-9 [12-15]
-                    L24 Vulpix          QA              4-5 [7-9]
+                    L24 Vulpix          Quick Attack              4-5 [7-9]
 
 ### Pokeflute
 
-L31 Nidoking        L25 Pidgeotto       QA              7-9 [15-18]
+L31 Nidoking        L25 Pidgeotto       Quick Attack              7-9 [15-18]
                     L23 Gyarados        Hydro Pump      57-68 [103-122]
                     L23 Growlithe       Bite            6-8 [12-15]
                                         Ember           5-7 [11-13]
@@ -304,18 +315,18 @@ L33 Nidoking        L25 Golbat          Bite            8-10 [17-20]
 
                     L26 Koffing         Tackle          5-6 [9-11]
 
-                    L23 Rattata         QA              5-7 [11-13]
-                    L23 Raticate        QA              8-10 [15-18]
+                    L23 Rattata         Quick Attack              5-7 [11-13]
+                    L23 Raticate        Quick Attack              8-10 [15-18]
                                         Hyper Fang      15-18 [28-33]
 
 ### Silph Co.
 
 L34 Nidoking        L33 Arbok           Bite            13-16 [27-32]
 
-                    L37 Pidgeot         QA              15-18 [31-37]
+                    L37 Pidgeot         Quick Attack              15-18 [31-37]
                                         Wing Attack     13-16 [28-33]
-                    L38 Gyarados        HP@+1           88-104 [245-288]
-L35 Nidoking        L38 Gyarados        HP@+1           83-98 [234-276]
+                    L38 Gyarados        Hydro Pump@+1           88-104 [245-288]
+L35 Nidoking        L38 Gyarados        Hydro Pump@+1           83-98 [234-276]
 
 L36 Nidoking        L32 Cubone          Bone Club       25-30 [52-62]
                     L32 Drowzee         Psychic         61-72 [112-132]
@@ -324,7 +335,7 @@ L36 Nidoking        L32 Cubone          Bone Club       25-30 [52-62]
 
 L37 Nidoking        L37 Nidorino        Horn Attack     13-16 [28-34]
                                         Fury Attack     4-5 [7-9]
-                    L37 Rhyhorn         Stomp/HA        16-19 [33-39]
+                    L37 Rhyhorn         Stomp/Horn Attack        16-19 [33-39]
 
 ### KOGA  
 
@@ -353,7 +364,7 @@ L45 Nidoking        L43 Alakazam        Psybeam         78-92 [163-192]
                     L38 Machoke         Karate Chop     12-15 [25-30]
                                         Low Kick        9-11 [18-22]
 
-L46 Nidoking        L45 Rhyhorn         HA/Stomp        18-22 [39-46]
+L46 Nidoking        L45 Rhyhorn         Horn Attack/Stomp        18-22 [39-46]
                                         Fury Attack     5-6 [10-12]
                     L42 Dugtrio         Dig             68-80 [144-170]
                     L45 Nidoking        Thrash          27-32 [57-67]
@@ -362,7 +373,7 @@ L46 Nidoking        L45 Rhyhorn         HA/Stomp        18-22 [39-46]
 
 ### Viridian Rival
 
-L47 Nidoking        L45 Gyarados        HP*             103-122 [241-284]
+L47 Nidoking        L45 Gyarados        Hydro Pump*             103-122 [241-284]
 L48 Nidoking        L50 Alakazam        Psychic         134-158 [282-332]
                                         Psybeam         98-116 [205-242]
 
@@ -381,7 +392,7 @@ L50 Nidoking        L53 Onix            Slam            17-20 [35-42]
 L52 Nidoking        L56 Golbat          Wing Attack*    17-21 [40-48]
 L52 Nidoking        L58 Arbok           Bite            22-26 [51-60]
 
-L52 Nidoking        L58 Gyarados        HP@+1           108-128 [174-205]
+L52 Nidoking        L58 Gyarados        Hydro Pump@+1           108-128 [174-205]
 
 L54 Nidoking        L61 Pidgeot         Sky Attack*     72-85 [177-207]
                                         Wing Attack     18-22 [45-53]
