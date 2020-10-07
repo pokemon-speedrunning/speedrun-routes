@@ -1,37 +1,76 @@
 # Pokemon Yellow Glitchless Route
 
-Nido Manip: https://www.youtube.com/watch?v=nA2BGeMTXpg&t=560
+[Nido Manip](/resources/yellow/nido-manip.md)
 
-Pidgey Manip: https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDADDDLLLLAUUALU
+[Pidgey Manip](https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDADDDLLLLAUUALU) and [Forest No Encounters](https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDDDADLLLLUULUU)
 
-Pidgey No encounter Manip: https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDDDADLLLLUULUU
+[Moon Manip](https://imgur.com/a/DAvE14v)
 
-Moon Manip: https://imgur.com/a/DAvE14v
+Koga, Early Erika and Rhyhorn [HP Strats](https://pastebin.com/MRLfaK22)
 
-Koga, Early Erika and Rhyhorn HP Strats: https://pastebin.com/MRLfaK22
-
-Defensive Ranges: https://pastebin.com/prGV3ieu
+[Defensive Ranges](https://pastebin.com/prGV3ieu)
  
 **All damage ranges in these notes include 1/39**
+
+Before New Game:
+- Set Options to Fast Text, Battle Animations Off, Battle Style Set
  
-VIRIDIAN CITY
+## Intro
+- Name yourself and your rival a one character name
+- Walk into the grass to trigger the pikachu cutscene
+- Don't Nickname Pikachu
+ 
+## Rival Fight
+- Thundershock Spam
+- For this route you must win the rival fight and get Flareon strats, if you die then reset
+- Vaporeon is possible to do with slight modifications, but it isn't worth it
+ 
+## Nidoran
+- Walk up Route 1 and enter mart to get Oak's Parcel
+- Walk down Route 1 and enter Oak's Lab
+- Talk to Oak from behind
+- Walk up Route 1 and enter mart again
+ 
+## Viridian City
 - Shopping: Buy 2 Poke Balls and 5 Potions
- 
-VIRIDIAN FOREST
-22 at 6 -> 27 at 8 is RESET
-23 at 6 -> 30 at 9 is RESET
+- Go through the Old Man catching tutorial
+- Save on [this tile](https://gunnermaniac.com/pokeworld?map=1#57/141) (MAKE SURE YOU STOP MOVING BEFORE OPENING THE PAUSE MENU, THE SAVE MUST BE UNBUFFERED)
+- Perform [nido manip](/resources/yellow/nido-manip.md)
+- Nickname nido one character
+
+## Viridian Forest
+- Swap pikachu and nidoran one step after entering the forest house
+- Take note of how much hp nido has
+  - 22 at 6 -> 27 at 8 is RESET
+  - 23 at 6 -> 30 at 9 is RESET
 - Leer first Caterpie once, second Caterpie twice
 - Catch lvl 4 and 6 Pidgeys(HA to weaken)
 - Potion <11 HP right before second Bug Catcher
+- If you do not have a bird yet, do pidgey manip (MUST BUFFER SAVE):
+  - [Map](https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDADDDLLLLAUUALU)
+  - [Video](https://www.youtube.com/watch?v=de3p6yRKskU)
+  - Potion on this menu if < 13 hp but not in redbar
+  - [More Info](https://pastebin.com/cDNQXkLL)
+- Don't nickname pidgey
+- Buffer A after not nicknaming pidgey to pick up hidden potion (if you do this right the potion textbox will clear without a jingle)
 - Potion <12 HP before third Bug Catcher
 - HA last Caterpie if 21 HA
 - Heal for minion with <27 HP, do not heal if 15-17/32
  
-PEWTER GYM
-- Swap Horn Attack on Sandshrew turn 3
+## Brock's Gym
+- Heal to 27+ hp in house after forest (toss the extra ball if you have it)
+- Walk into Brock's gym and fight the optional trainer
+
+- Light Year Guy:
+	- Leer, swap leer and HA with select, HA
+	- Leer x2 + HA x2
 - Brock:
-    - DK onix turn 2 if 15-19 HP(leer turn 3 if got turn 1 bide)
-    - Tackle does 8-10 at -2
+   - DK x2
+   - Leer x2, DK x2
+     - Leer doesn't go off if Onix uses bind, make sure you hit 2 leers
+     - If you get bide on turn 2 at less than 19 hp, then stall it out with 2 more leers
+     - DO NOT POTION DURING BIDE AFTER USING DK, BIDE IS SUPER BUGGED AND YOU WILL DIE
+     - Advanced onix strat: if 15-19 after one leer, then DK x3 (DK + leer + DK if you get bide)
  
 ROUTE 3
 - If you have 5 HAs left on third Caterpie, use Tackle+Tackle
