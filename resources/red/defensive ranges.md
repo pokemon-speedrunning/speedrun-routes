@@ -30,8 +30,8 @@
 
 **L10 NidoranM**:
 <table>
-<tr><th>**L10 NidoranM**</th></tr>
 <tr><td>
+
 L10 Caterpie | Tackle
 ------------ | -------------
 4-5 | [5-7]
@@ -42,7 +42,7 @@ L11 Rattata | Tackle
 ------------ | -------------
 7-9  | [12-15]
 @-1 | 11-13
-&nbsp; | **QA**
+nbsp; | **QA**
 8-10 |[13-17]
 @-1 | 13-16
 @-2 | 16-19
@@ -65,13 +65,19 @@ L11 Rattata | Tackle
     @-4 | 5-6
 
 **L12 NidoranM**:
+<table>
+<tr><td>
   * L9 Weedle | PS
     ------------ | -------------
     1-2 | [1-2]
 
+</td><td>
+
   * L9 Caterpie | Tackle
     ------------ | -------------
     3-4 | [5-6]
+
+</td></tr> </table>
 
 **L13 NidoranM**:
   * L11 Caterpie | Tackle
@@ -81,6 +87,8 @@ L11 Rattata | Tackle
 ### Mt. Moon
 
 **L14 NidoranM**:
+<table>
+<tr><td>
   * L13 Rattata | Tackle
     ------------ | -------------
     7-9 | [12-15]
@@ -91,6 +99,8 @@ L11 Rattata | Tackle
     @-1 | 13-16
     @-2 | 16-19
 
+</td><td>
+
   * L13 Zubat | LL
     ------------ | -------------
     6-8 | [10-12]
@@ -100,20 +110,31 @@ L11 Rattata | Tackle
     @-1 | 15
     @-2 | 21
 
+</td></tr> </table>
+
 **L16 Nidoking**:
+<table>
+<tr><td>
+
   * L12 Grimer | Pound
     ------------ | -------------
     4-5 | [6-8]
+
+</td><td>
 
   * L12 Voltorb | Tackle
     ------------ | -------------
     2-3 | [4-5]
     @-2 |  4-5
 
+</td><td>
+
   * L12 Koffing | Tackle
     ------------ | -------------
     3-4 | [5-6]
     @-2 |  5-7
+
+</td></tr> </table>
 
 ### Nugget Bridge
 
