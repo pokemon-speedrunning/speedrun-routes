@@ -19,6 +19,7 @@
 **Bug Catcher 1**:
 <table>
 <tr><td>
+
 L10 Caterpie | Tackle
 ------------ | -------------
 &nbsp; | 4-5 [6-8]
@@ -40,6 +41,7 @@ L10 Caterpie | Tackle
 **Short Guy**:
 <table>
 <tr><td>
+
 L11 Rattata | Tackle | QA
 ------------ | ------------- | -------------
 &nbsp; | 7-9 [12-15] | 8-10 [13-17]
@@ -61,6 +63,7 @@ L11 Ekans | Wrap | PS
 **Bug Catcher 2**:
 <table>
 <tr><td>
+
    L9 Weedle | PS
    ------------ | -------------
    &nbsp; | 1-2 [1-2]
@@ -83,6 +86,7 @@ L11 Ekans | Wrap | PS
 **Moon Rocket**:
 <table>
 <tr><td>
+
   * L13 Rattata | Tackle | QA
     ------------ | ------------- | -------------
     &nbsp;| 7-9 [12-15] | 8-10 [13-16]
@@ -105,47 +109,65 @@ L11 Ekans | Wrap | PS
 
   * L12 Grimer | Pound
     ------------ | -------------
-    4-5 | [6-8]
+    &nbsp; | 4-5 [6-8]
 
 </td><td>
 
   * L12 Voltorb | Tackle
     ------------ | -------------
-    2-3 | [4-5]
+    &nbsp; | 2-3 [4-5]
     @-2 |  4-5
 
 </td><td>
 
   * L12 Koffing | Tackle
     ------------ | -------------
-    3-4 | [5-6]
+    &nbsp; | 3-4 [5-6]
     @-2 |  5-7
 
 </td></tr> </table>
 
 ### Nugget Bridge
 
-**L17 Nidoking**:
-  * L18 Pidgeotto | Gust/QA
-    ------------ | -------------
-    8-10 | [15-18]
+**Rival**:
+<table>
+<tr><td>
 
-**L18 Nidoking**:
-  * L15 Rattata | Tackle/QA
-    ------------ | -------------
-    5-7 | [10-12]
-    &nbsp; | **Hyper Fang**
-    11-13 | [18-22]
-
- * L17 Bulbasaur | Vine Whip
+   L18 Pidgeotto | Gust/QA
    ------------ | -------------
-   7-9 | [12-15]
-   &nbsp; | **Leech Seed**
-   3 | &nbsp;
+   &nbsp; | 8-10 [15-18]
 
-  * L14 Caterpie | Tackle
-    ------------ | -------------
-    2-3 | [4-5]
+</td><td>
+
+   L15 Rattata | Tackle/QA | Hyper Fang
+   ------------ | ------------- | -------------
+   &nbsp; | 5-7 [10-12] | 11-13 [18-22]
+
+</td><td>
+
+  L17 Bulbasaur | Vine Whip | Leech Seed
+  ------------ | ------------- | -------------
+  &nbsp; | 7-9  [12-15] | 3
+
+</td></tr> </table>
+
+**Bug Catcher 4**:
+<table>
+<tr><td>
+
+   L14 Caterpie | Tackle
+   ------------ | -------------
+   &nbsp; | 2-3 [4-5]
+
+  </td><td>
+
+  L14 Weedle | PS
+  ------------ | -------------
+  &nbsp; | 0-1 [0-1]
+
+  </td></tr> </table>
+
+TODO
 
 **L19 Nidoking**
   * L14 Pidgey | Gust/QA
