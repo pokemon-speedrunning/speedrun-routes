@@ -11,4 +11,5 @@ Path 2: 5 Frame Cluster, 216/245 IGT
 Path 3: 3 Frame Cluster, 142/147 IGT
 Path 4: 6 Frame Cluster, 276/294 IGT
 Path 5: 5 Frame Cluster, 250/265 IGT
-Path 6: 8 Frame Cluster, 342/400 IGT```
+Path 6: 8 Frame Cluster, 342/400 IGT
+```
