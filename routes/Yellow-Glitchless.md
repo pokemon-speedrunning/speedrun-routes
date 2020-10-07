@@ -1,11 +1,10 @@
 # Yellow Any% Glitchless - Ice Beam Route
 This guide assumes you know general movement through the route (which trainers to fight, how to get through safari zone, etc.)
-It's not possible to write down everything about how to move, so it is highly recommended to watch a run using this route before attempting a run.
-Two examples here: https://youtu.be/3cT6Ikssn2s  https://youtu.be/90VmIySFnyY
+It's not possible to write down everything about how to move, so it is highly recommended to [watch](https://youtu.be/3cT6Ikssn2s) [a run](https://youtu.be/90VmIySFnyY) using this route before attempting a run.
 
 Abbreviations: HA = Horn Attack, DK = Double Kick, BB = Bubblebeam, TB = Thunderbolt, HD = Horn Drill, EQ = Earthquake, IB = Ice Beam
 
-Defensive Damage Ranges: https://pastebin.com/XE9MTscv
+[Defensive Damage Ranges](https://pastebin.com/XE9MTscv)
 
 ## Before New Game:
 - Set Options to Fast Text, Battle Animations Off, Battle Style Set
@@ -32,9 +31,8 @@ Defensive Damage Ranges: https://pastebin.com/XE9MTscv
 	> If you are not comfortable with yoloball, buy 3 poke balls and 6 potions, then only buy 3 super potions in celadon
  
 - Go through the Old Man catching tutorial
-- Save on this tile: https://gunnermaniac.com/pokeworld?map=1#57/141 (MAKE SURE YOU STOP MOVING BEFORE OPENING THE PAUSE MENU, THE SAVE MUST BE UNBUFFERED)
-- Perform nido manip: https://www.youtube.com/watch?v=zdclf2wGJq0
-- Nido manip pastebin: https://pastebin.com/xFKzQtp8
+- Save on [this tile](https://gunnermaniac.com/pokeworld?map=1#57/141) (MAKE SURE YOU STOP MOVING BEFORE OPENING THE PAUSE MENU, THE SAVE MUST BE UNBUFFERED)
+- Perform [nido manip](https://www.youtube.com/watch?v=zdclf2wGJq0) - [pastebin explanation](https://pastebin.com/xFKzQtp8)
 - Nickname nido one character
  
 ## Forest:
@@ -58,10 +56,10 @@ Defensive Damage Ranges: https://pastebin.com/XE9MTscv
 - If nido had 23 hp at lvl 6 and 29 hp at lvl 9 then it is either FBEF or F9ED (can check at lvl 23)
  
 - If you do not have a bird yet, do pidgey manip (MUST BUFFER SAVE):
-	- Map: https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDADDDLLLLAUUALU
-	- Video: https://www.youtube.com/watch?v=de3p6yRKskU
+	- [Map](https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDADDDLLLLAUUALU)
+	- [Video](https://www.youtube.com/watch?v=de3p6yRKskU)
 	- Potion on this menu if less than 13 hp but not in redbar
-	- Pastebin: https://pastebin.com/cDNQXkLL
+	- [Pastebin Explanation](https://pastebin.com/cDNQXkLL)
  
 - Don't nickname pidgey
 - Buffer A after not nicknaming pidgey to pick up hidden potion (if you do this right the potion textbox will clear without a jingle)
@@ -127,7 +125,7 @@ Defensive Damage Ranges: https://pastebin.com/XE9MTscv
 - Enter Moon
  
 ## Mt. Moon:
-- Perform Moon manip (BUFFER SAVE): https://pastebin.com/pspchdGU
+- Perform [Moon manip](https://pastebin.com/pspchdGU) (BUFFER SAVE)
 - Use moon stone on nidorino
  
 - Super Nerd:
@@ -144,7 +142,7 @@ Defensive Damage Ranges: https://pastebin.com/XE9MTscv
  
 ## Nugget Bridge:
 - Walk to Cerulean
-- Pick up hidden rare candy: https://gunnermaniac.com/pokeworld?map=1#235/44
+- Pick up the [hidden rare candy](https://gunnermaniac.com/pokeworld?map=1#235/44)
 - Walk to nugget bridge, start rival fight
  
 - Bridge Rival:
@@ -221,7 +219,7 @@ Defensive Damage Ranges: https://pastebin.com/XE9MTscv
 	- Thrash
  
 - Walk down to Underground Path to Vermillion
-- Pick up hidden full restore: https://gunnermaniac.com/pokeworld?map=119#3/4
+- Pick up the [hidden full restore](https://gunnermaniac.com/pokeworld?map=119#3/4)
 - Walk through grass, go through grass on the left to avoid trainer on the right
 - Walk into Vermillion Mart
  
@@ -251,11 +249,11 @@ Defensive Damage Ranges: https://pastebin.com/XE9MTscv
 	- teach HM01 (cut) to charmander in slot 1
  
 - Cans:
-	- Follow this search path: https://imgur.com/gallery/3lBd4
+	- Follow [this search path](https://imgur.com/gallery/3lBd4)
  
 - Surge:
 	- Thrash
-	> Surge winrate at various hp values: https://pastebin.com/8d1Ygw9j
+	> [Surge winrates](https://pastebin.com/8d1Ygw9j)
  
 ## Rock Tunnel:
 - Walk out of Surge's Gym
@@ -323,10 +321,10 @@ Defensive Damage Ranges: https://pastebin.com/XE9MTscv
 	> BB growlithe on 15/14 special when you want to keep your current hp, Thrash otherwise
  
 - Bike to Underground Path (make sure to avoid the optionals along the way)
-- Pick up hidden Elixir: https://gunnermaniac.com/pokeworld?map=121#21/5
+- Pick up the [hidden Elixer](https://gunnermaniac.com/pokeworld?map=121#21/5)
 	- There are a number of strategies for this, I count 13 bike pedals down, some people use audio cue, whatever works
-	- Top Elixir (harder but saves 2 frames): https://youtu.be/2KRStM8qKb0
-	- Side Elixir: https://youtu.be/_0G20DAZmn8
+	- [Top Elixer](https://youtu.be/2KRStM8qKb0) harder but saves 2 frames
+	- [Side Elixer](https://youtu.be/_0G20DAZmn8)
 - Bike to Celadon Shopping Department
  
 - Shopping:
@@ -370,8 +368,8 @@ Defensive Damage Ranges: https://pastebin.com/XE9MTscv
 - Channeler 1:
 	- Rock Slide x2
  
-- Pick up overworld elixir: https://gunnermaniac.com/pokeworld?map=145#12/10
-- Pick up hidden elixir: https://gunnermaniac.com/pokeworld?map=146#4/12
+- Pick up the [overworld elixer](https://gunnermaniac.com/pokeworld?map=145#12/10)
+- Pick up the [hidden elixer](https://gunnermaniac.com/pokeworld?map=146#4/12)
 - Take heal pad
  
 - Channeler 2:
@@ -381,9 +379,7 @@ Defensive Damage Ranges: https://pastebin.com/XE9MTscv
 	- Rock Slide
  
 - Pick up rare candy in your way
-- Trigger Ghost Encounter
- 
-- Ghost Menu:
+- Trigger Ghost Encounterhttps://youtu.be/2KRStM8qKb0
 	- Swap slot 2 with Super Repels
 	- Use Poke Doll
  
