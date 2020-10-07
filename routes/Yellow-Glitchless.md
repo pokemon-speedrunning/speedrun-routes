@@ -1,671 +1,247 @@
-# Yellow Any% Glitchless - Ice Beam Route
-This guide assumes you know general movement through the route (which trainers to fight, how to get through safari zone, etc.)
-It's not possible to write down everything about how to move, so it is highly recommended to [watch](https://youtu.be/3cT6Ikssn2s) [a run](https://youtu.be/90VmIySFnyY) using this route before attempting a run.
-
-Abbreviations: HA = Horn Attack, DK = Double Kick, BB = Bubblebeam, TB = Thunderbolt, HD = Horn Drill, EQ = Earthquake, IB = Ice Beam
-
-[Defensive Damage Ranges](https://pastebin.com/XE9MTscv)
-
-## Before New Game:
-- Set Options to Fast Text, Battle Animations Off, Battle Style Set
-
-## Intro:
-- Name yourself and your rival a one character name
-- Walk into the grass to trigger the pikachu cutscene
-- Don't Nickname Pikachu
+Nido Manip: https://www.youtube.com/watch?v=nA2BGeMTXpg&t=560
+Pidgey Manip: https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDADDDLLLLAUUALU
+Pidgey No encounter Manip: https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDDDADLLLLUULUU
+Moon Manip: https://imgur.com/a/DAvE14v
+Koga, Early Erika and Rhyhorn HP Strats: https://pastebin.com/MRLfaK22
+Defensive Ranges: https://pastebin.com/prGV3ieu
  
-## Rival Fight:
-- Thundershock Spam
-- For this route you must win the rival fight and get Flareon strats, if you die then reset
-- Vaporeon is possible to do with slight modifications, but it isn't worth it
+*All damage ranges in these notes include 1/39
  
-## Nidoran:
-- Walk up Route 1 and enter mart to get Oak's Parcel
-- Walk down Route 1 and enter Oak's Lab
-- Talk to Oak from behind
-- Walk up Route 1 and enter mart again
+VIRIDIAN CITY
+- Shopping: Buy 2 Poke Balls and 5 Potions
  
-- Buy:
-	- 2 poke balls
-	- 5 potions
-	> If you are not comfortable with yoloball, buy 3 poke balls and 6 potions, then only buy 3 super potions in celadon
+VIRIDIAN FOREST
+22 at 6 -> 27 at 8 is RESET
+23 at 6 -> 30 at 9 is RESET
+- Leer first Caterpie once, second Caterpie twice
+- Catch lvl 4 and 6 Pidgeys(HA to weaken)
+- Potion <11 HP right before second Bug Catcher
+- Potion <12 HP before third Bug Catcher
+- HA last Caterpie if 21 HA
+- Heal for minion with <27 HP, do not heal if 15-17/32
  
-- Go through the Old Man catching tutorial
-- Save on [this tile](https://gunnermaniac.com/pokeworld?map=1#57/141) (MAKE SURE YOU STOP MOVING BEFORE OPENING THE PAUSE MENU, THE SAVE MUST BE UNBUFFERED)
-- Perform [nido manip](https://www.youtube.com/watch?v=zdclf2wGJq0) - [pastebin explanation](https://pastebin.com/xFKzQtp8)
-- Nickname nido one character
- 
-## Forest:
-- Swap pikachu and nidoran one step after entering the forest house
-- Take note of how much hp nido has
- 
-- Bug Catcher 1: 
-	- Leer + Tackle spam
-	- Leer x2 + Tackle spam
- 
-- If nido had 22 hp at lvl 6 and 27 hp at lvl 8, then it is a bad nido and a reset
-- If nido had 22 hp at lvl 6 and 26 hp at lvl 8 then it is FAEE
-- If you find a wild lvl 4 or lvl 6 pidgey, then horn attack it once and toss a ball
-- Before Bug Catcher 2, heal if less than 11 hp
- 
-- Bug Catcher 2: 
-	- Leer + HA x2
-	- Leer until -1 defense + HA spam (use tackle if it kills)
- 
-- If nido had 23 hp at lvl 6 and 30 hp at lvl 9 then it is a bad nido and a reset
-- If nido had 23 hp at lvl 6 and 29 hp at lvl 9 then it is either FBEF or F9ED (can check at lvl 23)
- 
-- If you do not have a bird yet, do pidgey manip (MUST BUFFER SAVE):
-	- [Map](https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDADDDLLLLAUUALU)
-	- [Video](https://www.youtube.com/watch?v=de3p6yRKskU)
-	- Potion on this menu if less than 13 hp but not in redbar
-	- [Pastebin Explanation](https://pastebin.com/cDNQXkLL)
- 
-- Don't nickname pidgey
-- Buffer A after not nicknaming pidgey to pick up hidden potion (if you do this right the potion textbox will clear without a jingle)
-- Potion after catching pidgey if in redbar
- 
-- Bug Catcher 3:
-	- If you have 21 HA's (only used 2 on metapod): HA x3 (+tackle)
-	- If you have less than 21 HA: Leer + HA x2 (+tackle)
- 
-## Brock:
-- Heal to 27+ hp in house after forest (toss the extra ball if you have it)
-- Walk into Brock's gym and fight the optional trainer
- 
-- Light Year Guy:
-	- Leer, swap leer and HA with select, HA
-	- Leer x2 + HA x2
- 
-- Potion before Brock
- 
+PEWTER GYM
+- Swap Horn Attack on Sandshrew turn 3
 - Brock:
-	- DK x2
-	- Leer x2, DK x2
-	> Leer doesn't go off if you get bind, make sure you hit 2 leers
-  
-	> If you get bide on turn 2 at less than 19 hp, then stall it out with 2 leers
-  
-	> DO NOT POTION DURING BIDE AFTER USING DK, BIDE IS SUPER BUGGED AND YOU WILL DIE
-  
-	> Advanced onix strat: if 15-19 after one leer, then DK x3 (DK + leer + DK if you get bide)
+    > DK onix turn 2 if 15-19 HP(leer turn 3 if got turn 1 bide)
+    > Tackle does 8-10 at -2
  
-## Route 3:
-- Potion if below 4 hp
+ROUTE 3
+- If you have 5 HAs left on third Caterpie, use Tackle+Tackle
+- Always DK the last Caterpie in red bar, always HA/Tackle in yellow bar
  
-- Bug Catcher 1:
-	- HA x2
-	- HA + tackle
-	- HA x2
-	> Always use tackle if it kills, DK almost never kills
+NUGGET BRIDGE
+- Teach Thrash in slot 2
+- Swap Thrash to slot 1
  
-- If you need to potion, do it during ratatta fight
+- Delay center until after Misty if 48+ HP with 14/15 special, 53+ HP with 13 special
  
-- Youngster:
-	- (potion if less than 9 hp) + DK
-	- HA x2 (+DK)
+SURGE				
+- Shopping: Sell TM34 and Nugget; buy 4 Repel
+- Boat:(Heal) Teach Bubblebeam in slot 3
+  Boat Rival: HA, BB, BB, Swap BB with DK then use DK
+- Cut menu:
+    > Teach Dig to Charmander
+    > Teach Cut to Charmander
+    > Use Cut
  
-- Bug Catcher 2:
-	- HA (+DK)
-	- HA x2
-	- HA + DK
-	- HA x2
-	> If you have 5 HA left at caterpie, then tackle x2(+DK) instead
-  
-	> Evolve to nidornio after this fight
+- Cans map: https://imgur.com/gallery/3lBd4
+  Surge: Thrash
+    > Mega Kick: 29-35 (53-63 crit); 30-36 (54-64) with 9 DV
+    > Mega Punch: 20-24 (36-43 crit)
  
-- Bug Catcher 3:
-	- HA + tackle(caterpie in yellowbar)/DK(redbar)
-	- HA x2
- 
-- Walk around the lass in the grass
-- Walk into the center before moon entrance
-	- Deposit pikachu
-	- Heal at center
-- Enter Moon
- 
-## Mt. Moon:
-- Perform [Moon manip](https://pastebin.com/pspchdGU) (BUFFER SAVE)
-- Use moon stone on nidorino
- 
-- Super Nerd:
-	- HA x2
-	- HA + DK
-	- HA x2 (+DK)
- 
-- Rocket:
-	- HA x2
-	- DK
-	- HA x2 + HA/DK
- 
-- Exit Moon
- 
-## Nugget Bridge:
-- Walk to Cerulean
-- Pick up the [hidden rare candy](https://gunnermaniac.com/pokeworld?map=1#235/44)
-- Walk to nugget bridge, start rival fight
- 
-- Bridge Rival:
-	- HA x2
-	- HA x3-4 (DK if it kills)
-	- DK
-	- DK (x2)
- 
-- Bug Catcher:
-	- HA + DK
-	- HA
- 
-- Lass:
-	- HA (+DK)
-	- HA x2
-	> can DK nidoranf if at not maximum redbar
- 
-- Youngster:
-	- DK
-	- HA (+DK)
-	- HA
- 
-- Rare Candy x2 nidoking
-- Teach Thrash over tackle (slot 2)
-- You can check which nido you have here:
-	- 47 def/48 spec is FBEF ("15 special")
-	- 47 def/47 spec is FAEE ("14 special")
-	- 46 def/47 spec is F9ED ("13 special")
- 
-- Lass:
-	- Swap HA and Thrash
-	- Thrash
- 
-- Mankey:
-	- Thrash
- 
-- Rocket:
-	- Thrash
- 
-## Bill's House:
-- Get Charmander, don't nickname
- 
-- Bottom Hiker:
-	- DK x2
- 
-- Jr. Trainer:
-	- Thrash
- 
-- Youngster:
-	- Thrash
- 
-- Lass:
-	- Thrash
- 
-- Walk into Bill's house, go through cutscene
-- Walk back to Cerulean
- 
-## Misty:
-- Take Center
-- (Advanced Strat) Skip Center if 48+ hp with 15/14 special nido, 53+ hp with 13 special nido
-- Walk into Misty's Gym
- 
-- Goldeen:
-	- Thrash
- 
-- Misty:
-	- Thrash (and pray)
- 
-## Surge:
-- Take Center if you haven't yet
-- Walk through the robbed house
- 
-- Dig Rocket:
-	- Thrash
- 
-- Walk down to Underground Path to Vermillion
-- Pick up the [hidden full restore](https://gunnermaniac.com/pokeworld?map=119#3/4)
-- Walk through grass, go through grass on the left to avoid trainer on the right
-- Walk into Vermillion Mart
- 
-- Sell:
-	- TM34
-	- Nugget
-- Buy:
-	- 3 repels
- 
-- Walk on to S.S. Anne
-- Teach TM11 (BB) to nidoking over leer (slot 3)
-- Teach TM28 (dig) to charmander
- 
-- Boat Rival:
-	- HA (DO NOT THRASH)
-	- BB
-	- BB
-	- swap BB and DK
-	- DK
- 
-- Talk to captain, get HM01 (cut)
-- Walk out of S.S. Anne, over to Surge's gym
- 
-- Cut Menu:
-	- (Potion to 43+)
-	- Swap slot 1 with repels
-	- teach HM01 (cut) to charmander in slot 1
- 
-- Cans:
-	- Follow [this search path](https://imgur.com/gallery/3lBd4)
- 
-- Surge:
-	- Thrash
-	> [Surge winrates](https://pastebin.com/8d1Ygw9j)
- 
-## Rock Tunnel:
-- Walk out of Surge's Gym
-- Cut bush, walk over to get bike voucher
-- Walk over to Diglett Cave
-- Use Dig
-- Get Bike
- 
-- Bike Menu:
-	- Swap slot 2 with Bike
-	- Teach TM24 (TB) to nidoking over DK (slot 3)
-	- Use Bike
- 
-- Cut bush, bike to the right
- 
-- 4 Turn Thrash Girl
-	- Thrash
-	- (HA on bellsprout if you get 3 turn)
- 
-- Jr. Trainer:
-	- BB
-	- Thrash
-	> Thrash on turn 1 if you don't mind taking damage
- 
-- Redbar for this section of the game saves a decent chunk of time (30 seconds or so), so it can be worth it to intentionally take damage to get redbar
-- However, redbar is by no means essential and can be skipped
-- Repel one step into Rock Tunnel
- 
-- Super Nerd
-	- BB
-	- TB
-	> Cubone does 22-26 with bone club (TB to stall)
-  
-	> Slowpoke does 15-18 on 15/14 special, 17-20 on 13 special (Thrash to stall)
-  
-	> You don't want to be TOO low hp, there are things that can damage you for around 5 hp
-  
-	> A good rule of thumb is to be just below 80 hp below max hp (14/94, 17/97, etc.)
- 
-- Super Nerd:
-	- TB
-	> Slowpoke does 17-20 on all specials (BB+TB to stall)
- 
-- Jr. Trainer:
-	- Thrash (and pray)
- 
-- Use full restore if paralyzed (this is really bad)
-- Watch a video to know where to use the other two repels
- 
-- Hiker:
-	- BB
-	- BB
-	- BB
- 
-- Jr. Trainer:
-	- Thrash
- 
-## Celadon Shopping and Fly:
-- Bike down to Lavender, then left towards Celadon
- 
-- Gambler
-	- Swap Thrash and BB
-	- BB/Thrash
-	- Thrash
-	> BB growlithe on 15/14 special when you want to keep your current hp, Thrash otherwise
- 
-- Bike to Underground Path (make sure to avoid the optionals along the way)
-- Pick up the [hidden Elixer](https://gunnermaniac.com/pokeworld?map=121#21/5)
-	- There are a number of strategies for this, I count 13 bike pedals down, some people use audio cue, whatever works
-	- [Top Elixer](https://youtu.be/2KRStM8qKb0) harder but saves 2 frames
-	- [Side Elixer](https://youtu.be/_0G20DAZmn8)
-- Bike to Celadon Shopping Department
- 
+FLY
+- Bike menu:
+    > Swap slot 1 item with Bicycle
+    > Teach Thunderbolt in Slot 3
+    > Get on the bike
+- Red bar setup:
+    > Cubone: 22-26: 20-24 with 14/15 DV
+    > First Slowpoke: 15-18; 17-20 with 13 DV
+    > Second Slowpoke: 17-20
+- Gambler: Bubblebeam, Thrash
+- Pick up Underground Elixir
 - Shopping:
-	- 2F:
-		- TM07 (HD)
-		- 10 super repels
-		- 4 super potions (3 super potions if bought extra poke balls at the beginning)
-	- 4F:
-		- 1 poke doll
-	- Roof:
-		- 1 fresh water
-		- 1 soda pop
-		- trade with girl for IB, Rock Slide
-		- 1 Fresh Water
-	- 5F
-		- 11 X Accuracy
-		- 4 X Speed
-		- 3 X Attack
-		- 4 X Special
+    > 2F: Buy Tm07 then 9 Super Repels(8 if Vape)and 3 Super Potions
+    > 4F: Buy Poke Doll
+    > 6F: Buy 2 Soda Pop then Fresh Water, Trade Fresh Water then Soda Pop
+    > 5F: Buy 11 X Accuracy(12 if vape), 6 X Speeds, 2 X Attacks and 6 X Specials(4 if Vaporeon) 
  
-- Take Elevator to 1F
-- Bike to Fly House
-- Talk to girl to get HM02 (fly)
+ Fly menu:
+    > Swap slot 2 item with Super Repel
+    > Teach Horn Drill in Slot 2
+    > Use Super Repel
+    > Swap slot 3 for X Accs
+    > Teach Fly to Pidgey
+    > Teach Rock Slide in slot 1
+    > Fly to Lavender Town
  
-## Poke Flute:
-- Fly Menu:
-	- Swap slot 2 with TM07
-	- Use super repel
-	- Teach TM48 (Rock Slide) to nidoking over BB (slot 1)
-	- Teach TM07 (HD) to nidoking over HA (slot 2)
-	- Swap slot 3 with X Accuracy
-	- Teach HM02 (fly) to pidgey
-	- Fly to Lavender (down 3)
+- Lavender Rival: X Acc + Drill x5
+	> If 26-39 on 15 special, 26-37 on 14 special, or 27-39 on 13 special: TB Fearow and X Acc Magnemite
+- Skip Hidden Tower Elixir(Pick it up with Vape)
+- Ghost: Use Poke Doll
+   J&J: X Acc + Drill x3
  
-- Walk to Pokemon Tower
- 
-- Lavender Rival:
-	- X Acc + HD x5
-	> If 26-39 hp on 15 special, 26-37 hp on 14 special, or 27-39 hp on 13 special, then TB Fearow and X Acc on Magnemite
- 
-- Channeler 1:
-	- Rock Slide x2
- 
-- Pick up the [overworld elixer](https://gunnermaniac.com/pokeworld?map=145#12/10)
-- Pick up the [hidden elixer](https://gunnermaniac.com/pokeworld?map=146#4/12)
-- Take heal pad
- 
-- Channeler 2:
-	- Rock Slide
- 
-- Channeler 3:
-	- Rock Slide
- 
-- Pick up rare candy in your way
-- Trigger Ghost Encounterhttps://youtu.be/2KRStM8qKb0
-	- Swap slot 2 with Super Repels
-	- Use Poke Doll
- 
-- Rocket:
-	- X Acc + HD x3
- 
-- Talk to Old Man twice
-- Get the Poke Flute
- 
-## Silph Co.:
-- Walk outside, fly to Celadon (1 down)
-- Take Center
-- Bike right to Silph Co.
-- Take Elevator to 10F
- 
-- EQ Rocket:
-	- X Acc + HD
- 
-- Pick up TM26 (EQ), Rare Candy, Carbos
- 
-- EQ Menu:
-	- Swap slot 4 with TM26
-	- Use Carbos on nidoking
-	- Teach TM26 (EQ) to nidoking over Rock Slide (slot 1)
- 
-- Arbok:
-	- EQ
-	> You should be lvl 34 after this fight, if not you have done something very wrong
- 
-- Get Card Key
- 
-- X Speed Menu:
-	- Swap slot 4 with X Speeds
-	- Use two rare candies on nidoking
- 
-- Silph Rival:
-	- X Acc + HD
-	- HD
-	- EQ
-	- EQ
-	- EQ
- 
-- Talk to the guy and get Lapras (don't nickname)
- 
-- Rocket:
-	- EQ x3
- 
-- Giovanni 1:
-	- EQ
-	- EQ (+TB)
-	- X Acc + HD
-	- HD
- 
-- Dig out of Silph
- 
-## Safari Zone:
-- Bike left to Snorlax, open menu right in front of him
- 
-- Snorlax Menu:
-	- Use super repel
-	- Use elixir on nidoking
-	- (super potion less than 72 hp, but don't heal if in redbar or 72+ hp)
-	- Use Poke Flute
- 
-- Go into Cycling Road
-- Pick up hidden rare candy: https://gunnermaniac.com/pokeworld?map=1#125/148
-	- The candy is even with 3rd flower formation on the left side of the screen
-- Bike into Safari Zone
- 
-- Super Repel immediately after entering, then get on bike
-- Pick up Full Restore: https://gunnermaniac.com/pokeworld?map=217#21/10
-- Use another super repel in 3rd area
-- Pick up Gold Teeth: https://gunnermaniac.com/pokeworld?map=219#19/7
-- Walk into the house and get HM03 (surf)
-- Walk outside, then Dig
- 
-## Sabrina:
-- Bike to Sabrina's Gym (don't fly to Saffron)
-- Teleporter Pattern: Top Left, Bottom Left, Bottom Left
- 
-- Sabrina:
-	- X Acc + X Speed + EQ
-	- EQ
-	- HD
- 
-## Koga:
-- Walk onto the teleporter, then Dig out (it has a faster animation this way)
-- Fly to Fuchsia (down 2)
-- Bike to Gym
- 
-- Juggler:
-	- EQ
-	- Thrash
- 
-- Juggler 2:
-	- EQ
-	- EQ + TB (EQ x2 if TB is disabled)
- 
-- Heal to 64+ hp
- 
-- Koga:
-	- X Acc + HD
-	- X Speed + HD
-	- HD
-	- HD
-	> If put to sleep after X Acc, then X Speed followed by Full Restore/Poke Flute
- 
-    > Psychic (first): 34-40 (64-76 crit); 35-42 (66-78) with 13 DV
-    
-    > Psychic (second): 37-44; 39-46 with 13 DV
-    
-    > Psybeam (second): 27-32; 28-34 with 13 DV
-    
-    > Venomoth Leech Life: 22-26 (20-24 with badge boost)
-    
-    > Venomoth Psychic: 83-98
- 
-	> (Yolo Strat) X Speed on Venomoth if Psychic and Psybeam both kill you and you can tank Leech Life
- 
-## Blaine:
-- Walk out of Koga's Gym
-- Bike to Old Man's House
-- Talk to Old Man to get HM04 (Strength)
-- Walk outside
- 
-- Fuchsia Menu:
-	- Use super repel
-	- Use Elixir on nidoking
-	- (Use Full Restore if less than 69 hp)
-	- Teach TM13 (IB) over Thrash (slot 4)
-	- Swap slot 6 with X Attacks
-	- Teach HM04 (Strength) to Lapras
-	- Teach HM03 (Surf) to Lapras
-	- Rare Candy nidoking (DO NOT RARE CANDY LAPRAS)
-	- Fly to Pallet (down 0)
- 
-- Walk to top of water, use Surf
-- Surf to Cinnabar
-- Walk into mansion
- 
-- Super Repel one step after entering
-- Pick up Carbos: https://gunnermaniac.com/pokeworld?map=165#18/21
-- Pick up Secret Key: https://gunnermaniac.com/pokeworld?map=216#5/13
+SILPH CO.
+ Take the elevator to 10F
+- Rocket: X Acc + Drill
+- Pick up Tm26 and Rare Candy
+EQ Menu: Swap slot 4 for X Speed then teach Tm26 in slot 1
+- Arbok- EQ
+- Silph Rival: X Acc + X Speed, Drill x2, EQ x3
+	> (If Vape: Drill, EQ x3, Drill)
+    > Slash: 48-57 with 14/15 DV, 49-58 with 13 DV
+    > Setup X Speed on Magneton if Slash kills
+    > Can yolo X Speed on Kadabra to try and get red bar
+    > Confusion: 57-68
+    > Psybeam: 73-86
+- Get Lapras
+- Jesse & James: EQ x3
+- Giovanni 1: EQ, X Acc + X Speed, Drill, BB, Drill
+	> Can setup on Nidorino if low on HP
+	> Pay Day: 13-16(12-15 with badge boost)
+    > Bite- 18-22 14/15DV, 20-24 13DV(17-20 with badge boost)
 - Dig out
  
-- Fly to Cinnabar (down 2)
-- Bike to Blaine's Gym
-- Answers to Questions: ABBBAB (A button answers yes, B button answers no)
+CELADON CITY
+- Snorlax menu:
+    > Use a Super Repel
+    > Swap Slot 6 for X Special
+    > Use Poke Flute
  
-- Blaine:
-	- EQ
-	- X Attack + EQ
-	- EQ (+EQ)
-	> Blaine winrate at various hp totals here: https://pastebin.com/p9m4vdx6
-  
-	> If you are yoloing Blaine at low hp then X Attack on Ninetales is better
-  
-	> If you get growled by Rapidash, then EQ and hope to crit Arcanine
+SAFARI ZONE
+- After entering
+    > Use a Super Repel
+    > Elixir
+    > 1-2 HP Potion 3-34 HP Early Erika then Sabrina(Check Pastebin), 35-75 Super Potion, 76+ Dont Heal
+    > Teach Ice Beam in slot 4
+    > Bike
+- In Room 3 before turning up: Super Repel
+- Get the Full Restore
+- Dig out, then fly to Fuschia OR Do Early Erika then Sabrina(Only do this if you got red bar after Erika)
  
-## Erika:
-- Dig out of gym
-- Bike to Erika
+FUSCHIA CITY
+- Bike to Gym
  
-- Beauty:
-	- IB
+FUCHSIA GYM
+- Juggler 1: EQ x4
+- If you did Early Erika and Early Sabrina, Heal and use 2 Rare Candy
+- IF healing before Koga use Full Restore then use 2 Rare Candy as well
+- Koga: X Acc + Drill, X Speed + Drill, Drill, Drill
+	> Use https://pastebin.com/MRLfaK22 for decision making on this fight
  
-- Erika:
-	- IB x3
+FUCHSIA CITY
+- Get Strength, then Fly to Saffron and go right side both times
  
-## Giovanni:
-- Walk out of gym
-- Fly to Viridian (up 1)
-- Bike to Giovanni's Gym
+SAFFRON GYM
+- Sabrina: X Acc, X Speed, EQ x2, Drill
+- Dig out, then Bike to Erika(Take the Center and skip Mom Heal if you cannot tank an Erika hit)
  
-- Cooltrainer:
-	- IB
+CELADON GYM
+- Beauty: IB
+- If 6-11 HP, use 2 Rare Candy
+- Erika: IB(IB), EQ, EQ
+	> Use an X Spec if it lets you tank a hit from Tangela
+(Damage rolls are for level 40)
+     > Vine Whip: 12-15 with 13/14 DV, 11-13 with 15DV(8-10 with X Spec)
+     > Mega Drain: 13-16(10-12 if X Spec)
+     > Gloom is 70% with 13/14 and 80% with 15DV at L41, 100% if L43
+- After exiting, Fly to Pallet
  
-- Blackbelt:
-	- X Attack + EQ x3
-	> If you used an extra EQ at any time since after Koga (growl on blaine or gen 1 miss), then instead do X Attack, EQ, IB x2, EQ
-  
-	> Risky backup strat for if you used an extra EQ: set up both X Items on Gio's Dugtrio and Drill
+PALLET TOWN
+- Take Mom heal
+- Walk to bottom of water:
+    > Use a Super Repel
+    > Teach Strength to Lapras
+    > Teach Surf to Lapras
+    > Use 3 Rare Candy on Nidoking
+    > Use Surf
  
-- Walk out of gym, then back in to reset Blackbelt's position
-- Heal to 106+ hp
+CINNABAR MANSION
+- Do what this video does with Repel https://streamable.com/nvym8o
+    > Use a Repel
+- Pick up Mansion Candy
+- Get the Secret Key, then Dig out and Fly to Cinnabar
  
-- Giovanni:
-	- X Speed + EQ
-	- X Acc + HD
-	- HD
-	- HD
-	- HD
-	> If Dugtrio uses Dig, then X Acc + HD Dugtrio
-  
-	> EQ/Dig: 96-110
+CINNABAR GYM
+- Blaine: EQ, X Attack, EQ, EQ(EQ or IB)
+- Dig out, then fly to Viridian
  
-## Victory Road:
-- Walk out of Giovanni's Gym
+VIRIDIAN CITY
+- If you need to heal for Giovanni use Super Potion then Bike
+- If you have Red Bar delay your heal
  
-- Viridian Menu:
-	- Use Super Repel
-	- (Heal to 60+ hp)
-	- Swap slot 6 with X Specials
-	- Use Carbos on nidoking
-	- Use Bike
+VIRIDIAN GYM
+- Cooltrainer: IB
+- Blackbelt: X Spec, EQ(IB), IB, EQ(IB)
+    > If Leer then IB x3
+- Heal to survive EQ/Dig
+- Giovanni 2: X Speed + EQ, X Acc + Drill x4
+    > If dig then use X Acc and HD Dugtrio
+    > EQ/Dig: 93-110(97-114 with 13 Special)
+    > Slash: 74-87
  
-- Bike left towards Victory Road
+VIRIDIAN CITY
+- Super Repel
+- Heal to ~60 HP
+- (Elixir if Vape)
+- Bike
  
-- Viridian Rival
-	- X Special + IB
-	- IB
-	- TB
-	- EQ
-	- EQ
-	- EQ
+ROUTE 22
+- Viridian Rival: X Spec, IB, IB, TB, EQ, EQ, EQ
+  (If Vape: X Acc, Drill x5, EQ KADABRA)
+    > Slash: 51-61 (52-62 with 9-10 DV)
+    > Swift: 18-22 if 15DV, 19-23 otherwise
+    > Fury Swipes: 6-8
  
-- Bike and Surf to Victory Road
-- Pick up Max Ether if 96+ hp (while still surfing): https://gunnermaniac.com/pokeworld?map=1#8/116
-- Use Super Repel and Bike after finished surfing
-- Use Strength once entering Victory Road
-- Use Super Repel and Strength in 2nd Room right next to the boulder
-- Use Strength in 3rd room
-- Use Strength, Super Repel, and Bike in 4th room (also Elixir if you picked up Max Ether)
-- Pick up hidden Full Restore if only have 1: https://gunnermaniac.com/pokeworld?map=194#26/7
-- Bike into Indigo Plateau
+- If you have 96+ HP, Elixir on the first Bike Menu and pick up the hidden Max Ether
  
-## Elite Four:
-- Deposit all pokes except nidoking
-- Center unless you are 96+ hp and picked up Max Ether
-- If you have no Full Restores or want to play it safe, then buy some Full Restores
+Victory Road with Vape
+- Yolo 2 tiles before victory road
+- Super Repel after entering and in Room 3
  
-- Lorelei
-	- X Acc + HD x5
-	> If you get Bubblebeam speedfall, then X Speed before using HD
+INDIGO PLATEAU
+- Deposit all 3 slaves
+- Take center if you didn't Elixir
  
-- Use Elixir (Max Ether HD instead if you picked it up)
+ELITE FOUR
+- Lorelei: X Acc, (X Speed), Drill x5
+    > Bubblebeam/Aurora Beam: 81-96
+    > X Speed if Speedfall
  
-- Bruno:
-	- IB
-	- X Acc + HD
-	- HD
-	- IB
-	- HD
-	> Ice Punch: 28-34 (30-36 with 13 DV)
-  
-    > Fire Punch: 14-17 (15-18 with 13 DV)
+- Use Elixir
+    > If center skip then Swap Bike for Rare Candy then use Max Ether on Horn Drill, DONT CANDY
+    > If Lorelei speedfall, Use Elixir and use Candy and do this Agatha: X Spec, EQ(IB if Substitute), IB(IB), EQ x3
  
-- Heal if less than 40 hp or you want to play it safe (although it's still kinda risky because of paralysis and running out of healing)
+- Bruno: IB, X Acc, Drill, Drill, IB, Drill
+    > Ice Punch: 28-34 (30-36 with 13 DV)
+    > Fire Punch: 14-17
  
-- Agatha:
-	- X Speed + EQ
-	- IB x2
-	- EQ
-	- EQ
-	- EQ
-	> If you are somehow out of X Speeds, then EQ Gengar and X Special on Golbat
-  
-	> If you get lick paralyzed then Full Restore immediately (no need to X Speed again)
+Heal for Agatha if <38HP
  
-- Heal to Full
+- Agatha: X Speed, EQ, IB x2, EQ, EQ, EQ
+    > If Lick Para, Full restore on Golbat(youll get your speed back after killing arbok)
+    > If substitute use EQ
+    > Mega Drain: 15-18
+    > Lick: 10-12
+    > Wing Attack: 17-21 if 15DV. 18-22 otherwise
+    > Leech Life: 15-18
  
-- Lance:
-	- X Special + TB
-	- X Special + IB
-	- IB
-	- IB
-	- IB
-	> If 36-48 hp after gyarados, then use the second X Special on the second Dragonair instead of the first one
-  
-	> if less than 36 hp or want to be safe, then Full Restore on first Dragonair, then X Special
+Full Restore + Candy for Lance
  
-    > Hydro Pump: 108-128 (112-132 with 13-14 DV)
-    
-    > Hyper Beam: 44-52 (45-53 with 9-10 DV)
-    
-    > Slam: 24-29
+- Lance: X Special + TB, X Special/Attack + IB x4
+	Check HP Strats for this fight
+    > Hydro Pump: 108-128
+    > Hyper Beam: 44-52
+    > Ice Beam: 35-42 with 14-15 DV, 37-44 with 13 DV (30-36 at +2)
+    > Bubblebeam: 25-30 (25-30 at +2)
  
-- Heal to survive Sandslash EQ
  
-- Champ
-	- X Special + IB
-	- EQ
-	- X Acc + HD
-	- EQ
-	- HD
-	- EQ
-    > Poke Flute if put to sleep (Exeggutor cannot deal any damage to you)
-    
-    > EQ: 134-158 (137-162 with 9 DV)
+Heal to tank EQ
+ 
+- Champion: X Spec, IB, EQ, X Acc, Drill, EQ, Drill, EQ
+  (If Vape: X Spec, IB, EQ, X Acc, Drill, EQ, EQ, Drill)
+    > EQ: 132-156, 134-158 if 13 Special
+    > Ninetales QA: 16-19
+    > Magneton is an 89% range with Vaporeon
+YOLO STRAT- Dont heal pre fight, IB, if you freeze then setup x acc + x spec, if you crit then EQ alakazam hoping for kinesis and dont setup x special at all
