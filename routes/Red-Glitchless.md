@@ -16,7 +16,9 @@ Route 1
 Viridian Mart
 - Buy 3 Poke Balls
 
-Do Triple Extended Manip: https://pastebin.com/ApTUFBQ3
+Do [Nido Manip](/resources/red/nido-manip.md)
+
+Do [Triple Extended Manip](https://pastebin.com/ApTUFBQ3)
 
 **BROCK SPLIT**
 
