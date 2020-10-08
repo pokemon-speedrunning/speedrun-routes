@@ -1,6 +1,6 @@
 # Pokemon Yellow Glitchless Route
 
-[Nido Manip](/resources/yellow/nido-manip.md)
+[Nido Manip](/resources/nido-manip.md)
 
 [Pidgey Manip](https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDADDDLLLLAUUALU) and [Forest No Encounters](https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDDDADLLLLUULUU)
 
