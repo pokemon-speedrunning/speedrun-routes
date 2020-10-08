@@ -693,19 +693,13 @@ Machoke       | Karate Chop    | Low Kick
 ------------- | -------------- | --------------
 &nbsp;        | 12-15 [25-30]  | 9-11 [18-22]
 
-**Giovanni** TODO: do we really need dig damage?
+**Giovanni**
 <table>
 <tr><td>
 
 Rhyhorn       | Horn Attack/Stomp | Fury Attack
 ------------- | ----------------- | --------------
 &nbsp;        | 18-22 [39-46]     | 5-6 [10-12]
-
-</td><td>
-
-Dugtrio       | Dig
-------------- | --------------
-&nbsp;        | 68-80 [144-170]
 
 </td><td>
 
@@ -717,27 +711,11 @@ Nidoking      | Thrash        | Horn Attack    | Tackle
 
 ### Lorelei
 
-**Viridian Rival** TODO: these ranges are useless, Rhyhorn would be more useful
-<table>
-<tr><td>
-
-Gyarados      | Hydro Pump*
-------------- | --------------
-&nbsp;        | 103-122 [241-284]
-
-</td><td>
-
-Alakazam      | Psychic           | Psybeam
-------------- | ----------------- | --------------
-&nbsp;        | 134-158 [282-332] | 98-116 [205-242]
-
-</td><td>
+**Viridian Rival** TODO: add Rhyhorn ranges?
 
 Venusaur      | Razor Leaf    | Vine Whip   
 ------------- | ------------- | --------------
 &nbsp;        | 18-22 [74-87] | 12-15 [46-55]
-
-</td></tr> </table>
 
 **Lorelei**
 
