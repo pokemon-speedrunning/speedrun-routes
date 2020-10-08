@@ -19,7 +19,7 @@ Watch this video on if you’re a beginner to this speedrun or want to learn the
 Download this RNG Manipulation Program and set these options if you’re just starting out. Set these options instead once you learn the game well enough.
 To help calculate offset for Flowtimer use this website starting /w 0 Offset
 If on Nintendo DS change “$scope.fpses = [59.7275]” to “$scope.fpses = [59.7275, 59.5666]” 
-Pokemon LeafGreen has a version exclusive cut slave (Sandshrew) if you miss out on one in Route 1. Otherwise the version difference does not matter.
+Pokemon LeafGreen has a version exclusive cut friend (Sandshrew) if you miss out on one in Route 1. Otherwise the version difference does not matter.
 The first 6 steps on normal grass, 7 steps in Viridian Forest, and 8 Steps in Mt.Moon are a 1% chance to get an encounter. This 1% 6/7/8 rule restarts after every brand new encounter.
 Recommend avoiding 28 Special Attack unless really good stats
 
@@ -196,7 +196,7 @@ Bug Catcher James:
 	Metapod: Water Gun* (x2)				27-31 Ties at -2
 
 If you didn’t catch Pidgey on route 1, catch a Spearow/Pidgey now in the grass below the lass (Bubble to weaken, Tackle if in torrent)
-If no HM Slaves, can catch Nidoran F/M for Cut + Strength
+If no HM Friends, can catch Nidoran F/M for Cut + Strength
 Can Bag Manip the Lass for a free pass
 
 Grab this Persim Berry if 28-29 SPA or the chart below says to “Grab Persim” ←--
@@ -320,7 +320,7 @@ If poisoned on Koffing, Antidote immediately if you need a Rat/Shrew/Paras, othe
 ROUTE 4
 Talk to the Karate Man on the right and teach Mega Kick over Withdraw (Slot 4)
 
-If no cut slave, catch a Sandshrew/Rattata in the grass (Tackle to weaken)
+If no cut friend, catch a Sandshrew/Rattata in the grass (Tackle to weaken)
 Can teach Strength to Sandshrew later if caught
 If you die to Rat/Shrew using a Rare Candy will revive Wartortle
 
@@ -1166,7 +1166,7 @@ Teach Strength over Water Pulse if you don’t have a Sandshrew
 Every trainer here is an optional trainer, so avoid them all
 
 INDIGO PLATEAU
-Box heal and deposit slaves (from “Move” menu)
+Box heal and deposit poke friends (from “Move” menu)
 
 Buy max Full Restores (vv)
 
