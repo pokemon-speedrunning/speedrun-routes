@@ -1,19 +1,48 @@
-# FFEF Defensive ranges
-## (MP - IT - Blizzard - Agatha Candy)
+# Red Glitchless Defensive Ranges
+## MP - IT - Blizzard - Agatha Candy Route
 ### Notes:
  - `move`* denotes a badge boost, `move`** denotes 2, etc.
  - `move`@-1 denotes a defensive stat drop, `move`@-2 denotes 2, etc.
  - [`rolls`] denotes a critical hit
    - Note : there are no [`rolls`] for stat changes because critical hits ignore all of them
  - All rolls include 1/39 max roll
- - Acronyms :
-   - Poison Sting : Poison Sting
-   - Quick Attack : Quick Attack
-   - LL : Leech Life
-   - HP : Hydro Pump
-   - HA : Horn Attack
-   - Hurt Self : hurting self in confusion
 
+## Squirtle
+
+**Rival** (this is not accurate, needs to be fixed)
+
+Bulbasaur    | Tackle
+------------ | -------------
+&nbsp;       | 2-3 [3-5]
+
+**Weedle Guy** (this is not accurate, needs to be fixed)
+
+Weedle       | Poison Sting
+------------ | -------------
+&nbsp;       | 2-3 [3-5]
+
+**Brock**
+<table>
+<tr><td>
+
+Geodude      | Tackle
+------------ | -------------
+15 Defense   | 7-9 [12-15]
+16 Defense   | 6-8 [11-14]
+17 Defense   | 6-8 [11-13]
+
+</td><td>
+
+Onix         | Tackle        | @-2          | @-4
+------------ | ------------- | ------------ | -------------
+16 Defense   | 6-8 [11-13]   | 11-14        | 17-21
+17 Defense   | 5-7 [10-12]   | 11-14        | 17-21
+18 Defense   | 5-7 [10-12]   | 10-12        | 17-21
+19 Defense   | 5-7 [10-12]   | 10-12        | 15-18
+
+</td></tr> </table>
+
+## FFEF NidoranM
 ### Route 3
 
 **Bug Catcher 1**:
@@ -76,6 +105,26 @@ L9 Caterpie  | Tackle
 
 </td></tr> </table>
 
+**[OPTIONAL] Lass**:
+<table>
+<tr><td>
+
+L10 Rattata  | Quick Attack  | Tackle
+------------ | ------------- | ------------
+&nbsp;       | 7-9 [11-13]   | 5-7 [10-12]
+@-1          | 11-13         | 10-12
+@-2          | 13-16         | 12-15
+
+</td><td>
+
+L10 Nidoran  | Horn Attack   | Tackle
+------------ | ------------- | ------------
+&nbsp;       | 7-9 [11-14]   | 4 [6-8]
+@-1          | 11-13         | 6-8
+@-2          | 14-17         | 8-10
+
+</td></tr> </table>
+
 **Bug Catcher 3**:
 L11 Caterpie | Tackle
 ------------ | -------------
@@ -102,6 +151,10 @@ L13 Zubat    | Leech Life    | Confused
 @-2          | 11-14         | 21
 
 </td></tr> </table>
+
+Shall we add another Moon rocket table but with Nidoking instead? for Lass strat
+
+## FFEF Nidoking
 
 **Nerd**:
 <table>
@@ -157,13 +210,13 @@ L17 Bulbasaur | Vine Whip     | Leech Seed
 
 L14 Caterpie | Tackle
 ------------ | -------------
-&nbsp;      | 2-3 [4-5]
+&nbsp;       | 2-3 [4-5]
 
 </td><td>
 
-L14 Weedle | Poison Sting
+L14 Weedle   | Poison Sting
 ------------ | -------------
-&nbsp; | 0-1 [0-1]
+&nbsp;       | 0-1 [0-1]
 
 </td></tr> </table>
 
@@ -171,15 +224,15 @@ L14 Weedle | Poison Sting
 <table>
 <tr><td>
 
-L14 Pidgey | Gust/Quick Attack
+L14 Pidgey   | Gust/Quick Attack
 ------------ | -------------
-&nbsp; | 5-6 [8-10]
+&nbsp;       | 5-6 [8-10]
 
 </td><td>
 
-L14 NidoranF | Scratch | Tackle | Poison Sting
+L14 NidoranF | Scratch       | Tackle       | Poison Sting
 ------------ | ------------- | ------------ | -------------
-&nbsp;  | 3-4 [5-7] | 3-4 [5-6] | 1-2 [1-2]
+&nbsp;       | 3-4 [5-7]     | 3-4 [5-6]    | 1-2 [1-2]
 
 </td></tr> </table>
 
@@ -187,21 +240,21 @@ L14 NidoranF | Scratch | Tackle | Poison Sting
 <table>
 <tr><td>
 
-L14 Rattata | Quick Attack | Hyper Fang
+L14 Rattata  | Quick Attack  | Hyper Fang
 ------------ | ------------- | -------------
-&nbsp; | 5-7 [8-10] | 10-12 [16-19]
+&nbsp;       | 5-7 [8-10]    | 10-12 [16-19]
 
 </td><td>
 
-L14 Ekans | Wrap
+L14 Ekans    | Wrap
 ------------ | -------------
-&nbsp; | 2-3 [3-4]
+&nbsp;       | 2-3 [3-4]
 
 </td><td>
 
-L14 Zubat | Leech Life
+L14 Zubat    | Leech Life
 ------------ | -------------
-&nbsp; | 5-6 [6-8]
+&nbsp;       | 5-6 [6-8]
 
 
 </td></tr> </table>
@@ -210,9 +263,9 @@ L14 Zubat | Leech Life
 <table>
 <tr><td>
 
-L16 Pidgey | Gust/Quick Attack
+L16 Pidgey   | Gust/Quick Attack
 ------------ | -------------
-&nbsp; |5-7 [8-10]
+&nbsp;       |5-7 [8-10]
 
 </td></tr>
 
@@ -220,47 +273,101 @@ L16 NidoranF | Scratch      | Tackle       | Poison Sting
 ------------ | -------------| ------------ | -------------
 &nbsp;       | 4-5 [5-7]    | 3-4 [5-7]    | 1-2 [1-2]
 
-  * L18 Mankey | Karate Chop
-    ------------ | -------------
-    7-9 | [12-15]
-    &nbsp; | **Scratch**
-    6-8 | [11-13]
+</td></tr> </table>
 
-  * L15 Ekans | Wrap
-    ------------ | -------------
-    2-3 | [3-4]
+**Mankey Guy**
 
-  * L15 Zubat | Leech Life
-    ------------ | -------------
-    5-6 | [6-8]
-    &nbsp; | **Bite**
-    5-6 | [8-10]
+L18 Mankey   | Karate Chop   | Scratch
+------------ | ------------- | -------------
+&nbsp;       | 7-9 [12-15]   | 6-8 [11-13]
+
+**Bridge Rocket**    
+<table>
+<tr><td>
+
+L15 Ekans    | Wrap
+------------ | -------------
+&nbsp;       | 2-3 [3-4]
+
+</td></tr>
+
+L15 Zubat    | Leech Life    | Bite
+------------ | ------------- | -------------
+&nbsp;       | 5-6 [6-8]     | 5-6 [8-10]
+
+</td></tr> </table>
 
 ### Misty
 
-L21 Nidoking        L15 NidoranM        Horn Attack     5-7 [9-11]
-                                        Tackle          3-4 [5-7]
-                    L15 NidoranF        Scratch         3-4 [5-7]
-                                        Tackle          3-4 [5-6]
+**Female Jr. Trainer**
+<table>
+<tr><td>
 
-L22 Nidoking        L13 Machop          Karate Chop     5-6 [7-9]
+L15 NidoranM | Horn Attack   | Tackle
+------------ | ------------- | -------------
+&nbsp;       | 5-7 [9-11]    |  3-4 [5-7]
 
-                    L13 Oddish          Absorb          3-4 [5-6]
-                    L13 Pidgey          Quick Attack              5-6 [5-7]
+</td></tr>
 
-L24 Nidoking        L17 Machop          Karate Chop     5-7 [10-12]
-                    L17 Drowzee         Confusion       20-24 [32-38]
-                                        Pound           3-4 [5-7]
+L15 NidoranF | Scratch       | Tackle
+------------ | ------------- | -------------
+&nbsp;       | 3-4 [5-7]     | 3-4 [5-6]
 
-                    L19 Goldeen         Peck            4-5 [7-9]
-                                        Confused            13
+</td></tr> </table>
 
-L25 Nidoking        L21 Starmie         BubbleBeam      35-42 [61-72]
-                                        Water Gun       22-26 [37-44]
+**Hiker 2**
+
+L13 Machop   | Karate Chop     
+------------ | -------------
+&nbsp;       | 5-6 [7-9]
+
+**Female Jr. Trainer 2**
+<table>
+<tr><td>
+
+L13 Oddish   | Absorb    
+------------ | -------------
+&nbsp;       | 3-4 [5-6]
+
+</td></tr>
+
+L13 Pidgey   | Quick Attack
+------------ | -------------
+&nbsp;       | 5-6 [5-7]
+
+</td></tr> </table>
+
+**Dig Rocket**
+<table>
+<tr><td>
+
+L17 Machop   | Karate Chop
+------------ | -------------
+&nbsp;       | 5-7 [10-12]
+
+</td></tr>
+
+L17 Drowzee  | Confusion     | Pound
+------------ | ------------- | -------------
+&nbsp;       | 20-24 [32-38] | 3-4 [5-7]
+
+</td></tr> </table>
+
+**Female Jr. Trainer**
+
+L19 Goldeen  | Peck          | Confused
+------------ | ------------- | -------------
+&nbsp;       | 4-5 [7-9]     | 13           
+
+**Misty**
+
+L21 Starmie  | BubbleBeam    | Water Gun  
+------------ | ------------- | -------------
+&nbsp;       |35-42 [61-72]  | 22-26 [37-44]
 
 ### Surge
 
-L25 Nidoking        L16 Pidgey          Quick Attack              5-6 [7-9]
+L16 Pidgey          Quick Attack              5-6 [7-9]
 
                     L16 Raticate        Quick Attack              5-7 [10-12]
 
