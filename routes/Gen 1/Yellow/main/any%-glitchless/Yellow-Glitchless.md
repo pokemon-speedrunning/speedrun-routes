@@ -1,18 +1,16 @@
 # Pokemon Yellow Glitchless Route
 
-[Nido Manip](/resources/nido-manip.md)
+- ## Manip Quick Reference
+  - [Nido Manip](resources/nido-manip.md)
+  - [Pidgey Manip](https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDADDDLLLLAUUALU) and [Forest No Encounters](https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDDDADLLLLUULUU)
+  - [Moon Manip](https://imgur.com/a/DAvE14v)
 
-[Pidgey Manip](https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDADDDLLLLAUUALU) and [Forest No Encounters](https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDDDADLLLLUULUU)
+- Koga, Early Erika and Rhyhorn [HP Strats](https://pastebin.com/MRLfaK22)
+- [Defensive Ranges](https://pastebin.com/prGV3ieu)
 
-[Moon Manip](https://imgur.com/a/DAvE14v)
-
-Koga, Early Erika and Rhyhorn [HP Strats](https://pastebin.com/MRLfaK22)
-
-[Defensive Ranges](https://pastebin.com/prGV3ieu)
- 
 **All damage ranges in these notes include 1/39**
 
-Before New Game:
+## Before New Game:
 - Set Options to Fast Text, Battle Animations Off, Battle Style Set
  
 ## Intro
@@ -43,9 +41,14 @@ Before New Game:
 - Take note of how much hp nido has
   - 22 at 6 -> 27 at 8 is RESET
   - 23 at 6 -> 30 at 9 is RESET
-- Leer first Caterpie once, second Caterpie twice
+- ### BC 1:
+  - Caterpie: Leer x1, Tackle x4
+  - Caterpie: Leer x2, Tackle x3
 - Catch lvl 4 and 6 Pidgeys(HA to weaken)
 - Potion <11 HP right before second Bug Catcher
+- ### BC 2: 
+  - Caterpie: Leer x1, HA x2
+  - Metapod: Leer until -1 defense, spam HA (use tackle if it kills)
 - If you do not have a bird yet, do pidgey manip (MUST BUFFER SAVE):
   - [Map](https://gunnermaniac.com/pokeworld?map=51#13/13/UUUUUUUUULULLLLLDADDADDDDADLADDADDDDDDADDDLLLLAUUALU)
   - [Video](https://www.youtube.com/watch?v=de3p6yRKskU)
@@ -54,35 +57,149 @@ Before New Game:
 - Don't nickname pidgey
 - Buffer A after not nicknaming pidgey to pick up hidden potion (if you do this right the potion textbox will clear without a jingle)
 - Potion <12 HP before third Bug Catcher
-- HA last Caterpie if 21 HA
-- Heal for minion with <27 HP, do not heal if 15-17/32
+- ### BC 3:
+  - Caterpie: If you have 21 HA's left (only used 2 on metapod) HA x3 (+tackle)
+  - Otherwise, Leer + HA x2 (+tackle)
+- Heal to 27+ hp in the gatehouse unless you're 15-17/32 (toss the extra ball if you have it)
  
 ## Brock's Gym
-- Heal to 27+ hp in house after forest (toss the extra ball if you have it)
 - Walk into Brock's gym and fight the optional trainer
 
-- Light Year Guy:
-	- Leer, swap leer and HA with select, HA
-	- Leer x2 + HA x2
-- Brock:
-   - DK x2
-   - Leer x2, DK x2
-     - Leer doesn't go off if Onix uses bind, make sure you hit 2 leers
-     - If you get bide on turn 2 at less than 19 hp, then stall it out with 2 more leers
-     - DO NOT POTION DURING BIDE AFTER USING DK, BIDE IS SUPER BUGGED AND YOU WILL DIE
-     - Advanced onix strat: if 15-19 after one leer, then DK x3 (DK + leer + DK if you get bide)
+- ### Light Year Guy:
+  - Diglett: Leer, swap leer and HA with select, HA
+  - Sandshrew: Leer x2 + HA x2
+
+- Potion to 25+ before Brock
+
+- ### Brock:
+  - Geodude: DK x2
+  - Onix: Leer x2, DK x2
+    - Leer doesn't go off if Onix uses bind, make sure you hit 2 leers
+    - If you get bide on turn 2 at less than 19 hp, then stall it out with 2 more leers
+    - DO NOT POTION DURING BIDE AFTER USING DK, BIDE IS SUPER BUGGED AND YOU WILL DIE
+    - Advanced onix strat: if 15-19 after one leer, then DK x3 (DK + leer + DK if you get bide)
+
+## Route 3
+- Potion if below 4 hp
+
+- ### BC 1:
+  - Caterpie: HA x2
+  - Weedle: HA + tackle
+  - Caterpie: HA x2
+  > Always use tackle if it kills, DK almost never kills
  
-ROUTE 3
-- If you have 5 HAs left on third Caterpie, use Tackle+Tackle
-- Always DK the last Caterpie in red bar, always HA/Tackle in yellow bar
+- If you need to potion, do it during the Rattata fight
  
-NUGGET BRIDGE
-- Teach Thrash in slot 2
-- Swap Thrash to slot 1
+- ### Shorts Guy:
+  - Rattata: (potion if less than 9 hp) + DK
+  - Ekans: HA x2 (+DK)
  
+- ### BC 2:
+  - Weedle: HA (+DK)
+  - Kakuna: HA x2
+  - Caterpie: HA + DK
+  - Metapod: HA x2
+  > If you have 5 HA left at caterpie, then tackle x2(+DK) instead
+	
+  > Evolve to Nidorino after this fight (don't mash B!!)
+ 
+- ### BC 3:
+  - Caterpie: HA + tackle(caterpie in yellowbar)/DK(redbar)
+  - Metapod: HA x2
+ 
+- Walk around the lass in the grass
+- Walk into the center before moon entrance
+  - Deposit pikachu
+  - Heal at center
+- Enter Moon
+
+## Mt Moon
+- Perform Moon manip (BUFFER SAVE): https://pastebin.com/pspchdGU
+- Use moon stone on Nidorino
+ 
+- ### Super Nerd:
+  - Grimer: HA x2
+  - Voltorb: HA + DK
+  - Koffing: HA x2 (+DK)
+
+- ### Jessie and James:
+  - Ekans: HA x2
+  - Meowth: DK
+  - Koffing: HA x2 + HA/DK
+
+- Exit Moon
+
+## NUGGET BRIDGE
+- Walk to Cerulean
+- Pick up hidden rare candy: https://gunnermaniac.com/pokeworld?map=1#235/44
+- Walk to nugget bridge, start rival fight
+ 
+- ### Bridge Rival:
+  - Spearow: HA x2
+  - Sandshrew: HA x3-4 (DK if it kills)
+  - Rattata: DK
+  - Eevee: DK (x2)
+ 
+- ### Nugget 1:
+  - Caterpie: HA + DK
+  - Weedle: HA
+ 
+- ### Nugget 2:
+  - Pidgey: HA (+DK)
+  - NidoranF: HA x2
+> can DK NidoranF if at not maximum redbar
+ 
+- ### Nugget 3:
+  - Rattata: DK
+  - Ekans: HA (+DK)
+  - Zubat: HA
+ 
+- Rare Candy x2 nidoking
+- Teach Thrash over tackle (slot 2)
+- You can check which nido you have here:
+  - 47 def/48 spec is FBEF ("15 special")
+  - 47 def/47 spec is FAEE ("14 special")
+  - 46 def/47 spec is F9ED ("13 special")
+ 
+- ### Nugget 4:
+  - Pidgey: Swap HA and Thrash
+  - NidoranF: Thrash
+ 
+- ### Nugget 5:
+  - Mankey: Thrash
+ 
+- ### Nugget Rocket:
+  - Ekans: Thrash
+ 
+## Rt 25 - Bill's House
+- Get Charmander, don't nickname
+
+- ### Bottom Hiker:
+  - Onix: DK x2
+
+- ### Girlfriend:
+  - NidoM: Thrash
+
+- ### Boyfriend:
+  - Rattata: Thrash
+
+- ### Lass:
+  - Oddish: Thrash
+
+- Walk into Bill's house, go through cutscene
+- Walk back to Cerulean
+## Misty
+- Take Center
 - Delay center until after Misty if 48+ HP with 14/15 special, 53+ HP with 13 special
+- Walk into Misty's Gym
+
+- ### Jr Trainer:
+  - Goldeen: Thrash
  
-SURGE				
+- ### Misty:
+  - Staryu: Thrash (and pray)
+ 
+## SURGE				
 - Shopping: Sell TM34 and Nugget; buy 4 Repel
 - Boat:(Heal) Teach Bubblebeam in slot 3
   Boat Rival: HA, BB, BB, Swap BB with DK then use DK
