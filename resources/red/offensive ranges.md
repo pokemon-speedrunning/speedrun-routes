@@ -335,9 +335,22 @@ Thunderbolt	 | 41.0%         | 58.9%
 
 ### Silph
 
-L34 Nidoking	L33 Arbok		Thrash x2		(43.4%)
-								Thrash + Thrash*	(94.1%)
-///////////////////////// GIOVANNI /////////////////////////
-L47 Nidoking	L50 Rhydon		Blizzard			(46.1%)
+**Rocket 1**
 
-				L47 Pidgeot		Blizzard*			(58.9%)
+Arbok 	     | &nbsp;
+------------ | -------------
+Thrash x2    | 43.4%
+Thrash + Thrash* | 94.1%
+
+### Giovanni
+
+Rhydon 	     | &nbsp;
+------------ | -------------
+Blizzard     | 46.1%
+
+### Lorelei
+
+**Viridian Rival**
+Pidgeot	     | &nbsp;
+------------ | -------------
+Blizzard*    | 58.9% 
