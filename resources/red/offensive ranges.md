@@ -5,28 +5,60 @@
  - `move`@-1 denotes a defensive stat drop, `move`@-2 denotes 2, etc.
  - [`rolls`] denotes a critical hit
    - Note : there are no [`rolls`] for stat changes because critical hits ignore all of them
-------------------------------------------
-Notes :
- - <move>* denotes a badge boost, <move>** denotes 2, etc.
- - <move># denotes a critical hit
 
 ## Squirtle
 TODO: shall we add route1 encounter and weedle guy ranges?
 
+## FFEF NidoranM
+### Route 3
+**Bug Catcher 1** _TODO_ caterpie 2 is wrong
+<table>
+<tr><td>
 
-///////////////////////// ROUTE 3 /////////////////////////
-L8 NidoranM		L10 Caterpie	Leer + Horn Attack x2	(18.9%)
-								Leer + Horn Attack + Horn Attack*(78.4%)
-L9 NidoranM		L10 Weedle		Leer + Horn Attack x2	(100%)
-								Leer + Horn Attack + Tackle	(52.9%)
-								Leer + Horn Attack + Tackle*	(83.7%)
-L10 NidoranM	L10 Caterpie	Horn Attack x2		(100%)
+Caterpie     |
+------------ | ------------
+Leer + Horn Attack x2 |	18.9%
+Leer + Horn Attack + Horn Attack* | 78.4%
 
-L12 NidoranM	L9 Weedle		Horn Attack + Tackle		(57.1%)
-								Horn Attack + Tackle*		(86.5)
-				L9 Caterpie		Horn Attack + Tackle		(0%)
-								Horn Attack + Tackle*		(0.0%)
-L13 NidoranM	L11 Caterpie	Horn Attack x2		(100%)
+</td><td>
+
+Weedle       |
+------------ | -------------
+Leer + Horn Attack x2 |	100%
+Leer + Horn Attack + Tackle | 52.9%
+Leer + Horn Attack + Tackle* | 83.7%
+
+</td><td>
+
+Caterpie     |
+------------ | -------------
+Horn Attack x2| ~~100%~~
+
+</td></tr> </table>
+
+**Bug Catcher 2** _TODO_ caterpie 2 is wrong
+<table>
+<tr><td>
+
+Weedle       |
+------------ | -------------
+Horn Attack + Tackle | 57.1%
+Horn Attack + Tackle*| 86.5%
+
+</td><td>
+
+Caterpie     |
+------------ | -------------
+Horn Attack + Tackle | 0%
+Horn Attack + Tackle*| ~~0%~~
+
+</td></tr> </table>
+
+**Bug Catcher 3**
+
+Caterpie     |
+------------ | -------------
+Horn Attack x2 | 100%
 
 ///////////////////////// MT. MOON /////////////////////////
 L14 NidoranM	L13 Rattata		Horn Attack x2		(16.8%)
