@@ -1,16 +1,16 @@
-
+# Gold Any% Glitchles Route
  
 ## BEFORE STARTING
 
-**Useful Resources**
+### Useful Resources
 - [LID manip](https://youtu.be/1TDvAfAthVU) 
-- [LID frames](https://pastebin.com/8abgtnKP)
-- [Totodile manip](https://pastebin.com/GirxGiU9)
-- [Route 29 manip](https://pastebin.com/1GpQvrDK)
-- [Don manip](https://pastebin.com/7KdSvbZG)
-- [Sandshrew manip](https://pastebin.com/vuQixFYT)
+- [LID frames](resources/LID-frames.md)
+- [Totodile manip](resources/toto-manip.md)
+- [Route 29 manip](resources/route-29-manip.md)
+- [Don manip](resources/don-manip.md)
+- [Sandshrew manip](resources/sandshrew-manip.md)
 
-**Pre-Run**
+### Pre-Run
 - Do LID Manip
 - Start a timer and soft reset at the same time
 - Hit new game around 53.75 seconds and time all of the clock textboxes (confirm minutes between 1:00.50 and 1:01.50)
