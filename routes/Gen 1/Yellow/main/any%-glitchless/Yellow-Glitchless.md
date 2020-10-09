@@ -398,10 +398,10 @@
   - Drowzee: EQ
   - Kadabra: EQ
   - Drowzee: EQ
+- If you did Early Erika and Early Sabrina, Heal and use 2 Rare Candy
 - ### Juggler 2:
   - Drowzee: EQ
   - Hypno: EQ + TB (EQ x2 if TB is disabled)
-- If you did Early Erika and Early Sabrina, Heal and use 2 Rare Candy
 - IF healing before Koga use Full Restore then use 2 Rare Candy as well
 - ### Koga:
   - Venonat: X Acc + HD
