@@ -15,14 +15,14 @@ TODO: shall we add route1 encounter and weedle guy ranges?
 <table>
 <tr><td>
 
-Caterpie     |
+Caterpie     | &nbsp;
 ------------ | ------------
 Leer + Horn Attack x2 |	18.9%
 Leer + Horn Attack + Horn Attack* | 78.4%
 
 </td><td>
 
-Weedle       |
+Weedle       | &nbsp;
 ------------ | -------------
 Leer + Horn Attack x2 |	100%
 Leer + Horn Attack + Tackle | 52.9%
@@ -30,7 +30,7 @@ Leer + Horn Attack + Tackle* | 83.7%
 
 </td><td>
 
-Caterpie     |
+Caterpie     | &nbsp;
 ------------ | -------------
 Horn Attack x2| ~~100%~~
 
@@ -40,14 +40,14 @@ Horn Attack x2| ~~100%~~
 <table>
 <tr><td>
 
-Weedle       |
+Weedle       | &nbsp;
 ------------ | -------------
 Horn Attack + Tackle | 57.1%
 Horn Attack + Tackle*| 86.5%
 
 </td><td>
 
-Caterpie     |
+Caterpie     | &nbsp;
 ------------ | -------------
 Horn Attack + Tackle | 0%
 Horn Attack + Tackle*| ~~0%~~
@@ -56,7 +56,7 @@ Horn Attack + Tackle*| ~~0%~~
 
 **Bug Catcher 3**
 
-Caterpie     |
+Caterpie     | &nbsp;
 ------------ | -------------
 Horn Attack x2 | 100%
 
