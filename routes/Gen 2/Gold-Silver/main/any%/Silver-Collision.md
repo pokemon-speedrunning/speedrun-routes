@@ -1,52 +1,56 @@
-note: route only works on silver :^)
+## Disclaimer: This route only works on Silver. Gold would take twice as long for collision, so it isn't worth it.
 
-(format shamelessly copied from gifvex's crysany collision route)
 
-clear save data
+**Pre-Run**
 
-set fast text, get wStartSecond 0, no TID manip needed (can skip ss0 if not doing r29 manip)
+- Clear save data
 
-(also r29 manip doesn't exist yet so just ignore ss0)
+- Set fast text
+- If doing r29 manip, get wStartSecond 0 (currently r29 manip doesn't exist for Silver so ignore this)
+- TID manip is not needed
 
-name yourself "RRRRRRR" (left down spam A)
+**Run**
 
-IGT track #1 for frame 2-59 (just yolo this lol) 
+- Name yourself "RRRRRRR" (left->down->spam A)
 
-save on (5,3) facing right buffered
-  * https://i.imgur.com/FQhVN9N.png
-  * just buffer start after closing last elm textbox
-  * make sure to start a timer after hitting yes on save
+- IGT track #1 for frame 2-59 (you can probably use livesplit for this?)
 
-get cynda, no nickname
+- Save on (5,3) facing right buffered
+	* https://i.imgur.com/FQhVN9N.png
+	* Just buffer start after closing last elm textbox
+	* Make sure to start a timer after hitting yes on save
 
-IGT track #2 for frame -2 of previous IGT
-  * add ~35327 to timer
-  * if this is too hard to hit, you can wait another 59 frames (~36312 offset instead, also makes first igt have frames 1-59 work)
+- Get cynda, no nickname
 
-save on (2,4) facing down buffered
-  * https://i.imgur.com/GRIB3X7.png
-  * movement: https://gunnermaniac.com/pokeworld2?map=6149#5/3/LLLDS
+- IGT track #2 for frame -2 of previous IGT
+	* Add ~35327 to timer
+	* If this is too hard to hit, you can wait another 59 frames (~36312 offset instead, also makes first igt have frames 1-59 work)
 
-reset while saving in (0x288D, 0x2891)
-  * same timer as second igt
+- Save on (2,4) facing down buffered
+	* https://i.imgur.com/GRIB3X7.png
+	* movement: https://gunnermaniac.com/pokeworld2?map=6149#5/3/LLLDS
+
+- Reset while saving in (0x288D, 0x2891)
+  * Same timer as second igt
   * GBI - add ~2500
   * GBP/GSR - add ~1960
   * The window is ~1/16 of a millisecond, expect to fine tune your offsets
 
-manip no encounters?
+- Do r29 manip (doesn't exist yet so ignore this)
+- Cynda won't have any HP after collision, so you auto-win any wild encounter.
 
-name boxes on Pokemon Center 2F
+- Name boxes on Pokemon Center 1F
   * BOX 2: . (space) . n 'd 'v l
   * BOX 3: 'e * 2 H 'e ] 'd A
   * BOX 4: 'e g 'd n U 'e h 'd
   * BOX 5: 'v & 'e H 'd 'e [ 'd
   * BOX 6: p 'e d 2 'e 4 4
   * BOX 7: A 1
-  * asterisk in box 3 is the multiplication symbol
+  * Asterisk in box 3 is the multiplication symbol
 
-walk out of center
-take one step down (should stand here: https://gunnermaniac.com/pokeworld2?map=1#279/221)
-save
-type d0 grind
-take 1 step down, then press A to talk to Red
-end
+- Walk out of center
+- Take one step down (should stand here: https://gunnermaniac.com/pokeworld2?map=1#279/221)
+- Save
+- Type d0 grind (spam Down for grinding)
+- Take 1 step down, then press A to talk to Red
+- End
