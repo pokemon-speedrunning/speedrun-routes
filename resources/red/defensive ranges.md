@@ -1,5 +1,5 @@
 # Red Glitchless Defensive Ranges
-## MP - IT - Blizzard - Agatha Candy Route
+## **MP - IT - Blizzard - Agatha Candy** Route
 ### Notes:
  - `move`* denotes a badge boost, `move`** denotes 2, etc.
  - `move`@-1 denotes a defensive stat drop, `move`@-2 denotes 2, etc.
@@ -9,13 +9,13 @@
 
 ## Squirtle
 
-**Rival** TODO: this is not accurate, needs to be fixed
+**Rival** _TODO_: this is not accurate, needs to be fixed
 
 Bulbasaur    | Tackle
 ------------ | -------------
 &nbsp;       | 2-3 [3-5]
 
-**Weedle Guy** TODO: this is not accurate, needs to be fixed
+**Weedle Guy** _TODO_: this is not accurate, needs to be fixed
 
 Weedle       | Poison Sting
 ------------ | -------------
@@ -152,7 +152,7 @@ Zubat        | Leech Life    | Confused
 
 </td></tr> </table>
 
-TODO: Shall we add another Moon rocket table but with Nidoking instead? for Lass strat
+_TODO_: Shall we add another Moon rocket table but with Nidoking instead? for Lass strat
 
 ## FFEF Nidoking
 
@@ -534,7 +534,7 @@ Ivysaur       | Vine Whip
 
 </td></tr> </table>
 
-TODO: where are lick and selfhit ranges?
+_TODO_: where are lick and selfhit ranges?
 
 **Rocket 1**
 
@@ -573,7 +573,7 @@ Arbok         | Bite
 &nbsp;        | 13-16 [27-32]
 
 **Silph Rival** With gentleman candy, Nidoking will be 35 for Gyarados
-TODO: Growlithe stall?
+_TODO_: Growlithe stall?
 <table>
 <tr><td>
 
@@ -646,7 +646,7 @@ Hypno         | Confusion      | Headbutt
 
 </td></tr> </table>
 
-**Koga** TODO: add badge boost?
+**Koga** _TODO_: add badge boost?
 
 Weezing       | Self Destruct
 ------------- | --------------
@@ -669,7 +669,7 @@ Vileplume     | Petal Dance    | Mega Drain
 </td></tr> </table>
 
 ### Sabrina
-TODO:do we really need this? is Psywave range correct? iirc it can roll any number
+_TODO_:do we really need this? is Psywave range correct? iirc it can roll any number
 <table>
 <tr><td>
 
@@ -711,7 +711,7 @@ Nidoking      | Thrash        | Horn Attack    | Tackle
 
 ### Lorelei
 
-**Viridian Rival** TODO: add Rhyhorn ranges?
+**Viridian Rival** _TODO_: add Rhyhorn ranges?
 
 Venusaur      | Razor Leaf    | Vine Whip   
 ------------- | ------------- | --------------
@@ -731,7 +731,7 @@ Onix          | Slam          | Rock Throw     | Rage
 &nbsp;        | 17-20 [35-42] | 7-9 [17-20]    | 5-6 [10-12]
 
 ### Agatha
-TODO:wing attack without badge boost? is bite with badge boost or not?
+_TODO_:wing attack without badge boost? is bite with badge boost or not?
 <table>
 <tr><td>
 
@@ -754,7 +754,7 @@ Gyarados      | Hydro Pump@+1
 &nbsp;        | 108-128 [174-205]
 
 ### Champion
-TODO: Wing attack with badge boost
+_TODO_: Wing attack with badge boost
 <table>
 <tr><td>
 

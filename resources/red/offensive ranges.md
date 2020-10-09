@@ -1,13 +1,13 @@
 # Red Glitchless Offensive Ranges
-## MP - IT - Blizzard - Agatha Candy Route
+## **MP - IT - Blizzard - Agatha Candy** Route
 ### Notes:
  - `move`* denotes a badge boost, `move`** denotes 2, etc.
  - `move`@-1 denotes a defensive stat drop, `move`@-2 denotes 2, etc.
- - [`rolls`] denotes a critical hit
-   - Note : there are no [`rolls`] for stat changes because critical hits ignore all of them
+ - `move`# denotes a critical hit
+
 
 ## Squirtle
-TODO: shall we add route1 encounter and weedle guy ranges?
+_TODO_: shall we add route1 encounter and weedle guy ranges?
 
 ## FFEF NidoranM
 ### Route 3
@@ -60,87 +60,281 @@ Caterpie     | &nbsp;
 ------------ | -------------
 Horn Attack x2 | 100%
 
-///////////////////////// MT. MOON /////////////////////////
-L14 NidoranM	L13 Rattata		Horn Attack x2		(16.8%)
-								Horn Attack + Horn Attack*	(75.0%)
-								Leer + Horn Attack + Tackle	(100%)
-				L13 Zubat		Leer + Horn Attack + Tackle	(99.7%)
-											(58.7% after Leech Life)
-											( 1.7% after 2 Leech Life)
+### Mt. Moon
 
-L16 Nidoking	L12 Grimer		Mega Punch + Water Gun		(85.7%)
-				L12 Voltorb		Mega Punch			(20.5%)
-								Mega Punch*			(71.7%)
-				L12 Koffing		Mega Punch x2		(100%)
-								Mega Punch* + Water Gun	(44.7%)
+**Moon Rocket**
+<table>
+<tr><td>
 
-///////////////////////// NUGGET BRIDGE /////////////////////////
-L17 Nidoking	L18 Pidgeotto	Horn Attack x3		(85.1%)
-								Mega Punch + Horn Attack x2	(100%)
-								Mega Punch# + Mega Punch	(100%)
-								Mega Punch# + Horn Attack	(35.5%)
-L18 Nidoking	L15 Rattata		Mega Punch			(100%)
-								Horn Attack*			(51.2%)
-				L17 Bulbasaur	Mega Punch + Horn Attack		(100%)
+Rattata     | &nbsp;
+------------ | -------------
+Horn Attack x2 |16.8%
+Horn Attack + Horn Attack* | 75.0%
+Leer + Horn Attack + Tackle| 100%
 
-				L14 Caterpie	Mega Punch			(76.9%)
-								Horn Attack*			(17.9%)
-				L14 Weedle		Mega Punch			(100%)
-								Horn Attack			(51.2%)
-								Horn Attack*			(100%)
+</td><td>
 
-L19 Nidoking	L14 Pidgey		Mega Punch			(79.4%)
-				L14 NidoranF	Horn Attack#			(100%)
+Zubat     | &nbsp;
+------------ | -------------
+Leer + Horn Attack + Tackle |99.7%
+after Leech Life | 58.7%
+after 2 Leech Life | 1.7%
 
-				L14 Ekans		Mega Punch			(66.6%)
+</td></tr> </table>
 
-L20 Nidoking	L16 Pidgey		Mega Punch			(71.9%)
-				L16 NidoranF	Horn Attack#			(41.0%)
+_TODO_: Shall we add another Moon rocket table but with Nidoking instead? for Lass strat
+## FFEF Nidoking
 
-				L18 Mankey		Mega Punch			(15.3%)
-								Horn Attack#			(100%)
+**Nerd**
+<table>
+<tr><td>
 
-///////////////////////// MISTY /////////////////////////
-L21 Nidoking	L15 NidoranF	Horn Attack#			(100%)
+Grimer     | &nbsp;
+------------ | -------------
+Mega Punch + Water Gun | 85.7%
 
-L22 Nidoking	L13 Machop		Mega Punch			(92.3%)
-								Horn Attack#			(100%)
+</td><td>
 
-L24 Nidoking	L17 Machop		Thrash			(35.9%)
-				L17 Drowzee		Thrash			(92.3%)
+Voltorb      | &nbsp;
+------------ | -------------
+Mega Punch   | 20.5%
+Mega Punch*	 | 71.7%
 
-L25 Nidoking	L21 Starmie		Thrash x2		(99.7%)
+</td><td>
 
-///////////////////////// SURGE /////////////////////////
-L26 Nidoking	L19 Pidgeotto	Horn Attack#			(100%)
-				L16 Raticate	Mega Punch			(100%)
-L27 Nidoking	L20 Ivysaur		Thrash + Thrash@-1	(100%)			
+Koffing      | &nbsp;
+------------ | -------------
+Mega Punch x2| 100%
+Mega Punch* + Water Gun | 44.7%
 
-				L21 Voltorb		Thrash			(69.2%)
-								Bubblebeam x2		(98.9%)
+</td></tr> </table>
 
-///////////////////////// FLY /////////////////////////
-L28 Nidoking	L20 Venonat		Thrash			(82.0%)
-								Thunderbolt			(53.8%)
+### Nugget   Bridge
+_TODO_ instead of mega punch crit we should have horn attack crit into megapunch range
+**Rival**
+<table>
+<tr><td>
 
-L29 Nidoking	L22 Oddish		Thrash			(46.1%)
-				L22 Bulbasaur	Thrash			(84.6%)
+Pidgeotto      | &nbsp;
+------------ | -------------
+Horn Attack x3 | 85.1%
+Mega Punch + Horn Attack x2 | 100%
+Mega Punch# + Mega Punch | 100%
+Mega Punch# + Horn Attack | 35.5%
 
-L30 Nidoking	L24 Growlithe	Thrash			(56.4%)
-								Bubblebeam			(89.7%)
-				L24 Vulpix		Bubblebeam			(46.1%)
+</td><td>
 
-///////////////////////// POKEFLUTE /////////////////////////
-L32 Nidoking	L23 Haunter		Rock Slide			(82.0%)
-L33 Nidoking	L25 Golbat		Thunderbolt			(89.7%)
-								Thunderbolt			(100% if Haunter)
+Rattata      | &nbsp;
+------------ | -------------
+Mega Punch | 100%
+Horn Attack* | 51.2%
 
-				L23 Raticate	Thrash			(84.6%)
-								Thunderbolt			(41.0%)
-L34 Nidoking	L23 Raticate	Thrash			(92.3%)
-								Thunderbolt			(58.9%)
+</td><td>
 
-///////////////////////// SILPH /////////////////////////
+Bulbasaur      | &nbsp;
+------------ | -------------
+Mega Punch + Horn Attack | 100%
+
+</td></tr> </table>
+
+**Bug Catcher**
+<table>
+<tr><td>
+
+Caterpie      | &nbsp;
+------------ | -------------
+Mega Punch | 76.9%
+Horn Attack*| 17.9%
+
+</td><td>
+
+Weedle      | &nbsp;
+------------ | -------------
+Mega Punch | 100%
+Horn Attack	| 51.2%
+Horn Attack*|	100%
+
+</td></tr> </table>
+
+**Female Jr. Trainer**
+
+Pidgey      | &nbsp;
+------------ | -------------
+Mega Punch | 79.4%
+
+**Male Jr. Trainer**
+<table>
+<tr><td>
+
+NidoranF     | &nbsp;
+------------ | -------------
+Horn Attack# | 100%
+
+</td><td>
+
+Ekans     | &nbsp;
+------------ | -------------
+Mega Punch | 66.6%
+
+</td></tr> </table>
+
+**Female Jr. Trainer 2**
+<table>
+<tr><td>
+
+Pidgey     | &nbsp;
+------------ | -------------
+Mega Punch | 71.9%
+
+</td><td>
+
+NidoranF     | &nbsp;
+------------ | -------------
+Horn Attack# | 41.0%
+
+</td></tr> </table>
+
+**Mankey Guy**
+
+Mankey     | &nbsp;
+------------ | -------------
+Mega Punch | 15.3%
+Horn Attack#|	100%
+
+### Misty
+
+**Female Jr Trainer**
+
+NidoranF     | &nbsp;
+------------ | -------------
+Horn Attack# | 100%
+
+**Hiker**
+
+Machop       | &nbsp;
+------------ | -------------
+Mega Punch	 | 92.3%
+Horn Attack# | 100%
+
+**Dig Rocket**
+<table>
+<tr><td>
+
+Machop       | &nbsp;
+------------ | -------------
+Thrash			 | 35.9%
+
+</td><td>
+
+Drowzee      | &nbsp;
+------------ | -------------
+Thrash			 | 92.3%
+
+</td></tr> </table>
+
+**Misty**
+
+Starmie      | &nbsp;
+------------ | -------------
+Thrash x2    | 99.7%
+
+### Surge
+
+**Boat Rival**
+<table>
+<tr><td>
+
+Pidgeotto    | &nbsp;
+------------ | -------------
+Horn Attack# | 100%
+
+</td><td>
+
+Raticate     | &nbsp;
+------------ | -------------
+Mega Punch	 | 100%
+
+</td><td>
+
+Ivysaur      | &nbsp;
+------------ | -------------
+Thrash + Thrash@-1 | 100%			
+
+</td></tr> </table>
+
+**Surge**
+
+Voltorb	     | &nbsp;
+------------ | -------------
+Thrash			 | 69.2%
+Bubblebeam x2| 98.9%
+
+### Fly
+
+**Bug Catcher**
+
+Venonat	     | &nbsp;
+------------ | -------------
+Thrash			 | 82.0%
+Thunderbolt	 | 53.8%
+
+**Oddish Girl**
+<table>
+<tr><td>
+
+Oddish	     | &nbsp;
+------------ | -------------
+Thrash		   | 46.1%
+
+</td><td>
+
+Bulbasaur		 | &nbsp;
+------------ | -------------
+Thrash			 | 84.6%
+
+</td></tr> </table>
+
+**Gambler**
+<table>
+<tr><td>
+
+Growlithe	   | &nbsp;
+------------ | -------------
+Thrash			 | 56.4%
+Bubblebeam	 | 89.7%
+
+</td><td>
+
+Vulpix 	     | &nbsp;
+------------ | -------------
+Bubblebeam	 | 46.1%
+
+</td></tr> </table>
+
+### Pokeflute
+
+**[OPTIONAL]Heal Pad Skip Hunter**
+
+Haunter 	   | &nbsp;
+------------ | -------------
+Rock Slide	 | 82.0%
+
+**Rocket 1**
+
+Golbat 	     | &nbsp;
+------------ | -------------
+Thunderbolt	 | 89.7%
+Thunderbolt	 | 100% if Haunter
+
+**Rocket 3**
+
+Raticate 	   | L33 Nidoking  | L34 Nidoking
+------------ | ------------- | -------------
+Thrash		   | 84.6%         | 92.3%
+Thunderbolt	 | 41.0%         | 58.9%
+
+### Silph
+
 L34 Nidoking	L33 Arbok		Thrash x2		(43.4%)
 								Thrash + Thrash*	(94.1%)
 ///////////////////////// GIOVANNI /////////////////////////
