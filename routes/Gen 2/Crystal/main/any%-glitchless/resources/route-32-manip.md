@@ -28,5 +28,8 @@
  
 ```
 Paths:
-[2561_18_8_d_true/0-2] D D D D D D D D D D L L D D D L L L L L L D D D L L D L L L D L D D L D D D D D D L D D D D D D D D L D D D D D D D A+D D D D D D D D D D R D D R R A+R D D D D D D
+[2561_18_8_d_true/0-2] 
+D D D D D D D D D D L L D D D L L L L L L D D D L L D L L L 
+D L D D L D D D D D D L D D D D D D D D L D D D D D D D A+D 
+D D D D D D D D D R D D R R A+R D D D D D D
 ```
