@@ -9,17 +9,17 @@
 
 ## Squirtle
 
-**Rival** _TODO_: this is not accurate, needs to be fixed
+**Rival**
 
 Bulbasaur    | Tackle
 ------------ | -------------
-&nbsp;       | 2-3 [3-5]
+&nbsp;       | 3-4 [4-5]
 
-**Weedle Guy** _TODO_: this is not accurate, needs to be fixed
+**Weedle Guy**
 
 Weedle       | Poison Sting
 ------------ | -------------
-&nbsp;       | 2-3 [3-5]
+&nbsp;       | 3-4 [5-6]
 
 **Brock**
 <table>
@@ -144,7 +144,7 @@ Rattata      | Tackle        | Quick Attack
 
 </td><td>
 
-Zubat        | Leech Life    | Confused
+Zubat        | Leech Life    | Self Hit
 ------------ | ------------- | -------------
 &nbsp;       | 6-8 [10-12]   | 9
 @-1          | 10-12         | 15
@@ -355,7 +355,7 @@ Drowzee      | Confusion     | Pound
 
 **Female Jr. Trainer**
 
-Goldeen      | Peck          | Confused
+Goldeen      | Peck          | Self Hit
 ------------ | ------------- | -------------
 &nbsp;       | 4-5 [7-9]     | 13           
 
@@ -417,7 +417,7 @@ Pikachu      | Quick Attack
 
 </td><td>
 
-Raichu            | Confused
+Raichu            | Self Hit
 ----------------- | -----------------
 &nbsp;            | 14
 w/Growl           | 9
@@ -438,7 +438,7 @@ Oddish       | Absorb
 
 </td><td>
 
-Bellsprout     | Wrap            | Confused
+Bellsprout     | Wrap            | Self Hit
 -------------- | --------------- | ---------------
 &nbsp;         | 2-3 [3-4]       | 13
 
@@ -534,7 +534,17 @@ Ivysaur       | Vine Whip
 
 </td></tr> </table>
 
-_TODO_: where are lick and selfhit ranges?
+**Channeller 1**
+
+Ghastly       | Lick           | Self Hit
+------------- | -------------- | --------------  
+&nbsp;        | 3-4 [5-6]      | 14
+
+**Channeller 2-3**
+
+Ghastly       | Lick           | Self Hit
+------------- | -------------- | --------------  
+&nbsp;        | 3-4 [5-7]      | 14
 
 **Rocket 1**
 
@@ -572,21 +582,30 @@ Arbok         | Bite
 ------------- | --------------
 &nbsp;        | 13-16 [27-32]
 
-**Silph Rival** With gentleman candy, Nidoking will be 35 for Gyarados
-_TODO_: Growlithe stall?
+**Silph Rival**
+NOTE: With Gentleman candy, Nidoking will be 35 for Gyarados
+
 <table>
 <tr><td>
 
 Pidgeot       | Quick Attack   | Wing Attack
 ------------- | -------------- | --------------
 &nbsp;        | 15-18 [31-37]  | 13-16 [28-33]
+'*            | 13-16          | 12-15
 
 </td><td>
 
-Gyarados      | Hydro Pump@+1
-------------- | --------------
+Gyarados        | Hydro Pump@+1
+-------------   | --------------
 Lv.34 Nidoking  | 88-104 [245-288]
 Lv.35 Nidoking  | 83-98 [234-276]
+
+</td><td>
+
+Growlithe     | Ember          | Take Down
+------------- | -------------- | --------------
+&nbsp;        | 11-13 [20-24]  | 18-22 [38-45]
+'*            |                | 17-20
 
 </td></tr> </table>
 
@@ -646,11 +665,12 @@ Hypno         | Confusion      | Headbutt
 
 </td></tr> </table>
 
-**Koga** _TODO_: add badge boost?
+**Koga**
 
-Weezing       | Self Destruct
-------------- | --------------
-&nbsp;        | 79-94 [167-197]
+Weezing         | Self Destruct
+--------------- | --------------
+&nbsp;          | 79-94 [167-197]
+after X-Special | 71-84
 
 ### Erika
 <table>
@@ -665,23 +685,6 @@ Victreebel    | Razor Leaf
 Vileplume     | Petal Dance    | Mega Drain
 ------------- | -------------- | --------------
 &nbsp;        | 18-22 [34-40]  | 11-13 [20-24]
-
-</td></tr> </table>
-
-### Sabrina
-_TODO_:do we really need this? is Psywave range correct? iirc it can roll any number
-<table>
-<tr><td>
-
-Kadabra       | Psychic        | Psybeam
-------------- | -------------- | --------------
-&nbsp;        | 81-96 [165-194]| 57-68 [119-140]
-
-</td><td>
-
-Alakazam      | Psybeam        | Psywave
-------------- | -------------- | --------------
-&nbsp;        | 78-92 [163-192]| Psywave         43-64
 
 </td></tr> </table>
 
@@ -711,11 +714,22 @@ Nidoking      | Thrash        | Horn Attack    | Tackle
 
 ### Lorelei
 
-**Viridian Rival** _TODO_: add Rhyhorn ranges?
+**Viridian Rival**
+<table>
+<tr><td>
+
+Rhyhorn       | Fury Attack   | Stomp          | Horn Attack
+------------- | ------------- | -------------- | --------------
+'*            | 5-6 [10-12]   | 17-20 [38-45]  | 17-20 [38-45]
+
+</td><td>
 
 Venusaur      | Razor Leaf    | Vine Whip   
 ------------- | ------------- | --------------
 &nbsp;        | 18-22 [74-87] | 12-15 [46-55]
+
+<table>
+<tr><td>
 
 **Lorelei**
 
@@ -731,41 +745,40 @@ Onix          | Slam          | Rock Throw     | Rage
 &nbsp;        | 17-20 [35-42] | 7-9 [17-20]    | 5-6 [10-12]
 
 ### Agatha
-_TODO_:wing attack without badge boost? is bite with badge boost or not?
+_TODO_:wing attack without badge boost? bite without badge boost?
 <table>
 <tr><td>
 
-Golbat        | Wing Attack*
-------------- | --------------
-&nbsp;        | 17-21 [40-48]
+Golbat        | Wing Attack    | Self Hit
+------------- | -------------- | --------------
+&nbsp;        | 17-21 [39-46]  | 22
 
 </td><td>
 
 Arbok         | Bite
 ------------- | --------------
-&nbsp;        | 22-26 [51-60]
+'*            | 22-26 [51-60]
 
 </td></tr> </table>
 
 ### Lance
 
-Gyarados      | Hydro Pump@+1
+Gyarados      | Hydro Pump
 ------------- | --------------
-&nbsp;        | 108-128 [174-205]
+@+1           | 108-128 [174-205]
 
 ### Champion
-_TODO_: Wing attack with badge boost
 <table>
 <tr><td>
 
-Pidgeot       | Sky Attack*     | Wing Attack
+Pidgeot       | Sky Attack    | Wing Attack'
 ------------- | --------------- | --------------
-&nbsp;        | 72-85 [177-207] | 18-22 [45-53]
+'*            | 72-85 [177-207] | 18-22 [45-53]
 
 </td><td>
 
 Rhydon        | Fury Attack
 ------------- | -------------
-&nbsp;        | 9-11 [20-24]
+'*            | 9-11 [20-24]
 
 </td></tr> </table>
