@@ -1,0 +1,8 @@
+* [Home](/)
+* [Red-Blue Glitchless](/gen-1/red-blue/main/glitchless/ 'A Speedrun Guide for Pokemon Red and Blue Glitchless')
+* [Yellow Glitchless](/gen-1/yellow/main/glitchless/ 'A Speedrun Guide for Pokemon Yellow Glitchless')
+* [Gold-Silver Glitchless](/gen-2/gold-silver/main/glitchless/ 'A Speedrun Guide for Pokemon Gold and Silver Glitchless')
+* [Crystal Glitchless](/gen-2/crystal/main/glitchless/ 'A Speedrun Guide for Pokemon Crystal Glitchless')
+* [Ruby-Sapphire Glitchless](/gen-3/ruby-sapphire/main/glitchless/ 'A Speedrun Guide for Pokemon Sapphire Glitchless')
+* [Emerald Glitchless](/gen-3/emerald/main/glitchless/ 'A Speedrun Guide for Pokemon Emerald Glitchless')
+* [Fire Red-Leaf Green Glitchless](/gen-3/firered-leafgreen/main/glitchless/ 'A Speedrun Guide for Pokemon Fire Red and Leaf Green Glitchless')
