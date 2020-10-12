@@ -588,7 +588,7 @@ NOTE: With Gentleman candy, Nidoking will be 35 for Gyarados
 Pidgeot       | Quick Attack   | Wing Attack
 ------------- | -------------- | --------------
 &nbsp;        | 15-18 [31-37]  | 13-16 [28-33]
-/*            | 13-16          | 12-15
+\*            | 13-16          | 12-15
 
 </td><td>
 
@@ -717,7 +717,7 @@ Nidoking      | Thrash        | Horn Attack    | Tackle
 
 Rhyhorn       | Fury Attack   | Stomp          | Horn Attack
 ------------- | ------------- | -------------- | --------------
-/*            | 5-6 [10-12]   | 17-20 [38-45]  | 17-20 [38-45]
+\*            | 5-6 [10-12]   | 17-20 [38-45]  | 17-20 [38-45]
 
 </td><td>
 
@@ -753,7 +753,7 @@ Golbat        | Wing Attack    | Self Hit
 
 Arbok         | Bite
 ------------- | --------------
-/*            | 22-26 [51-60]
+\*            | 22-26 [51-60]
 
 </td></tr> </table>
 
@@ -769,12 +769,12 @@ Gyarados      | Hydro Pump
 
 Pidgeot       | Sky Attack    | Wing Attack'
 ------------- | --------------- | --------------
-/*            | 72-85 [177-207] | 18-22 [45-53]
+\*            | 72-85 [177-207] | 18-22 [45-53]
 
 </td><td>
 
 Rhydon        | Fury Attack
 ------------- | -------------
-/*            | 9-11 [20-24]
+\*            | 9-11 [20-24]
 
 </td></tr> </table>
