@@ -8,7 +8,6 @@
  - All rolls include 1/39 max roll
 
 ## Squirtle
-
 **Rival**
 
 Bulbasaur    | Tackle
@@ -151,8 +150,6 @@ Zubat        | Leech Life    | Self Hit
 @-2          | 11-14         | 21
 
 </td></tr> </table>
-
-_TODO_: Shall we add another Moon rocket table but with Nidoking instead? for Lass strat
 
 ## FFEF Nidoking
 
@@ -591,7 +588,7 @@ NOTE: With Gentleman candy, Nidoking will be 35 for Gyarados
 Pidgeot       | Quick Attack   | Wing Attack
 ------------- | -------------- | --------------
 &nbsp;        | 15-18 [31-37]  | 13-16 [28-33]
-'*            | 13-16          | 12-15
+/*            | 13-16          | 12-15
 
 </td><td>
 
@@ -605,7 +602,7 @@ Lv.35 Nidoking  | 83-98 [234-276]
 Growlithe     | Ember          | Take Down
 ------------- | -------------- | --------------
 &nbsp;        | 11-13 [20-24]  | 18-22 [38-45]
-'*            |                | 17-20
+@+1           | 8-10           |
 
 </td></tr> </table>
 
@@ -720,7 +717,7 @@ Nidoking      | Thrash        | Horn Attack    | Tackle
 
 Rhyhorn       | Fury Attack   | Stomp          | Horn Attack
 ------------- | ------------- | -------------- | --------------
-'*            | 5-6 [10-12]   | 17-20 [38-45]  | 17-20 [38-45]
+/*            | 5-6 [10-12]   | 17-20 [38-45]  | 17-20 [38-45]
 
 </td><td>
 
@@ -728,8 +725,7 @@ Venusaur      | Razor Leaf    | Vine Whip
 ------------- | ------------- | --------------
 &nbsp;        | 18-22 [74-87] | 12-15 [46-55]
 
-<table>
-<tr><td>
+</td></tr> </table>
 
 **Lorelei**
 
@@ -745,7 +741,7 @@ Onix          | Slam          | Rock Throw     | Rage
 &nbsp;        | 17-20 [35-42] | 7-9 [17-20]    | 5-6 [10-12]
 
 ### Agatha
-_TODO_:wing attack without badge boost? bite without badge boost?
+_TODO_:wing attack with badge boost? bite without badge boost?
 <table>
 <tr><td>
 
@@ -757,7 +753,7 @@ Golbat        | Wing Attack    | Self Hit
 
 Arbok         | Bite
 ------------- | --------------
-'*            | 22-26 [51-60]
+/*            | 22-26 [51-60]
 
 </td></tr> </table>
 
@@ -773,12 +769,12 @@ Gyarados      | Hydro Pump
 
 Pidgeot       | Sky Attack    | Wing Attack'
 ------------- | --------------- | --------------
-'*            | 72-85 [177-207] | 18-22 [45-53]
+/*            | 72-85 [177-207] | 18-22 [45-53]
 
 </td><td>
 
 Rhydon        | Fury Attack
 ------------- | -------------
-'*            | 9-11 [20-24]
+/*            | 9-11 [20-24]
 
 </td></tr> </table>

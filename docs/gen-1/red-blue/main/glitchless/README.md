@@ -199,7 +199,7 @@ Repel 1 step in
 
 1st guy:
 - BB
-- Thrash
+- TB
 
 2nd guy:
 - TB

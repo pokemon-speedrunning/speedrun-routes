@@ -4,6 +4,7 @@
  - `move`* denotes a badge boost, `move`** denotes 2, etc.
  - `move`@-1 denotes a defensive stat drop, `move`@-2 denotes 2, etc.
  - `move`# denotes a critical hit
+ - images located in dropdowns are visual cue for guaranteed rolls
 
 
 ## Squirtle
@@ -11,7 +12,7 @@ _TODO_: shall we add route1 encounter and weedle guy ranges?
 
 ## FFEF NidoranM
 ### Route 3
-**Bug Catcher 1** _TODO_ caterpie 2 is wrong
+**Bug Catcher 1** _TODO_ add caterpie 2 %, rattata %
 <table>
 <tr><td>
 
@@ -25,40 +26,61 @@ Leer + Horn Attack + Horn Attack* | 78.4%
 Weedle                       | &nbsp;
 ---------------------------- | ------
 Leer + Horn Attack x2        |	100%
-Leer + Horn Attack + Tackle  | 52.9%
-Leer + Horn Attack + Tackle* | 83.7%
+<details><summary>Leer + Horn Attack + Tackle</summary><br>![alt text](weedle-tackle.png "Guaranteed Tackle") | 52.9%
+<details><summary>Leer + Horn Attack + Tackle*</summary><br>![alt text](weedle-tackle-w-bb.png "Guaranteed Tackle with Badge Boost") | 83.7%
 
 </td><td>
 
 Caterpie      | &nbsp;
 ------------  | ------
-Horn Attack x2| ~~100%~~
+<details><summary>Leer + Horn Attack + Tackle</summary><br>![alt text](caterpie-tackle.png "Guaranteed Tackle") | ?
 
 </td></tr> </table>
 
-**Bug Catcher 2** _TODO_ caterpie 2 is wrong
+**Short Guy**
+
+Rattata       | &nbsp;
+------------  | ------
+<details><summary>Leer + Horn Attack + Tackle </summary><br>![alt text](rattata-tackle.png "Guaranteed Tackle")| ?
+<details><summary>Leer + Horn Attack + Tackle* </summary><br>![alt text](rattata-tackle-w-bb.png "Guaranteed Tackle with Badge Boost")| ?
+<details><summary>Leer + Horn Attack + Tackle** </summary><br>![alt text](rattata-tackle-w-2bb.png "Guaranteed Tackle with 2 Badge Boost")| ?
+
+
+**Bug Catcher 2** _TODO_ caterpie2?
 <table>
 <tr><td>
 
 Weedle               | &nbsp;
 -------------------- | ------
-Horn Attack + Tackle | 57.1%
-Horn Attack + Tackle*| 86.5%
+<details><summary>Horn Attack + Tackle</summary><br>![alt text](weedle2-tackle.png "Guaranteed Tackle") | 57.1%
+<details><summary>Horn Attack + Tackle*</summary><br>![alt text](weedle2-tackle-w-bb.png "Guaranteed Tackle with Badge Boost")| 86.5%
 
 </td><td>
 
 Caterpie             | &nbsp;
 -------------------- | ------
 Horn Attack + Tackle | 0%
-Horn Attack + Tackle*| ~~0%~~
+Horn Attack + Tackle*| ?
+
+
 
 </td></tr> </table>
 
 **Bug Catcher 3**
+<table>
+<tr><td>
 
 Caterpie       | &nbsp;
 -------------- | ------
 Horn Attack x2 | 100%
+
+</td><td>
+
+Metapod             | &nbsp;
+------------------- | ------
+<details><summary>Tackle after 3 Hardens</summary><br>![alt text](metapod-tackle.png "Guaranteed Tackle after 3 Hardens")| ?
+
+</td></tr> </table>
 
 ### Mt. Moon
 
@@ -82,7 +104,6 @@ after 2 Leech Life          | 1.7%
 
 </td></tr> </table>
 
-_TODO_: Shall we add another Moon rocket table but with Nidoking instead? for Lass strat
 ## FFEF Nidoking
 
 **Nerd**
@@ -91,7 +112,7 @@ _TODO_: Shall we add another Moon rocket table but with Nidoking instead? for La
 
 Grimer                 | &nbsp;
 ---------------------- | ------
-Mega Punch + Water Gun | 85.7%
+<details><summary>Mega Punch + Water Gun</summary><br>![alt text](grimer-wg.png "Guaranteed Water Gun") | 85.7%
 
 </td><td>
 
@@ -104,8 +125,7 @@ Mega Punch*	 | 71.7%
 
 Koffing                 | &nbsp;
 ----------------------- | ------
-Mega Punch x2           | 100%
-Mega Punch* + Water Gun | 44.7%
+<details><summary>Mega Punch* + Water Gun</summary><br>![alt text](koffing-wg.png "Guaranteed Water Gun") | 44.7%
 
 </td></tr> </table>
 
@@ -117,23 +137,22 @@ _TODO_ instead of mega punch crit we should have horn attack crit into megapunch
 
 Pidgeotto                   | &nbsp;
 --------------------------- | ------
-Horn Attack x3              | 85.1%
-Mega Punch + Horn Attack x2 | 100%
-Mega Punch# + Mega Punch    | 100%
-Mega Punch# + Horn Attack   | 35.5%
+<details><summary>Horn Attack x3 </summary><br>![alt text](pidgeotto-ha.png "Guaranteed Horn Attack") | 85.1%
+<details><summary>Horn Attack# + Mega Punch</summary><br>![alt text](pidgeotto-mp.png "28/39 Mega Punch") | ?
 
 </td><td>
 
 Rattata      | &nbsp;
 ------------ | ------
-Mega Punch   | 100%
 Horn Attack* | 51.2%
 
 </td><td>
 
 Bulbasaur                | &nbsp;
 -----------------------  | ------
-Mega Punch + Horn Attack | 100%
+<details><summary>Mega Punch + Horn Attack@-1</summary><br>![alt text](bulba-ha.png "Guaranteed Horn Attack after Growl") | ?
+<details><summary>Mega Punch# + Posion Sting</summary><br>![alt text](bulba-ps.png "Guaranteed Posion Sting") | ?
+
 
 </td></tr> </table>
 
@@ -193,6 +212,7 @@ Mega Punch   | 71.9%
 NidoranF     | &nbsp;
 ------------ | ------
 Horn Attack# | 41.0%
+<details><summary>Horn Attack + Horn Attack@-1</summary><br>![alt text](nidoranf-ha.png "Guaranteed Horn Attack after Growl") | ?
 
 </td></tr> </table>
 
@@ -201,7 +221,7 @@ Horn Attack# | 41.0%
 Mankey       | &nbsp;
 ------------ | ------
 Mega Punch   | 15.3%
-Horn Attack# | 100%
+<details><summary>Horn Attack + Poison Sting</summary><br>![alt text](mankey-ps.png "Guaranteed Poison Sting") | ?
 
 ### Misty
 
@@ -239,6 +259,7 @@ Thrash			 | 92.3%
 Starmie      | &nbsp;
 ------------ | ------
 Thrash x2    | 99.7%
+<details><summary>Trash + Trash@-1 + Poison Sting@-1</summary><br>![alt text](starmie-ps.png "Guaranteed Poison Sting after X-Defend") | ?
 
 ### Surge
 
@@ -269,7 +290,15 @@ Thrash + Thrash@-1 | 100%
 Voltorb	     | &nbsp;
 ------------ | ------
 Thrash			 | 69.2%
-Bubblebeam x2| 98.9%
+<details><summary>Bubblebeam x2</summary><br>![alt text](voltorb-bb.png "Guaranteed Bubblebeam")| 98.9%
+
+</td><td>
+
+Raichu	     | &nbsp;
+------------ | ------
+<details><summary>Thrash + Bubblebeam</summary><br>![alt text](raichu-bb.png "Guaranteed Bubblebeam") | ?
+
+</td></tr> </table>
 
 ### Fly
 
@@ -343,6 +372,12 @@ Arbok 	         | &nbsp;
 ---------------- | ------
 Thrash x2        | 43.4%
 Thrash + Thrash* | 94.1%
+
+**Juggler 2**
+
+Hypno 	         | &nbsp;
+---------------- | ------
+<details><summary>Earthquake + Bubblebeam</summary><br>![alt text](hypno-bb.png "Guaranteed Bubblebeam (after Thunderbolt Disable)") | ?
 
 ### Giovanni
 
