@@ -26,7 +26,7 @@ Leer + Horn Attack + Horn Attack* | 78.4%
 Weedle                       | &nbsp;
 ---------------------------- | ------
 Leer + Horn Attack x2        |	100%
-<details><summary>Leer + Horn Attack + Tackle</summary><br>![alt text](weedle-tackle.png "Guaranteed Tackle")</details> | 52.9%
+<details><summary>Leer + Horn Attack + Tackle</summary><br><img src="https://i.imgur.com/KRoo38O.png" width="500"></details> | 52.9%
 <details><summary>Leer + Horn Attack + Tackle*</summary><br>![alt text](weedle-tackle-w-bb.png "Guaranteed Tackle with Badge Boost")</details> | 83.7%
 
 </td><td>
