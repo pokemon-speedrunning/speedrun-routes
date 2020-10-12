@@ -36,7 +36,7 @@
     - 5 Potions
 - Go through the Old Man catching tutorial
 - Save on [this tile](https://gunnermaniac.com/pokeworld?map=1#57/141) (MAKE SURE YOU STOP MOVING BEFORE OPENING THE PAUSE MENU, THE SAVE MUST BE UNBUFFERED)
-- Perform [nido manip](/resources/yellow/nido-manip.md)
+- Perform [Nido manip](/resources/yellow/nido-manip.md)
 - Nickname nido one character
 
 ## Viridian Forest
