@@ -5,7 +5,8 @@
 
 ## IGT60 (including yoloball frames): 57/60
 
-```Path:     L L L U L L U A U L A L D L D L L D A D D A D L A L L A L U U A U   (A press map: http://i.imgur.com/ZRTQZUC.png)
+```
+Path:     L L L U L L U A U L A L D L D L L D A D D A D L A L L A L U U A U   (A press map: http://i.imgur.com/ZRTQZUC.png)
  
 [ 0] Encounter at [33#33,11]: NidoranM lv4 DVs FFEF rng 13442-255 encrng 697-3-158-161, defaultYbf: [*]
 [ 1] Encounter at [33#33,11]: NidoranM lv4 DVs FFEF rng 13442-255 encrng 697-3-158-161, defaultYbf: [*]
