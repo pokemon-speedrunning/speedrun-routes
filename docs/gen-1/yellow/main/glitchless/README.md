@@ -236,9 +236,11 @@
   - Teach Dig to Charmander
   - Teach Cut to Charmander
   - Use Cut
-- Cans Search Path:
 
-![Cans map](https://i.imgur.com/IpssmJX.png)
+<details>
+  <summary>Click to View: Cans Search Path</summary>
+  <img src="https://i.imgur.com/IpssmJX.png" width="400" height="400" />
+</details>
 
 - ### Surge:
   - Raichu: Thrash
