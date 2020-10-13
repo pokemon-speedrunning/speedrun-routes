@@ -26,14 +26,14 @@ Leer + Horn Attack + Horn Attack* | 78.4%
 Weedle                       | &nbsp;
 ---------------------------- | ------
 Leer + Horn Attack x2        |	100%
-<details><summary>Leer + Horn Attack + Tackle</summary><br><img src="https://i.imgur.com/KRoo38O.png" width="500"></details> | 52.9%
-<details><summary>Leer + Horn Attack + Tackle*</summary><br>![alt text](weedle-tackle-w-bb.png "Guaranteed Tackle with Badge Boost")</details> | 83.7%
+<details><summary>Leer + Horn Attack + Tackle</summary><br><img src="https://i.imgur.com/XIZP3Cp.png" width="500"></details> | 52.9%
+<details><summary>Leer + Horn Attack + Tackle*</summary><br><img src="https://i.imgur.com/vKaAW1B.png" width="500"></details> | 83.7%
 
 </td><td>
 
 Caterpie      | &nbsp;
 ------------  | ------
-<details><summary>Leer + Horn Attack + Tackle</summary><br>![alt text](caterpie-tackle.png "Guaranteed Tackle") | ?
+<details><summary>Leer + Horn Attack + Tackle</summary><br><img src="https://i.imgur.com/ATRw3x5.png" width="500"></details> | ?
 
 </td></tr> </table>
 
@@ -41,9 +41,9 @@ Caterpie      | &nbsp;
 
 Rattata       | &nbsp;
 ------------  | ------
-<details><summary>Leer + Horn Attack + Tackle </summary><br>![alt text](rattata-tackle.png "Guaranteed Tackle")</details>| ?
-<details><summary>Leer + Horn Attack + Tackle* </summary><br>![alt text](rattata-tackle-w-bb.png "Guaranteed Tackle with Badge Boost")</details>| ?
-<details><summary>Leer + Horn Attack + Tackle** </summary><br>![alt text](rattata-tackle-w-2bb.png "Guaranteed Tackle with 2 Badge Boost")</details>| ?
+<details><summary>Leer + Horn Attack + Tackle </summary><br><img src="https://i.imgur.com/YsRYZxZ.png" width="500"></details> | ?
+<details><summary>Leer + Horn Attack + Tackle* </summary><br><img src="https://i.imgur.com/fvhiH5F.png" width="500"></details> | ?
+<details><summary>Leer + Horn Attack + Tackle** </summary><br><img src="https://i.imgur.com/gd0ruiU.png" width="500"></details> | ?
 
 
 **Bug Catcher 2** _TODO_ caterpie2?
@@ -52,8 +52,8 @@ Rattata       | &nbsp;
 
 Weedle               | &nbsp;
 -------------------- | ------
-<details><summary>Horn Attack + Tackle</summary><br>![alt text](weedle2-tackle.png "Guaranteed Tackle")</details> | 57.1%
-<details><summary>Horn Attack + Tackle*</summary><br>![alt text](weedle2-tackle-w-bb.png "Guaranteed Tackle with Badge Boost")</details>| 86.5%
+<details><summary>Horn Attack + Tackle</summary><br><img src="https://i.imgur.com/ic8Y6a9.png" width="500"></details> | 57.1%
+<details><summary>Horn Attack + Tackle*</summary><br><img src="https://i.imgur.com/7i95Mxx.png" width="500"></details> | 86.5%
 
 </td><td>
 
@@ -78,7 +78,7 @@ Horn Attack x2 | 100%
 
 Metapod             | &nbsp;
 ------------------- | ------
-<details><summary>Tackle after 3 Hardens</summary><br>![alt text](metapod-tackle.png "Guaranteed Tackle after 3 Hardens")</details>| ?
+<details><summary>Tackle after 3 Hardens</summary><br><img src="https://i.imgur.com/yUFH91L.png" width="500"></details> | ?
 
 </td></tr> </table>
 
@@ -112,7 +112,7 @@ after 2 Leech Life          | 1.7%
 
 Grimer                 | &nbsp;
 ---------------------- | ------
-<details><summary>Mega Punch + Water Gun</summary><br>![alt text](grimer-wg.png "Guaranteed Water Gun")</details> | 85.7%
+<details><summary>Mega Punch + Water Gun</summary><br><img src="https://i.imgur.com/mp0BlQ0.png" width="500"></details> | 85.7%
 
 </td><td>
 
@@ -125,7 +125,7 @@ Mega Punch*	 | 71.7%
 
 Koffing                 | &nbsp;
 ----------------------- | ------
-<details><summary>Mega Punch* + Water Gun</summary><br>![alt text](koffing-wg.png "Guaranteed Water Gun")</details> | 44.7%
+<details><summary>Mega Punch* + Water Gun</summary><br><img src="https://i.imgur.com/8atw4Ee.png" width="500"></details> | 44.7%
 
 </td></tr> </table>
 
@@ -137,8 +137,8 @@ _TODO_ instead of mega punch crit we should have horn attack crit into megapunch
 
 Pidgeotto                   | &nbsp;
 --------------------------- | ------
-<details><summary>Horn Attack x3 </summary><br>![alt text](pidgeotto-ha.png "Guaranteed Horn Attack")</details> | 85.1%
-<details><summary>Horn Attack# + Mega Punch</summary><br>![alt text](pidgeotto-mp.png "28/39 Mega Punch")</details> | ?
+<details><summary>Horn Attack x3 </summary><br><img src="https://i.imgur.com/pFyHKZv.png" width="500"></details> | 85.1%
+<details><summary>Horn Attack# + Mega Punch</summary><br><img src="https://i.imgur.com/5GWD4ye.png" width="500"></details> | ?
 
 </td><td>
 
@@ -150,8 +150,8 @@ Horn Attack* | 51.2%
 
 Bulbasaur                | &nbsp;
 -----------------------  | ------
-<details><summary>Mega Punch + Horn Attack@-1</summary><br>![alt text](bulba-ha.png "Guaranteed Horn Attack after Growl")</details> | ?
-<details><summary>Mega Punch# + Posion Sting</summary><br>![alt text](bulba-ps.png "Guaranteed Posion Sting")</details> | ?
+<details><summary>Mega Punch + Horn Attack@-1</summary><br><img src="https://i.imgur.com/1Wd7xCX.png" width="500"></details>  | ?
+<details><summary>Mega Punch# + Posion Sting</summary><br><img src="https://i.imgur.com/lPCZgOh.png" width="500"></details> | ?
 
 
 </td></tr> </table>
@@ -212,7 +212,7 @@ Mega Punch   | 71.9%
 NidoranF     | &nbsp;
 ------------ | ------
 Horn Attack# | 41.0%
-<details><summary>Horn Attack + Horn Attack@-1</summary><br>![alt text](nidoranf-ha.png "Guaranteed Horn Attack after Growl")</details> | ?
+<details><summary>Horn Attack + Horn Attack@-1</summary><br><img src="https://i.imgur.com/TXYYsCM.png" width="500"></details> | ?
 
 </td></tr> </table>
 
@@ -221,7 +221,7 @@ Horn Attack# | 41.0%
 Mankey       | &nbsp;
 ------------ | ------
 Mega Punch   | 15.3%
-<details><summary>Horn Attack + Poison Sting</summary><br>![alt text](mankey-ps.png "Guaranteed Poison Sting")</details> | ?
+<details><summary>Horn Attack + Poison Sting</summary><br><img src="https://i.imgur.com/IfiyNIR.png" width="500"></details> | ?
 
 ### Misty
 
@@ -259,7 +259,7 @@ Thrash			 | 92.3%
 Starmie      | &nbsp;
 ------------ | ------
 Thrash x2    | 99.7%
-<details><summary>Trash + Trash@-1 + Poison Sting@-1</summary><br>![alt text](starmie-ps.png "Guaranteed Poison Sting after X-Defend")</details> | ?
+<details><summary>Trash + Trash@-1 + Poison Sting@-1</summary><br><img src="https://i.imgur.com/2kylKlG.png" width="500"></details> | ?
 
 ### Surge
 
@@ -290,13 +290,13 @@ Thrash + Thrash@-1 | 100%
 Voltorb	     | &nbsp;
 ------------ | ------
 Thrash			 | 69.2%
-<details><summary>Bubblebeam x2</summary><br>![alt text](voltorb-bb.png "Guaranteed Bubblebeam")</details> | 98.9%
+<details><summary>Bubblebeam x2</summary><br><img src="https://i.imgur.com/y2mhzgH.png" width="500"></details> | 98.9%
 
 </td><td>
 
 Raichu	     | &nbsp;
 ------------ | ------
-<details><summary>Thrash + Bubblebeam</summary><br>![alt text](raichu-bb.png "Guaranteed Bubblebeam")</details> | ?
+<details><summary>Thrash + Bubblebeam</summary><br><img src="https://i.imgur.com/J6J72b0.png" width="500"></details> | ?
 
 </td></tr> </table>
 
@@ -377,7 +377,7 @@ Thrash + Thrash* | 94.1%
 
 Hypno 	         | &nbsp;
 ---------------- | ------
-<details><summary>Earthquake + Bubblebeam</summary><br>![alt text](hypno-bb.png "Guaranteed Bubblebeam (after Thunderbolt Disable)")</details> | ?
+<details><summary>Earthquake + Bubblebeam</summary><br><img src="https://i.imgur.com/UXijDJt.png" width="500"></details> | ?
 
 ### Giovanni
 
