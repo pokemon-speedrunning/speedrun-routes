@@ -14,5 +14,5 @@
   <!--* [Ruby-Sapphire](/gen-3/ruby-sapphire/main/glitchless/resources/ 'A Speedrun Guide for Pokemon Sapphire Glitchless')-->
   <!--* [Emerald](/gen-3/emerald/main/glitchless/resources/ 'A Speedrun Guide for Pokemon Emerald Glitchless')-->
   <!--* [Fire Red-Leaf Green](/gen-3/firered-leafgreen/main/glitchless/resources/ 'A Speedrun Guide for Pokemon Fire Red and Leaf Green Glitchless')-->
-* Gold-Silver CatExt
-  * [Manipless](/gen-2/gold-silver/catext/manipless/ 'A Speedrun Guide for Pokemon Gold-Silver Manipless')
+* CatExt Routes
+  * [Gold-Silver Manipless](/gen-2/gold-silver/catext/manipless/ 'A Speedrun Guide for Pokemon Gold-Silver Manipless')
