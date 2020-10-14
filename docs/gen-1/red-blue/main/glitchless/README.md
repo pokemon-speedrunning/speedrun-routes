@@ -191,7 +191,7 @@ Bike Menu:
 
 BC:
 - BB
-- Thrash
+- TB
 
 ROCK TUNNEL:
 
