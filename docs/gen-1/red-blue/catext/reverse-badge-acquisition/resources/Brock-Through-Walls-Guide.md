@@ -84,9 +84,15 @@ Continue from ###Pidgey _TODO_ make a link
   - 14 Special: Run from anything you see, no extra experience needed
 
 ### Pidgey  
-- You will need to catch a Pidgey with the correct HP value _TODO_ correct values. You can either:
+- You will need to catch a Pidgey with the current HP value (8-10-13-15-16-17). You can either:
   - Catch a random Pidgey and hope it has good HP
-  - Doing Pidgey manipulation _TODO_ playlist of various pidgey manips
+  - Do Pidgey manipulation
+
+  | Pidgey Manipulation          | 1 character Bulbasaur        | full name Bulbasaur          |
+  | ---------------------------- | ---------------------------- | ---------------------------- |
+  | **1 character player name** | https://youtu.be/a4joVzaCMXk | _TODO_ from 151autumn route |
+  | **5 characters player name** | https://youtu.be/Ua0ZyWffYpU | NA as far as i know          |
+
 - After Weedle Guy, check the special stat value again:
   - 15 Special: Reset or switch to PP STRAT
   - 16 Special: Continue the run with Pidgey Strat
