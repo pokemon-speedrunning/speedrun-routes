@@ -46,81 +46,81 @@ grab antidote on way through forest
 - get CoolTrainer glitch:
   - encounter any Rattata or a lv5 Pidgey
   - in the encounter, use trasform, then swap your moves order and run away
--catch missingno. (1 tile left from NSC)
--toss 2 para heal
--catch missingno.
--underflow
--swap slot 2 with ID balls, toss 1 from options
--catch Charizard (Same tile as NSC)
--walk to bottom row of grass, 2nd tile from left
--swap Charizard to front
--toss top item
--toss 2nd item 6 times (so never the masterballs)
--swap 3rd para heal with top CANCEL
--Toss 14 from TM27
--swap j below TM27 with ultra ball
--swap hm04 with masterball x0
--swap TM52 with burn heal
--toss 19 TMs
--swap j with hp up
--toss 8 j
--step up, face down and fight gio
--swap flamethrower to 1, flamethrower x5
--2 with (max) elixir in money,
--GARY with brightness balls, then j 255
--swap TM37 with TM27
--close menu, talk to Gio
--Deposit all but zard
--open menu, swap para heal stack above cancel with HM05
--walk down then up
--toss all but 3 from TM01
--swap TM47 below with brightness balls
--fight Blaine
--flamethrower x3, slash
--Swap master ball for TM01
--Hm04 2 below for potion
--toss 15 potions
--toss all but 5 ultra ball above
--swap master ball above for j 255
--swap TM32 for []G[], toss all but 4
--swap moon stone below for j, toss all but 7
--walk up 2, down 1, face up to fight sabrina
--flamethrower x4
--hold down
--(max) elixir, jack to koga, fight from the bottom
--flamethrower x4
--swap slot 4 to money, toss all but 5
--swap CANCEL to HM04, then brightness, then j
--step up
--toss 2 from j x7 above potion
--swap antidote with poke ball
--toss all but 4 moon stone
--fight erika
--flamethrower x3
--walk down
--swap elixir with soda pop in money
--surf to gym
--walk up 1
--swap ultra ball with hm04
--toss 5 from 7f
--toss pokeball to 3
--toss 2 j.
--walk down, face right for surge
--flamethrower x3
--walk down, right 1 tile, then down until you leave the gym
--Enter gym
--CANCEL round the left side of the gym to reach Misty
--Talk to Misty.
--flamethrower x2 (Rage Starmie if elixir)
--Swap Soda pop with master ball x3
--Swap Great ball x0 with HM04 above
--Swap [block]m[block] x72 below ????? with j. x255
--Toss 18 from [block]m[block]
--Close menu, walk up 1
--Swap ????? above 3f with [block]g[block]
--Swap Potion x7 with HM05, toss 6 potions
--Scroll up 1, toss all but 1
--Walk 2 left, talk to Brock
--Flamethrower x2
--Walk straight down to exit the Gym to the Hall of Fame.
--Timing stops on the fade to white after you receive your in game time.
+- catch missingno. (1 tile left from NSC)
+- toss 2 para heal
+- catch missingno.
+- underflow
+- swap slot 2 with ID balls, toss 1 from options
+- catch Charizard (Same tile as NSC)
+- walk to bottom row of grass, 2nd tile from left
+- swap Charizard to front
+- toss top item
+- toss 2nd item 6 times (so never the masterballs)
+- swap 3rd para heal with top CANCEL
+- Toss 14 from TM27
+- swap j below TM27 with ultra ball
+- swap hm04 with masterball x0
+- swap TM52 with burn heal
+- toss 19 TMs
+- swap j with hp up
+- toss 8 j
+- step up, face down and fight gio
+- swap flamethrower to 1, flamethrower x5
+- 2 with (max) elixir in money,
+- GARY with brightness balls, then j 255
+- swap TM37 with TM27
+- close menu, talk to Gio
+- Deposit all but zard
+- open menu, swap para heal stack above cancel with HM05
+- walk down then up
+- toss all but 3 from TM01
+- swap TM47 below with brightness balls
+- fight Blaine
+- flamethrower x3, slash
+- Swap master ball for TM01
+- Hm04 2 below for potion
+- toss 15 potions
+- toss all but 5 ultra ball above
+- swap master ball above for j 255
+- swap TM32 for []G[], toss all but 4
+- swap moon stone below for j, toss all but 7
+- walk up 2, down 1, face up to fight sabrina
+- flamethrower x4
+- hold down
+- (max) elixir, jack to koga, fight from the bottom
+- flamethrower x4
+- swap slot 4 to money, toss all but 5
+- swap CANCEL to HM04, then brightness, then j
+- step up
+- toss 2 from j x7 above potion
+- swap antidote with poke ball
+- toss all but 4 moon stone
+- fight erika
+- flamethrower x3
+- walk down
+- swap elixir with soda pop in money
+- surf to gym
+- walk up 1
+- swap ultra ball with hm04
+- toss 5 from 7f
+- toss pokeball to 3
+- toss 2 j.
+- walk down, face right for surge
+- flamethrower x3
+- walk down, right 1 tile, then down until you leave the gym
+- Enter gym
+- CANCEL round the left side of the gym to reach Misty
+- Talk to Misty.
+- flamethrower x2 (Rage Starmie if elixir)
+- Swap Soda pop with master ball x3
+- Swap Great ball x0 with HM04 above
+- Swap [block]m[block] x72 below ????? with j. x255
+- Toss 18 from [block]m[block]
+- Close menu, walk up 1
+- Swap ????? above 3f with [block]g[block]
+- Swap Potion x7 with HM05, toss 6 potions
+- Scroll up 1, toss all but 1
+- Walk 2 left, talk to Brock
+- Flamethrower x2
+- Walk straight down to exit the Gym to the Hall of Fame.
+- Timing stops on the fade to white after you receive your in game time.

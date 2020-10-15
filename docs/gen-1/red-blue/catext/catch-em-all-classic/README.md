@@ -1,9 +1,11 @@
 # Pokemon Blue Catch 'Em All (Classic) aka 151 FTL
 **CLEAR SAVE DATA FOR EACH ATTEMPT OR YOUR RUN IS INVALID**
 
-_TODO_ is this route possible with PP strat? ask luckytyphlosion
-
 credits to luckytyphlosion for routing this and also writing the original guide https://pastebin.com/c5F57GVX
+
+If something isn't clear,you should watch:
+  - **[1024 Charmander]** stocchi's run
+  - **[PP/Pidgey Strat]** krazyd4n's run
 
 - manip TID 0x765e (30302)
  	- https://youtu.be/jB4u4UU4gyU
