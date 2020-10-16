@@ -1,4 +1,4 @@
-# Pokemon Blue No Save corruption
+# Pokemon Blue Any% No Save corruption
 **CLEAR SAVE DATA FOR EACH ATTEMPT OR YOUR RUN IS INVALID**
 
 Based on davidpoko's guide, which was based on krazyd4n's guide.

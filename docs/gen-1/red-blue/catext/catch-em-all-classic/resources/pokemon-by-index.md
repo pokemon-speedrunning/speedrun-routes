@@ -1,4 +1,5 @@
 # Pokemon by index
+this resource was used for making the "after [Pokemon], use/toss [x] Repels" table in the guide
 
 listing from higer because that's how we catch them
 
@@ -94,7 +95,7 @@ Index | Pokemon
 103   |	Flareon
 102   |	Eevee
 101   |	Wigglytuff
-100    |	Jigglypuff
+100   |	Jigglypuff
 99    |	Omastar
 98    |	Omanyte
 97    |	Sandslash
