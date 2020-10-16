@@ -2,8 +2,8 @@
 
 Brock Through Walls is a glitch performed in various red-blue glitched runs.
 There are various ways to set up this glitch, but it is ultimately triggered by talking to the Pewter City Youngster from the right instead of the left, which was non intended to be possible.
-For a more in-depth explanation on how and why the glitch works, check out this GlithCity's article:
-  - https://archives.glitchcity.info/wiki/Brock_Through_walls.html
+For a more in-depth explanation on how and why the glitch works, check out [this](https://archives.glitchcity.info/wiki/Brock_Through_walls.html) GlithCity's article:
+
 
 This guide is meant to explain what Brock Through Walls strategy  are commonly used through a speedrun, what you should pick and how to perform it.
 
@@ -20,8 +20,7 @@ This is the hardest but also faster method.
 It requires a 1-frame rename after multiples 4-frames textboxes.
 Because of this, this method should be used only by runners aiming for top times, and only after a lot of practice.
 
-A guide to the manipulation itself can be found here:
-  - https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/catext/reverse-badge-acquisition/resources/1024-charmander-manip.md
+A guide to the manipulation itself can be found [here](/gen-1/red-blue/catext/reverse-badge-acquisition/resources/1024-charmander-manip)
 
 After correctly performing it, Weedle fight must be done in specific way to assure correct PP after the fight.
 
@@ -60,14 +59,12 @@ This is slower than 1024 Charmander and faster than PP Strat.
 It requires some specific Bulbasaur DVs, so manipulating him can assure these are perfect, but even without it the chance are around 56% to get a workable Bulbasaur.
 
 ### with Bulbasaur Manipulation
-#### 1 second slower manip without IGT tracking
-- https://youtu.be/VjLFyiX5JdA
-- 56/60 manip with perfect attack/special, bad defense
+#### [1 second slower manip without IGT tracking](https://youtu.be/VjLFyiX5JdA)
+- 56/60 manipwith perfect attack/special, bad defense
 - textbox stats on practice rom: 231 50 129 55 | 74/81
 
-#### 1 second faster manip with IGT tracking needed
+#### [1 second faster manip with IGT tracking needed](https://youtu.be/0uN46d8nGHo)
 - Skip PC potion
--	https://youtu.be/0uN46d8nGHo
 - 38/60 manip with perfect attack/special/defense, saves 93 frames to the 56/60 one
 -	textbox stats on practice rom: 132 207 30 212 | 231/0
 
@@ -91,10 +88,10 @@ Continue from ###Pidgey _TODO_ make a link
   - Catch a random Pidgey and hope it has good HP
   - Do Pidgey manipulation
 
-  | Pidgey Manipulation          | 1 character Bulbasaur        | full name Bulbasaur          |
-  | ---------------------------- | ---------------------------- | ---------------------------- |
-  | **1 character player name** | https://youtu.be/a4joVzaCMXk | _TODO_ from 151autumn route |
-  | **5 characters player name** | https://youtu.be/Ua0ZyWffYpU | NA as far as i know          |
+   1 character Bulbasaur        | full name Bulbasaur          
+   ---------------------------- | ----------------------------
+  [1 character player name](https://youtu.be/a4joVzaCMXk) | _TODO_ from 151autumn route |
+  [5 characters player name](https://youtu.be/Ua0ZyWffYpU) | NA as far as i know          |
 
 - After Weedle Guy, check the special stat value again:
   - 15 Special: Reset or switch to PP STRAT

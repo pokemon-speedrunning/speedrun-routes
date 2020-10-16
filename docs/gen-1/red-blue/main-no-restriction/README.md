@@ -2,8 +2,7 @@
 **CLEAR SAVE DATA FOR EACH ATTEMPT OR YOUR RUN IS INVALID**
 
 ## Intro
-- Manip TID 64C2 (25794)
-  - https://www.youtube.com/watch?v=Jh7Z_frbfNs
+- [Manip TID 64C2 (25794)](https://www.youtube.com/watch?v=Jh7Z_frbfNs)
 - Name yourself RED
 - Name rival JOHN
 

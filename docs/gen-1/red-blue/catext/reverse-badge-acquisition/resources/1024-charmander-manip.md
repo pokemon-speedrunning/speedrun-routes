@@ -1,5 +1,5 @@
 # 1024 Charmander Manipulation
-credits to entrpntr for finding the manipulation and also writing the original notes that you can find here https://pastebin.com/K8TLAKqY
+credits to entrpntr for finding the manipulation and also writing the original notes that you can find [here](https://pastebin.com/K8TLAKqY)
 
 **Disclaimer: The 1024 Charmander Manipulation is one of the most difficult manipulation to successfully pull off in Red/Blue. It is recommended to first start with Bulbasaur to learn the general route.**
 
@@ -27,8 +27,8 @@ After cutscene textboxes
 
 ## Post-save
 
-Charmander Manip: https://www.youtube.com/watch?v=PDZyY1w93LA
-  - Can use this working save to practice (Gambatte users: replace existing Blue .sav): https://cdn.discordapp.com/attachments/88133858192551936/326119021768474635/charmander2_blue.sav
+[Charmander Manip](https://www.youtube.com/watch?v=PDZyY1w93LA)
+  - Can use [this working save](https://cdn.discordapp.com/attachments/88133858192551936/326119021768474635/charmander2_blue.sav)  to practice (Gambatte users: replace existing Blue .sav):
 
 You have to hold A or B whenever text is scrolling (wait until jingle starts on "[5 characters name] received a CHARMANDER!" textbox to switch from holding B to A)
 

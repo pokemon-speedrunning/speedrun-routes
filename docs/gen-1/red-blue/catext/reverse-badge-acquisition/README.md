@@ -2,23 +2,21 @@
 **CLEAR SAVE DATA FOR EACH ATTEMPT OR YOUR RUN IS INVALID**
 
 If something isn't clear,you should watch:
-  - **[1024 Charmander]** stocchi's run (with input display)
-    - https://youtu.be/jm6ZpCosUrY
-  - **[PP/Pidgey Strat]** Araya's run
-    - https://youtu.be/X9TnclhdQRg
+  - **[1024 Charmander]** [stocchi's run (with input display)](https://youtu.be/jm6ZpCosUrY)
+  - **[PP/Pidgey Strat]** [Araya's run](https://youtu.be/X9TnclhdQRg)
 
 ## Intro
 
-- Manip TID b307 (45831)
-  - https://youtu.be/iH0kW5fd6XA
+- [Manip TID b307 (45831)](https://youtu.be/iH0kW5fd6XA)
 - Name player uuAAA
 - Name rival RRRGpg-
 
 ## Brock Through Walls
 
 The first glitch we will perform is called Brock Through Walls.
-A detailed guide on what strategy could be best for you and how to execute it can be found here _TODO_ add link to docs/gen-1/red-blue/catext/catch-em-all-classic/resources/Brock-Through-Walls_Guide.md
-- **[1024 Charmander]** route 1 to weedle manip: https://www.youtube.com/watch?v=ZbAv0m19v9g
+A detailed guide on what strategy could be best for you and how to execute it can be found [here](/gen-1/red-blue/catext/reverse-badge-acquisition/resources/Brock-Through-Walls-Guide)
+
+- **[1024 Charmander]** [Route 1 to weedle manip](https://www.youtube.com/watch?v=ZbAv0m19v9g)
 - **[PP/Pidgey Strat]** Viridian shop: buy
   - 7 Pokeballs
 - Pick up forest antidote
@@ -44,14 +42,12 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 
 ## CoolTrainer
 
-- Your goal is to reach Mewtwo Cave, the fastest path is shown here:
-  - https://youtu.be/7jT0nZStQNU
+- Your goal is to reach Mewtwo Cave, the fastest path is shown [here](https://youtu.be/7jT0nZStQNU)
   - Take this path carefully: you are walking out of bounds, one false step can crash the game
 - **[1024 Charmander]** ditto manip:
-  - redbar: https://www.youtube.com/watch?v=zofvpQK4dFQ
-  - non redbar: https://www.youtube.com/watch?v=aIE01IgqhFw&list=PLFAPrbMDJZ2LS1c8W46jPxlMB5QQpyKMv&index=4
-- **[PP/Pidgey Strat]** ditto manip:
-   - https://youtu.be/alE01lgqhFw
+  - [redbar](https://www.youtube.com/watch?v=zofvpQK4dFQ)
+  - [non redbar](https://www.youtube.com/watch?v=aIE01IgqhFw&list=PLFAPrbMDJZ2LS1c8W46jPxlMB5QQpyKMv&index=4)
+- **[PP/Pidgey Strat]** [ditto manip](https://youtu.be/alE01lgqhFw)
 - Swap ditto to front, use escape rope
 - Get CoolTrainer glitch:
   - encounter any Rattata or a lv5 Pidgey

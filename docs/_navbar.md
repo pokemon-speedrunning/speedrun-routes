@@ -14,6 +14,10 @@
   <!--* [Ruby-Sapphire](/gen-3/ruby-sapphire/main-glitchless/resources/ 'A Speedrun Guide for Pokemon Sapphire Glitchless')-->
   <!--* [Emerald](/gen-3/emerald/main-glitchless/resources/ 'A Speedrun Guide for Pokemon Emerald Glitchless')-->
   <!--* [Fire Red-Leaf Green](/gen-3/firered-leafgreen/main-glitchless/resources/ 'A Speedrun Guide for Pokemon Fire Red and Leaf Green Glitchless')-->
+* Glitched Routes
+  * [Red-Blue-NSC](/gen-1/red-blue/main-nsc/ 'A Speedrun Guide for Pokemon Red and Blue No Save Corruption')
+  * [Red-Blue-Any%](/gen-1/red-blue/main-no-restriction/ 'A Speedrun Guide for Pokemon Red and Blue Any% No Restriction')
+  * [Yellow](/gen-1/yellow/main-no-restriction/ 'A Speedrun Guide for Pokemon Yellow Any% No Restriction')
 * CatExt Routes
   * [Red-Blue](/gen-1/red-blue/catext/ 'Speedrun Guides for Red-Blue Category Extensions')
   * [Gold-Silver](/gen-2/gold-silver/catext/ 'Speedrun Guides for Gold-Silver Category Extensions')

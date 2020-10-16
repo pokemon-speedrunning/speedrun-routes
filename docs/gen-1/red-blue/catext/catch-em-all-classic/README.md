@@ -1,18 +1,15 @@
 # Pokemon Blue Catch 'Em All (Classic) aka 151 FTL
 **CLEAR SAVE DATA FOR EACH ATTEMPT OR YOUR RUN IS INVALID**
 
-Credits to luckytyphlosion for routing this and also writing the original guide https://pastebin.com/c5F57GVX
+Credits to luckytyphlosion for routing this and also writing the [original guide](https://pastebin.com/c5F57GVX)
 
 If something isn't clear, you should watch:
-  - **[1024 Charmander]** stocchi's run (with input display)
-    - https://youtu.be/ZFTXVDj3j14
-  - **[PP/Pidgey Strat]** krazyd4n's run
-    - https://youtu.be/KHEn7tNtpcA
+  - **[1024 Charmander]** [stocchi's run (with input display)](https://youtu.be/ZFTXVDj3j14)
+  - **[PP/Pidgey Strat]** [krazyd4n's run](https://youtu.be/KHEn7tNtpcA)
 
 ## Intro
 
-- Manip TID 0x765e (30302)
- 	- https://youtu.be/jB4u4UU4gyU
+- [Manip TID 0x765e (30302)](https://youtu.be/jB4u4UU4gyU)
 - Name player baaaa
 - Name rival ??//;;
 	- note: input rival name to 7 characters, then delete last char to get proper rival name to save a bit on tossing ethers
@@ -21,8 +18,7 @@ If something isn't clear, you should watch:
 ## Brock Through Walls
 
 The first glitch we will perform is called Brock Through Walls.
-A detailed guide on what strategy could be best for you and how to execute it can be found here
-  - https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/catext/reverse-badge-acquisition/resources/Brock-Through-Walls-Guide.md
+A detailed guide on what strategy could be best for you and how to execute it can be found [here](/gen-1/red-blue/catext/reverse-badge-acquisition/resources/Brock-Through-Walls-Guide)
 
 - **[PP/Pidgey Strat]** Viridian shop: buy
 	- 10 Pokeballs
@@ -46,19 +42,17 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 
 ## CoolTrainer
 
-- Your goal is to reach Mewtwo Cave, the fastest path is shown here:
-	- https://youtu.be/7jT0nZStQNU
+- Your goal is to reach Mewtwo Cave, the fastest path is shown [here](https://youtu.be/7jT0nZStQNU)
 	- take this path carefully: you are walking out of bounds, one false step can crash the game
 - **[1024 Charmander]** Ditto manip:
-	- redbar: https://www.youtube.com/watch?v=zofvpQK4dFQ
-	- non redbar: https://www.youtube.com/watch?v=aIE01IgqhFw&list=PLFAPrbMDJZ2LS1c8W46jPxlMB5QQpyKMv&index=4
-- **[PP/Pidgey Strat]** Ditto manip:
- 	- https://youtu.be/alE01lgqhFw
+	- [redbar](https://www.youtube.com/watch?v=zofvpQK4dFQ)
+	- [non redbar](https://www.youtube.com/watch?v=aIE01IgqhFw&list=PLFAPrbMDJZ2LS1c8W46jPxlMB5QQpyKMv&index=4)
+- **[PP/Pidgey Strat]** [Ditto manip](https://youtu.be/alE01lgqhFw)
 - Swap ditto to front, use escape rope
 - Get CoolTrainer glitch:
 	- encounter any Rattata or a lv5 Pidgey
 	- in the encounter, use trasform, then swap your moves order and run away
-- Pokedex menu flash on grass tile next to side of ledge: https://i.imgur.com/Bbh6R3V.png
+- Pokedex menu flash on [grass tile next to side of ledge](https://i.imgur.com/Bbh6R3V.png)
 	- can do this before getting CoolTrainer, as long as you do not open any submenu
 - Double distort missingno:
 	- view CoolTrainer until corruption
@@ -70,7 +64,7 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 
 ## FTL Setup
 
-- Walk to this location: https://i.imgur.com/UjbIja3.png
+- Walk to [this location](https://i.imgur.com/UjbIja3.png)
 - Swap ditto with rhydon
 - Swap antidote x1 (third) with awakening x255 (6th) (if used all poke balls, reference item slots)
 - Toss antidote x1 (6th)

@@ -3,8 +3,8 @@
 
 ## Intro
 - Manip TID:
-  - 6415 (25621): https://www.youtube.com/WfflE2ublak
-  - or 64EA (25834): https://www.youtube.com/RjqDCth4GIk
+  - [6415 (25621)](https://www.youtube.com/WfflE2ublak)
+  - [or 64EA (25834)](https://www.youtube.com/RjqDCth4GIk)
     - this manip saves 16 frames later into the run, but it's harder to pull of. More details in the video
 - Name yourself ASH
 - Name rival BLUE
