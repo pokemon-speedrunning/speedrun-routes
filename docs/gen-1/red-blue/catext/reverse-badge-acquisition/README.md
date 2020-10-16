@@ -20,11 +20,13 @@ The first glitch we will perform is called Brock Through Walls.
 A detailed guide on what strategy could be best for you and how to execute it can be found here _TODO_ add link to docs/gen-1/red-blue/catext/catch-em-all-classic/resources/Brock-Through-Walls_Guide.md
 - **[1024 Charmander]** route 1 to weedle manip: https://www.youtube.com/watch?v=ZbAv0m19v9g
 - **[PP/Pidgey Strat]** Viridian shop: buy
-  - 9 Pokeballs
+  - 7 Pokeballs
 - Pick up forest antidote
-- Pick up forest potion
+- Optional: Pick up forest potion
 - Fight Weedle Guy
+- **[1024 Charmander]** If poisoned after Weedle fight, let the poison tickle into red bar and after using the antidote place the cursor on SAVE already
 - **[PP/Pidgey Strat]** shop: buy
+  - 1 potion
   - 1 burn heal
   - 1 escape rope
   - 1 awakening
@@ -35,9 +37,9 @@ A detailed guide on what strategy could be best for you and how to execute it ca
   - 1 antidote
     - skip if you didn't use it
   - 1 potion
-  - 1 burn heal
   - 1 awakening
-  - 1 para heal
+  - 1 burn heal
+  - 1 paralyz heal
 - Brock through walls as explained in the guide linked above
 
 ## CoolTrainer
@@ -61,8 +63,9 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 ## Giovanni
 
 - Underflow
-- Swap slot 2 with ID balls, toss 1 from options
-- Catch Charizard (Same tile as NSC)
+- Swap slot 2 with ID balls (scroll down until you see jx[3], jx[0, **Masterball**])
+- Toss 1 from options 2 above
+- Catch Charizard (_TODO_ add tile to CoolTrainer on)
 - Walk to bottom row of grass, 2nd tile from left
 - Swap Charizard to front
 - Toss top item
@@ -81,11 +84,11 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 ## Blaine
 
 - Swap slot2 with Elixir/Max Elixir in money,
-- Swap GARY with brightness balls, then j 255
+- Swap GARY with brightness balls (under ????? item), then j 255
 - Swap TM37 with TM27
-- Close menu, talk to Gio
-- Deposit all but zard
-- Open menu, swap para heal stack above cancel with HM05
+- Close menu, talk to Giovanni (after the defeat he decided to give up his criminal career and become a PC)
+- Deposit all but Charizard
+- Open menu, swap para heal stack above CANCEL with HM05
 - Walk down then up
 - Toss all but 3 from TM01
 - Swap TM47 below with brightness balls
@@ -146,7 +149,7 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 ## Brock + HOF
 
 - Swap Soda pop with master ball x3
-- Swap Great ball x0 with HM04 above
+- Swap HM04 with Great ball x0 below
 - Swap [block]m[block] x72 below ????? with j. x255
 - Toss 18 from [block]m[block]
 - Close menu, walk up 1

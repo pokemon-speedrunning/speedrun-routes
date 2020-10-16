@@ -21,7 +21,8 @@ If something isn't clear, you should watch:
 ## Brock Through Walls
 
 The first glitch we will perform is called Brock Through Walls.
-A detailed guide on what strategy could be best for you and how to execute it can be found here _TODO_ add link to docs/gen-1/red-blue/catext/catch-em-all-classic/resources/Brock-Through-Walls_Guide.md
+A detailed guide on what strategy could be best for you and how to execute it can be found here
+  - https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/catext/reverse-badge-acquisition/resources/Brock-Through-Walls-Guide.md
 
 - **[PP/Pidgey Strat]** Viridian shop: buy
 	- 10 Pokeballs
