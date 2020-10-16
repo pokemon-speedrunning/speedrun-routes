@@ -377,6 +377,7 @@ Leave Gym and fly to Goldenrod (4 up)
 | **Executive**    | Surf, xSPC, (xAQ), Bite x2, Surf, Bite x2  | 15    | 14     | 8    | 8        | 
 
 | Underground           | Move Usage (10,11,12,13,14,15) SPC DV | HB/IP | Bi/Ret | Surf | Strength |
+| --------------------- | ------------------------------------- |------ | ------ | ---- | -------- |
 | **Rival - Golbat**    | IP (64,87,97,87,97)%                  | 14    | 14     | 8    | 8        | 
 | **Rival - Magnemite** | Surf                                  | 14    | 14     | 7    | 8        | 
 | **Rival - Meganium**  | xSPC, IP (90,90,100,90,100)%          | 13    | 14     | 7    | 8        | 
