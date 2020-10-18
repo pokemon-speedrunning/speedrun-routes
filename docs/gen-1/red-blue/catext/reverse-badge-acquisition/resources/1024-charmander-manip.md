@@ -1,5 +1,5 @@
 # 1024 Charmander Manipulation
-credits to entrpntr for finding the manipulation and also writing the original notes that you can find here https://pastebin.com/K8TLAKqY
+credits to entrpntr for finding the manipulation and also writing the original notes that you can find [here](https://pastebin.com/K8TLAKqY)
 
 **Disclaimer: The 1024 Charmander Manipulation is one of the most difficult manipulation to successfully pull off in Red/Blue. It is recommended to first start with Bulbasaur to learn the general route.**
 
@@ -27,8 +27,8 @@ After cutscene textboxes
 
 ## Post-save
 
-Charmander Manip: https://www.youtube.com/watch?v=PDZyY1w93LA
-  - Can use this working save to practice (Gambatte users: replace existing Blue .sav): https://cdn.discordapp.com/attachments/88133858192551936/326119021768474635/charmander2_blue.sav
+[Charmander Manip](https://www.youtube.com/watch?v=PDZyY1w93LA)
+  - Can use [this working save](https://cdn.discordapp.com/attachments/88133858192551936/326119021768474635/charmander2_blue.sav)  to practice (Gambatte users: replace existing Blue .sav):
 
 You have to hold A or B whenever text is scrolling (wait until jingle starts on "[5 characters name] received a CHARMANDER!" textbox to switch from holding B to A)
 
@@ -52,7 +52,10 @@ Once satisfied that you are executing everything up to the naming screen properl
 * You need to press A on the naming screen in the first 14 possible frames (sets Charmander's name to 'A'); aim for the early part of this window to be safe
 * To time START perfectly:
     - You can using game audio cue for when to press START on naming screen (anticipate the loud tone; press start as it is about to play, may need to adjust timing slightly if consistently early/late -- use the list of nearby frames below for calibration)
-    - Set up a flowtimer offset that starts at reset. You can start by using these offsets _TODO_ but you will need to adjust them to your timings
+    - Set up a flowtimer offset that starts at reset. You can start by using these offsets, but you will need to adjust them to your timings:
+        - gambatte: 29935
+        - GBI: 30459
+    
 
 Approximately 20% chance to get trolled by NPC timers in attempts even if you did everything correctly (the above .sav has good NPC timers, so trolling is not possible if practicing from that)
 
