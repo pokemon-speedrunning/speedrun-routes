@@ -137,7 +137,7 @@ _TODO_ instead of mega punch crit we should have horn attack crit into megapunch
 
 | Bulbasaur                | &nbsp; |
 | -----------------------  | ------ |
-| <details><summary>Mega Punch + Horn Attack@-1</summary><br><img src="https://i.imgur.com/1Wd7xCX.png" width="250"></details>  | ? |
+| <details><summary>Mega Punch + Horn Attack@-1</summary><br><img src="https://cdn.discordapp.com/attachments/742565967871082496/766461675317624842/hpbar-bulbasaur-lv17-14.png" width="250"></details>  | ? |
 | <details><summary>Mega Punch# + Posion Sting</summary><br><img src="https://i.imgur.com/lPCZgOh.png" width="250"></details> | ? |
 
 
