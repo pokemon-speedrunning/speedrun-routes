@@ -1,5 +1,5 @@
 * Glitchless Routes
-  * [Red-Blue](/gen-1/red-blue/main-glitchless/ 'A Speedrun Guide for Pokemon Red and Blue Glitchless')
+  * [Red-Blue](/gen-1/red-blue/main-glitchless/ 'Speedrun Guides for Pokemon Red and Blue Glitchless')
   * [Yellow](/gen-1/yellow/main-glitchless/ 'A Speedrun Guide for Pokemon Yellow Glitchless')
   * [Gold-Silver](/gen-2/gold-silver/main-glitchless/ 'A Speedrun Guide for Pokemon Gold and Silver Glitchless')
   * [Crystal](/gen-2/crystal/main-glitchless/ 'A Speedrun Guide for Pokemon Crystal Glitchless')
