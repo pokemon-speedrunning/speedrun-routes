@@ -18,7 +18,7 @@ Route 1
 Viridian Mart
 - Buy 3 Poke Balls
 
-Do [Nido Manip](/resources/nido-manip.md)
+Do [Nido Manip](/gen-1/red-blue/main-glitchless/resources/nido-manip.md)
 
 Do [Triple Extended Manip](/gen-1/red-blue/main-glitchless/resources/triple-extended)
 
