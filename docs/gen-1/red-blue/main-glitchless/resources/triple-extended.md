@@ -5,7 +5,7 @@ credits to stringflow ([original pastebin](https://pastebin.com/ApTUFBQ3))
 
 **DISCLAIMER**: This is really hard, consider focusing on other execution sections if you are a beginner
 
-- [Video Tutorial]() _TODO_
+- [Video Tutorial](https://youtu.be/kEtNFC8_Bjw)
 - Glossary:
   - 'r' means NPC is looking RIGHT
   - 'R' means NPC moves RIGHT
