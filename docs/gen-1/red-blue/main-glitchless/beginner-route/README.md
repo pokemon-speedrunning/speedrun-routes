@@ -17,7 +17,7 @@
   - [Pallete Cans ](https://youtu.be/_tWhfBITf_g)(aka 'Cheater' Palette, allows you to see through Rock Tunnel)
 
 ## Good Documents:
-- [HP Dependent Strats](https://pastebin.com/HgyuMvyr) (risky strats)
+- [HP Dependent Strats](https://pastebin.com/HgyuMvyr)
 - [Original Route made in 2019](https://pastebin.com/7HRZxXKS)
 	* This route is still good, and if you already know Route 3 Moon Manip you may want to use this instead
 - [Defensive Damage Ranges](/gen-1/red-blue/main-glitchless/resources/defensive-ranges)

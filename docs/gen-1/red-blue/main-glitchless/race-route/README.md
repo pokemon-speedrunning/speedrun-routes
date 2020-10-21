@@ -18,7 +18,7 @@
   - [Pallete Cans ](https://youtu.be/_tWhfBITf_g)(aka 'Cheater' Palette, allows you to see through Rock Tunnel)
 
 ## Good Documents:
-- [HP Dependent Strats](https://pastebin.com/HgyuMvyr) (risky strats)
+- [HP Dependent Strats](https://pastebin.com/HgyuMvyr)
 - [Defensive Damage Ranges](/gen-1/red-blue/main-glitchless/resources/defensive-ranges)
 - [Offensive Damage Ranges](/gen-1/red-blue/main-glitchless/resources/offensive-ranges)
 
