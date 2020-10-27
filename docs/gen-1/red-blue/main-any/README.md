@@ -17,7 +17,7 @@
   - 13 -> 10
 - Open Item, swap
   - Slot 1 (Gold Teeth) -> Slot 5 (j.x[38])
-  - Slot 3 (Gold Teeth) -> Slot 13 (j.x[1], 1 below THUNDERSTONE)
+  - Slot 3 (Gold Teeth) -> Slot 13 (j.x[1], 1 below GREAT BALL)
 - Open Pokemon again, swap:
   - 17 -> 22
   - 23 -> 18
