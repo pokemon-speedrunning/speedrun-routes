@@ -3,7 +3,7 @@
 
 ## Intro
 - Manip TID:
-  - [6415 (25621)](https://youtu.be/WffIE2ubIak old)
+  - [6415 (25621)](https://youtu.be/WffIE2ubIak)
   - [or 64EA (25834)](https://youtu.be/RjqDCth4GIk)
     - this manip saves 16 frames later into the run, but it's harder to pull of. More details in the video
 - Name yourself ASH
