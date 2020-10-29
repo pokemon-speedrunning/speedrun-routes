@@ -1,6 +1,7 @@
 **Pre-Run**
 - Clear save data
 - Manip TID to 09705.
+####
 	- Gold TID Manip: https://youtu.be/VjOSelnhE3s
 	- Gold TID Offsets: 13750/22750
 	- Gold TID Range: https://pastebin.com/ZF4QX7Ya
