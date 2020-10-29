@@ -4,7 +4,7 @@
 	- Gold TID Manip: https://youtu.be/VjOSelnhE3s
 	- Gold TID Offsets: 13750/22750
 	- Gold TID Range: https://pastebin.com/ZF4QX7Ya
-####
+	####
 	- Silver TID Manip: https://youtu.be/erpaVH2p4_I
 	- Silver TID Offsets: 14100/23350
 	- Silver TID Range: https://pastebin.com/HEXruHKq
