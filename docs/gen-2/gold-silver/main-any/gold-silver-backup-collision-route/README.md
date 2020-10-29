@@ -30,18 +30,13 @@ If something isn't clear, you should watch [CasualPokePlayer's run](https://yout
 ## Cherrygrove
 #### Center
 - Name boxes on Pokemon Center 1F
-- BOX 12
-	- Q é d 2 D 'm v 2
-		- LLDA sRRDDA SLDA ULURA sDRDA sDDDA UA DDLLA A
-- BOX 3
-	- é ] 'd a é é 4 'd
-		- sDDDA sLLLA sRRRRA SRDA DDDA A SLUA LLUA A
-- BOX 2
-	- é H 'd F é 'v 2 H
-		- sDDDA sSDLA sURUURA sDDLDLA sULUUA LLA RRRDA sSDLA A
-- BOX 1
-	- é g 'd E é [ 'd 'd
-		- sDDDA SDLLA URUURA sSLDRA sULUUA sLLLLA sLLLLA A A
+| BOX | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | END | NAME |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 12  | ←←↓A | s→→↓↓A | S←↓A | ↑←↑→A | s↓→↓A | s↓↓↓A |↑A | ↓↓←←A | A |  Qéd2D'mv2 |  
+| 3   | s↓↓↓A | s←←←A | s→→→→A | S→↓A | ↓↓↓A | A | S←↑A | ←←↑A | A | é]'daéé4'd |
+| 2   | s↓↓↓A | sS↓←A | s↑→↑↑→A | s↓↓←↓←A | s↑←↑↑A | ←←A | →→→↓A | sS↓←A | A | éH'dFé'v2H |
+| 1   | s↓↓↓A | S↓←←A | ↑→↑↑→A | sS←↓→A | s↑←↑↑ | s←←←←A | s←←←←A | A | A | ég'dEé['d'd |
+
 
 #### Mart
 - Buy 11 Antidotes
