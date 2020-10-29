@@ -19,7 +19,7 @@ DISCLAIMER: This route only works on Silver. Refer to the old route if you want 
 - Run away from all encounters until you have Poke Balls
 
 - Rival: Leer spam
-	*Winning isn't needed, so just hope for fast death
+	- Winning isn't needed, so just hope for fast death
 
 - Give Rival a 1 character name
 
@@ -31,23 +31,23 @@ DISCLAIMER: This route only works on Silver. Refer to the old route if you want 
 **Cherrygrove**
 - Box Names: same from the collision route: https://pastebin.com/dpqDQmzX
 - Name boxes first, then Move w/o Mail to save
-	*"Good" box naming reference video: https://youtu.be/5lv-F3XshvU (memorizing and practicing saves 20+ seconds)
-	*Note this route has different box names, this video is from the old Gold route.
+	- "Good" box naming reference video: https://youtu.be/5lv-F3XshvU (memorizing and practicing saves 20+ seconds)
+	- Note this route has different box names, this video is from the old Gold route.
 - Attempt bad clone (see notes below)
-	*Deposit cynda from the top of the party
-	*Open withdraw menu each reset to check if you got bad clone
-	*Don't bother moving new pokes into party; just deposit cynda for each attempt
+	- Deposit cynda from the top of the party
+	- Open withdraw menu each reset to check if you got bad clone
+	- Don't bother moving new pokes into party; just deposit cynda for each attempt
 - Once successful, withdraw bad clone
 - Walk to d0 save tile (https://gunnermaniac.com/pokeworld2?map=1#279/221), save
 - Attempt d0 glitch (see notes below)
-	*You only need to take 1 step down, so once you bonk spam A to talk to red
+	- You only need to take 1 step down, so once you bonk spam A to talk to red
 	
 	
 ***Bad Clone Notes***
 
 **Timing**
 - GBI hard reset: press A approx 26 frames before reset (video: https://youtu.be/6AK8Yc226fI?t=888)
-	*Can use Flowtimer with a line like 440000, 440, 1000 to act as a metronome
+	- Can use Flowtimer with a line like 440000, 440, 1000 to act as a metronome
 - GBP hard reset: press reset approx 6 frames before A  (video: https://youtu.be/TOseAPq8Pcg?t=723)
 - GSR hard reset: same as GBP
 	
@@ -55,9 +55,9 @@ DISCLAIMER: This route only works on Silver. Refer to the old route if you want 
 - Early = no clone, Late = clone w/normal nickname, Very Late = deposited w/no clone.
 - No nickname means you "hit the frame" (but bad clone itself is a subframe window)
 - L0 can either be a "real" or "fake" bad clone
-	*L0 males are guaranteed "fake" bad clones
-	*If L0 female is created, it could be real or fake (can check stats for glitched type to confirm)
-	*What matters for this run is the clone has no moves (technically possible even without the glitched type)
+	- L0 males are guaranteed "fake" bad clones
+	- If L0 female is created, it could be real or fake (can check stats for glitched type to confirm)
+	- What matters for this run is the clone has no moves (technically possible even without the glitched type)
 		
 **Miscellaneous**
 - First try bad clone is a ~1/48 frame window when depositing 1 pokes
