@@ -19,6 +19,7 @@
   * [Red-Blue-Any%](/gen-1/red-blue/main-any/ 'A Speedrun Guide for Pokemon Red and Blue Any% No Restriction')
   * [Yellow-NSC](/gen-1/yellow/main-nsc/ 'A Speedrun Guide for Pokemon Yellow Any% No Save Corruption')
   * [Yellow-Any%](/gen-1/yellow/main-any/ 'A Speedrun Guide for Pokemon Yellow Any% No Restriction')
+  * [Gold-Silver](/gen-2/gold-silver/main-any/ 'Speedrun Guides for Pokemon Gold and Silver Any%')
 * CatExt Routes
   * [Red-Blue](/gen-1/red-blue/catext/ 'Speedrun Guides for Red-Blue Category Extensions')
   * [Gold-Silver](/gen-2/gold-silver/catext/ 'Speedrun Guides for Gold-Silver Category Extensions')
