@@ -30,6 +30,7 @@ If something isn't clear, you should watch [CasualPokePlayer's run](https://yout
 ## Cherrygrove
 #### Center
 - Name boxes on Pokemon Center 1F
+
 | BOX | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | END | NAME |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 12  | ←←↓A | s→→↓↓A | S←↓A | ↑←↑→A | s↓→↓A | s↓↓↓A |↑A | ↓↓←←A | A |  Qéd2D'mv2 |  
