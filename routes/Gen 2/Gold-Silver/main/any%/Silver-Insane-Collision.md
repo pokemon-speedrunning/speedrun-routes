@@ -1,4 +1,6 @@
-## Disclaimer: This route only works on Silver. Gold would take twice as long for collision, so it isn't worth it.
+## Disclaimer: This route only works on Silver. Gold collision has to use the backup collision route.
+
+## Disclaimer 2: This route requires you to hit a roughly 1/278 frame window. This window is around 10x smaller than first try 2 deposit bad clone, so hitting it is insanely hard. <br> However, if successful, this route essentially kills the category.
 
 
 **Pre-Run**
