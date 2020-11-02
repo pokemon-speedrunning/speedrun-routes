@@ -1,14 +1,17 @@
-# Pokemon Red Glitchless Race Route (NO IT-Lass-3Repels-PPUp)
+# Pokemon Red Glitchless Race Route (NO IT-FlexLass-3Repels-PPUp)
 
-**FAQ: Please read the [FAQ](https://pastebin.com/iYrcaEfS) before learning :)**
+**This is one of the many race routes people use and most of them are as good. I decided to document this because it was used by both 3 finalist at the 2020 Red Tournament**
+**You can find the VOD of the Finals[here](https://youtu.be/owoeSjzdqL0), it's a good example of this route in action**
 
 ## Manip Quick Reference:
-- Nidoran Manip:
-  - [Optimal (HIGHLY RECOMMENDED)](/gen-1/red-blue/main-glitchless/resources/nido-manip)
-  - [1 A Press](https://youtu.be/qPzSWHyMuW8)
+- [Nidoran Manip](/gen-1/red-blue/main-glitchless/resources/nido-manip)
+- [Triple Extended Manip](/gen-1/red-blue/main-glitchless/resources/triple-extended)
 - [Pidgey Backup](https://youtu.be/WLigwIbp2ps)
 - Mount Moon Manip:
-  - [Inside Moon](https://pastebin.com/jnj9j47S) (Optimal for this route)
+  - [Inside Moon](https://pastebin.com/jnj9j47S)
+   - mandatory if you did Lass
+  - [R3 Moon Manip](https://pastebin.com/tggXpQRC) 
+   - this is slightly better but can only use it if you skip Lass
   - Backups (in case you fail the full manip):
 	- [2nd Floor Backup (string manip)](https://pastebin.com/j5gtY4cy)
 	- [Post Nerd Backup Paras](/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras)
@@ -43,9 +46,8 @@
   - During the parcel quest kill one encounter from a level 2 rat, level 3 rat, or a level 2 pidgey. You can fight level 3 pidgeys but you will take a bit of damage if you have a lower attack (10-11 at Lv6) squirtle. This Early XP will get you Bubble for Brock
 - SHOPPING:
 	- 4 Pokeballs (This does require you to get consistent at manip yoloballs, you can buy 5 and 1 less potion later on)
-- Nidoran Manip:
-  - [Optimal (HIGHLY RECOMMENDED)](/gen-1/red-blue/main-glitchless/resources/nido-manip)
-  - [1 A Press](https://youtu.be/qPzSWHyMuW8)
+- [Nidoran Manip](/gen-1/red-blue/main-glitchless/resources/nido-manip)
+- [Triple Extended Manip](/gen-1/red-blue/main-glitchless/resources/triple-extended)
 - Get the tree potion [here](http://gunnermaniac.com/pokeworld?map=1#54/166)
 
 ## Viridian Forest:
@@ -98,8 +100,13 @@
 
 **Bug Catcher 2:** [Heal on caterpie if HP < 7]
 * HA Spam all pokes finish pokemon with tackle when possible
-- Menu: Use a potion if HP < 21
+- Here you need to decide if you want to do Lass or not. 
+ - if you have more than 8/9 HA, skip Lass
+ - if you have red bar for BC3, consider skipping Lass even at low HA count
+ - if you want to play 100% safe, always do Lass
 
+[LASS]
+- Menu: Use a potion if HP < 21
 **Lass:** (This route also fights the optional lass)
 - HA x4
 
@@ -112,28 +119,55 @@
 * Tackle then toss a ball at any flyer expect level 8s where you HA then toss a ball
 - Kill any encounter in the grass with HA EXCEPT level 3 or level 7 jigglypuffs
 
+[LASS SKIP]
+**Bug Catcher 3:**
+* Caterpie:
+	- HA x2
+* Metapod:
+	- HA x2, Tackle
+  - Catch a Flyer
+* Tackle then toss a ball at any flyer expect level 8s where you HA then toss a ball
+
 ## Mount Moon
 **Mount Moon Manip:**
 
-Don't stress too much doing the longer manips just learn Post Nerd Backup Paras and start working on a full moon manip. If you fail the manip just keep going and do the backup paras. There is also a 2nd floor backup you can learn
-- [Inside Moon](https://pastebin.com/jnj9j47S) (Optimal for this route)
-- Backups (in case you fail the full manip):
-  - [2nd Floor Backup (string manip)](https://pastebin.com/j5gtY4cy)
-  - [Post Nerd Backup Paras](/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras)
-  - [Oddish Backup](/gen-1/red-blue/main-glitchless/resources/oddish-backup)
+- Mount Moon Manip:
+  - [Inside Moon](https://pastebin.com/jnj9j47S)
+   - mandatory if you did Lass
+  - [R3 Moon Manip](https://pastebin.com/tggXpQRC) 
+   - this is slightly better but can only use it if you skip Lass
+  - Backups (in case you fail the full manip):
+	- [2nd Floor Backup (string manip)](https://pastebin.com/j5gtY4cy)
+	- [Post Nerd Backup Paras](/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras)
+    - [Oddish Backup](/gen-1/red-blue/main-glitchless/resources/oddish-backup)
 
 - Get TM 12 (Water Gun), Rare Candy, Escape Rope, TM 01 (Mega Punch), Moon Stone during mount moon manip
+
+[LASS]
 - MENU after Paras and Before Rocket:
 	* Toss any remaining Pokeballs (ONLY IF YOU HAVE A PARAS)
 	* Toss Antidote if you still have it
 	* Use Rare Candy
 	* Use Moon Stone
 	* Teach TM 01 (Mega Punch) over Leer (Slot 1)
-
+	
 **Rocket:**
 * Rat: MP
 * Zubat: MP + PS (HA/Tackle if zubat uses leech life and crits)
 
+[LASS SKIP]
+**Rocket:**
+* Rat: HAx2 (PS)
+* Zubat: Leer + HAx2
+
+- MENU before Nerd:
+	* Toss any remaining Pokeballs (ONLY IF YOU HAVE A PARAS)
+	* Toss Antidote if you still have it
+	* Use Rare Candy
+	* Teach TM 12 (Water Gun) over Tackle (Slot 2) 
+	* Use Moon Stone
+	* Teach TM 01 (Mega Punch) over Leer (Slot 1)
+	
 **Super Nerd:**
 * Grimer: MP + HA (Tackle if out of HA)
 * Voltorb: MP + (PS)
@@ -163,7 +197,8 @@ Don't stress too much doing the longer manips just learn Post Nerd Backup Paras 
 **Fight 3:**
 * MP
 * MP
-* HA
+* [LASS] HA
+ - [LASS SKIP] MP
 
 **Fight 4:**
 * MP + (PS)
@@ -178,13 +213,15 @@ Don't stress too much doing the longer manips just learn Post Nerd Backup Paras 
 * HP > 27:
   - MP + (PS)
 
+[LASS]
 MENU:
 - Teach Water Gun (TM 12) over Poison Sting
 - Use Rare Candy
 
 **Rocket:**
 * Ekans: MP
-* Zubat: HA
+* Zubat: [LASS] HA
+ [LASS SKIP] MP
 
 ## Route 25:
 **Bottom Hiker 1:**
@@ -196,13 +233,14 @@ MENU:
 
 **Bottom Hiker 2:**
 * WG
-  * NOTE: You will learn Thrash here, teach it over Tackle
+  * [LASS] NOTE: You will learn Thrash here, teach it over Tackle
 * WG
 * MP + (WG)
 * WG
 
 **Female Junior 2:**
-* Thrash
+* [LASS] Thrash
+ - [LASS SKIP] MP, HA, MP
 
 - MENU After Bill:
 	* Use Rare Candy
@@ -351,6 +389,8 @@ Shopping:
 	* Swap slot 3 with X Accs
 	* Teach HM 02 to the bird
 	* Use Fly to go to Lavender
+	
+_TODO_ add early drill strat
 
 ## Lavender Town
 NOTE: From this point on you have 2 revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, revive, let the swapped pokemon die and ANY AND ALL X ITEMS ARE GONE. This route has extras so you shouldn't run out of x items, and there will still be some saving since some deaths with revives are still really slow to come back from if at all
