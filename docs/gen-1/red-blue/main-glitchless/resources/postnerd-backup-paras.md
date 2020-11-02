@@ -4,6 +4,8 @@
 
 [A Press Map](https://imgur.com/a/AOULFxh)
 
+[Video with Inputs](https://youtu.be/t9PdVhItn-0)
+
 **Buffer and hold a palette from hard reset until the copyright screen disappears**
 
 Normal yoloball for both regular and redbar hp
