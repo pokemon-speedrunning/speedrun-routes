@@ -6,7 +6,7 @@ Keep this pastebin open at all times: https://pastebin.com/HgyuMvyr
 
 Damage Ranges: https://pastebin.com/Bgq1d0H5
 
-##NIDORAN SPLIT
+## NIDORAN SPLIT
 
 Rival 1:
 - Tail Whip x1
@@ -22,7 +22,7 @@ Do [Nido Manip](/gen-1/red-blue/main-glitchless/resources/nido-manip.md)
 
 Do [Triple Extended Manip](/gen-1/red-blue/main-glitchless/resources/triple-extended)
 
-##BROCK SPLIT
+## BROCK SPLIT
 
 Weedle Guy:
 - Tail Whip x2
@@ -40,7 +40,7 @@ Brock:
 - Switch to Nido, then swap back to Squirtle
 - Bubble x2-3 on Onix
 
-##ROUTE 3 SPLIT
+## ROUTE 3 SPLIT
 
 Change Options to Set before leaving the Gym
 
@@ -65,7 +65,7 @@ BC3:
 - HA x2
 - HA x3-4(finish with Tackle if you can)
 
-##MT. MOON SPLIT
+## MT. MOON SPLIT
 
 Do Route 3 Moon Manip https://pastebin.com/tggXpQRC
 
@@ -84,7 +84,7 @@ Nerd:
 - MP(PS)
 - MP x2(finish with HA if you have 1)
 
-##BRIDGE SPLIT
+## BRIDGE SPLIT
 
 Take the Center then get Instant Text then get hidden Rare Candy
 
@@ -113,7 +113,7 @@ Youngster:
 Rocket:
 - MP all
 
-##MISTY SPLIT
+## MISTY SPLIT
 
 Hiker:
 - WG
@@ -151,7 +151,7 @@ Goldeen:
 Misty:
 - Thrash
 
-##SURGE SPLIT
+## SURGE SPLIT
 
 Jr Trainer F:
 - Thrash
@@ -178,7 +178,7 @@ Do Cans Manip
 Surge:
 - Thrash
 
-##FLY SPLIT
+## FLY SPLIT
 
 Get Bike Voucher then dig out and get the bike
 
@@ -244,7 +244,7 @@ Shopping
 
 Get HM02 Fly
 
-##FLUTE SPLIT
+## FLUTE SPLIT
 
 Fly Menu
 - Swap slot 2 for TM07
@@ -296,7 +296,7 @@ Rocket 3:
 
 Get Pokeflute
 
-##KOGA SPLIT
+## KOGA SPLIT
 
 Fly to Celadon and take the Center, then Bike to Silph
 
@@ -337,7 +337,7 @@ CYCLING ROAD:
 
 Post Cycling Road Menu:
 - Use Repel
-- Swap slot 9 for x special
+- Swap slot 6 for x special
 - Teach TM26
 - Bike
 
@@ -358,7 +358,7 @@ Koga:
 - Elixir
 > x special if x attack and have an extra
 
-##ERIKA SPLIT
+## ERIKA SPLIT
 
 After exiting the gym use 3 rare candies on nidoking then bike
 
@@ -366,7 +366,7 @@ Get Strength then fly to Pallet town and walk to the bottom of the water
 
 Pallet Menu
 - Use Super Repel
-- Swap slot 5 for X Speed
+- Swap slot 8 for X Speed
 - Teach hm03 to squirtle
 - Surf
 
@@ -390,7 +390,7 @@ Erika:
 - Blizzard
 - EQ
 
-##BLAINE SPLIT
+## BLAINE SPLIT
 
 Fly to Cinnabar
 
@@ -398,14 +398,14 @@ Blaine:
 - X Acc + EQ
 - Drill x3
 
-##SABRINA SPLIT
+## SABRINA SPLIT
 
 Dig out and bike to Sabrinas Gym
 
 Sabrina:
 - EQ x4
 
-##GIOVANNI SPLIT
+## GIOVANNI SPLIT
 
 Dig out and fly to Viridian City and bike to gym
 
@@ -425,7 +425,7 @@ Giovanni:
 - EQ x4
 - Blizzard(Blizzard)
 
-##LORELEI SPLIT
+## LORELEI SPLIT
 
 Super Repel + Bike
 
@@ -444,14 +444,14 @@ Lorelei:
 - Swap back to Nidoking
 - X Acc + Drill x5
 
-##BRUNO SPLIT
+## BRUNO SPLIT
 
 Use Max Ether on Horn Drill
 
 Bruno:
 - X Acc + Drill x5
 
-##AGATHA SPLIT
+## AGATHA SPLIT
 
 Use Super Potion and Rare Candy
 
@@ -461,7 +461,7 @@ Agatha:
 - EQ x3
 > If miss Golbat into Haze kill it with TB x2 then use X Speed on Arbok if 25-60 HP or yolo
 
-##LANCE SPLIT
+## LANCE SPLIT
 
 Use elixir and heal to 127+ hp
 
@@ -472,7 +472,7 @@ Lance:
 - TB
 - Blizzard
 
-##CHAMP SPLIT
+## CHAMP SPLIT
 
 Champion:
 - X Special + X Acc + Drill
