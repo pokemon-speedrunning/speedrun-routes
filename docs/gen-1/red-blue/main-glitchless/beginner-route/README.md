@@ -11,7 +11,6 @@
   - Backups (in case you fail the full manip):
 	- [2nd Floor Backup (string manip)](https://pastebin.com/j5gtY4cy)
 	- [Post Nerd Backup Paras](/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras)
-    - [Oddish Backup](/gen-1/red-blue/main-glitchless/resources/oddish-backup)
 - Surge Cans Manip:
   - [Optimal](https://www.youtube.com/watch?v=8Pa2f2WxCe4)
   - [Pallete Cans ](https://youtu.be/_tWhfBITf_g)(aka 'Cheater' Palette, allows you to see through Rock Tunnel)
@@ -116,7 +115,6 @@ Don't stress too much doing the longer manips just learn Post Nerd Backup Paras 
 - Backups (in case you fail the full manip):
   - [2nd Floor Backup (PoY v2.0)](https://pastebin.com/j5gtY4cy)
   - [Post Nerd Backup Paras](/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras)
-  - [Oddish Backup](/gen-1/red-blue/main-glitchless/resources/oddish-backup)
 
 - Get TM 12 (Water Gun), Rare Candy, Escape Rope, TM 01 (Mega Punch), Moon Stone during mount moon manip
 - MENU after Paras and Before Rocket:
@@ -223,9 +221,6 @@ If you are less than 15 HP do the following:
 * Potion
 * Teach BB over PS
 * Get IT again
-
-If you still miss a cutter:
-  - [Oddish Backup](/gen-1/red-blue/main-glitchless/resources/oddish-backup)
 
 ## Vermilion City:
 **Female Jr:**
