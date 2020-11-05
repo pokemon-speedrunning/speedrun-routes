@@ -423,7 +423,8 @@ Leave the gym then go back in and go up 1 tile before menuing to use Elixir
 
 Giovanni:
 - EQ x4
-- Blizzard(Blizzard)
+- Blizzard rhydon until you have 2 blizzard left(EQ after that)
+ - If early elixir EQ rhydon once if miss blizz range
 
 ## LORELEI SPLIT
 
@@ -433,8 +434,10 @@ Rival:
 - X Acc + X Speed + Blizzard(TB)
 - Blizzard
 - Drill x4
-> If you used too many Blizzards on Rhydon, can EQ Rhyhorn
-
+ - If you used too many Blizzards on Rhydon, can Drill Rhyhorn
+ - TB Gyarados if you Elixired early
+ -  EQ Rhyhorn if you used too many Blizzards on Rhydon and you Elixired early
+ 
 Pick up the hidden Max Ether and use it on Horn Drill on final Victory Road Menu
 
 Deposit Squirtle and Paras
