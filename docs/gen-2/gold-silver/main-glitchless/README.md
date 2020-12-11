@@ -24,7 +24,6 @@
 - Go to save spot and take off Berry
 - Do Route 29 manip
 - Get hidden Potion
-- Kill a level 2 Pidgey or a level 3-4  Caterpie if seen
  
 ### CHERRYGROVE CITY
 - Rival 1: Leer, Scratch spam
@@ -56,11 +55,11 @@
 - Ralph: Leer, Scratch x3
  
 ### UNION CAVE
-- Fight Daniel if didnt fight Ralph (Leer+Rage spam)
-- Kill 1 of Geodude, Sandshrew, or Onix if seen (unless hit Daniel) (Can also kill a level 4 rat or level 5 zubat if you killed a bellsprout or Hoppip earlier)
+- If you did not kill an encounter on Route 32, then skip Ralph, teach mud slap, and fight Daniel (Leer + Mud Slap spam)
+- Kill 1 of Geodude, Sandshrew, or Onix if seen after Daniel (unless fought Ralph and Daniel)
 - (Avoid Daniel: WG)
 - Russel: WG x3
-- Do Sandshrew Manip (Scratch x2)
+- Do Sandshrew Manip (Scratch x1-2)
 - Ray: WG + Rage/Scratch
  
 ### ROUTE 33
@@ -187,8 +186,7 @@
 - If already Repelled, just bike
  
 ### OLIVINE CITY
-- Shopping: Buy Super Potions if you need them, and 11 Super Repels 
-	> Consider Hyper Potions instead if no Supers
+- Shopping: Buy Super/Hyper Potions if you need them, and 11 Super Repels 
  
 ### LIGHTHOUSE 1
 - Gentleman 1: HB+Surf (Scratch if it kills) (HB x2 if can't Scratch and haven't taught Surf)
@@ -215,7 +213,7 @@
  
 ### ROUTE 41-42
 - Before surfing, Teach Surf+Strength if haven't taught Surf yet
-- On Kaylee pause buffer, teach Strength over Scratxh
+- On Kaylee pause buffer, teach Strength over Scratch
 - (Kaylee: Strength x3)
 - Option to no pause Kaylee and then teach strength in gym + use strength from menu
  
@@ -264,10 +262,7 @@
 - Rocket 8: Bite x3
 - Executive-M: HB, Strength, Surf
 - Executive-F: Surf, Strength, Strength
-- Electrode 1: Strength
-- Electrode 2: Strength
-- Electrode 3: Surf
-- (If one of the Electrodes is shiny, use the Surf on that one)
+- Electrodes: Surf(+Bite)
 - Open the menu after Lance:
     > Toss Awakenings
 
@@ -296,7 +291,7 @@
 
 ### GOLDENROD MART
 - Go to 5F and get Return and TM33
-- Go to 3F and buy: 5 X Specials, 11 X Attacks, 1 Guard Spec, 2 X Accuracies
+- Go to 3F and buy: 6 X Specials, 11 X Attacks, 1 Guard Spec, 3 X Accuracies
 - Leave and bike to the Radio Tower
  
 ### RADIO TOWER 1
@@ -310,7 +305,7 @@
 
 	> Teach Ice Punch over Headbutt/Slash
 - Scientist 2: Surf(+Bite)
-- Executive-M: Surf, Surf, Surf, Bite+Surf, IP(+Bite), IP(+Bite)
+- Executive-M: Surf, X Special (+ X Acc if smokescreen) + Bite, Bite, Surf, Bite, Bite
  
 ### UNDERGROUND
 - Rival 3: IP(+Bite), (X Special if still have Przcureberry), Surf, (X Special if haven't), IP, IP, Surf
@@ -556,3 +551,5 @@
 	> If you get hit by Thunder, Full restore until it misses
 
 	> If hit by Thunder after last X Attack, wait to Full Restore until Snorlax
+	
+	> Can Return+Stength Blastoise and Return x2 Charizard if worried about getting burned and missing the range
