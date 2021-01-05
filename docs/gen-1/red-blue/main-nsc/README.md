@@ -5,8 +5,8 @@ Based on davidpoko's guide, which was based on krazyd4n's guide.
 
 ## Intro
 - Manip TID F1C8 (61896)
-  - [faster but slightly harder](https://www.youtu.be/hJFPSA1YEYk)
-  - [slower but sligtly easier](https://www.youtu.be/u5_hDQ7H98w)
+  - [faster but slightly harder](https://youtu.be/hjFPSA1YEYk)
+  - [slower but sligtly easier](https://youtu.be/u5_hDQ7H98w)
   - note that the TID manip length doesn't impact the final time, it's only about reset efficiency
 - Name yourself m[Mn]a.[female symbol]tF
   - the fastest way to do this is:
