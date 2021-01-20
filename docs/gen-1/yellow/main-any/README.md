@@ -14,7 +14,6 @@
   - on GBP or Gambatte, first reset then press A shortly after
   - on GBI, first press A then reset right after
 - Save corrupting is a 4-frame windows, so you will probably need some practice with the timing
-- Take 1 step down
 - Open your Pokemon menu, swap
   - 9 -> 10
   - 12 -> 13
