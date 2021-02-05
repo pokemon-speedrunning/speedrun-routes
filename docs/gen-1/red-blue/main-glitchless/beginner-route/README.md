@@ -105,7 +105,7 @@
 	- HA, PS, HA, PS (You really want at least 1 HA after this fight, if you are at 1 HA just PS)
   - Catch a Flyer
 * Tackle then toss a ball at any flyer expect level 8s where you HA then toss a ball
-- Kill any encounter in the grass with HA EXCEPT level 3 or level 7 jigglypuffs
+- Kill one encounter in the grass with HA EXCEPT level 3 or level 7 jigglypuffs to get nidoran to level 15
 
 ## Mount Moon
 **Mount Moon Manip:**
