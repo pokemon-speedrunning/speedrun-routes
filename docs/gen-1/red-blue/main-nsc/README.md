@@ -23,7 +23,7 @@ Based on davidpoko's guide, which was based on krazyd4n's guide.
 - Buy 1 Pokeball from the Viridian Mart
 - Heads toward Route 22 and [manipulate a Spearow and its yoloball](https://youtu.be/Juvj2kGndfo)
   - Do not load [this NPC](https://gunnermaniac.com/pokeworld?local=1#6/23) going to the save tile, otherwise the manip will fail
-  - If [this NPC](https://gunnermaniac.com/pokeworld?local=1#13/20) moves on screen for the save tile, go left 2 tiles and do [this backup manip](https://youtu.be/8V8q03cT2Tg)
+  - If [this NPC](https://gunnermaniac.com/pokeworld?local=1#13/20) moves on screen for the save tile, go left 2 tiles and do [this backup manip](https://youtu.be/8V8q03cT2Tg) instead
 - Name it "AA"
 - Enter the Viridian Pokemon Center, deposit Charmander and heal to set the Center as your spawn point
 - Leave and head to Route 2
