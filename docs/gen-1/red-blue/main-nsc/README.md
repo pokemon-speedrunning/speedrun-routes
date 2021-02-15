@@ -5,14 +5,14 @@ Based on davidpoko's guide, which was based on krazyd4n's guide.
 
 ## Intro
 - Manip TID F1C8 (61896)
-  - [faster but slightly harder](https://youtu.be/hjFPSA1YEYk)
-  - [slower but sligtly easier](https://youtu.be/u5_hDQ7H98w)
-  - note that the TID manip length doesn't impact the final time, it's only about reset efficiency
+  - [Faster, but slightly harder](https://youtu.be/hjFPSA1YEYk)
+  - [Slower, but sligtly easier](https://youtu.be/u5_hDQ7H98w)
+  - Note that the TID manip length doesn't impact the final time, it's only about reset efficiency
 - Name yourself m[Mn]a.[female symbol]tF
-  - the fastest way to do this is:
+  - The fastest way to do this is:
     - Select, Down, Right, Right, Right, A, Up, Up, Up, Up, Left, A, Down, Down, Down, A, Up, Up, Left, Left, Left, A, Left, Left, A, Left, Left, Left, Up, Up, A, Select, Right, Right, Right, Right, Up, Up, A, A.
 - Name rival RED
-  - you can buffer this by clearing the last textbox with B, then holding DOWN+A
+  - You can buffer this by clearing the last textbox with B, then holding DOWN+A
 - Bufer START as soon as the last textbox stopped printing
   - Press UP 2 times to go into option and set them to Fast/Off
 
@@ -22,8 +22,10 @@ Based on davidpoko's guide, which was based on krazyd4n's guide.
 - Get the parcel and the Pokedex, run from any Route 1 encounter
 - Buy 1 Pokeball from the Viridian Mart
 - Heads toward Route 22 and [manipulate a Spearow and its yoloball](https://youtu.be/Juvj2kGndfo)
+  - Do not load [this NPC](https://gunnermaniac.com/pokeworld?local=1#6/23) going to the save tile, otherwise the manip will fail
+  - If [this NPC](https://gunnermaniac.com/pokeworld?local=1#13/20) moves on screen for the save tile, go left 2 tiles and do [this backup manip](https://youtu.be/8V8q03cT2Tg) instead
 - Name it "AA"
-- Enter the Viridian Pokemon Center, deposit Charmander and heal to set the Center as your Spawn point
+- Enter the Viridian Pokemon Center, deposit Charmander and heal to set the Center as your spawn point
 - Leave and head to Route 2
 
 ## Deathfly Glitch
@@ -36,7 +38,7 @@ Based on davidpoko's guide, which was based on krazyd4n's guide.
 
 ## Bug Catchers
 - Walk back to Viridian Forest
-  - As soon as you enter, you will be challenged by the Bug Catcher you just avoided.
+  - As soon as you enter, you will be challenged by the Bug Catcher you just avoided
 - Spam Peck
 - Once you finish you will be challenged again by the same Bug Catcher
 - Spam Peck again
@@ -47,5 +49,5 @@ Based on davidpoko's guide, which was based on krazyd4n's guide.
 
 ## Hall of Fame warp
 - After the battle, you should be warped to the Hall of Fame
-  - if the game crashed, you probably got the 25% of the ACE to fail even if you did everything correctly
+  - If the game crashed, you probably got the 25% of the ACE to fail even if you did everything correctly
 - Timer stops at the first full white frame after the last Hall of Fame textbox
