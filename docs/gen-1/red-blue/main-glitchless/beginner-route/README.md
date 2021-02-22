@@ -293,12 +293,13 @@ If you have less than 9 HP and IT, Fight the Gentleman in [this room here](https
 [Optional Save if you are bellow 18 HP]
 
 **Oddish Girl:**
-- Trash
-  * If you have 18 - 22 HP use TB, then Thrash.
-  - If you get para'd use a heal on it, and if you get put to sleep heal if absorb kills
-- Use one repel [here](https://gunnermaniac.com/pokeworld?map=232#25/19)
-- Use another repel [here](https://gunnermaniac.com/pokeworld?map=232#8/17)
-  - You can delay these 2 repels up to ~10 tiles
+- If you have 18 - 22 HP:
+  - TB, then Thrash
+- Otherwise, just Thrash
+- If you get para'd use a heal on it, and if you get put to sleep heal if absorb kills
++ Use one repel [here](https://gunnermaniac.com/pokeworld?map=232#25/19)
++ Use another repel [here](https://gunnermaniac.com/pokeworld?map=232#8/17)
+  + You can delay these 2 repels up to ~10 tiles
 
 **Hiker:**
 - BB x3
@@ -545,6 +546,7 @@ MENU before Agatha:
       - 2x TB on Golbat
       - X Speed on Arbok with 25-60 HP
       - skip X Speed (you will be slower than last Gengar) with less than 25 or more than 60HP
+    - If you miss Bliz, but Golbat doesn't use Haze, use Bliz again
 	* EQ all remaining Pokes
 
 MENU Before Lance:
@@ -552,16 +554,16 @@ MENU Before Lance:
 * Use Elixer
 * [OPTIONAL SAVE: Lance is pretty likely to go bad, so saving is recommend]
 
- HP    | ITEMS
- ----- | ---
-4-6    | Super Potion x2 + Potion x2
-8-26   | Super Potion x2 + Potion
-27-48  | Super Potion x2
-49-56  | Super Potion + Potion x2
-57-76  | Super Potion + Potion
-77-98  | Super Potion
+HP | ITEMS
+-- | -----
+4-6 | Super Potion x2 + Potion x2
+8-26 | Super Potion x2 + Potion
+27-48 | Super Potion x2
+49-56 | Super Potion + Potion x2
+57-76 | Super Potion + Potion
+77-98 | Super Potion
 99-106 | Potion x2
-107-126| Potion
+107-126 | Potion
 
 If you don't have enough Potion, use the heal option below
   - Feel free to use your Full Restore if you picked it up and you want to play really safe
