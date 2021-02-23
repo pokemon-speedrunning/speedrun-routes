@@ -210,7 +210,7 @@ Pickup Ether here: http://gunnermaniac.com/pokeworld?map=1#288/3
 **Rocket:**
 - Thrash
 
-**Swimmer:**
+**Female Junior:**
 -  Thrash
 
 **Misty:**
@@ -231,7 +231,7 @@ If you are less than 15 HP do the following:
 
 If you have less than 13 HP after this fight
 - Potion
-  -13+ HP lives QA x2, Wine Whip + QA non crits, and Wine Whip Crit
+  - 13+ HP lives QA x2, Wine Whip + QA non crits, and Wine Whip Crit
 - Teach BB over PS
 
 **Rival:**
@@ -316,17 +316,17 @@ If you have less than 9 HP and IT, Fight the Gentleman in [this room here](https
 
 ## Underground
 - Get the Hidden Elixer [here](http://gunnermaniac.com/pokeworld?map=121#21/5)
-	- Get the Hidden Nugget [here](http://gunnermaniac.com/pokeworld?map=121#12/2)
+- Get the Hidden Nugget [here](http://gunnermaniac.com/pokeworld?map=121#12/2)
 
 ## Celadon City
 Shopping:
 * Floor 2:
   - Sell TM 34 (Bide)
-	- Sell Both Nuggets
-	- Buy TM 07 (Horn Drill)
-	- Buy 9 Super Repels
-	- Buy 4 Super Potions
-	- Buy 2 Revives
+  - Sell Both Nuggets
+  - Buy TM 07 (Horn Drill)
+  - Buy 9 Super Repels
+  - Buy 4 Super Potions
+  - Buy 2 Revives
 * Floor 4:
 	- Buy Pokedoll
 * Roof:
@@ -380,9 +380,9 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 
 ## Celadon City
 - Use the Center
-- Bike to Saffaron City
+- Bike to Saffron City
 
-## Saffaron City
+## Saffron City
 - Enter Silph Co and take the stairs to floor 5
 - Get the Hidden Elixer [here](http://gunnermaniac.com/pokeworld?map=210#12/3)
 
@@ -485,9 +485,9 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 **Blaine:**
 * Growlithe: X ACC, EQ
 * HD all remaining pokes
-- Digout and Bike to Sabrina's Gym
+- Dig out and Bike to Sabrina's Gym
 
-##Saffaron City
+## Saffron City
 - Teleporter Puzzle: Top Left, Bottom Left, Bottom Left
 
 **Sabrina:**
@@ -499,6 +499,7 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 - EQ
 
 [OPTIONAL SAVE: This next fight has a decent chance to die, and reviving will lose red bar so saving is advised]
+
 **Blackbelt:**
 - X ACC, HD, Bliz, HD
 - Leave the Gym to reset the trainer
