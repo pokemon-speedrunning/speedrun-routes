@@ -560,11 +560,11 @@
   - Sandslash: X Spec, IB
   - Alakazam: EQ
   - Exeggutor: X Acc, HD
-  - Ninetales: EQ
-  - Magneton: HD
+  - Magneton: EQ
+  - Cloyster: HD
   - Flareon: EQ
     - Poke Flute if put to sleep (Exeggutor cannot deal any damage to you)
-    - (If Vape: X Spec, IB, EQ, X Acc, Drill, EQ, EQ, Drill)
+    - (If Vape: X Spec + IB, EQ, X Acc + Drill, EQ, EQ, Drill)
     - EQ: 132-156, 134-158 if 13 Special
     - Ninetales QA: 16-19
     - Magneton is an 89% range with Vaporeon
