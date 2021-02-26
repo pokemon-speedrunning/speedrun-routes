@@ -210,7 +210,7 @@ Pickup Ether here: http://gunnermaniac.com/pokeworld?map=1#288/3
 **Rocket:**
 - Thrash
 
-**Swimmer:**
+**Female Junior:**
 -  Thrash
 
 **Misty:**
@@ -324,11 +324,11 @@ Surge Cans Manip:
 Shopping:
 * Floor 2:
   - Sell TM 34 (Bide)
-	- Sell Both Nuggets
-	- Buy TM 07 (Horn Drill)
-	- Buy 9 Super Repels
-	- Buy 4 Super Potions
-	- Buy 2 Revives
+  - Sell Both Nuggets
+  - Buy TM 07 (Horn Drill)
+  - Buy 9 Super Repels
+  - Buy 4 Super Potions
+  - Buy 2 Revives
 * Floor 4:
 	- Buy Pokedoll
 * Roof:
@@ -382,9 +382,9 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 
 ## Celadon City
 - Use the Center
-- Bike to Saffaron City
+- Bike to Saffron City
 
-## Saffaron City
+## Saffron City
 - Enter Silph Co and take the stairs to floor 5
 - Get the Hidden Elixer [here](http://gunnermaniac.com/pokeworld?map=210#12/3)
 
@@ -491,9 +491,10 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 **Blaine:**
 * Growlithe: X ACC, EQ
 * HD all remaining pokes
-- Digout and Bike to Sabrina's Gym
+- Dig out and Bike to Sabrina's Gym
 
-## Saffaron City
+
+## Saffron City
 - Teleporter Puzzle: Top Left, Bottom Left, Bottom Left
 
 **Sabrina:**
