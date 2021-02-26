@@ -41,11 +41,11 @@
 ## Viridian City:
 - Get XP from one encounter in route 1
   - During the parcel quest kill one encounter from a level 2 rat, level 3 rat, or a level 2 pidgey. You can fight level 3 pidgeys but you will take a bit of damage if you have a lower attack (10-11 at Lv6) squirtle. This Early XP will get you Bubble for Brock
-- SHOPPING:
-	- 4 Pokeballs (This does require you to get consistent at manip yoloballs, you can buy 5 and 1 less potion later on)
-- Nidoran Manip:
-  - [Optimal (HIGHLY RECOMMENDED)](/gen-1/red-blue/main-glitchless/resources/nido-manip)
-  - [1 A Press](https://youtu.be/qPzSWHyMuW8)
++ Shopping:
+	+ 4 Pokeballs (This does require you to get consistent at manip yoloballs, you can buy 5 and 1 less potion later on)
+* Nidoran Manip:
+  * [Optimal (HIGHLY RECOMMENDED)](/gen-1/red-blue/main-glitchless/resources/nido-manip)
+  * [1 A Press](https://youtu.be/qPzSWHyMuW8)
 - Get the tree potion [here](http://gunnermaniac.com/pokeworld?map=1#54/166)
 
 ## Viridian Forest:
@@ -54,18 +54,18 @@
 **Bug Catcher:**
 - Tail Whip x2, Tackle Spam [Heal if HP < 7]
 - Check your leveled up stats after this fight, if you have 13 Special you have bad Special, if you have 14 or 15 you have good special
-- If you are poisoned do the following:
-	* Swap nidoran and squirtle (nidoran should be the lead pokemon)
-	* Potion if HP is bellow 16
-	* Antidote
++ If you were poisoned do the following:
+	+ Swap nidoran and squirtle (nidoran should be the lead pokemon)
+	+ Potion if HP is below 16
+	+ Antidote
 
 ## Pewter City:
-- SHOPPING:
-	* 8 Potions
-- If you weren't poisoned do the following:
-	* Swap nidoran and squirtle (nidoran should be the lead pokemon)
-  * Potion if HP is bellow 16
-	* [OPTIONAL SAVE IF YOU HAVE BAD SPECIAL]
+- Shopping:
+  - 8 Potions
++ If you weren't poisoned do the following:
+  + Swap nidoran and squirtle (nidoran should be the lead pokemon)
+  + Potion if HP is below 16
+  + [OPTIONAL SAVE IF YOU HAVE BAD SPECIAL]
 
 **Brock:**
 * Geodude [Heal if HP < 8]
@@ -99,13 +99,13 @@
 - HA x4
 
 **Bug Catcher 3:**
-* Caterpie:
-	- PS x2 (HA turn 2 if PS won't kill and didn't get turn 1 string shot hit)
-* Metapod:
-	- HA, PS, HA, PS (You really want at least 1 HA after this fight, if you are at 1 HA just PS)
-  - Catch a Flyer
-* Tackle then toss a ball at any flyer expect level 8s where you HA then toss a ball
-- Kill one encounter in the grass with HA EXCEPT level 3 or level 7 jigglypuffs to get nidoran to level 15
+- Caterpie:
+  - PS x2 (HA turn 2 if PS won't kill and didn't get turn 1 string shot hit)
+- Metapod:
+  - HA, PS, HA, PS (You really want at least 1 HA after this fight, if you are at 1 HA just PS)
++ Catch a Flyer
+  + Tackle then toss a ball at any flyer expect level 8s where you HA then toss a ball
++ Kill one encounter in the grass with HA EXCEPT level 3 or level 7 jigglypuffs to get nidoran to level 15
 
 ## Mount Moon
 **Mount Moon Manip:**
@@ -240,21 +240,22 @@ If you have less than 13 HP after this fight
 * Rat: MP
 * Kadabra: Thrash
 
-If you have less than 9 HP and IT, Fight the Gentleman in [this room here](https://gunnermaniac.com/pokeworld?map=96#21/11) with thrash then pickup the rare candy:
+If you have less than 9 HP and IT, Fight the Gentleman in [this room here](https://gunnermaniac.com/pokeworld?map=96#21/11) with thrash then pickup the rare candy
 
-**Shopping:**
-* Buy:
+- Shopping:
+  - Buy:
 	- 4 Repels
 	- 4 Para Heals
-- MENU Before cut brush:
-	* Teach TM 11 (Bubble Beam) over PS
-	* [Rare Candy if you fought the gentleman]
-	* Teach HM 01 to Paras
-	* Teach TM 28 (Dig) to Paras
-	* Use Cut
-- Surge Cans Manip:
-  - [Optimal](https://www.youtube.com/watch?v=8Pa2f2WxCe4)
-  - [Pallete Cans ](https://youtu.be/_tWhfBITf_g)(aka 'Cheater' Palette, allows you to see through Rock Tunnel)
++ MENU Before cut bush:
+	+ Teach TM 11 (Bubble Beam) over PS
+	+ [Rare Candy if you fought the gentleman]
+	+ Teach HM 01 to Paras
+	+ Teach TM 28 (Dig) to Paras
+	+ Use Cut
+
+Surge Cans Manip:
+  * [Optimal](https://www.youtube.com/watch?v=8Pa2f2WxCe4)
+  * [Pallete Cans ](https://youtu.be/_tWhfBITf_g)(aka 'Cheater' Palette, allows you to see through Rock Tunnel)
 
 **Surge**
 * Voltorb:
@@ -283,6 +284,7 @@ If you have less than 9 HP and IT, Fight the Gentleman in [this room here](https
 
 ## Rock Tunnel
 - MENU After taking 1 step down: Scroll down and use a Repel
+
 **Slowpoke Dude 1:**
 - BB
 - TB
@@ -290,7 +292,7 @@ If you have less than 9 HP and IT, Fight the Gentleman in [this room here](https
 **Slowpoke Dude 2:**
 - TB
 
-[Optional Save if you are bellow 18 HP]
+[Optional Save if you are below 18 HP]
 
 **Oddish Girl:**
 - If you have 18 - 22 HP:
@@ -411,8 +413,8 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 
 **Giovanni:**
 - X Acc, HD x2, BB, HD
-- Go back to the elevator and go to the 10th Floor to get [TM 26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
-- Use Dig on Paras
++ Go back to the elevator and go to the 10th Floor to get [TM 26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
++ Use Dig on Paras
 
 ## Celadon City
 - Use your Bike and go to Snorlax
@@ -450,14 +452,18 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 - Elixer on Weezing
   - if Koga used x attack use Bubblebeam till you die
   - if you didn’t die from koga you can still try to get red bar by following the HP strats for the [backups](https://pastebin.com/2DBBnkmf). Note that this can be risky
-- MENU After Koga:
-	* Use all Rare Candies
-	* Bike to get Strength
-- Fly to Pallet town
-- MENU at the bottom of the water:
-	* Super repel
-	* Teach HM 03 (Surf) to Squirtle
-	* Surf
++ MENU After Koga:
+  + Use all Rare Candies
+  + Bike to get Strength
+  + Fly to Pallet town
+
+
+## Pallet Town:
+
+* MENU at the bottom of the water:
+  * Super repel
+  * Teach HM 03 (Surf) to Squirtle
+  * Surf
 
 ## Cinnabar Island:
 - Pickup TM 14 (Blizzard)
@@ -487,6 +493,7 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 * HD all remaining pokes
 - Dig out and Bike to Sabrina's Gym
 
+
 ## Saffron City
 - Teleporter Puzzle: Top Left, Bottom Left, Bottom Left
 
@@ -502,16 +509,16 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 
 **Blackbelt:**
 - X ACC, HD, Bliz, HD
-- Leave the Gym to reset the trainer
-- MENU after entering the gym again:
-  - Elixer
++ Leave the Gym to reset the trainer
+* MENU after entering the gym again:
+  * Elixer
 
 **Giovanni:**
 - EQ x4, Bliz + (Bliz)
-	* Note: Don't go bellow 2 Blizzards in this fight, if you need to use EQs to finish Rhydon
-- MENU after leaving the gym:
-	* Super Repel
-	* Bike
+	- Note: Don't go below 2 Blizzards in this fight, if you need to use EQs to finish Rhydon
++ MENU after leaving the gym:
+	+ Super Repel
+	+ Bike
 
 **Rival:**
 - X ACC, X Spec, Bliz, Bliz, TB, X Spec, TB, EQ, Bliz
@@ -521,7 +528,7 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 - Optional Safety: Pickup the Full Restore [here](http://gunnermaniac.com/pokeworld?map=194#26/7)
 
 ## E4
-- Don't extra pokes deposit unless you have no more revives
+- Don't deposit extra pokes unless you have no more revives
 
 **Lorelei:**
 * Dewgong:
@@ -540,18 +547,18 @@ MENU before Agatha:
 * Rare Candy
 
 **Agatha:**
-* Gengar: X Spec, EQ
+- Gengar: X Spec, EQ
   - If you get put to sleep use the pokeflute, and if you get confused risk it since you would need to X Spec again if you swapped)
-* Golbat: Bliz
+- Golbat: Bliz
     - If you miss Bliz, and Golbat uses Haze, use
       - 2x TB on Golbat
       - X Speed on Arbok with 25-60 HP
       - skip X Speed (you will be slower than last Gengar) with less than 25 or more than 60HP
     - If you miss Bliz, but Golbat doesn't use Haze, use Bliz again
-	* EQ all remaining Pokes
+- EQ all remaining Pokes
 
 MENU Before Lance:
-* Heal using the bellow chart
+* Heal using the below chart
 * Use Elixer
 * [OPTIONAL SAVE: Lance is pretty likely to go bad, so saving is recommend]
 
