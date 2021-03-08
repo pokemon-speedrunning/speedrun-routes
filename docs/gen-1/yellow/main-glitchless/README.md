@@ -20,8 +20,8 @@
  
 ## Rival Fight
 - Thundershock Spam
-- For this route you must win the rival fight and get Flareon strats, if you die then reset
-- Vaporeon is possible to do with slight modifications, but it isn't worth it
+- For this route winning or losing against Rival 1 is fine.
+- Winning means you are on "Flareon" strats, losing means you are on "Vape" strats
  
 ## Nidoran
 - Walk up Route 1 and enter mart to get Oak's Parcel
@@ -47,6 +47,7 @@
 - ### BC 1:
   - Caterpie: Leer x1, Tackle x4
   - Caterpie: Leer x2, Tackle x3
+- DON'T pick up [this potion](https://gunnermaniac.com/pokeworld?map=51#25/11/)
 - Catch lvl 4 and 6 Pidgeys(HA to weaken)
 - Potion <11 HP right before second Bug Catcher
 - ### BC 2: 
@@ -63,7 +64,8 @@
 - ### BC 3:
   - Caterpie: If you have 21 HA's left (only used 2 on metapod) HA x3 (+tackle)
   - Otherwise, Leer + HA x2 (+tackle)
-- Heal to 27+ hp in the gatehouse unless you're 15-17/32 (toss the extra ball if you have it)
+- Heal to 27+ hp in the gatehouse unless you're 15-17/32
+  - 15-17 HP, Potion turn 1 on Sandshrew
  
 ## Brock's Gym
 - Walk into Brock's gym and fight the optional trainer
@@ -91,7 +93,7 @@
   - Caterpie: HA x2
   > Always use tackle if it kills, DK almost never kills
  
-- If you need to potion, do it during the Rattata fight
+- If you need to potion, do it during the Rattata fight turn 1
  
 - ### Shorts Guy:
   - Rattata: (potion if less than 9 hp) + DK
@@ -222,7 +224,7 @@
     - TM34
     - Nugget
   - Buy:
-    - 4 repels
+    - 6 repels
 - Boat: (Heal), Teach Bubblebeam in slot 3
 - ### Boat Rival:
   - Spearow: HA (DO NOT THRASH)
@@ -291,10 +293,10 @@
   - Vulpix: Thrash
 - Pick up Underground Elixer
 - Shopping:
-    - 2F: Buy Tm07 then 9 Super Repels(8 if Vape)and 3 Super Potions
+    - 2F: Buy Tm07 then 7 Super Repels(6 if Vape)and 3 Super Potions
     - 4F: Buy Poke Doll
     - 6F: Buy 2 Soda Pop then Fresh Water, Trade Fresh Water then Soda Pop
-    - 5F: Buy 11 X Accuracy (12 if vape), 6 X Speeds, 2 X Attacks and 6 X Specials (4 if Vaporeon)
+    - 5F: Buy 11 X Accuracy (12 if vape), 6 X Speeds, 2 X Attacks and 6 X Specials (5 if Vaporeon)
 - Take Elevator to 1F
 - Bike to Fly House - including the short section at the end to the house
 - Talk to girl to get HM02 (fly)
@@ -375,7 +377,7 @@
 - Dig out
 ## Cycling Road and Safari Zone
 - Bike left to Snorlax, open menu right in front of him
-  - Use a Super Repel
+  - Use a Repel
   - Swap Slot 6 for X Special
   - Use Poke Flute
 - Go into Cycling Road
@@ -383,7 +385,7 @@
   - The candy is even with 3rd flower formation on the left side of the screen
 - Bike into the Safari Zone
 - After entering
-    - Use a Super Repel
+    - Use a Repel
     - Elixer
     - 1-2 HP Potion 3-34 HP Early Erika then Sabrina(Check Pastebin), 35-75 Super Potion, 76+ Dont Heal
     - Teach Ice Beam in slot 4
@@ -395,15 +397,20 @@
 - Dig out, then fly to Fuschia OR Do Early Erika then Sabrina(Only do this if you got red bar after Erika)
 - Bike to Koga's Gym
 ## Koga
+- If no red bar after Erika: Super Potion before Juggler 1
 - ### Juggler 1:
   - Drowzee: EQ
   - Drowzee: EQ
   - Kadabra: EQ
   - Drowzee: EQ
+- (Vape Koga First): Full Restore
 - If you did Early Erika and Early Sabrina, Heal and use 2 Rare Candy
+  - HP < 21: Full Restore
+  - HP 21+: Super Potion
 - ### Juggler 2:
   - Drowzee: EQ
-  - Hypno: EQ + TB (EQ x2 if TB is disabled)
+  - Hypno: EQ + IB (TB if IB is disabled)
+- Heal to 64+ for Koga (Full Restore if in red bar)
 - IF healing before Koga use Full Restore then use 2 Rare Candy as well
 - ### Koga:
   - Venonat: X Acc + HD
@@ -425,10 +432,10 @@
 - Dig out, then Bike to Erika(Take the Center and skip Mom Heal if you cannot tank an Erika hit)
 - ### Beauty:
   - Exeggcute: IB
-- If 6-11 HP, use 2 Rare Candy
+- If 3-8 HP, use 2 Rare Candy
 - ### Erika:
+  > Use an X Spec if it lets you tank a hit from Tangela, then IB * 3, otherwise
   - Tangela: IB(IB)
-  > Use an X Spec if it lets you tank a hit from Tangela
   - Weepinbell: EQ
   - Gloom: EQ
 (Damage rolls are for level 40)
@@ -451,7 +458,7 @@
 - ### Blaine:
   - Ninetales: EQ
   - Rapidash: X Attack, EQ
-  - Arcanine: EQ(EQ or IB)
+  - Arcanine: EQ(+EQ)
 ## Giovanni Gym
 - Dig out, then fly to Viridian
 - If you need to heal for Giovanni use Super Potion then Bike
