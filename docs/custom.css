@@ -1,0 +1,34 @@
+@media (prefers-color-scheme: dark) {
+  :root {
+    --theme-color: #FFCB05;
+  }
+  html,
+  body,
+  main,
+  p,
+  .app-nav li ul,
+  .sidebar-toggle,
+  .sidebar,
+  .sidebar ul li a,
+  aside,
+  .anchor span,
+  .markdown-section h1,
+  .markdown-section h2,
+  .markdown-section h3,
+  .markdown-section h4,
+  .markdown-section strong {
+    background: black;
+    color: var(--theme-color);
+  }
+
+  .markdown-section a,
+  .app-nav a:hover  {
+      color: #BBB;
+  }
+
+  .markdown-section tr:nth-child(2n),
+  .markdown-section code,
+  .markdown-section pre {
+    background-color: #222;
+  }
+}
