@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
-  <style>
+  <style id="darkMode" class="enabled">
     @media (prefers-color-scheme: dark) {
       :root {
         --theme-color: #FFCB05;
@@ -25,7 +25,8 @@
       .markdown-section h2,
       .markdown-section h3,
       .markdown-section h4,
-      .markdown-section strong {
+      .markdown-section strong
+      {
         background: black;
         color: var(--theme-color);
       }
@@ -37,14 +38,28 @@
 
       .markdown-section tr:nth-child(2n),
       .markdown-section code,
-      .markdown-section pre {
+      .markdown-section pre,
+      .darkModeToggle {
         background-color: #222;
       }
+    }
+  </style>
+  <style>
+    .darkModeToggle {
+      color: var(--theme-color);
+      position: fixed;
+      bottom: 10px;
+      left: 40px;
+      border-radius: 6px;
+    }
+    .darkModeToggle:focus {
+      outline: none;
     }
   </style>
 </head>
 <body>
   <div id="app"></div>
+  <button class="darkModeToggle" type="button" onclick="toggle()">Dark Mode</button>
   <script>
     window.$docsify = {
         name: "Pokemon Speedrun Routes",
@@ -53,6 +68,19 @@
         loadSidebar: true,
         mergeNavbar: true,
         relativePath: true
+    }
+    var darkModeCSS = document.getElementById("darkMode");
+    var cssText = darkModeCSS.innerHTML;
+    function toggle() {
+      darkModeCSS = document.getElementById("darkMode");
+      if (darkModeCSS) {
+        darkModeCSS.parentElement.removeChild(document.getElementById("darkMode"));
+      } else {
+        var newElement = document.createElement('style');
+        newElement.id = "darkMode";
+        newElement.innerHTML = cssText;
+        document.head.appendChild(newElement);
+      }
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
