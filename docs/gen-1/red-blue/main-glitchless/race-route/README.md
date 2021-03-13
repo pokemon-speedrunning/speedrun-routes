@@ -4,26 +4,26 @@
 **You can find the VOD of the Finals[here](https://youtu.be/owoeSjzdqL0), it's a good example of this route in action**
 
 ## Manip Quick Reference:
-- [Nidoran Manip](/gen-1/red-blue/main-glitchless/resources/nido-manip)
-- [Triple Extended Manip](/gen-1/red-blue/main-glitchless/resources/triple-extended)
+- [Nidoran Manip](../resources/nido-manip)
+- [Triple Extended Manip](../resources/triple-extended)
 - [Pidgey Backup](https://youtu.be/WLigwIbp2ps)
 - Mount Moon Manip:
   - [Inside Moon](https://pastebin.com/jnj9j47S)
    - mandatory if you did Lass
-  - [R3 Moon Manip](https://pastebin.com/tggXpQRC) 
+  - [R3 Moon Manip](https://pastebin.com/tggXpQRC)
    - this is slightly better but can only use it if you skip Lass
   - Backups (in case you fail the full manip):
 	- [2nd Floor Backup (string manip)](https://pastebin.com/j5gtY4cy)
-	- [Post Nerd Backup Paras](/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras)
-    - [Oddish Backup](/gen-1/red-blue/main-glitchless/resources/oddish-backup)
+	- [Post Nerd Backup Paras](../resources/postnerd-backup-paras)
+    - [Oddish Backup](../resources/oddish-backup)
 - Surge Cans Manip:
   - [Optimal](https://www.youtube.com/watch?v=8Pa2f2WxCe4)
   - [Pallete Cans ](https://youtu.be/_tWhfBITf_g)(aka 'Cheater' Palette, allows you to see through Rock Tunnel)
 
 ## Good Documents:
 - [HP Dependent Strats](https://pastebin.com/HgyuMvyr)
-- [Defensive Damage Ranges](/gen-1/red-blue/main-glitchless/resources/defensive-ranges)
-- [Offensive Damage Ranges](/gen-1/red-blue/main-glitchless/resources/offensive-ranges)
+- [Defensive Damage Ranges](../resources/defensive-ranges)
+- [Offensive Damage Ranges](../resources/offensive-ranges)
 
 ### Glossary:
 - Moves: HA = Horn Attack, MP = Mega Punch, BB = Bubble Beam, WG = Water Gun, TB = Thunder Bolt, Bliz = Blizzard, PS = Poison Sting, HD = Horn Drill, RS = Rock Slide
@@ -46,8 +46,8 @@
   - During the parcel quest kill one encounter from a level 2 rat, level 3 rat, or a level 2 pidgey. You can fight level 3 pidgeys but you will take a bit of damage if you have a lower attack (10-11 at Lv6) squirtle. This Early XP will get you Bubble for Brock
 - SHOPPING:
 	- 4 Pokeballs (This does require you to get consistent at manip yoloballs, you can buy 5 and 1 less potion later on)
-- [Nidoran Manip](/gen-1/red-blue/main-glitchless/resources/nido-manip)
-- [Triple Extended Manip](/gen-1/red-blue/main-glitchless/resources/triple-extended)
+- [Nidoran Manip](../resources/nido-manip)
+- [Triple Extended Manip](../resources/triple-extended)
 - Get the tree potion [here](http://gunnermaniac.com/pokeworld?map=1#54/166)
 
 ## Viridian Forest:
@@ -100,7 +100,7 @@
 
 **Bug Catcher 2:** [Heal on caterpie if HP < 7]
 * HA Spam all pokes finish pokemon with tackle when possible
-- Here you need to decide if you want to do Lass or not. 
+- Here you need to decide if you want to do Lass or not.
  - if you have more than 8/9 HA, skip Lass
  - if you have red bar for BC3, consider skipping Lass even at low HA count
  - if you want to play 100% safe, always do Lass
@@ -134,12 +134,12 @@
 - Mount Moon Manip:
   - [Inside Moon](https://pastebin.com/jnj9j47S)
    - mandatory if you did Lass
-  - [R3 Moon Manip](https://pastebin.com/tggXpQRC) 
+  - [R3 Moon Manip](https://pastebin.com/tggXpQRC)
    - this is slightly better but can only use it if you skip Lass
   - Backups (in case you fail the full manip):
 	- [2nd Floor Backup (string manip)](https://pastebin.com/j5gtY4cy)
-	- [Post Nerd Backup Paras](/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras)
-    - [Oddish Backup](/gen-1/red-blue/main-glitchless/resources/oddish-backup)
+	- [Post Nerd Backup Paras](../resources/postnerd-backup-paras)
+    - [Oddish Backup](../resources/oddish-backup)
 
 - Get TM 12 (Water Gun), Rare Candy, Escape Rope, TM 01 (Mega Punch), Moon Stone during mount moon manip
 
@@ -150,7 +150,7 @@
 	* Use Rare Candy
 	* Use Moon Stone
 	* Teach TM 01 (Mega Punch) over Leer (Slot 1)
-	
+
 **Rocket:**
 * Rat: MP
 * Zubat: MP + PS (HA/Tackle if zubat uses leech life and crits)
@@ -164,10 +164,10 @@
 	* Toss any remaining Pokeballs (ONLY IF YOU HAVE A PARAS)
 	* Toss Antidote if you still have it
 	* Use Rare Candy
-	* Teach TM 12 (Water Gun) over Tackle (Slot 2) 
+	* Teach TM 12 (Water Gun) over Tackle (Slot 2)
 	* Use Moon Stone
 	* Teach TM 01 (Mega Punch) over Leer (Slot 1)
-	
+
 **Super Nerd:**
 * Grimer: MP + HA (Tackle if out of HA)
 * Voltorb: MP + (PS)
@@ -264,7 +264,7 @@ If you are less than 15 HP do the following:
 * Teach BB over PS
 
 If you still miss a cutter:
-  - [Oddish Backup](/gen-1/red-blue/main-glitchless/resources/oddish-backup)
+  - [Oddish Backup](../resources/oddish-backup)
 
 ## Vermilion City:
 **Female Jr:**
@@ -389,7 +389,7 @@ Shopping:
 	* Swap slot 3 with X Accs
 	* Teach HM 02 to the bird
 	* Use Fly to go to Lavender
-	
+
 _TODO_ add early drill strat
 
 ## Lavender Town
@@ -543,7 +543,7 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 
 **Sabrina:**
 - EQ x4
-- Walk back to the Teleporter and dig out and fly to  
+- Walk back to the Teleporter and dig out and fly to
 
 ## Viridian City
 **Cooltrainer:**

@@ -18,7 +18,7 @@ If something isn't clear, you should watch:
 ## Brock Through Walls
 
 The first glitch we will perform is called Brock Through Walls.
-A detailed guide on what strategy could be best for you and how to execute it can be found [here](/gen-1/red-blue/catext/reverse-badge-acquisition/resources/Brock-Through-Walls-Guide)
+A detailed guide on what strategy could be best for you and how to execute it can be found [here](../reverse-badge-acquisition/resources/Brock-Through-Walls-Guide.md)
 
 - **[PP/Pidgey Strat]** Viridian shop: buy
 	- 10 Pokeballs
@@ -26,7 +26,7 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 - Pick up forest potion
 - Fight Weedle Guy
 - **[PP/Pidgey Strat]** Pewter shop: buy
-  - 1escape rope  
+  - 1escape rope
   - 1 parlyz heal
   - 1 burn heal
   - 1 awakening
@@ -158,7 +158,7 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 | ---------- | --------- | ------------ | --------------- |
 | Oddish 		 | 5 				 | 5 				 		| 5								|
 | Squirtle	 |					 |					 		| 4								|
-| Charmander | 3 				 | 3 				 		|					  			|					
+| Charmander | 3 				 | 3 				 		|					  			|
 | Magnemite  | 3 				 | 2 				 		| 2								|
 | Ponyta 		 | 5 				 | 5 				 		| 5								|
 | Goldeen 	 | 2 				 | 2 				 		| 2								|

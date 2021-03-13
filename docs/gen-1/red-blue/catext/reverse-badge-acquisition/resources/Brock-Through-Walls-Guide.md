@@ -20,14 +20,14 @@ This is the hardest but also faster method.
 It requires a 1-frame rename after multiples 4-frames textboxes.
 Because of this, this method should be used only by runners aiming for top times, and only after a lot of practice.
 
-A guide to the manipulation itself can be found [here](/gen-1/red-blue/catext/reverse-badge-acquisition/resources/1024-charmander-manip)
+A guide to the manipulation itself can be found [here](1024-charmander-manip.md)
 
 After correctly performing it, Weedle fight must be done in specific way to assure correct PP after the fight.
 
 ### Weedle guy
 
 Two basic options
-1.  (swap Scratch/Growl), Growl x2, Scratch x7  
+1.  (swap Scratch/Growl), Growl x2, Scratch x7
 2.   Scratch x6  (only ~5% to kill); if Weedle's still alive:
     - if 1 Scratch kills (guaranteed to kill if no Gen 1 misses)  ::  (swap Scratch/Growl), Growl x2, Scratch x1
     - if 1 Scratch doesn't kill (only possible if Gen 1 missed)   ::  Scratch x2
@@ -83,12 +83,12 @@ Continue from ###Pidgey _TODO_ make a link
   - 13 Special: Kill one extra encounter. Lv2 Pidgeys or Lv2/3 Rattatas are preferred
   - 14 Special: Run from anything you see, no extra experience needed
 
-### Pidgey  
+### Pidgey
 - You will need to catch a Pidgey with the current HP value (8-10-13-15-16-17). You can either:
   - Catch a random Pidgey and hope it has good HP
   - Do Pidgey manipulation
 
-   1 character Bulbasaur        | full name Bulbasaur          
+   1 character Bulbasaur        | full name Bulbasaur
    ---------------------------- | ----------------------------
   [1 character player name](https://youtu.be/a4joVzaCMXk) | _TODO_ from 151autumn route |
   [5 characters player name](https://youtu.be/Ua0ZyWffYpU) | NA as far as i know          |
