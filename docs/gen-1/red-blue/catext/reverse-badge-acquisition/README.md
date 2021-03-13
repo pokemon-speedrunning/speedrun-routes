@@ -14,7 +14,7 @@ If something isn't clear,you should watch:
 ## Brock Through Walls
 
 The first glitch we will perform is called Brock Through Walls.
-A detailed guide on what strategy could be best for you and how to execute it can be found [here](/gen-1/red-blue/catext/reverse-badge-acquisition/resources/Brock-Through-Walls-Guide)
+A detailed guide on what strategy could be best for you and how to execute it can be found [here](resources/Brock-Through-Walls-Guide.md)
 
 - **[1024 Charmander]** [Route 1 to weedle manip](https://www.youtube.com/watch?v=ZbAv0m19v9g)
 - **[PP/Pidgey Strat]** Viridian shop: buy
