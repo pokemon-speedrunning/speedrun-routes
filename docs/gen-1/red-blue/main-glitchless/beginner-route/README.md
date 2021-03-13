@@ -198,7 +198,7 @@ Don't stress too much doing the longer manips just learn Post Nerd Backup Paras 
 * NOTE: You will learn Thrash here, teach it over Water Gun
 * Thrash
 
-Pickup Ether here: http://gunnermaniac.com/pokeworld?map=1#288/3
+Pickup Ether [here](http://gunnermaniac.com/pokeworld?map=1#288/3)
 - MENU After Bill:
 	* Use Rare Candy
 	* Use Escape Rope
@@ -560,7 +560,7 @@ MENU before Agatha:
 MENU Before Lance:
 * Heal using the below chart
 * Use Elixer
-* [OPTIONAL SAVE: Lance is pretty likely to go bad, so saving is recommend]
+* [OPTIONAL SAVE: Lance is pretty likely to go bad, so saving is recommended]
 
 HP | ITEMS
 -- | -----
@@ -584,11 +584,11 @@ If you don't have enough Potion, use the heal option below
 * Aero: TB
 * Dragonite: Bliz
 
-[OPTIONAL SAVE: Saving for Champ can be good if you don't have a spare X Accuracy+ spare X Special + Revive]
-* Heal below at 22HP or below
-  - Can also heal below at 44HP or below if you want to play safer
+[OPTIONAL SAVE: Saving for Champ can be good if you don't have a spare X Accuracy + spare X Special + Revive]
+* Heal if HP < 23
+  - Can also heal if HP < 45 if you want to play safer
 
 **Champ:**
 - X Spec, X Acc, HD x3, TB, HD x2
-	* If Pidgeot uses Sky Attack turn 1 do the following:
+	* If Pidgeot uses Sky Attack turn 1 ("Enemy Pidgeot is glowing!") do the following:
 	 - Bliz, EQ, X Acc, HD x4
