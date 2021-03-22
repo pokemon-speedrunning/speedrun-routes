@@ -70,8 +70,13 @@ BC3:
 Do Route 3 Moon Manip https://pastebin.com/tggXpQRC
 
 Rocket:
-- HA x2(+PS)
-- Leer, HA x2
+- Rattata
+  - If you have 3+ HA, HA x2(+PS)
+  - Otherwise, Leer + HA + Tackle (PS instead of Tackle is a favorable range)
+- Zubat
+  - If you have 3+ HA, HA x3(+Tackle)
+  - If you have 2 HA, Leer + HA x2(+Tackle)
+  - Otherwise, Leer + HA + Tackle(+Tackle)
 
 Moon Menu:
 - Use Rare Candy
@@ -82,7 +87,7 @@ Moon Menu:
 Nerd:
 - MP(Finish with WG if you can)
 - MP(PS)
-- MP x2(finish with HA if you have 1)
+- MP x2(lead with HA if you have one. WG if you crit HA, otherwise MP to finish)
 
 ## BRIDGE SPLIT
 
@@ -292,7 +297,7 @@ Rocket 2:
 Rocket 3:
 - TB
 - TB
-- Thrash
+- Thrash (or TB x2 if early drill)
 
 Get Pokeflute
 
@@ -305,11 +310,12 @@ Go to floor 5 and pick up hidden Elixir
 Rocket:
 - X Acc + Drill
 > Paralyz heal immediately if glare
+- Use Thrash instead if skipping Silph bar and you didn't do early drill
 
 Rival:
 - X Acc + X Speed
 > Use HP strats to see how to setup silph red bar from here
-- Drill everything except BB Growlithe
+- Drill everything except BB Growlithe (or RS Growlithe if skipping silph bar and you did early drill)
 
 Use Elixer before or during the next fight
 
@@ -351,7 +357,7 @@ Juggler 1:
 
 Juggler 2:
 - EQ
-- EQ + TB
+- EQ + TB (+EQ/BB if TB disable. BB is a range)
 
 Koga:
 - EQ x3
@@ -436,7 +442,7 @@ Rival:
 - Drill x4
  - If you used too many Blizzards on Rhydon, can Drill Rhyhorn
  - TB Gyarados if you Elixired early
- -  EQ Rhyhorn if you used too many Blizzards on Rhydon and you Elixired early
+ - EQ Rhyhorn if you used too many Blizzards on Rhydon and you Elixired early
 
 Pick up the hidden Max Ether and use it on Horn Drill on final Victory Road Menu
 
