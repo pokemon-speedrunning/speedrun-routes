@@ -1,7 +1,7 @@
 # Pokemon Yellow Glitchless Routes
 
 ## Manip Quick Reference
-- [IB Route WR Uses](wr-ib/README.md)
+- [IB Route used in WR](wr-ib/README.md)
 - [Gym Flex IB Route](flexgym-ib/README.md)
 ## What are the differences?
 - Both routes are viable to get top times, and it's unclear whether one route is clearly better than the other
