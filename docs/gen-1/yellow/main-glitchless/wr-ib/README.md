@@ -1,4 +1,4 @@
-# Pokemon Yellow Glitchless Route
+# Pokemon Yellow Glitchless Route (Older IB Route)
 
 - ## Manip Quick Reference
   - [Nido Manip](../resources/nido-manip.md)
@@ -41,22 +41,27 @@
 - Take note of how much hp nido has
   - 22 at 6 -> 27 at 8 is RESET
   - 23 at 6 -> 30 at 9 is RESET
+
 - ### BC 1:
   - Caterpie: Leer x1, Tackle x4
   - Caterpie: Leer x2, Tackle x3
+
 - ### BC 2:
   - Fight [this bug catcher](https://gunnermaniac.com/pokeworld?map=51#30/19) from the top
   - Not counting crits, 1/39s, or gen 1 misses, you can only take 2 damage from this fight
   - Metapod: Swap HA with Leer, then HA spam
   - Caterpie: HA Spam
   - Metapod: HA spam
+
 - Walk to [this tile](https://gunnermaniac.com/pokeworld?map=51#30/15) and perform the [Pidgey manip](https://pastebin.com/RnTm8DB9)
   - Save must be buffered
 - Don't nickname pidgey
 - Buffer A after not nicknaming pidgey to pick up hidden potion (if you do this right the potion textbox will clear without a jingle)
-- Potion <12 HP before third Bug Catcher
+- Potion <9 HP before third Bug Catcher
+
 - ### BC 3:
   - Caterpie: HA spam
+
 - Enter the Pewter Pokemon Center
   - Deposit Pikachu
   - Use the Center
@@ -189,7 +194,6 @@
 
 - Walk into Bill's house, go through cutscene
 - Walk back to Cerulean
-## Misty
 - Walk into Misty's Gym
 
 - ### Jr Trainer:
@@ -212,6 +216,7 @@
 
 - ### Jr Trainer F:
   Pidgey: Thrash
+
 - ### Jr Trainer M:
   Spearow: Thrash
 
@@ -222,11 +227,13 @@
   - Buy:
     - 3 repels
 - Boat: (Heal), Teach Bubblebeam (TM11) in slot 3, then teach Dig (TM28) to Charmander
+
 - ### Boat Rival:
   - Spearow: HA (DO NOT THRASH)
   - Rattata: BB
   - Sandshrew: BB
   - Eevee: swap BB and DK, DK
+
 - Talk to captain, get HM01 (cut)
 - Walk out of S.S. Anne, over to Surge's gym
 - Cut menu:
@@ -257,37 +264,49 @@
   - Teach Thunderbolt in Slot 3
   - Get on the bike
 - Cut bush, bike to the right
+
 - ### 4 Turn Thrash Girl
   - Oddish: Thrash
   - (HA on bellsprout if you get 3 turn)
+
 - ### Jr. Trainer:
   - Caterpie: BB
   - Venonat: Thrash
   > Thrash on turn 1 if you don't mind taking damage
+
 - ### (Advanced) Red bar setup:
   - Cubone: 22-26: 20-24 with 14/15 DV
   - First Slowpoke: 15-18; 17-20 with 13 DV
   - Second Slowpoke: 17-20
+
 - ### Super Nerd:
   - Cubone: BB
   - Slowpoke: TB
+
 - ### Super Nerd 2:
   - Slowpoke: TB
+
 - ### Jr. Trainer:
   - Thrash (and pray)
+
 - Use full restore if paralyzed (this is really bad)
 - Watch a video to know where to use the other two repels
+
 - ### Hiker:
   - Geodude: BB
   - Geodude: BB
   - Graveler: BB
+
 - ### Jr. Trainer:
   - Meowth: Thrash
+
 - Bike down to Lavender, then left towards Celadon
+
 - ### Gambler:
   - Growlithe: Bubblebeam
   - Vulpix: Thrash
-- Pick up Underground Elixer
+
+- Pick up [Underground Elixer](https://gunnermaniac.com/pokeworld?map=121#21/5)
 - Shopping:
     - 2F: Buy Tm07 then 10 Super Repels and 4 Super Potions
     - 4F: Buy Poke Doll
@@ -296,6 +315,7 @@
 - Take Elevator to 1F
 - Bike to Fly House - including the short section at the end to the house
 - Talk to girl to get HM02 (fly)
+
 ## Poke Flute
 - Fly menu:
   - Swap slot 2 item with TM07
@@ -306,6 +326,7 @@
   - Teach Fly
   - Fly to Lavender Tower (Down 3)
 - Walk to Pokemon Tower
+
 - ### Lavender Rival:
   - If 26-39 on 15 special, 26-37 on 14 special, or 27-39 on 13 special: TB Fearow and X Acc on Magnemite
   - Fearow: X Acc + HD
@@ -313,42 +334,55 @@
   - Shellder: HD
   - Sandshrew: HD
   - Eevee: HD
+
 - ### Channeler 1:
   - Gastly: Rock Slide
   - Gastly: Rock Slide
+
 - Pick up [Overworld Elixer](https://gunnermaniac.com/pokeworld?map=145#12/10)
 - Pick up [Hidden Tower Elixer](https://gunnermaniac.com/pokeworld?map=146#4/12)
 - Take heal pad
+
 - ### Channeler 2:
   - Rock Slide
+
 - ### Channeler 3:
   - Rock Slide
+
 - Pick up rare candy in your way
 - Marowak Ghost: Use Poke Doll
+
 - ### Jessie & James:
   - Meowth: X Acc + HD
   - Arbok: HD
   - Weezing: HD
+
 - Talk to Old Man twice
 - Get the Poke Flute
-## Silph
+
+## Sabrina
 - Walk outside, fly to Celadon (1 down)
 - Take Center
 - Bike right to Silph Co.
 - Take the elevator to 10F
+
 - ### Rocket:
   - Machoke: X Acc + HD
+
 - Pick up TM26 and Rare Candy, then Carbos in that order
 - EQ Menu:
   - Swap slot 4 for EQ
   - Use Carbos
   - Teach EQ (TM26) over Rock Slide (slot 1)
+
 - ### Rocket:
   - Arbok: EQ
+
 - Get Card Key
 - After you take the first teleport:
   - Swap slot 4 with X Speed
   - Use both Rare Candies on Nidoking
+
 - ### Silph Rival:
   - Sandslash: X Acc, HD
   - Cloyster: HD
@@ -356,17 +390,19 @@
   - Kadabra: EQ
   - Flareon: EQ
 - Get Lapras (don't nickname)
+
 - ### Jessie & James:
   - Weezing: EQ
   - Arbok: EQ
   - Meowth: EQ
+
 - ### Giovanni 1:
   - Nidorino: EQ
   - Persian: EQ (+TB)
   - Rhyhorn: X Acc, HD
   - Nidoqueen: HD
+
 - Dig out
-## Cycling Road and Safari Zone
 - Bike left to Snorlax, open menu right in front of him
   - Use a Super Repel
   - Use an Elixir
@@ -384,21 +420,26 @@
 - Walk into the house and get HM03 (surf)
 - Walk out of the house, then Dig
 - Bike to Sabrina's Gym (don't fly to Saffron)
-## Sabrina
 - Teleporter Pattern: Top Left, Bottom Left, Bottom Left
+
 - ### Sabrina:
   - Abra: X Acc, X Speed, EQ
   - Kadabra: EQ
   - Alakazam: HD
+
 ## Koga
 - Walk to the teleporter, then dig out (it has a faster animation this way)
 - Fly to Fuschia (down 2)
+
 - ### Juggler 1:
   - EQ, then Thrash
+
 - ### Juggler 2:
   - Drowzee: EQ
   - Hypno: EQ + TB (+EQ if TB is disabled)
+
 - Heal to 64+ for Koga (Full Restore if in red bar)
+
 - ### Koga:
   - Venonat: X Acc + HD
   - Venonat: X Speed + HD
@@ -410,6 +451,7 @@
   > Psybeam (second): 27-32; 28-34 with 13 DV
   > Venomoth Leech Life: 22-26 (20-24 with badge boost)
   > Venomoth Psychic: 83-98
+
 ## Blaine
 - Walk out of Koga's Gym
 - Bike to the Old Man's House
@@ -435,37 +477,47 @@
 - Fly to Cinnabar (down 2)
 - Bike to Blaine's Gym
 - Answer to Questions: ABBBAB (A button answers yes, B button answers no)
+
 - ### Blaine:
   - Ninetales: EQ
   - Rapidash: X Attack, EQ
   - Arcanine: EQ (+EQ)
   > Blaine winrate at various hp totals [here](https://pastebin.com/p9m4vdx6)
   > If you get growled by Rapidash, then EQ Arcanine will only kill with a crit
+
 ## Erika
 - Dig out of gym
 - Bike to Erika
+
 - ### Beauty:
   - IB
+
 - ### Erika:
   - IB x3
+
 ## Giovanni
 - Walk out of the gym
 - Fly to Viridian (up 1)
 - Bike to Giovanni's gym
+
 - ### Cooltrainer:
   - IB
+
 - ### Blackbelt:
   - X Attack + EQ x3
   > If you used an extra EQ at any time since after Koga (growl on Blaine or gen 1 miss), then instead do X Attack, EQ, IBx2, EQ
   > Risky backup strat for if you used an extra EQ: do normal Blackbelt, setup both X Items on Gio's Dugtrio and Horn Drill
+
 - Walk out of the gym, then back in to reset Blackbelt's position
 - Heal to 106+ hp
+
 - ### Giovanni 2:
   - Dugtrio: X Speed + EQ
   - Persian: X Acc + HD
   - HD the rest
   > If Dugtrio uses Dig, use X Acc, then HD
   > EQ/Dig: 96-110
+
 ## Lorelei
 - Walk out of Giovanni's gym
 - Open your menu outside the gym
@@ -475,6 +527,7 @@
   - Use Carbos on Nidoking
   - Get on Bike
 - Bike left toward Victory Road
+
 - ### Viridian Rival:
   - Sandslash: X Special + IB
   - Exeggcute: IB
@@ -482,6 +535,7 @@
   - Magneton: EQ
   - Kadabra: EQ
   - Flareon: EQ
+
 - Bike and Surf to Victory Road
 - Pick up [Max Ether](https://gunnermaniac.com/pokeworld?map=1#8/116) (while still surfing) if 96+ hp
 - Use Super Repel and Bike after finished surfing
@@ -495,12 +549,15 @@
 - Deposit all your Pokemon except Nidoking
 - Use the Center unless you are 96+ hp and picked up the Max Ether
 - If you have no Full Restores, or just want to play it safe, then buy some Full Restores
+
 - ### Lorelei:
   - X Acc + HD x5
   > If you get BB speedfall, then X Speed before using HD
+
 ## Bruno
 - Use Elixir
 > If you picked up Max Ether and skipped center, use Max Ether on HD instead
+
 - ### Bruno:
   - Onix: IB
   - Hitmonchan: X Acc + HD
@@ -509,8 +566,10 @@
   - Machamp: HD
   > Ice Punch: 28-34 (30-36 with 13 DV)
   > Fire Punch: 14-17 (15-18 with 13 DV)
+
 ## Agatha
 - Heal if less than 40 hp, or if you want to play it safe (although it's still kinda risky because of paralysis and running out of healing items)
+
 - ### Agatha:
   - Gengar: X Speed + EQ
   - Golbat: IB x2
@@ -520,8 +579,10 @@
   > If you are somehow out of X Speeds, then EQ Gengar and X Special on Golbat
   > If you get lick paralyzed, then Full Restore immediately (no need to X Speed again)
   > Use EQ to break Substitute
+
 ## Lance
 - Heal to full hp
+
 - ### Lance:
   - Gyarados: X Special + TB
   - Dragonair: X Special + IB
@@ -531,8 +592,10 @@
   > Hydro Pump: 108-128 (112-132 with 13-14 DV)
   > Hyper Beam: 44-52 (45-53 with 9-10 DV)
   > Slam: 24-29
+
 ## Champ
 - Heal to survive Sandslash EQ (134-158, 137-162 with 9 DV)
+
 - ### Champ:
   - Sandslash: X Special + IB
   - Alakazam: EQ

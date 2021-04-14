@@ -1,4 +1,4 @@
-# Pokemon Yellow Glitchless Route
+# Pokemon Yellow Glitchless Route (Gym flex IB route)
 
 - ## Manip Quick Reference
   - [Nido Manip](../resources/nido-manip.md)
