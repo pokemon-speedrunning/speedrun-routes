@@ -8,7 +8,7 @@ Both manips have the same outcome, pick whichever one you want
 
 No palette change in the bios
 
-Normal yoloball in both full and red bar HP with Great Ball
+Normal yoloball in both full and red bar HP with Great Ball, make sure helix fossil is not in your top 4 bag items
 
 Used if you don't have any pokeballs exiting Mt. Moon and still don't have a Cut Pokemon
 
