@@ -4,6 +4,7 @@
   - [Nido Manip](../resources/nido-manip.md)
   - [Pidgey Manip](https://pastebin.com/RnTm8DB9)
   - [Moon Manip](https://imgur.com/a/DAvE14v)
+  - [Defensive Ranges](../resources/wr-ib-defensive-ranges.md)
 - Abbreviations: HA = Horn Attack, DK = Double Kick, BB = Bubblebeam, TB = Thunderbolt, HD = Horn Drill, EQ = Earthquake, IB = Ice Beam
 
 **All damage ranges in these notes include 1/39**
