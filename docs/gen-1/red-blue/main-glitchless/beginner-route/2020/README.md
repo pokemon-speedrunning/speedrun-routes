@@ -4,13 +4,13 @@
 
 ## Manip Quick Reference:
 - Nidoran Manip:
-  - [Optimal (HIGHLY RECOMMENDED)](../../resources/nido-manip)
+  - [Optimal (HIGHLY RECOMMENDED)](../../resources/nido-manip.md)
   - [1 A Press](https://youtu.be/qPzSWHyMuW8)
 - Mount Moon Manip:
   - [Inside Moon](https://pastebin.com/jnj9j47S) (Optimal for this route)
   - Backups (in case you fail the full manip):
 	- [2nd Floor Backup (string manip)](https://pastebin.com/j5gtY4cy)
-	- [Post Nerd Backup Paras](../../resources/postnerd-backup-paras)
+	- [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
 - Surge Cans Manip:
   - [Optimal](https://www.youtube.com/watch?v=8Pa2f2WxCe4)
   - [Pallete Cans ](https://youtu.be/_tWhfBITf_g)(aka 'Cheater' Palette, allows you to see through Rock Tunnel)
@@ -19,8 +19,8 @@
 - [HP Dependent Strats](https://pastebin.com/HgyuMvyr)
 - [Original Route made in 2019](https://pastebin.com/7HRZxXKS)
 	* This route is still good, and if you already know Route 3 Moon Manip you may want to use this instead
-- [Defensive Damage Ranges](../../resources/defensive-ranges)
-- [Offensive Damage Ranges](../../resources/offensive-ranges)
+- [Defensive Damage Ranges](../../resources/defensive-ranges.md)
+- [Offensive Damage Ranges](../../resources/offensive-ranges.md)
 
 ### Glossary:
 - Moves: HA = Horn Attack, MP = Mega Punch, BB = Bubble Beam, WG = Water Gun, TB = Thunder Bolt, Bliz = Blizzard, PS = Poison Sting, HD = Horn Drill, RS = Rock Slide
@@ -44,7 +44,7 @@
 + Shopping:
 	+ 4 Pokeballs (This does require you to get consistent at manip yoloballs, you can buy 5 and 1 less potion later on)
 * Nidoran Manip:
-  * [Optimal (HIGHLY RECOMMENDED)](../../resources/nido-manip)
+  * [Optimal (HIGHLY RECOMMENDED)](../../resources/nido-manip.md)
   * [1 A Press](https://youtu.be/qPzSWHyMuW8)
 - Get the tree potion [here](http://gunnermaniac.com/pokeworld?map=1#54/166)
 
@@ -114,7 +114,7 @@ Don't stress too much doing the longer manips just learn Post Nerd Backup Paras 
 - [Inside Moon](https://pastebin.com/jnj9j47S) (Optimal for this route)
 - Backups (in case you fail the full manip):
   - [2nd Floor Backup (PoY v2.0)](https://pastebin.com/j5gtY4cy)
-  - [Post Nerd Backup Paras](../../resources/postnerd-backup-paras)
+  - [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
 
 - Get TM 12 (Water Gun), Rare Candy, Escape Rope, TM 01 (Mega Punch), Moon Stone during mount moon manip
 - MENU after Paras and Before Rocket:
