@@ -242,7 +242,7 @@ If you have less than 9 HP and IT, Fight the Gentleman in [this room here](https
 - Shopping:
   - Buy:
 	- 6 Repels
-	- 5 Para Heals
+	- 4 Para Heals
 + MENU Before cut bush:
 	+ Teach TM 11 (Bubblebeam) over PS
 	+ [Rare Candy if you fought the gentleman]
