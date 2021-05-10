@@ -453,7 +453,7 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 - EQ x3
 - Elixer on Weezing
   - if Koga used x attack use Bubblebeam till you die
-  - if you didn’t die from koga you can still try to get red bar by following the HP strats for the [backups](https://pastebin.com/2DBBnkmf). Note that this can be risky
+  - if you didn’t die from koga you can still try to get red bar by following the HP strats for the [backups](https://pastebin.com/HgyuMvyr). Note that this can be risky
 + MENU After Koga:
   + Use all Rare Candies
   + Bike to get Strength
@@ -549,7 +549,7 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 - Before Bruno use a Max Ether on HD
 
 **Bruno:**
-- X ACC, Blizz, HD x2, Blizz, HD
+- X ACC, HDx5
 
 MENU before Agatha:
 * Super Potion with 19 or more HP
