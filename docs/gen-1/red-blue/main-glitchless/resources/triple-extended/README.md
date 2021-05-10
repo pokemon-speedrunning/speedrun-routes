@@ -1,4 +1,4 @@
-##Intro
+# Pokemon Red Triple Extended Manip
 
 Triple extended is a advanced technique that chains the nidoran manipulation into
 1. a yoloball-able pidgey encounter in route 2
@@ -10,7 +10,7 @@ This is the hardest manipulation in the game and we recommend to focus your prac
 The main benefits from the newer paths (v4.0) are better IGTs rates, bigger string shot frame windows and slightly faster paths (no start buffers/flashes).
 The old extended (v3.0) can be fine if you favor path simplicity/ease of memorization over all of the above.
 
-##Tutorial
+## Tutorial
 
 How to execute it ([Video Tutorial](https://youtu.be/kEtNFC8_Bjw)):
 - Buffer the SAVE
@@ -32,3 +32,8 @@ How to execute it ([Video Tutorial](https://youtu.be/kEtNFC8_Bjw)):
 - Talk to the Bug Catcher and clear its textbox with B
 - Switch to hold A when you hear Squirtle cry, and quickly do Down(or UP)+A to buffer Tail Whip
   - this is the hardest part so you will need some practice
+
+## Paths
+
+  * [Old paths (v3.0)](v3.0/)
+  * [New paths (v4.0)](v4.0/)
