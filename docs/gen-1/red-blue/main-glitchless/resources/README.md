@@ -6,4 +6,4 @@
 * [Offensive Ranges](offensive-ranges.md)
 * [Post-Nerd Backup Paras](postnerd-backup-paras.md)
 * [Route 3 Moon Backups](rt3moon-f36-f37-backups.md)
-* [Triple Extended](triple-extended.md)
+* [Triple Extended](triple-extended/)

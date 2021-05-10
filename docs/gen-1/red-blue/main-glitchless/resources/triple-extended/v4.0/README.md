@@ -1,28 +1,5 @@
-# Pokemon Red Triple Extended Manip
+# Pokemon Red Triple Extended Manip v4.0
 credits to hwangbro/stringflow ([original pastebin](https://pastebin.com/FF8UJBUH))
-
-**DISCLAIMER**: This is really hard, consider focusing on other execution sections if you are a beginner
-
-How to execute it ([Video Tutorial](https://youtu.be/kEtNFC8_Bjw)):
-- Buffer the SAVE
-  - press start while still walking on the save tile, if you stop on the tile then START Nidoran manip will work but the extend might fail
-- Clear every textbox within its 4 frame window without mashing
-- While doing so, remember to always have A or B held down
-    - You can do this by either holding one and press the other to clear the textbox, or alternate A/B
-- Beware that 'A wild Nidoran...' can be cleared withing 8 frames for the yoloball to work, but you need to hit the first 4 frames for the extend to work
-- Renaming Nidoran is the only thing that doesn't have a 4-frames window
-  - That's why we have multiple paths: the higher the path the later you renamed it
-- Watch the NPC movements to recognize what path you hit, and execute the relative pidgey extend
-  - if you are unsure who they are, click on their names in the table
-- Note that Pidgey is a shorter name then NidoranM so the timing might throw you off at first
-- Clear Pidgey textboxes the same way as Nidran ones
-  - everyone of them is a 4-frame window
-- Check NPC movement again to check if you hit the forest extend or not, and follow the forest path if you did it
-  - here you might pick the one with potion or without based on your HP and the risk you want to take
-- When picking up Antidote/Potion, remember to keep A held until the text stop printing
-- Talk to the Bug Catcher and clear its textbox with B
-- Switch to hold A when you hear Squirtle cry, and quickly do Down(or UP)+A to buffer Tail Whip
-  - this is the hardest part so you will need some practice
 
 Glossary:
   - 'r' means NPC is looking RIGHT
@@ -30,14 +7,14 @@ Glossary:
   - u->L means NPC is looking UP, then moves LEFT
   - r->D/L means NPC is looking RIGHT, then moves DOWN or LEFT
 
-PATH | [NPC 1](https://gunnermaniac.com/pokeworld?map=1#53/182)  | [NPC 2](https://gunnermaniac.com/pokeworld?map=1#57/167) | [NPC 3](https://gunnermaniac.com/pokeworld?map=50#2/4) | [NPC 4](https://gunnermaniac.com/pokeworld?map=51#16/43) |	[NPC 5](https://gunnermaniac.com/pokeworld?map=51#27/40) | STRINGSHOT         | PIDGEY MAP | HOUSE MAP | FOREST MAP 
----- | ----- | ------ | ------ | ------ | ------ | ------------------ | ------------ | --- | --- 
-1  | r     | R    | D | d->l	  | l  | 6 Frames (310/324)   | [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUUULUUUUUUAUUUUUUUUUUUUULLLUUUUUUUUUUURRRRUULLLLLUUU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/URUUUUUU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUUURRRRRRRRUUUUAUUUUUAUUUAUUUUAUUAUUUUUUUUUUUAUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDLDDLLLLUUU) | 
+PATH | [NPC 1](https://gunnermaniac.com/pokeworld?map=1#53/182)  | [NPC 2](https://gunnermaniac.com/pokeworld?map=1#57/167) | [NPC 3](https://gunnermaniac.com/pokeworld?map=50#2/4) | [NPC 4](https://gunnermaniac.com/pokeworld?map=51#16/43) |	[NPC 5](https://gunnermaniac.com/pokeworld?map=51#27/40) | STRINGSHOT         | PIDGEY MAP | HOUSE MAP | FOREST MAP
+---- | ----- | ------ | ------ | ------ | ------ | ------------------ | ------------ | --- | ---
+1  | r     | R    | D | d->l	  | l  | 6 Frames (310/324)   | [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUUULUUUUUUAUUUUUUUUUUUUULLLUUUUUUUUUUURRRRUULLLLLUUU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/URUUUUUU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUUURRRRRRRRUUUUAUUUUUAUUUAUUUUAUUAUUUUUUUUUUUAUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDLDDLLLLUUU) |
 2	   | u->L	 | R->L	  | D | r->u | d	   | 5 Frames (239/270) | [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUAUULUUUAUUUUUUUUUUUUUUAUULLLUUUUUUURRRRUAUUUUUUULLLLLU) |	[Link](https://gunnermaniac.com/pokeworld?map=50#4/7/UUUUURUU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUAUURUARRRRRRRUUUUUUUUUUUAUUAUUUUUUUUUUUUUUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDDLDLLLLUUU) |
 2v2	   | u->L	 | R->L	  | D | r->u->r | r->l	   | 5 Frames (239/270) | [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUAUULUUUAUUUUUUUUUUUUUUAUULLLUUUUUUURRRRUAUUUUUUULLLLLU) |	[Link](https://gunnermaniac.com/pokeworld?map=50#4/7/UUUUURUU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUAUURUARRRRRRRUUUUUUUUUUUAUUAUUUUUUUUUUUUUUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDDLDLLLLUUU) |
 3	   | r->L| L	  | D	   | r	  | u	   | 6 Frames (296/324)	| [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURAUUUUUUUUUUUUUUUUUUUULUAUULLLUUUUUUUUUURRRARUUULLLLLUUU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/UUUUUURU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUUURURRRRRRARUUAUUAUUAUUUUUUUUUUUUAUUUUUUUUUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDADDALLALLALUAUU) |
 3v2	   | r->D| L->R	  | D	   | u	  | r/r->u	   | 6 Frames (296/324)	| [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURAUUUUUUUUUUUUUUUUUUUULUAUULLLUUUUUUUUUURRRARUUULLLLLUUU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/UUUUUURU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUUURURRRRRRARUUAUUAUUAUUUUUUUUUUUUAUUUUUUUUUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDADDALLALLALUAUU) |
-4	   |u->U	 | L	  | D | l->u->r	  | l    | 6 Frames (292/324)	| [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUUUUUUUUULAUUUUAUUUUAUUUAUULLLUUUUUUUUAURRRRUUUUUULLLLLU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/UUUUUURU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUUURURRRRRRRAUUUAUUUAUUUUUUUUUUUUUUUAUUUUUUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDADDADDADDDDDDDDDDLLLLLAUUU) | 
+4	   |u->U	 | L	  | D | l->u->r	  | l    | 6 Frames (292/324)	| [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUUUUUUUUULAUUUUAUUUUAUUUAUULLLUUUUUUUUAURRRRUUUUUULLLLLU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/UUUUUURU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUUURURRRRRRRAUUUAUUUAUUUUUUUUUUUUUUUAUUUUUUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDADDADDADDDDDDDDDDLLLLLAUUU) |
 5	 | d	   | R	  | U	   | d | l	   | 8 Frames (407/432)	| [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUUULUUUUUUAUUUUUUUUAUUUAUULLLUUUUUUAUURRUUAURRUUUULLLLLU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/UUUURUUU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUUURRRRRRRURAUUUUUAUUUUUUAUUUUUUUUUUUUUUUUUAUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDDDLLLLLAUUU) |
 6	 | d     | L	| D | u    |	d->l	   | 6 Frames (234/324)	| [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUUUUUUUUULAUUUUUUUUUUUUUULLLUUAUUUAURRRRAUUUUUULLLLLUUU)  | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/UUUUUURU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUUURRRRRRRAURAUUUUAUUUUUUUUAUUUUUUUUUUUUUUUUUUUUULLLLLLLLDDDDDADDLLLLUUUUUUUUUUUUULLLLLLDADDDDDDDDDDDDDDDDDDLLLLLUUU)
 6v2	 | d     | L->R	| U->D | u->r    |	d->l	   | 6 Frames (234/324)	| [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUUUUUUUUULAUUUUUUUUUUUUUULLLUUAUUUAURRRRAUUUUUULLLLLUUU)  | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/UUUUUURU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUUURRRRRRRAURAUUUUAUUUUUUUUAUUUUUUUUUUUUUUUUUUUUULLLLLLLLDDDDDADDLLLLUUUUUUUUUUUUULLLLLLDADDDDDDDDDDDDDDDDDDLLLLLUUU)
