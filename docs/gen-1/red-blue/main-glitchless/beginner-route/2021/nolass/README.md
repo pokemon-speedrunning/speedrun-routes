@@ -250,13 +250,18 @@ If you are less than 15 HP do the following:
 If you have less than 13 HP after this fight
 - Potion
   - 13+ HP lives QA x2, Wine Whip + QA non crits, and Wine Whip Crit
-- Teach BB over PS
+- Teach TM 11 BB over PS
 
-**Rival:**
-- Pidgeotto: HA x2
+**Boat Rival:**
+- Pidgeotto: HAx2 (BB turn 2 if taught; potion turn 2 if under 7 hp)
 	* If you get sand attacked swap to another pokemon and let it die
-* Rat: MP
-* Kadabra: Thrash
+* Rat:
+  - HP < 7 : Potion
+  - HP = 7-22 : MP  [Note: potion on 7-12 hp is extra safe]
+  - HP = 23+ : HA + PS or BBx2
+* Kadabra:
+  - HP < 7 : HA Kadabra & Potion turn 1 on Ivysaur, then thrash
+  - HP = 7+ : Thrash Kadabra
 
 If you have less than 9 HP and IT, Fight the Gentleman in [this room here](https://gunnermaniac.com/pokeworld?map=96#21/11) with thrash then pickup the rare candy
 
