@@ -119,13 +119,6 @@ Don't stress too much doing the longer manips just learn Post Nerd Backup Paras 
   - [Post Nerd Backup Paras](../../../resources/postnerd-backup-paras.md)
 
 - Get TM 12 (Water Gun), Rare Candy, Escape Rope, TM 01 (Mega Punch), Moon Stone during mount moon manip
-- MENU after Paras and Before Rocket:
-	* Toss any remaining Pokeballs (ONLY IF YOU HAVE A PARAS)
-	* Toss Antidote if you still have it
-	* Use Rare Candy
-	* Teach TM 12 (Water Gun) over Tackle (Slot 2)
-	* Use Moon Stone
-	* Teach TM 01 (Mega Punch) over Leer (Slot 1)
 - (Optional but recommended) Save before walking in front of the Rocket
 - This fight will change depending on how many horn attacks you have left
 
@@ -145,6 +138,14 @@ Don't stress too much doing the longer manips just learn Post Nerd Backup Paras 
 * 5+ HA:
 	- Rat: HA x2 (+PS)
 	- Zubat: HA x3 (+Tackle)
+
+- MENU before Super Nerd:
+	* Toss any remaining Pokeballs (ONLY IF YOU HAVE A PARAS)
+	* Toss Antidote if you still have it
+	* Use Rare Candy
+	* Teach TM 12 (Water Gun) over Tackle (Slot 2)
+	* Use Moon Stone
+	* Teach TM 01 (Mega Punch) over Leer (Slot 1)
 
 **Super Nerd:** (HA when possible but if you are out just MP again)
 * Grimer: MP + HA [Note: Water Gun can kill if you get a good MP roll, if so use WG over MP or HA]
@@ -479,7 +480,7 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 - EQ x3
 - Elixer on Weezing
   - if Koga used x attack use Bubblebeam till you die
-  - if you didn’t die from koga you can still try to get red bar by following the HP strats for the [backups](https://pastebin.com/2DBBnkmf). Note that this can be risky
+  - if you didn’t die from koga you can still try to get red bar by following the HP strats for the [backups](https://pastebin.com/HgyuMvyr). Note that this can be risky
 + MENU After Koga:
   + Use all Rare Candies
   + Bike to get Strength
@@ -575,7 +576,7 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 - Before Bruno use a Max Ether on HD
 
 **Bruno:**
-- X ACC, Blizz, HD x2, Blizz, HD
+- X ACC, HDx5
 
 MENU before Agatha:
 * Super Potion with 19 or more HP
