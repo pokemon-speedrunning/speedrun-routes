@@ -21,6 +21,17 @@ PATH | [NPC 1](https://gunnermaniac.com/pokeworld?map=1#53/182) | [NPC 2](https:
 6v2 | d | L | U->D | u | l->u | | | | |
 6v3 | d | L->R | U->U | u | l->u | | | | |
 
+## IGT3600 Full Details:
+- [Path 1](path1igt.md)
+- [Path 2](path2igt.md)
+- [Path 3](path3igt.md)
+- [Path 4](path4igt.md)
+- [Path 5](path5igt.md)
+- [Path 6](path6igt.md)
+
+
+## Generalized IGT / NPC Info
+
 ``` PATH 1
 Pidgey:
     SUCCESS (3179/3418, ~53/57)
