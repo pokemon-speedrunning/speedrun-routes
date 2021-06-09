@@ -23,7 +23,7 @@ PATH | [NPC 1](https://gunnermaniac.com/pokeworld?map=1#53/182) | [NPC 2](https:
 
 ``` PATH 1
 Pidgey:
-    SUCCESS (3181/3420, ~53/57)
+    SUCCESS (3179/3418, ~53/57)
     r,R: 53/57
 
     FAIL
@@ -33,7 +33,7 @@ Pidgey:
     r,R: 1/57
 
 Forest:
-    SUCCESS (3170/3181, ~52.83/53)
+    SUCCESS (3169/3179, ~52.8/53)
     D,d,d 49/53
     D,d,u 1/53
     D,u,l 1/53
@@ -42,7 +42,7 @@ Forest:
 
 Path 2
 Pidgey:
-    SUCCESS (3182/3420, ~53/57)
+    SUCCESS (3180/3418, ~53/57)
     u->L,R->L: 53/57
 
     FAIL
@@ -52,7 +52,7 @@ Pidgey:
     u->L,R->L: 1/57
 
 Forest:
-    SUCCESS (3117/3182, ~52/53)
+    SUCCESS (3115/3180, ~51.9/53)
     D,r->u,d, 47/53
     D,r->u->l,u->d, 1/53
     U,r->u->d,u->d->r, 1/53
@@ -63,7 +63,7 @@ Forest:
 
 Path 3
 Pidgey:
-    SUCCESS (3233/3240) (~54/57)
+    SUCCESS (3231/3218) (~53.8/57)
     r->L,L: 41/57
     r->D,L->R: 12/57
     d,L: 1/57
@@ -74,7 +74,7 @@ Pidgey:
     u->D->U,L: 1/57
 
 Forest:
-    SUCCESS (3212/3223, ~53.5/54)
+    SUCCESS (3210/3231, ~53.5/54)
     r->L, L
         L,U,u->r,r 33/54
         L,U,d,u, 4/54
@@ -93,7 +93,7 @@ Forest:
 
 Path 4
 Pidgey:
-    SUCCESS (3181/3240, ~53/57)
+    SUCCESS (3179/3218, ~53/57)
     u->U,L: 53/57
 
     FAIL
@@ -103,7 +103,7 @@ Pidgey:
     u->U,L: 1/57
 
 Forest:
-    SUCCESS (3169/3181, ~52.8/53)
+    SUCCESS (3167/3179, ~52.8/53)
     D,l->u->r,l, 38/53
     D,d->u,r->d->u, 5/53
     D,d->u,d->l, 2/53
@@ -117,7 +117,7 @@ Forest:
 
 Path 5
 Pidgey:
-    SUCCESS (3178/3240, ~53/57)
+    SUCCESS (3176/3418, ~52.9/57)
     d,R: 53/57
 
     FAIL
@@ -127,7 +127,7 @@ Pidgey:
     d,R: 1/57
 
 Forest:
-    SUCCESS (3176/3178, ~52.9/53)
+    SUCCESS (3174/3176, ~53/53)
     U,d,l, 50/53
     U,u,r->d 1/53
     U,l->u,d->u, 1/53
@@ -135,7 +135,7 @@ Forest:
 
 Path 6
 Pidgey:
-    SUCCESS (3181/3240, ~53/57)
+    SUCCESS (3179/3418, ~53/57)
     d,L: 47/57
     d,L->R: 6/57
 
@@ -146,7 +146,7 @@ Pidgey:
     d,L: 1/57
 
 Forest:
-    SUCCESS (3165/3181, ~52.8/53)
+    SUCCESS (3163/3179, ~52.8/53)
     d, L
         U,d,u->d, 33/53
         U->D,u,l->u, 7/53
