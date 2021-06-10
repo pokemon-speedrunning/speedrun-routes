@@ -32,7 +32,8 @@ PATH | [NPC 1](https://gunnermaniac.com/pokeworld?map=1#53/182) | [NPC 2](https:
 
 ## Generalized IGT / NPC Info
 
-``` PATH 1
+``` 
+PATH 1
 Pidgey:
     SUCCESS (3179/3418, ~53/57)
     r,R: 53/57
