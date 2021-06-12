@@ -80,7 +80,7 @@
 * Caterpie: Leer + HA x2 + (Tackle)
 * Weedle: Leer + HA x2
 	- Leer + HA + Tackle if you got stringshot hit OR tackle will always kill
-* Caterpie: HA x2 + Tackle
+* Caterpie: Leer + HA + Tackle
 - Menu: Use a potion if HP < 25
 
 **Shorts Guy:**
@@ -96,17 +96,18 @@
 * Kakuna:
   - HA spam (Tackle to finish)
 * Caterpie:
-  - HA x2
+  - HA x2 (Tackle turn 2 if Weedle hit 2 string shots)
 * Metapod:
   - HA x2 + Tackle
 
 **Bug Catcher 3:**
 - Caterpie:
   - HA x2
-- Metapod:
+- Metapod: (note: you need at least 2 HAs for after this fight)
   - HA spam, Tackle to finish
 + Catch a Flyer
-  + Tackle then toss a ball at any flyer expect level 8s where you HA then toss a ball
+  + Tackle then toss a ball at any flyer expcept L8 Pidgey where you HA then toss a ball
+  + Exception: if only 2 HAs are left, then weaken L8 Pidgey with Leer + Tackle
 
 ## Mount Moon
 **Mount Moon Manip:**
@@ -124,10 +125,10 @@ Don't stress too much doing the longer manips just learn Post Nerd Backup Paras 
 
 **Rocket:**
 * 1 HA:
-	- Rat: Leer + Tackle x2
+	- Rat: Leer + Tackle x2 (+ PS)
 	- Zubat: Leer + Tackle + HA (+Tackle)
 * 2 HA:
-	- Rat: Leer + HA + Tackle (+PS)
+	- Rat: Leer + HA + Tackle (or PS turn 3 if tail whip hit or PS always KOs)
 	- Zubat: Leer + Tackle + HA (+Tackle)
 * 3 HA:
 	- Rat: HA x2 (+PS)
@@ -217,6 +218,7 @@ Don't stress too much doing the longer manips just learn Post Nerd Backup Paras 
 * MP
 * HA
 * MP (Use HA if you fought the extra Moon encounter)
+* Teach Thrash over Water Gun
 
 - MENU After Bill:
 	* Use Rare Candy
@@ -337,7 +339,7 @@ Surge Cans Manip:
 **Lass:**
 - Thrash
 
-- Get the Hidden Max Etehr [here](https://gunnermaniac.com/pokeworld?map=21#16/53)
+- Get the Hidden Max Ether [here](https://gunnermaniac.com/pokeworld?map=21#16/53)
 
 ## Route 8
 **Gambler:**
@@ -366,8 +368,8 @@ Shopping:
 	- Come back and buy a Fresh Water
 * Floor 5:
 	- Buy 12 X Accs
-	- Buy 9 X Specs (8 if you have 0 potions at this point)
-	- Buy 1 X Speeds (2 if you have 0 potions at this point)
+	- Buy 9 X Specs (7 if you have 0 potions at this point)
+	- Buy 1 X Speeds (3 if you have 0 potions at this point)
 - Take the Elevator and get HM 02 (Fly)
 - MENU after getting Fly:
 	* Swap slot 2 with TM 07 (Horn Drill)
@@ -420,11 +422,11 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 
 **Rocket 1:**
 - Thrash
-  - If you get paralyzed use a paralyze heal
+  - If you get paralyzed use a paralyze heal after the fight (or turn 2 on silph rival's Pidgeot)
 - Get the Key Card
 
 **Rival:**
-* Pidgeotto:
+* Pidgeot:
 	- X Acc
 	- X Speed, HD
 * HD all remaining Pokes
@@ -450,7 +452,7 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 - Use your Bike and go to Snorlax
 - MENU before Snorlax:
 	* Use a repel
-	* Swap slot 5 for Rare Candies
+	* Swap slot 5 Para Heal for Rare Candies
 	* Use Pokeflute
 
 ## Cycling Road
@@ -460,7 +462,7 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 ## Fuschia City
 * MENU:
   * Use a repel
-  * Swap slot 6 with X Spec
+  * Swap slot 6 Potion with X Spec (if 0 potions, then swap Helix Fossil with X Spec instead)
   * Teach TM 26 (Earthquake) over Thrash
   * Use Bike
 - In the Safari Zone:
@@ -550,8 +552,9 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 	+ Bike
 
 **Rival:**
-- X Acc, X Spec, Blizz, Blizz, HD, X Spec, HD x3
-	* Note: If you only have 2 Blizzards entering the fight, use TB(+TB) on Pidgeot instead of Blizz. You want at least 1 Blizzard leaving this fight.
+- X Acc, X Spec, Blizz, HDx2, X Spec, HD x3
+	- Note: only if you had 0 potions in Celadon and bought 3 X-Speeds do the following instead:
+	- X Acc, X Speed, Blizz(+TB), HDx5
 
 ## Victory Road
 - Pick up the hidden Max Ether from the water [here](https://gunnermaniac.com/pokeworld?map=34#8/90)
@@ -590,7 +593,7 @@ MENU before Agatha:
 - Golbat: Blizz
     - If you miss Blizz, and Golbat uses Haze, use
       - 2x TB on Golbat
-	  - Consider using a Super Potion on Arbok if you are between 25 HP and 60 HP.
+	  - Consider using a Super Potion on Arbok if you are between 25 HP and 60 HP (or use X Speed if you bought 3).
 	  - 25 HP and lower has red bar, and is usually worth taking the risk.
 	  - You are slower than the last Gengar, so it will have a turn to use a move on you.
     - If you miss Blizz, but Golbat doesn't use Haze, use Blizz again, or TB if out of Blizzards
@@ -618,7 +621,7 @@ If you don't have enough Potion, use the heal option below
 **Lance:**
 * Gyarados: X Spec, TB
 * Dragonair 1: Blizz
-* Dragonair 2: X Spec, Blizz
+* Dragonair 2: X Spec, Blizz (use X Speed instead if you have one)
 * Aero: TB
 * Dragonite: Blizz
 
