@@ -304,7 +304,7 @@
 - Bike down to Lavender, then left towards Celadon
 
 - ### Gambler:
-  - Growlithe: Bubblebeam
+  - Growlithe: Swap Bubblebeam with Thrash, then use Bubblebeam(+TB)
   - Vulpix: Thrash
 
 - Pick up [Underground Elixer](https://gunnermaniac.com/pokeworld?map=121#21/5)
@@ -321,8 +321,8 @@
 - Fly menu:
   - Swap slot 2 item with TM07
   - Use Super Repel
-  - Teach Rock Slide (TM48) over DK (slot 1)
-  - Teach Horn Drill (TM07) over BB (slot 2)
+  - Teach Rock Slide (TM48) over BB (slot 1)
+  - Teach Horn Drill (TM07) over HA (slot 2)
   - Swap slot 3 with X Acc
   - Teach Fly
   - Fly to Lavender Tower (Down 3)
