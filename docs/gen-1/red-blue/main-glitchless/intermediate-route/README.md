@@ -688,7 +688,7 @@ Agatha:
 + **(126+)** Don't Heal
 
 Lance:
-- X Special + TB (if hydro pump misses you can stall with EQ or with an X-Acc if you still have 1 left )
+- X Special + TB (if hydro pump misses you can stall with EQ or with an X-Acc if you still have 2 left )
 - Blizzard
 - X Speed + Blizzard
 - TB
