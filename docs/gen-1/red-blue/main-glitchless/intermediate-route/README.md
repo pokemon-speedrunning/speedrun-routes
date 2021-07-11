@@ -19,13 +19,12 @@
 
 Rival 1:
 - Tail Whip x1 + Tackle Spam
-
-> Check stats on level up to Lvl6
-> 10 ATK - Tail Whip x3 on Weedle Guy in forest
-> 12 ATK - Tail Whip + Tacklex2 on L3 Rat encounter only
-> 12 DEF is bad defense, expect Geodude & Onix to do more damage (see Defensive Ranges)
-> 11 SPC is likely bad special (3 hit on Geodude and/or Onix)
-> 12 SPC is guarenteed good special (2 hit on Geodude & Onix)
+> Check stats on level up after rival 1
++ 10 ATK - Tail Whip x3 on Weedle Guy in forest
++ 12 ATK - Tail Whip + Tacklex2 on L3 Rat encounter only
++ 12 DEF is bad defense, expect Geodude & Onix to do more damage (see Defensive Ranges)
++ 11 SPC is likely bad special (3 hit on Geodude and/or Onix)
++ 12 SPC is guarenteed good special (2 hit on Geodude & Onix)
 
 Route 1
 - spam tackle to KO one encounter that is L2 or L3
