@@ -2,7 +2,7 @@
 
 ## Good Documents:
 - [HP Dependent Strats](https://pastebin.com/HgyuMvyr) 
-> Note: these strategies may involve more risk than this guide suggests, but is still useful.
+> Note: The above document is useful, but contains some higher risks than this route suggests.
 - [Defensive Damage Ranges](../../../resources/defensive-ranges.md)
 - [Offensive Damage Ranges](../../../resources/offensive-ranges.md)
 
@@ -20,12 +20,12 @@
 Rival 1:
 - Tail Whip x1 + Tackle Spam
 
-- Check stats on level up to Lvl6
-* 10 ATK - Tail Whip x3 on Weedle Guy in forest
-* 12 ATK - Tail Whip + Tacklex2 on L3 Rat encounter only
-* 12 DEF is bad defense, expect Geodude & Onix to do more damage (see Defensive Ranges)
-* 11 SPC is likely bad special (3 hit on Geodude and/or Onix)
-* 12 SPC is guarenteed good special (2 hit on Geodude & Onix)
+> Check stats on level up to Lvl6
+> 10 ATK - Tail Whip x3 on Weedle Guy in forest
+> 12 ATK - Tail Whip + Tacklex2 on L3 Rat encounter only
+> 12 DEF is bad defense, expect Geodude & Onix to do more damage (see Defensive Ranges)
+> 11 SPC is likely bad special (3 hit on Geodude and/or Onix)
+> 12 SPC is guarenteed good special (2 hit on Geodude & Onix)
 
 Route 1
 - spam tackle to KO one encounter that is L2 or L3
@@ -35,19 +35,16 @@ Viridian Mart
 - note: if buying 5 balls, buy one fewer potion later
 
 Do [Nido Manip](../resources/nido-manip.md)
-
-Optional:
-Do [Triple Extended Manip](../resources/triple-extended)
-
-Pick up the hidden Tree Potion if not doing triple extended
-Pick up the Antidote
-
-- If Squirtle is under 16 hp, pick up Weedle Guy Potion and use a potion before the next fight.
-> Can skip using potion if pace is meh
-
-- Always pick up the Weedle Guy Potion if you bought 5 balls.
+> Optional: Do [Triple Extended Manip](../resources/triple-extended)
 
 ## BROCK SPLIT
+
+- Pick up the hidden Tree Potion if not doing triple extended
+
+- Pick up the Antidote
+
+> If Squirtle is under 16 hp, pick up the hidden Weedle Guy Potion and heal before the next fight.
+> Always pick up the Weedle Guy Potion if you bought 5 balls or skipped tree potion on good pace.
 
 Weedle Guy:
 - Tail Whip x2 (Tail Whip a third time with 10 ATK)
@@ -72,17 +69,17 @@ Change Options to Set before leaving the Gym
 
 BC1:
 - Leer, HA x2(Tackle)
-- Leer, HA(finish with Tackle if you can)
+- Leer, HA + (HA or Tackle if you can)
 - Leer, HA + Tackle
 
-- Menu: Use a potion if HP < 25
+- Menu: Use a potion if HP < 25 & 
 *Toss antidote if healing before Shorts Guy*
-- with 25-27 hp use HAx2 (+Tackle) on Rat
+> with 25-27 hp use HAx2 (+Tackle) on Rat
 
 Shorts Guy:
-- Leer, HA x2 [Heal if HP < 10, @-1 if HP < 16]
-- Leer, HA x2 [Heal if HP < 4, @-1 hp < 5, @-2 if hp < 6]
-* Potion if you were wrapped and don't live 4 or 5 hits.
+- Leer, HA x2  [Heal if HP < 10, @-1 if HP < 16]
+- Leer, HA x2  [Heal if HP < 4, @-1 hp < 5, @-2 if hp < 6]
+> Potion turn 1 of wrap if you don't live a 4 or 5-turn-wrap.
 
 BC2:
 - HA + HA or Tackle
@@ -98,22 +95,26 @@ BC3:
 
 + Catch a Flyer
   + Tackle then toss a ball at any flyer except L8 Pidgey where you HA then toss a ball
-  + Exception: if only 2 HAs are left, then weaken L8 Pidgey with Leer + Tackle
+  > Exception: if only 2 HAs are left, then weaken L8 Pidgey with Leer + Tackle
 
 ## MT. MOON SPLIT
 
 **Moon Manip Save**
-- 1- 8 	2 Potions AFTER Paras
-- 9 - 15	2 Potions
-- 16 - 35	1 Potion
-- 36+	Don't Heal
+- 1- 8
+  + 2 Potions AFTER Paras
+- 9 - 15
+  + 2 Potions
+- 16 - 35
+  + 1 Potion
+- 36+
+  + Don't Heal
 
 Do Route 3 Moon Manip https://pastebin.com/tggXpQRC
 
+>The Lass that you see on screen before entering Mt. Moon during the manip should be stuck facing up; however on Frame 36 & Frame 37 she walks right & faces left, respectively. If you'd like to learn the alternative movement used to manipulate mt. moon on these frames check here (../../../resources/route-3-moon-backups.md)
+
 If you get an igt encounter or fail the manip before the last floor:
   - [Post Hiker Backup Backup](https://pastebin.com/j5gtY4cy)
-
-The Lass that you see on screen before entering Mt. Moon during the manip should be stuck facing up; however on Frame 36 & Frame 37 she walks right & faces left, respectively. If you'd like to learn the alternative movement used to manipulate mt. moon on these frames check here (../../../resources/route-3-moon-backups.md)
 
 **Rocket:**
 
@@ -130,19 +131,19 @@ The Lass that you see on screen before entering Mt. Moon during the manip should
 	- Rat: HA x2 (+PS)
 	- Zubat: HA x3 (+Tackle)
 
-Heal on Zubat if 
->@-0 hp < 8 or confused & hp < 17
->@-1 hp < 12 or confused & hp <14
->@-2 hp < 14; if confused yolo or consider swapping on good pace if Bird or Squirtle have low hp
+ + Heal on Zubat if 
+  + @-0 hp < 8 or confused & hp < 17
+  + @-1 hp < 12 or confused & hp <14
+  + @-2 hp < 14; if confused yolo or consider swap on good pace if Bird or Squirtle have low hp
 
-Moon Menu immediately after defeating Rocket:  
-- Toss Pokeball(s) (do not toss if you still need to catch Paras)
-- Use Rare Candy
-- Teach Water Gun (TM12) in Slot 2
-- Use Moon Stone
-- Teach Mega Punch (TM01) in Slot 1
+**Moon Menu** immediately after defeating Rocket:  
+  + Toss Pokeball(s) (do not toss if you still need to catch Paras)
+  + Use Rare Candy
+  + Teach Water Gun (TM12) in Slot 2
+  + Use Moon Stone
+  + Teach Mega Punch (TM01) in Slot 1
 
-- Moon Exp: KO a Geodude or Paras if you happen to encounter one while walking up to talk to the Nerd
+> Moon Exp: KO a Geodude or Paras if you happen to encounter one while walking up to talk to the Nerd
 
 Nerd:
 - MP + WG (if MP low rolls use HA or MP turn 2)
@@ -152,7 +153,7 @@ Nerd:
 If you still need to catch Paras:
   - [Post Nerd Backup Paras](../../../resources/postnerd-backup-paras.md)
 
-- Moon Exp: Exiting Mount Moon KO a Geodude or Paras if you haven't already and you happen to encounter one.
+> Moon Exp: Exiting Mount Moon KO a Geodude or Paras if you haven't already and you happen to encounter one.
 
 ## BRIDGE SPLIT
 
@@ -172,7 +173,8 @@ Lass:
 - MP + (PS), HA x2
 
 Youngster:
-- MP all (HA the zubat if you got Moon Exp)
+- MP all 
+> HA the zubat if you got Moon Exp
 
 Lass:
 - MP(PS)
@@ -180,16 +182,17 @@ Lass:
 
 **Mankey**
 * HP < 8:
-	- MP + (PS) [or potion turn 1 if you are far ahead and don't mind some time loss]
+  - MP + (PS) 
+>[or potion turn 1 if you are far ahead and don't mind some time loss]
 * HP > 7:
-  - HA x2 [finish with PS if Mankey uses Leer or PS always KOs]
-  - [Note: Mankey is 1/3 to Karate Chop and does 12-15, healing is an option but is slow cause you lose IT]
+  - HA + HA (finish with PS instead if you can)
 * HP > 27:
   - MP + (PS)
 
 Rocket:
 - MP
-- MP (HA zubat if you got Moon Exp) (always HA zubat with 13-17 hp)
+- MP  (HA zubat with 13-17 hp)
+> always HA zubat if you got Moon Exp
 
 ## MISTY SPLIT
 
@@ -206,24 +209,33 @@ Hiker:
 - MP + (PS) ( use HA + PS with 16-20 hp)
 - WG
 
-Lass: ( potion on 1st Oddish if under 6 hp )
-- MP (use HA + PS with 16-18 hp)
+Lass: 
+> potion on 1st Oddish if under 6 hp
+- MP  (use HA + PS if 16-18 HP)
 - HA
-- MP (use HA + PS with 16 hp) (use HA if leveled early from Moon EXP)
+- MP (use HA + PS if HP = 16) 
+> use HA on 2nd Oddish if leveled early from Moon EXP
 - (Teach Thrash in slot 2)
 
-- If you happen to have 35+ hp and 0 Mega Punches, pick up the hidden Ether and use it on Mega Punch before using escape rope in Bill Menu. 
-- If you have under 35 hp and 0 MPs left, just skip heal and take the Center after Bill.
+> If you happen to have 35+ hp and 0 Mega Punches, pick up the hidden Ether and use it on Mega Punch before using escape rope in Bill Menu. 
+> If you have under 35 hp and 0 MPs left, just skip heal and take the Center after Bill.
 
-Bill Menu:
-- 1-14	3 Potions or don't heal & Take the Center 
-- 15-34	2 Potions
-- 35-54	1 Potion
-- 55+	Don't heal
-- Rare Candy
-- Escape Rope
+Based off hp at L23:
+- 1-14
+  + 3 Potions or don't heal & Take the Center 
+- 15-34	
+  + 2 Potions
+- 35-54	
+  + 1 Potion
+- 55+	
+  + Don't heal
 
-Get Instant Text again
+**Bill Menu**
+  + Slot 1 Potion
+  + Slot 5 Rare Candy
+  + Slot 3 Escape Rope
+
+**Get Instant Text again**
 
 Dig Rocket:
 - Thrash
@@ -235,9 +247,12 @@ Misty:
 - Thrash
 
 POST-MISTY
-- 1-6	Potion + teach BB + get IT again
-- 7-10	Don't heal + fight male Jr. Trainer first
-- 11+	Don't heal + fight female Jr. trainer first  
+- 1-6
+  + Potion + teach BB early over PS + get IT again
+- 7-10
+  + Don't heal + fight male Jr. Trainer first
+- 11+
+  + Don't heal + fight female Jr. trainer first  
 
 ## SURGE SPLIT
 
@@ -252,14 +267,15 @@ Jr Trainer M:
 	* If you get sand attacked swap to bird and let it faint. 
 * Rat:
   - HP < 7 : Potion
-  - HP = 7-22 : MP	(if only 1 MP is left, use thrash instead)
+  - HP = 7-22 : MP
+  > (use Thrash if only 1 MP is left)
   - HP = 23+ : HA + PS or BBx2
 * Kadabra:
-  - HP < 7 : HA Kadabra & Potion turn 1 on Ivysaur, then thrash
+  - HP < 7 : HA Kadabra & Potion turn 1 on Ivysaur, then thrash Ivy
   - HP = 7+ : Thrash Kadabra
 
-If you have 2-4 HP and IT, Fight the Gentleman in [this room here](https://gunnermaniac.com/pokeworld?map=96#21/11) with thrash then pickup the rare candy
-If you have 5-8 HP and IT, fight the Gentleman and pickup the candy if on good pace.
+  + If you have 2-4 HP and IT, Fight the Gentleman in [this room here](https://gunnermaniac.com/pokeworld?map=96#21/11) with thrash then pickup the rare candy
+  + If you have 5-8 HP and IT, fight the Gentleman and pickup the candy if on good pace.
 
 Vermillion Mart:
 - Sell TM34 and Nugget
@@ -278,17 +294,17 @@ Use Cut and Do Cans Manip
 
 Surge:
 - Voltorb: 
-> 1-20: Thrash
-> 21-24: HA + BB
-> 25+: BBx2
+  + 1-20: Thrash
+  + 21-24: HA + BB
+  + 25+: BBx2
 - Pikachu
-> Thrash
+  + Thrash
 - Raichu
-> if confused swap to Bird or Squirtle, unless you can live hit self
-> Conf 14
-> w/growl 9
-> w/screech 28
-> w/both 21
+  > if confused swap to Bird or Squirtle, unless you can live hit self
+  + Conf 14
+  + w/growl 9
+  + w/screech 28
+  + w/both 21
 
 ## FLY SPLIT
 
@@ -300,27 +316,39 @@ Bike Menu:
 - Use Bike
 
 If you could benefit from 45+ seconds of timesave setup red bar according to your hp.
-FLY SPLIT RED BAR (hp is listed at L28)
-4-17	Normal strats
-18	BB all on Bug Catcher - hope for tackle from Venonat
-19	Normal Strats
-20-21	BB all on Bug Catcher if good pace; otherwise Thrash first Slowpoke
-22-27	Thrash first Slowpoke
-28-38	TB stall on Cubone, use BB once hit by Bone Club
-39-43	BB+BB+TB Slowpoke (take 2 hits)
-44+	TB Cubone and then Thrash Slowpoke (take 2 hits)
 
-Quick Reference
+- FLY SPLIT RED BAR (hp is listed at L28)
+4-17
+  + Normal strats
+18
+  + BB all on Bug Catcher - hope for tackle from Venonat
+19
+  + Normal Strats
+20-21
+  + BB all on Bug Catcher if good pace; otherwise Thrash first Slowpoke
+22-27
+  + Thrash first Slowpoke
+28-38
+  + TB stall on Cubone, use BB once hit by Bone Club
+39-43
+  + BB+BB+TB Slowpoke (take 2 hits)
+44+
+  + TB Cubone and then Thrash Slowpoke (take 2 hits)
+
+**Inventory Quick Reference**
 - Slot 5 Repel
 - Slot 6 Para Heal
 - Slot 7 Potion
 
 4 Turn Thrash Girl:
-- MP  (optional: Thrash turn 1 if 20+, 28+, or 39+ hp depending on need for red bar)
+> optional: Thrash turn 1 if 20+, 28+, or 39+ hp depending on need for red bar
+- MP
 - Thrash 
 
-BC: (thrash turn 1 if gentleman candy)
-- BB (optional: Thrash turn 1 if 39+ hp)
+BC: 
+  + thrash turn 1 if gentleman candy
+> optional: thrash turn 1 if 20+, 28+, or 39+ hp depending on need for red bar
+- BB
 - Thrash
 
 ROCK TUNNEL: https://imgur.com/gallery/uoueIjq
@@ -335,11 +363,12 @@ Pokemaniac 2:
 - TB
 
 Oddish Girl:
-- Thrash (if hp is 18-22, then TB turn 1, then thrash)
-- If you get para'd use a heal on it, and if you get put to sleep potion if below 6 hp
+  + if hp is 18-22, then TB turn 1, then thrash
+  + If you get para'd use a heal on it, and if you get put to sleep potion if below 6 hp
+- Thrash turn 1 at any other hp
 
 Use 2 Repels at some point after this fight and before the next fight
-  + You can delay these 2 repels up to ~10 tiles
+> You can delay these 2 repels up to ~10 tiles
 
 Hiker:
 - BBx3
@@ -350,19 +379,20 @@ Lass:
 Pick up hidden Max Ether outside of Tunnel
 
 Gambler:
-- BB (potion turn 1 if hp < 5)
+> potion turn 1 if HP < 5
+- BB 
 - Thrash
 
-* Take note of your hp leaving gambler
-- If hp is 9-15 follow regular shopping & Late Drill Strats
-- If hp is 1-8 or 16+ follow Early Drill shopping & Early Drill Strats
+> Take note of your hp leaving gambler
+- If HP = 9-15 follow **Late Drill** Strats
+- If HP = 1-8 or 16+ follow **Early Drill** Strats
 
 Get Underground  Elixer
 
 ## Celadon Mart
-note: if you fought the gentleman ma
-> On Early Drill with gentleman money,  still buy 4 Super Potions and 5 X-Specials.
-> On Late Drill with gentleman money, buy 6 X-Specials and 4 X-Speeds to have extra.
+note if you fought the gentleman:
+  + On Early Drill with gentleman money, still buy 4 Super Potions and 5 X-Specials.
+  + On Late Drill with gentleman money, buy 6 X-Specials and 4 X-Speeds (1 extra of each)
 
 - 2nd Floor
     - Buy TM07
@@ -392,11 +422,15 @@ Fly Menu
 - Down 3 to teach **HM02** Fly to bird
 - Fly to Lavender
 
-**Lavender Rival:**
-- 1-8	Turn 1 use slot 6 **Potion** , Turn 2 scroll up 4 to use **X-Accuracy**
-- 9-15	TB, TB, BB ( if under 9 hp on Growlithe use slot 7 **Potion**, then BB ), Thrash
-- 16	TBx2, X-Acc on Growlithe, HDx3
-- 17+	X-Acc on Pidgeotto, HDx5
+**Lavender Rival** is an hp dependent fight:
+- 1-8
+  + Turn 1 use slot 6 **Potion** , Turn 2 scroll up 4 to use **X-Accuracy**
+- 9-15
+  + TB, TB, BB ( if under 9 hp on Growlithe use slot 7 **Potion**, then BB ), Thrash
+- 16
+  + TBx2, X-Acc on Growlithe, HDx3
+- 17+
+  + X-Acc on Pidgeotto, HDx5
 
 Channeler 1:
 - RSx2  (don't forget Rockslide will be in either slot 1 or slot 2)
@@ -442,30 +476,29 @@ Go to floor 5 and pick up hidden Tree Elixer
 - How to play the next two fights depends on whether you did early or late drill.
 
 **Rocket w/Arbok:**
-- Late Drill:
-- Thrashx2-3 
+- if on Late Drill for Arbok:
+  + Thrashx2-3 
 > do NOT use a Paralyz Heal in fight, thrash until Arbok is KO'd, enter the next fight still Paralyzed
-- Early Drill:
-- X-Acc + HD
+- if on Early Drill for Arbok:
+  + X-Acc + HD
 > use Paralyz Heal immediately if glare
 
 **Silph Rival:**
 - Pidgeot: X Acc + (use Paralyz Heal if needed) + X Speed + HD
 - Gyarados: HD
-- Growlithe: 
-> RS on Early Drill
-> HD on Late Drill
+- Growlithe: RS on Early Drill / HD on Late Drill
 - Alakazam: HD
 - Venusaur: HD
 
-- If you have less than 78 HP, use Slot 8 **Elixer** before the next fight
+Menu if less than 78 hp
+  + If you have less than 78 HP, use Slot 8 **Elixer** BEFORE the next fight
+  + If HP = 78+, Elixer will be used in the next fight.
 
 **Silph Rocket:**
 * Cubone:
   - Turn 1: X Acc
-  - Turn 2: If Cubone does NOT damge you, use BB
-  - Turn 2: If Cubone damages you, scroll down 6 to use **Elixer** 
-  - Turn 3: BB
+  - If Cubone does NOT damge you, use **BB** on turn 2
+  - If Cubone damages you, scroll down 6 to use **Elixer** & BB on turn 3
 * Drowzee:
   - (if you have not already) scroll down 6 to use **Elixer** turn 1 & HD on turn 2
   - otherwise, HD turn 1
@@ -493,9 +526,9 @@ Go to floor 5 and pick up hidden Tree Elixer
 
 ## Fuschia City
 - NOTE: If you have ran out of potions then make these three modifications
-> in the next menu - instead of swapping potions down, swap Helix Fossil with X Spec 
-> in the 3rd Zone of the Safari - pick up TM40 for bag space [this item](https://gunnermaniac.com/pokeworld?map=218#19/7)
-> in the surf menu - swap HM01 with X Speed
+> **(1)** In the next menu - instead of swapping potions down, swap Helix Fossil with X Spec.  
+> **(2)** In the 3rd Zone of the Safari - pick up TM40 for bag space [this item](https://gunnermaniac.com/pokeworld?map=218#19/7)  
+> **(3)** In the surf menu - swap HM01 with X Speed.  
 
 * MENU:
   * Use slot 4 **Repel**
@@ -638,23 +671,32 @@ Agatha:
 - X Special + EQ
 - Blizzard
 - EQ x3
-> If miss Golbat into Haze kill it with TB x2 then use X Speed on Arbok if 25-60 HP or yolo
-> note: must yolo on 25-60 hp if you only have 2 X-Specials left (or super potion if far ahead)
+> If miss Golbat into Haze kill it with TB x2 then use X Speed on Arbok if 25-60 HP or Super Potion or yolo.
 
 ## LANCE SPLIT
 
-Before Lance
-Use Elixer and heal accordingly
-4-5	Super Potion x2 & Potion x2
-6-25	Super Potion x2 & Potion 
-26	Super Potion x2  & Potionx0-1 (skip potion if desperate for timesave)
-27-48	Super Potion x2 
-49-56	Super Potion & Potion x2
-57-76	Super Potion & Potion
-77-98	Super Potion
-99-106	Potion x2
-107-125	Potion
-126+	Don't Heal
+**MENU Before Lance**
+- Use Elixer and heal accordingly:
+4-5
+  + Super Potion x2 & Potion x2
+6-25
+  + Super Potion x2 & Potion 
+26
+  + Super Potion x2  & Potionx0-1 (skip potion if desperate for timesave)
+27-48
+  + Super Potion x2 
+49-56
+  + Super Potion & Potion x2
+57-76
+  + Super Potion & Potion
+77-98
+  + Super Potion
+99-106
+  + Potion x2
+107-125
+  + Potion
+126+
+  + Don't Heal
 
 Lance:
 - X Special + TB (if hydro pump misses you can stall with EQ or an X-Acc if you have 2)
@@ -665,13 +707,19 @@ Lance:
 
 ## CHAMP SPLIT
 
-Before Champ
-1  	Super Potion
-2-17	Potion
-18-21	Super Potion (yolo if you need red bar to pb)
-22	Super Potion on insane pace; otherwise don't heal
-23-37	Don't Heal
-38-44	Potion on insane pace; otherwise don't heal
+**MENU Before Champ**
+1
+  + Super Potion
+2-17
+  + Potion
+18-21
+  + Super Potion (yolo if you need red bar to pb)
+22
+  + Super Potion on insane pace; otherwise don't heal
+23-37
+  + Don't Heal
+38-44
+  + Potion on insane pace; otherwise don't heal
 
 Champion:
 - X Special + X Acc + Drill
@@ -679,4 +727,4 @@ Champion:
 - TB
 - Drill x2
 > X Special turn 1 (WA does 18-22)
-> If Sky Attack Turn 1, KO Pidgeot with Blizzard, EQ Alakazam, and X Acc on Rhydon (1/4 to Fury Attack), Drill all
+> If Sky Attack Turn 1, KO Pidgeot with Blizzard, EQ Alakazam, and X Acc on Rhydon (1/4 to Fury Attack), Drill all.
