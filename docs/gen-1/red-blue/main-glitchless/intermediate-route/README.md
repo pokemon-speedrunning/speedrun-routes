@@ -99,18 +99,12 @@ BC3:
 ## MT. MOON SPLIT
 
 **Moon Manip Save**
-- 1- 8
-  + 2 Potions AFTER Paras
-- 9 - 15
-  + 2 Potions
-- 16 - 35
-  + 1 Potion
-- 36+
-  + Don't Heal
+- Heal to 36+ 
+- If in red bar HP < 9 & confident with yolo ball, delay heal until after Paras catch
 
 Do Route 3 Moon Manip https://pastebin.com/tggXpQRC
 
->The Lass that you see on screen before entering Mt. Moon during the manip should be stuck facing up; however on Frame 36 & Frame 37 she walks right & faces left, respectively. If you'd like to learn the alternative movement used to manipulate mt. moon on these frames check here (../../../resources/route-3-moon-backups.md)
+>The Lass that you see on screen before entering Mt. Moon during the manip should be stuck facing up; however on Frame 36 & Frame 37 she walks right & faces left, respectively. If you'd like to learn the alternative movement used to manipulate mt. moon on these frames check [F36/F37 Backups](../../../resources/route-3-moon-backups.md)
 
 If you get an igt encounter or fail the manip before the last floor:
   - [Post Hiker Backup Backup](https://pastebin.com/j5gtY4cy)
@@ -142,7 +136,7 @@ If you get an igt encounter or fail the manip before the last floor:
   + Use Moon Stone
   + Teach Mega Punch (TM01) in Slot 1
 
-> Moon Exp: KO a Geodude or Paras if you happen to encounter one while walking up to talk to the Nerd
+> Moon Exp: KO a Geodude (use WG) or Paras (use PS) if you happen to encounter one while walking up to talk to the Nerd
 
 Nerd:
 - MP + WG (if MP low rolls use HA or MP turn 2)
@@ -152,7 +146,7 @@ Nerd:
 If you still need to catch Paras:
   - [Post Nerd Backup Paras](../../../resources/postnerd-backup-paras.md)
 
-> Moon Exp: Exiting Mount Moon KO a Geodude or Paras if you haven't already and you happen to encounter one.
+> Moon Exp: Exiting Mount Moon KO a Geodude (use WG) or Paras (use PS) if you haven't already and you happen to encounter one.
 
 ## BRIDGE SPLIT
 
@@ -637,7 +631,7 @@ Rival:
 - X Acc + X Speed + Blizzard + (TB)
 - HD x5
 
-Pick up the hidden Max Ether
+Pick up the hidden [Max Ether](https://gunnermaniac.com/pokeworld?map=1#8/116)
 
 Super Repel locations indicated [here](https://imgur.com/gallery/laeW1PT)
 
@@ -687,8 +681,12 @@ Agatha:
 + **(107-125)** Potion
 + **(126+)** Don't Heal
 
+> note: if you need Lance and/or champ red bar to pb, then be prepared to stall if Hydro Pump Misses
+> **(1)** HP < 133, then use X-Speed turn 2 on Gyarados instead of on 2nd Dragonair
+> **(2)** HP = 133+, then stall with EQ or stall with an X-Acc **only if you have 2 left**
+
 Lance:
-- X Special + TB (if hydro pump misses you can stall with EQ or with an X-Acc if you still have 2 left )
+- X Special + TB
 - Blizzard
 - X Speed + Blizzard
 - TB
