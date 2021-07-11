@@ -47,7 +47,7 @@ Do [Nido Manip](../resources/nido-manip.md)
 
 Weedle Guy:
 - Tail Whip x2 (Tail Whip a third time with 10 ATK)
-- Tackle Spam [Heal if HP < 7]
+- Tackle Spam [Heal if HP < 5]
 
 Swap Squirtle and Nido at some point
 - Toss antidote if you are healing Squirtle before Brock
@@ -676,26 +676,16 @@ Agatha:
 
 **MENU Before Lance**
 - Use Elixer and heal accordingly:
-4-5
-  + Super Potion x2 & Potion x2
-6-25
-  + Super Potion x2 & Potion 
-26
-  + Super Potion x2  & Potionx0-1 (skip potion if desperate for timesave)
-27-48
-  + Super Potion x2 
-49-56
-  + Super Potion & Potion x2
-57-76
-  + Super Potion & Potion
-77-98
-  + Super Potion
-99-106
-  + Potion x2
-107-125
-  + Potion
-126+
-  + Don't Heal
+> **4-5** Super Potion x2 & Potion x2
+> **6-25** Super Potion x2 & Potion 
+> **26** Super Potion x2  & Potionx0-1 (skip potion if desperate for timesave)
+> **27-48** Super Potion x2 
+> **49-56** Super Potion & Potion x2
+> **57-76** Super Potion & Potion
+> **77-98** Super Potion
+> **99-106** Potion x2
+> **107-125** Potion
+> **126+** Don't Heal
 
 Lance:
 - X Special + TB (if hydro pump misses you can stall with EQ or an X-Acc if you have 2)
@@ -707,18 +697,13 @@ Lance:
 ## CHAMP SPLIT
 
 **MENU Before Champ**
-1
-  + Super Potion
-2-17
-  + Potion
-18-21
-  + Super Potion (yolo if you need red bar to pb)
-22
-  + Super Potion on insane pace; otherwise don't heal
-23-37
-  + Don't Heal
-38-44
-  + Potion on insane pace; otherwise don't heal
+
+> **1** Super Potion
+> **2-17** Potion
+> **18-21** Super Potion (yolo if you need red bar to pb)
+> **22** Super Potion on insane pace; otherwise don't heal
+> **23-37** Don't Heal
+> **38-44** Potion on insane pace; otherwise don't heal
 
 Champion:
 - X Special + X Acc + Drill
