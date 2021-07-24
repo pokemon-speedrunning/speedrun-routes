@@ -638,10 +638,11 @@ Push last boulder and exit victory road.
 
 Deposit Squirtle and Paras
 
-Lorelei:
+Lorelei: 
 - Swap to Bird turn 1.
-- Swap back to Nidoking
+- Swap to Nidoking
 - X Acc + Drill x5
+- note: option to swap nidoking and flyer pre fight if you wanna save 0.2s at the cost of being very difficult.
 
 ## BRUNO SPLIT
 
