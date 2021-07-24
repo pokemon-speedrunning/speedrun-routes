@@ -153,7 +153,7 @@ Don't stress too much doing the longer manips just learn Post Nerd Backup Paras 
 * Voltorb: MP + (PS)
 * Koffing: HA + MP if you have an HA, otherwise MP x2
 
-- If you encounter a Paras or a Geodude that is L9 or higher, consider fainting it for EXP (PS for Paras, WG for Geodude). This experience will improve some ranges.
+- If you encounter a Paras or a Geodude that is L9 or higher, consider fainting it for EXP (PS for Paras, WG for Geodude). This [Moon EXP](https://pastebin.com/8gP8HZY9) will improve some ranges.
 
 ## Nugget Bridge
 
@@ -164,7 +164,7 @@ Don't stress too much doing the longer manips just learn Post Nerd Backup Paras 
 
 **Rival:**
 * Pidgeotto: HA x3 (If you get some bad rolls use MP to kill)
-	- If you get hit by 2 sand attacks swap to Squirtle and let it die
+	- If you get hit by 2 sand attacks swap to Bird and let it be KO'd
       - Try to put Pidgeotto in HA range before doing this: doing so avoids getting a chance to get sand-attack again after swapping back
 * Abra: HA
 * Rat: MP
@@ -190,7 +190,7 @@ Don't stress too much doing the longer manips just learn Post Nerd Backup Paras 
 **Fight 5:**
 * HP < 8:
 	- MP + (PS) [Note: MP is a range to kill, so healing is an option but is slow cause you lose IT]
-* HP > 7:
+* HP = 8-27:
   - HA x2 [Note: Poison Sting can kill if you get a good HA roll, if so use PS over the second HA]
   - [Note: Mankey is 1/3 to Karate Chop and does 12-15, healing is an option but is slow cause you lose IT]
 * HP > 27:
@@ -291,7 +291,7 @@ Surge Cans Manip:
 * Pikachu:
 	- Thrash
 * Raichu:
-	- If you are confused on Raichu, consider swapping to Pidgey/Squirtle if you are dead to hitting yourself.
+	- If you are confused on Raichu, consider swapping to Bird/Squirtle if you are dead to hitting yourself.
 - Get the Bike Voucher and use Dig on Paras
 
 ## Cerulean City
@@ -481,8 +481,8 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 **Koga:**
 - EQ x3
 - Elixer on Weezing
-  - if Koga used x attack use Bubblebeam till you die
-  - if you didn’t die from koga you can still try to get red bar by following the HP strats for the [backups](https://pastebin.com/HgyuMvyr). Note that this can be risky
+  - if Koga used x attack, then scroll up 2 - stall using X-Special
+  - if you didn’t die from koga you can still try to get red bar by following the HP strats for the [intermediate backups](https://pastebin.com/BMQQYcEV). Note that this can be risky
 + MENU After Koga:
   + Use all Rare Candies
   + Bike to get Strength
@@ -552,7 +552,7 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 	+ Bike
 
 **Rival:**
-- X Acc, X Spec, Blizz, HDx2, X Spec, HD x3
+- X Acc, Blizz(+TB), HDx2, X Special (on Growlithe), HD x3
 	- Note: only if you had 0 potions in Celadon and bought 3 X-Speeds do the following instead:
 	- X Acc, X Speed, Blizz(+TB), HDx5
 
