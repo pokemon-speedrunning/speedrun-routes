@@ -545,7 +545,7 @@ Get HM04 Strength & exit the Warden's house.
 Fly to Pallet town, walk to the bottom left, and Menu facing the water.
 
 **Pallet Surf Menu**
-- Use Slot 2 **Super Repel**
+- Use Slot 3 **Super Repel**
 - Scroll down 5 to swap **Helix Fossil** down by 5 for **X Speed**
 - Scroll down 5 to teach **HM03** to Squirtle (cusor is on bird)
 - Use Surf
