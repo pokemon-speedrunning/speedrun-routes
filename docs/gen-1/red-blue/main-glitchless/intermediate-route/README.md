@@ -1,8 +1,8 @@
 # Pokemon Red Glitchless Intermediate Guide
 
 ## Good Documents:
-- [Defensive Damage Ranges](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/defensive-ranges)
-- [Offensive Damage Ranges](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/offensive-ranges)
+- [Defensive Damage Ranges](../resources/defensive-ranges.md)
+- [Offensive Damage Ranges](../resources/offensive-ranges.md)
 - Not recommended for this route, but worth reading: [HP Strats Advanced](https://pastebin.com/HgyuMvyr)
 
 ### Glossary:
@@ -33,7 +33,7 @@ Viridian Mart
 > if buying 5 balls, always pick up both hidden potions and buy one fewer potion in Pewter Mart
 
 Do [Nido Manip](../resources/nido-manip.md)
-> Optional: Do [Triple Extended Manip](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/triple-extended/)
+> Optional: Do [Triple Extended Manip](.../resources/triple-extended/)
 
 ## BROCK SPLIT
 
@@ -100,7 +100,7 @@ Change Options to Set before leaving the Gym
 
 Do [Route 3 Moon Manip](https://pastebin.com/tggXpQRC)
 
->Lass seen on screen before entering Moon during manip should be stuck facing up; however, the Lass has a tell on Frame 36 & 37 by walking right or facing left, respectively. If you'd like to learn the alternative movement used to manipulate mt. moon on these frames check [F36/F37 Backups](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/rt3moon-f36-f37-backups)
+>Lass seen on screen before entering Moon during manip should be stuck facing up; however, the Lass has a tell on Frame 36 & 37 by walking right or facing left, respectively. If you'd like to learn the alternative movement used to manipulate mt. moon on these frames check [F36/F37 Backups]((.../resources/rt3moon-f36-f37-backups.md))
 
 If you get an igt encounter or fail the manip before the last floor do the [Post Hiker Backup Backup](https://pastebin.com/j5gtY4cy)
 
@@ -139,7 +139,7 @@ Nerd:
 - Koffing: MPx2 if zero HAs; otherwise HA + MP (finish with WG if HA crits)
 
 If you still need to catch Paras:
-  - [Post Nerd Backup Paras](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/postnerd-backup-paras)
+  - [Post Nerd Backup Paras]((.../resources/postnerd-backup-paras.md))
 
 > [Moon Exp](https://pastebin.com/8gP8HZY9): Exiting Mount Moon KO a Geodude (use WG) or Paras (use PS) if you haven't already and you happen to encounter one.
 
