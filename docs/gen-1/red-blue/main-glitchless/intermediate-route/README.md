@@ -638,11 +638,10 @@ Push last boulder and exit victory road.
 
 Deposit Squirtle and Paras
 
-Lorelei: **Menu as soon as you enter Lorelei's room to swap Nido with Bird, cursor is on items**
-- Use slot 1 move gust/peck.
-- Swap to Nidoking
+Lorelei:
+- Swap to Bird turn 1.
+- Swap back to Nidoking
 - X Acc + Drill x5
-- note: **old strat** of leading Nidoking and swapping to bird turn 1 can still be used instead, the execution to save frames on this new strat (up to ~0.5 sec in theory) is very difficult to do.
 
 ## BRUNO SPLIT
 
