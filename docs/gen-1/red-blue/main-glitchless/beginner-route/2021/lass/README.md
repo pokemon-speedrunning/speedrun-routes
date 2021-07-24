@@ -141,7 +141,7 @@ Don't stress too much doing the longer manips just learn Post Nerd Backup Paras 
 
 **Rival:**
 * Pidgeotto: HA x3 (If you get some bad rolls use MP to kill)
-	- If you get hit by 2 sand attacks swap to Squirtle and let it die
+	- If you get hit by 2 sand attacks swap to Bird and let it be KO'd
       - Try to put Pidgeotto in HA range before doing this: doing so avoids getting a chance to get sand-attack again after swapping back
 * Abra: HA
 * Rat: MP
@@ -457,7 +457,7 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 **Koga:**
 - EQ x3
 - Elixer on Weezing
-  - if Koga used x attack use Bubblebeam till you die
+  - if Koga used x attack, then scroll up 2 - stall using X-Special
   - if you didn’t die from koga you can still try to get red bar by following the HP strats for the [backups](https://pastebin.com/HgyuMvyr). Note that this can be risky
 + MENU After Koga:
   + Use all Rare Candies
@@ -528,8 +528,9 @@ NOTE: From this point on you have 2 revives which means deaths aren't as scary, 
 	+ Bike
 
 **Rival:**
-- X ACC, X Spec, Blizz, Blizz, HD, X Spec, HD, HD, HD
-	* Note: If you only have 2 Blizzards entering the fight, use TB(+TB) on Pidgeot instead of Blizz. You want at least 1 Blizzard leaving this fight.
+- X Acc, Blizz(+TB), HDx2, X Special (on Growlithe), HD x3
+	- Note: only if you had 0 potions in Celadon and bought 3 X-Speeds do the following instead:
+	- X Acc, X Speed, Blizz(+TB), HDx5
 
 ## Victory Road
 - Pick up the hidden Max Ether from the water [here](https://gunnermaniac.com/pokeworld?map=34#8/90)
