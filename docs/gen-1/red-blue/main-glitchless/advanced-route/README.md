@@ -258,7 +258,7 @@ Fly Menu
 - Swap slot 3 for X Accuracy
 - Teach Fly
 - Fly to Lavender
-> If early Drill then swap slot 2 for tm07, use repel, teach rockslide, teach tm07, swap slot 2 for x acc then teach fly
+> If early Drill then swap slot 2 for tm07, use super repel, teach rockslide, teach tm07, swap slot 2 for x acc then teach fly
 
 Rival:
 - TB
@@ -448,9 +448,10 @@ Pick up the hidden Max Ether and use it on Horn Drill on final Victory Road Menu
 
 Deposit Squirtle and Paras
 
-Lorelei:
-- Swap to flyer
-- Swap back to Nidoking
+Lorelei: 
+- Menu to swap Nido & Bird.
+- Use gust/peck with Bird turn 1.
+- Swap to Nidoking
 - X Acc + Drill x5
 
 ## BRUNO SPLIT
