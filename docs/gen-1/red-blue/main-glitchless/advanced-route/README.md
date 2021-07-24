@@ -449,10 +449,11 @@ Pick up the hidden Max Ether and use it on Horn Drill on final Victory Road Menu
 Deposit Squirtle and Paras
 
 Lorelei: 
-- Menu to swap Nido & Bird.
+- Menu to swap Nido & Bird, cursor is on items.
 - Use gust/peck with Bird turn 1.
 - Swap to Nidoking
 - X Acc + Drill x5
+- note: **old strat** of leading Nidoking and swapping to bird turn 1 can still be used instead; the execution to save frames on this new strat (up to ~0.5 sec in theory) is very difficult to do.
 
 ## BRUNO SPLIT
 
