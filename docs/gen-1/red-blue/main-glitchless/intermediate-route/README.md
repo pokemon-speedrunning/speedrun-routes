@@ -68,7 +68,7 @@ Change Options to Set before leaving the Gym
 
 **Shorts Guy:**
 * Rat: [Heal if HP < 10, @-1 if HP < 16]
-	- Leer + HA x2
+	- Leer + HA x2 (or if hp = 25-27 use HAx2 + (Tackle) )
 * Ekans: [Heal if HP < 4, @-1 if HP < 5, @-2 if HP < 6]
 	- Leer + HA x2
 > Potion turn 1 of wrap if you don't live 4 or 5 turn wrap
