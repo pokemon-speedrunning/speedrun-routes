@@ -638,11 +638,11 @@ Push last boulder and exit victory road.
 
 Deposit Squirtle and Paras
 
-Lorelei: **Menu as soon as you enter Lorelei's room to swap Bird to the front**
-- Use slot 1 move gust/peck, Dewgong uses Aurora Beam.
+Lorelei: **Menu as soon as you enter Lorelei's room to swap Nido with Bird, cursor is on items**
+- Use slot 1 move gust/peck.
 - Swap to Nidoking
 - X Acc + Drill x5
-- note: **old strat** of leading Nidoking and swapping to bird turn 1 can still be used instead, but is ~0.5 sec slower.
+- note: **old strat** of leading Nidoking and swapping to bird turn 1 can still be used instead, the execution to save frames on this new strat (up to ~0.5 sec in theory) is very difficult to do.
 
 ## BRUNO SPLIT
 
