@@ -88,10 +88,10 @@ Continue from ###Pidgey _TODO_ make a link
   - Catch a random Pidgey and hope it has good HP
   - Do Pidgey manipulation
 
-   1 character Bulbasaur        | full name Bulbasaur
-   ---------------------------- | ----------------------------
-  [1 character player name](https://youtu.be/a4joVzaCMXk) | _TODO_ from 151autumn route |
-  [5 characters player name](https://youtu.be/Ua0ZyWffYpU) | NA as far as i know          |
+  |1 character Bulbasaur | full name Bulbasaur |
+  | --- | --- |
+  | [1 character player name](https://youtu.be/a4joVzaCMXk) | [1 character player name(scroll to page 5)](https://docs.google.com/document/d/1EgfDvRMGXZ-67XluFHTYdqPXq1ySpXOuTK09KM6OeH0/edit) |
+  | [5 characters player name](https://youtu.be/Ua0ZyWffYpU) | 5 characters player name(NA as far as i know) |
 
 - After Weedle Guy, check the special stat value again:
   - 15 Special: Reset or switch to PP STRAT
