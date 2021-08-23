@@ -8,8 +8,9 @@ If something isn't clear,you should watch:
 ## Intro
 
 - [Manip TID b307 (45831)](https://youtu.be/iH0kW5fd6XA)
-- Name player uuAAA
+- Name player AKKAA
 - Name rival RRRGpg-
+- Set options to Fast/Off/Set
 
 ## Brock Through Walls
 
@@ -52,20 +53,37 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 - Get CoolTrainer glitch:
   - encounter any Rattata or a lv5 Pidgey
   - in the encounter, use trasform, then swap your moves order and run away
-- Catch missingno. (1 tile left from NSC)
+- Catch first missingno:
+  1. Open the Pokedex [here](https://www.gunnermaniac.com/pokeworld?map=1#64/221)
+  2. Look for an encounter
+  3. Enter the fight menu, scroll down until the move's type change
+  4. Enter the item menu
+  5. Enter the fight menu, scroll down until the move's type change
+  6. Throw a ball
+    - If the ball breaks out, the encounter will die after a 30sec burn animation.
+    - Get another encounter and only repeat step 5-6, the catch will be guaranteed
 - Toss 2 para heal
-- Catch missingno.
+- Catch second missingno (same as above)
 
 ## Giovanni
 
-- Underflow
+- Underflow:
+  1. Toss all your items but Paralyz Heals
+  2. Throw all but 2 Paralyz heals
+  3. Swap slot 1 with slot2 twice
 - Swap slot 2 with ID balls (scroll down until you see jx[3], jx[0, **Masterball**])
 - Toss 1 from options 2 above
-- Catch Charizard (_TODO_ add tile to CoolTrainer on)
+- Catch Kingler:
+  1. Open the Pokedex [here](https://www.gunnermaniac.com/pokeworld?map=1#65/221)
+  2. Look for an encounter
+  3. Enter the fight menu, scroll down until the move's type change
+  4. Enter the item menu
+  5. Enter the fight menu, scroll down until the move's type change
+  6. Throw a masterball
 - Walk to bottom row of grass, 2nd tile from left
-- Swap Charizard to front
+- Swap Kingler to front
 - Toss top item
-- Toss 2nd item 6 times (so never the masterballs)
+- Toss 2nd item 6 times (do not throw masterballs)
 - Swap 3rd para heal with top CANCEL
 - Toss 14 from TM27
 - Swap j below TM27 with ultra ball
@@ -75,7 +93,7 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 - Swap j with hp up
 - Toss 8 j
 - Step up, face down and fight Giovanni
-- swap Flamethrower to slot1, Flamethrower x5
+- Crabhammer, Stomp x3, Crabhammer
 
 ## Blaine
 
@@ -83,13 +101,13 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 - Swap GARY with brightness balls (under ????? item), then j 255
 - Swap TM37 with TM27
 - Close menu, talk to Giovanni (after the defeat he decided to give up his criminal career and become a PC)
-- Deposit all but Charizard
+- Deposit all but Kingler
 - Open menu, swap para heal stack above CANCEL with HM05
 - Walk down then up
 - Toss all but 3 from TM01
 - Swap TM47 below with brightness balls
 - Fight Blaine
-- Flamethrower x3, slash
+- Stomp x4
 
 ## Sabrina
 
@@ -101,13 +119,13 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 - Swap TM32 for []G[], toss all but 4
 - Swap moon stone below for j, toss all but 7
 - Walk up 2, down 1, face up to fight sabrina
-- Flamethrower x4
+- Stomp x4
 
 ## Koga
 
 - Hold down to exit Sabrina's gym, then walk to Koga's gym
 - Use Elixir/Max Elixir, CANCEL to koga, fight from the bottom
-- Flamethrower x4
+- Stomp x4
 
 ## Erika
 
@@ -118,7 +136,7 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 - Swap antidote with poke ball
 - Toss all but 4 moon stone
 - Close menu, fight Erika
-- Flamethrower x3
+- Stomp x3
 
 ## Surge
 
@@ -132,7 +150,7 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 - Toss pokeball to 3
 - Toss 2 j.
 - Walk down, face right for surge
-- Flamethrower x3
+- Stomp x3
 
 ## Misty
 
@@ -140,9 +158,9 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 - Enter gym
 - CANCEL round the left side of the gym to reach Misty
 - Talk to Misty.
-- Flamethrower x2 (Rage Starmie with 2 or less flamethrower PP)
+- Stomp x2
 
-## Brock + HOF
+## Brock + Hall of Fame warp
 
 - Swap Soda pop with master ball x3
 - Swap HM04 with Great ball x0 below
@@ -153,6 +171,6 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 - Swap Potion x7 with HM05, toss 6 potions
 - Scroll up 1, toss all but 1
 - Walk 2 left, talk to Brock
-- Flamethrower x2
+- Stomp x2
 - Walk straight down to exit the Gym to the Hall of Fame.
 - Timing stops on the fade to white after you receive your in game time.
