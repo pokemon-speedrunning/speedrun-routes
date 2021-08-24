@@ -95,7 +95,7 @@ Optional: Pick up the Bitterberry and equip it when you heal in Falkner's Gym (W
 
 Violet Town:
 
-Enter Falkners gym
+Enter Falkner's gym
 
 Bird Keeper Ape: Rage spam (Scratch last turn if red bar)
 
@@ -189,7 +189,7 @@ Heal to 10+ HP
 
 Rocket Grunt #3:
 - Rattata: Spam Rage
-  - if you don’t get a Rage stack on Rat Water Gun Zubats
+  - if you don’t get a Rage stack on Rat, Water Gun Zubats
 - Zubats: Spam Rage
 
 Heal to 11+ HP if level up before, 16+HP if didn’t
@@ -249,9 +249,9 @@ talk to red (press A)
 
 
 Notes for coin case setup:
-- Croconaw always needs to be 4th in part and its movesets needs to be Scratch/Leer/FuryCutter/WaterGun, in this specific order
+- Croconaw always needs to be 4th in party and its movesets needs to be Scratch/Leer/FuryCutter/WaterGun, in this specific order
 - Either Egg or Kenya in 3rd is ~71% to work with random DVs (L6 Bellsprout is 71%*(12/16) to work, L3 Bellsprout never works
 - TODO: check sandshrew chances
 
-If you want to finish the run save after getting coin case, and if the glitch fails try different pokemons in slot3.
+If you want to finish the run, save after getting coin case. If the glitch fails try different pokemons in slot3.
 If it keeps failing, you might have messed up TID/box names, or you got really unlucky

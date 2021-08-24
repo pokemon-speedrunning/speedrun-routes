@@ -56,9 +56,9 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 - Catch first missingno:
   1. Open the Pokedex [here](https://www.gunnermaniac.com/pokeworld?map=1#64/221)
   2. Look for an encounter
-  3. Enter the fight menu, scroll down until the move's type change
+  3. Enter the fight menu, scroll down until the move's type changes
   4. Enter the item menu
-  5. Enter the fight menu, scroll down until the move's type change
+  5. Enter the fight menu, scroll down until the move's type changes
   6. Throw a ball
     - If the ball breaks out, the encounter will die after a 30sec burn animation.
     - Get another encounter and only repeat step 5-6, the catch will be guaranteed
@@ -76,9 +76,9 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 - Catch Kingler:
   1. Open the Pokedex [here](https://www.gunnermaniac.com/pokeworld?map=1#65/221)
   2. Look for an encounter
-  3. Enter the fight menu, scroll down until the move's type change
+  3. Enter the fight menu, scroll down until the move's type changes
   4. Enter the item menu
-  5. Enter the fight menu, scroll down until the move's type change
+  5. Enter the fight menu, scroll down until the move's type changes
   6. Throw a masterball
 - Walk to bottom row of grass, 2nd tile from left
 - Swap Kingler to front
