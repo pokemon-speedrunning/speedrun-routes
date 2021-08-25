@@ -5,61 +5,59 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
-  <style id="darkMode" class="enabled">
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --theme-color: #FFCB05;
-      }
-      html,
-      body,
-      main,
-      p,
-      .app-nav li ul,
-      .sidebar-toggle,
-      body.close .sidebar-toggle,
-      .sidebar,
-      .sidebar ul li a,
-      aside,
-      .anchor span,
-      .markdown-section h1,
-      .markdown-section h2,
-      .markdown-section h3,
-      .markdown-section h4,
-      .markdown-section strong
-      {
-        background: black;
-        color: var(--theme-color);
-      }
+  <style id="darkMode">
+    :root {
+      --theme-color: #FFCB05;
+    }
+    html,
+    body,
+    main,
+    p,
+    .app-nav li ul,
+    .sidebar-toggle,
+    body.close .sidebar-toggle,
+    .sidebar,
+    .sidebar ul li a,
+    aside,
+    .anchor span,
+    .markdown-section h1,
+    .markdown-section h2,
+    .markdown-section h3,
+    .markdown-section h4,
+    .markdown-section strong
+    {
+      background: black;
+      color: var(--theme-color);
+    }
 
-      .markdown-section a,
-      .app-nav a:hover  {
-          color: #BBB;
-      }
+    .markdown-section a,
+    .app-nav a:hover  {
+        color: #BBB;
+    }
 
-      .markdown-section tr:nth-child(2n),
-      .markdown-section code,
-      .markdown-section pre,
-      .darkModeToggle {
-        background-color: #222;
-      }
+    .markdown-section tr:nth-child(2n),
+    .markdown-section code,
+    .markdown-section pre,
+    #darkModeToggle {
+      background-color: #222;
     }
   </style>
   <style>
-    .darkModeToggle {
+    #darkModeToggle {
       color: var(--theme-color);
       position: fixed;
       bottom: 10px;
       left: 40px;
       border-radius: 6px;
     }
-    .darkModeToggle:focus {
+    #darkModeToggle:focus {
       outline: none;
     }
   </style>
 </head>
 <body>
   <div id="app"></div>
-  <button class="darkModeToggle" type="button" onclick="toggle()">Dark Mode</button>
+  <button id="darkModeToggle" type="button" onclick="toggleDarkMode()">Dark Mode</button>
   <script>
     window.$docsify = {
         name: "Pokemon Speedrun Routes",
@@ -69,18 +67,22 @@
         mergeNavbar: true,
         relativePath: true
     }
+
     var darkModeCSS = document.getElementById("darkMode");
-    var cssText = darkModeCSS.innerHTML;
-    function toggle() {
+    var darkCSSText = darkModeCSS.innerHTML;
+    function toggleDarkMode() {
       darkModeCSS = document.getElementById("darkMode");
       if (darkModeCSS) {
         darkModeCSS.parentElement.removeChild(document.getElementById("darkMode"));
       } else {
         var newElement = document.createElement('style');
         newElement.id = "darkMode";
-        newElement.innerHTML = cssText;
+        newElement.innerHTML = darkCSSText;
         document.head.appendChild(newElement);
       }
+    }
+    if (!(window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+      toggleDarkMode();
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
