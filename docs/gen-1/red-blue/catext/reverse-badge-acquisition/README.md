@@ -100,6 +100,7 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 - Swap slot2 with Elixir/Max Elixir in money,
 - Swap GARY with brightness balls (under ????? item), then j 255
 - Swap TM37 with TM27
+- Swap Ultra Ball x0 below with jx2
 - Close menu, talk to Giovanni (after the defeat he decided to give up his criminal career and become a PC)
 - Deposit all but Kingler
 - Open menu, swap para heal stack above CANCEL with HM05
