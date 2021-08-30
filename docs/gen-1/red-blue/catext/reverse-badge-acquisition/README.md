@@ -135,7 +135,7 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 - Step up
 - Toss 2 from j x7 above potion
 - Swap antidote with poke ball
-- Toss all but 4 moon stone
+- Toss all but 4 Antidote
 - Close menu, fight Erika
 - Stomp x3
 
@@ -168,7 +168,7 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 - Swap [block]m[block] x72 below ????? with j. x255
 - Toss 18 from [block]m[block]
 - Close menu, walk up 1
-- Swap ????? above 3f with [block]g[block]
+- Swap ????? above Soda Pop with [block]g[block]
 - Swap Potion x7 with HM05, toss 6 potions
 - Scroll up 1, toss all but 1
 - Walk 2 left, talk to Brock
