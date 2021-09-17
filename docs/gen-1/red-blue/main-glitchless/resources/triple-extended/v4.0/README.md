@@ -1,6 +1,8 @@
 # Pokemon Red Triple Extended Manip v4.0
 credits to hwangbro/stringflow
 
+[Manip with Potion Pickup](potion.md)
+
 Glossary:
   - 'r' means NPC is looking RIGHT
   - 'R' means NPC moves RIGHT
@@ -32,7 +34,7 @@ PATH | [NPC 1](https://gunnermaniac.com/pokeworld?map=1#53/182) | [NPC 2](https:
 
 ## Generalized IGT / NPC Info
 
-``` 
+```
 PATH 1
 Pidgey:
     SUCCESS (3179/3418, ~53/57)
