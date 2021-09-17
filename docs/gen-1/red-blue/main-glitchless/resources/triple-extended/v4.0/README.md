@@ -11,17 +11,35 @@ Glossary:
 
 ## "Main" Paths
 
-PATH | [NPC 1](https://gunnermaniac.com/pokeworld?map=1#53/182) | [NPC 2](https://gunnermaniac.com/pokeworld?map=1#57/167) | [NPC 3](https://gunnermaniac.com/pokeworld?map=50#2/4) | [NPC 4](https://gunnermaniac.com/pokeworld?map=51#16/43) | [NPC 5](https://gunnermaniac.com/pokeworld?map=51#27/40) | STRING SHOT | PIDGEY MAP | HOUSE MAP | FOREST MAP
----- | ----- | ------ | ------ | ------ | ------ | ------------------ | ------------ | --- | ---
-1 | r | R | D | d | D | 3 Frames (~145.5/158.5, 91.8%) | [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUUULUUUUUUAUUUUUUUUUUUUULLLUUUUUUUUUUURRRRUULLLLLUUU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/RUUUUUUU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUUURRRRRURRRUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUALLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDDLDLLLLUUU) |
-2 | u->L | R->L | D | r->u | d | 5 Frames (~249.3/259.8, 96%) | [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUAUULUUUAUUUUUUUUUUUUUUAUULLLUUUUUUURRRRUAUUUUUUULLLLLU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/UUUUURUU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUAUURUARRRRRRRUUUUUUUUUUUAUUAUUUUUUUUUUUUUUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDDLDLLLLUUU) |
-3 | r->L | L | U | u->r | r | 4 Frames (~200.2/214.1, 93.5%) | [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURAUUUUUUUUUUUUUUUUUUUULUAUULLLUUUUUUUUUURRRARUUUUAULLLLLU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/RUUUUUUU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUURURRURRRRRUAUUUUUUUUUUUUUUUUUUAUUUUUUUUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDDDLLLLLUAUU) |
-3v2 | r->D | L->R | U | d | u | | | | |
-4 | u->U | L | D | l->u->r | l | 6 Frames (~283.3/316.9, 89.4%) | [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUUUUUUUUULAUUUUAUUUUAUUUAUULLLUUUUUUUUAURRRRUUUUUULLLLLU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/UUUUUURU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUUURURRRRRRRAUUUAUUUAUUUUUUUUUUUUUUUAUUUUUUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDADDADDADDDDDDDDDDLLLLLAUUU) |
-5 | d | R | U | d | l | 8 Frames (407.2/423.5, 96.2%) | [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUUULUUUUUUAUUUUUUUUAUUUAUULLLUUUUUUAUURRUUAURRUUUULLLLLU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/UUUURUUU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUUURRRRRRRURAUUUUUAUUUUUUAUUUUUUUUUUUUUUUUUAUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDDDLLLLLAUUU) |
-6 | d | L | U | d | u->d | 5 Frames (252.9/263.8, 95.9%) | [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUUUUUUUUULAUUUUUUUUUUUUUULLLUUAUUUAURRRRAUUUUUULALLLLUUU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/RUUUUUUU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUURURRRRRRRUUUUUUUAUUUUAUUUUUUUUUUUUUAUUUAUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDDLDLLLLUUU)
-6v2 | d | L | U->D | u | l->u | | | | |
-6v3 | d | L->R | U->U | u | l->u | | | | |
+PATH | [NPC 1](https://gunnermaniac.com/pokeworld?map=1#53/182) | [NPC 2](https://gunnermaniac.com/pokeworld?map=1#57/167) | [NPC 3](https://gunnermaniac.com/pokeworld?map=50#2/4) | [NPC 4](https://gunnermaniac.com/pokeworld?map=51#16/43) | [NPC 5](https://gunnermaniac.com/pokeworld?map=51#27/40) | PIDGEY MAP | HOUSE MAP | FOREST MAP
+---- | ----- | ------ | ------ | ------ | ------ | ------------ | --- | ---
+1 | r | R | D | d | D | [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUUULUUUUUUAUUUUUUUUUUUUULLLUUUUUUUUUUURRRRUULLLLLUUU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/RUUUUUUU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUUURRRRRURRRUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUALLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDDLDLLLLUUU) |
+2 | u->L | R->L | D | r->u | d | [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUAUULUUUAUUUUUUUUUUUUUUAUULLLUUUUUUURRRRUAUUUUUUULLLLLU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/UUUUURUU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUAUURUARRRRRRRUUUUUUUUUUUAUUAUUUUUUUUUUUUUUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDDLDLLLLUUU) |
+3 | r->L | L | U | u->r | r | [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURAUUUUUUUUUUUUUUUUUUUULUAUULLLUUUUUUUUUURRRARUUUUAULLLLLU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/RUUUUUUU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUURURRURRRRRUAUUUUUUUUUUUUUUUUUUAUUUUUUUUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDDDLLLLLUAUU) |
+3v2 | r->D | L->R | U | d | u | | | |
+4 | u->U | L | D | l->u->r | l | [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUUUUUUUUULAUUUUAUUUUAUUUAUULLLUUUUUUUUAURRRRUUUUUULLLLLU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/UUUUUURU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUUURURRRRRRRAUUUAUUUAUUUUUUUUUUUUUUUAUUUUUUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDADDADDADDDDDDDDDDLLLLLAUUU) |
+5 | d | R | U | d | l | [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUUULUUUUUUAUUUUUUUUAUUUAUULLLUUUUUUAUURRUUAURRUUUULLLLLU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/UUUURUUU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUUURRRRRRRURAUUUUUAUUUUUUAUUUUUUUUUUUUUUUUUAUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDDDLLLLLAUUU) |
+6 | d | L | U | d | u->d | [Link](https://gunnermaniac.com/pokeworld?map=1#33/181/DRRUUURRRRRRRRRRRRRRRRRRRRRURUUUUUURUUUUUUUUUULAUUUUUUUUUUUUUULLLUUAUUUAURRRRAUUUUUULALLLLUUU) | [Link](https://gunnermaniac.com/pokeworld?map=50#4/7/RUUUUUUU) | [Link](https://gunnermaniac.com/pokeworld?map=51#17/47/UUURURRRRRRRUUUUUUUAUUUUAUUUUUUUUUUUUUAUUUAUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDDLDLLLLUUU)
+6v2 | d | L | U->D | u | l->u | | | |
+6v3 | d | L->R | U->U | u | l->u | | | |
+
+## String Shot Manip Information:
+
+### Without Potion
+- Path 1: 3 Frames (~145.5/158.5, 91.8%)
+- Path 2: 5 Frames (~249.3/259.8, 96%)
+- Path 3: 4 Frames (~200.2/214.1, 93.5%)
+- Path 4: 6 Frames (~283.3/316.9, 89.4%)
+- Path 5: 8 Frames (~407.2/423.5, 96.2%)
+- Path 6: 5 Frames (~252.9/263.8, 95.9%)
+
+### With Potion
+- Path 1: 7 Frames (~295.5/370, 79.9%)
+- Path 2: 4 Frames (~174.9/207.7, 84.2%)
+- Path 3: 5 Frames (~228.6/267.3, 85.5%)
+- Path 4: 5 Frames (~237.7/263.7, 90.1%)
+- Path 5: 7 Frames (~351.3/370.2, 94.9%)
+- Path 6: 8 Frames (~388.2/421.7, 92.1%)
 
 ## IGT3600 Full Details:
 - [Path 1](path1igt.md)
