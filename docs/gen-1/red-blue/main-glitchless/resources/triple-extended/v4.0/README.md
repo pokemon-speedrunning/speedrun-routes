@@ -1,8 +1,6 @@
 # Pokemon Red Triple Extended Manip v4.0
 credits to hwangbro/stringflow
 
-[Manip with Potion Pickup](potion.md)
-
 Glossary:
   - 'r' means NPC is looking RIGHT
   - 'R' means NPC moves RIGHT
