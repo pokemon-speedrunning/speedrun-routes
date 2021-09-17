@@ -1,6 +1,10 @@
 # Pokemon Red Triple Extended Manip v4.0 with Potion Pickup
 credits to hwangbro/stringflow
 
+Pidgey and house movement, as well as NPC cues are the same as without Potion.
+The only changes are in the last stretch of forest movement.
+
+
 Glossary:
   - 'r' means NPC is looking RIGHT
   - 'R' means NPC moves RIGHT
