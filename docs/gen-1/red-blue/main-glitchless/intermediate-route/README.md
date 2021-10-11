@@ -3,7 +3,7 @@
 ## Good Documents:
 - [Defensive Damage Ranges](../resources/defensive-ranges.md)
 - [Offensive Damage Ranges](../resources/offensive-ranges.md)
-- Not recommended for this route, but worth reading: [HP Strats Advanced](https://pastebin.com/HgyuMvyr)
+- Not recommended for this route, but worth reading: [Advanced HP Strats](../resources/advanced-hp-strats.md)
 
 ### Glossary:
 - Moves: HA = Horn Attack, MP = Mega Punch, BB = Bubble Beam, WG = Water Gun, TB = Thunder Bolt, Blizz = Blizzard, PS = Poison Sting, HD = Horn Drill, RS = Rock Slide
@@ -82,6 +82,8 @@ Change Options to Set before leaving the Gym
   - HA x2 (Tackle turn 2 if Weedle hit 2 string shots)
 * Metapod:
   - HA x2 + (Tackle or HA if Metapod outsped you)
+
+> Potion twice before next fight if HP < 4
 
 **Bug Catcher 3:**
 - Caterpie:
@@ -260,6 +262,7 @@ Jr Trainer M:
   - **under 7 hp**: HA Kadabra & Potion turn 1 on Ivysaur, then thrash
   - **w/ 7+ hp** : Thrash Kadabra
 * Ivysaur
+  - Thrash x2
 
 Get HM01 Cut from the captain.
 
@@ -271,7 +274,7 @@ Vermillion Mart:
 - Buy 6 repels and 3 paralyz heals (buy 4 Paralyz Heals if you fought gentleman)
 
 Cut Menu:
-- Slot 5 - Teach Bubblebeam (TM11) in slot 4 over BB
+- Slot 5 - Teach Bubblebeam (TM11) in slot 4 over Poison Sting
 - (only if you fought the Gentleman use Slot 7 - Rare Candy)
 - Slot 6 - Teach Cut (HM01) to Paras
 - Up 1 - Teach Dig (TM28) to Paras
@@ -365,9 +368,9 @@ Gambler: potion turn 1 if HP < 5
 - Growlithe: BB + (Thrash) 
 - Vulpix: Thrash
 > Take note of your hp leaving gambler
-- If HP = **1-8** or **16+** follow **Early Drill** Strats 
+- If HP = **1-8** or **16-27** follow **Early Drill** Strats 
     - on Early Drill - TM07 Horn Drill is taught in **Fly Menu** before Lavender Rival (buys an extra X-Acc)
-- If HP = **9-15** follow **Late Drill** Strats 
+- If HP = **9-15** or **28+** follow **Late Drill** Strats 
     - on Late Drill - TM07 Horn Drill is taught near the top of **Lavender Tower** just before Marowak Ghost
 
 Get [Underground Elixer](https://gunnermaniac.com/pokeworld?map=121#21/5)
@@ -407,9 +410,10 @@ Fly Menu
 
 **Lavender Rival** is an hp dependent fight:
 + **(1-8)** Turn 1 use slot 6 **Potion** , Turn 2 scroll up 4 to use **X-Accuracy** , HDx5
-+ **(9-15)** TB, TB, BB ( if under 9 hp on Growlithe use slot 7 **Potion**, then BB ), Thrash
++ **(9-15)** TBx2, BB ( if under 9 hp on Growlithe use slot 7 **Potion**, then BB ), Thrash
 + **(16)** TBx2, X-Acc on Growlithe, HDx3
-+ **(17+)** Turn 1 use X-Acc, HDx5; can potion on bird turn 2 if crit below 8 hp
++ **(17-27)** Turn 1 use X-Acc, HDx5; can potion on bird turn 2 if crit below 8 hp
++ **(28+)** TBx2, BB, Thrash
 
 Channeler 1: [Tower Map](https://imgur.com/gallery/Yf2tY3u)
 - RSx2  (don't forget Rockslide will be in either slot 1 or slot 2)
@@ -429,7 +433,7 @@ Pick up the Rare Candy
 Teach TM07 over slot 1 if you haven’t already
 
 **Ghost Encounter Fight/Menu**: 
-- Swap slot 3 **HM01** for **Super Repel** (3 below Max Ether)
+- Swap slot 3 **HM01** for **Super Repel** (2 below Elixer)
 - Down 2 to use **Pokedoll**
 
 Rocket 1:
@@ -449,7 +453,8 @@ Get Pokeflute
 Fly to Celadon
 Take the Center, then Bike East to Silph Co.
 
-Go to floor 5 and pick up hidden Tree Elixer
+Go to floor 5 and pick up hidden [Tree Elixer](https://gunnermaniac.com/pokeworld?map=210#12/3)
+
 
 - NOTE: In this split we want to take a bit of damage to do a strat on Koga called Boom Strats
 - How to play the next two fights depends on whether you did early or late drill.
@@ -642,7 +647,7 @@ Lorelei:
 - Swap to Bird turn 1.
 - Swap to Nidoking
 - X Acc + Drill x5
-- note: option to swap nidoking and flyer pre fight if you wanna save 0.2s at the cost of being very difficult.
+- note: option to swap nidoking and flyer pre fight if you wanna save 0.2s at the cost of being somewhat difficult.
 
 ## BRUNO SPLIT
 
@@ -679,7 +684,7 @@ Lance:
 ## CHAMP SPLIT
 
 **MENU Before Champ** WA does 18-22 damage & the fight is different depending on Pidgeot's first move
-
++ **(any hp)** heal to 45+ or higher if far ahead of pb or you want to play safe
 + **(1)** Super Potion
 + **(2-17)** Potion
 + **(18-21)** Super Potion (yolo if you need red bar to pb)
@@ -690,7 +695,7 @@ Lance:
 **Champion** if Pidgeot does NOT use Sky Attack turn 1
 - Pidgeot: X Special + X Acc + HD
 - Alakazam: HD
-- Rhydon: HD
+- Rhydon: HD  (if not in red bar Blizzard Rhydon and Drill Gyarados)
 - Gyarados: **TB**
 - Arcanine: HD
 - Venusaur: HD
