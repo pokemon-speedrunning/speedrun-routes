@@ -224,7 +224,8 @@ Say Yes to Bill, get the S.S. Ticket, then Menu.
 **Get Instant Text again**
 
 Dig Rocket:
-- Thrash x2-3
+- Thrash x1-2
+- Thrash x1-2 (+PS)
 
 Goldeen:
 - Thrash x2
