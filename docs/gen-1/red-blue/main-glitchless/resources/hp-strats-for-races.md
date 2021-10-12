@@ -100,8 +100,8 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | -2   |      1-13      |    yolo or swap to low hp HM-mon   |
 
 #### MOON ROCKET (lass) L16 Nidoking
-- Heal 9 on Rat; Heal 11 at -2
 - HA is 100% on Rat after two tail whips
+
 | DEF  | not confused  | confused      |
 | ---- | ------------- | ------------- |
 | -0   |      1-8      |     1-18      |
