@@ -133,8 +133,7 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | NidoF |   6     | Potion turn 1       |
 
 #### Youngster
-- One badge boost → HA Rat 100% 
-- Two badge boosts → HA Ekans 85% and Zubat 100%
+- One badge boost → HA Rat 100% and two → HA Ekans 85% and Zubat 100%
 
 | Poke  |    HP   | Healing Strategy    |
 | ----- | ------- | ------------------- |
@@ -154,6 +153,7 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 
 #### NUGGET BRIDGE MANKEY (5th Trainer)
 - PS always KOs after HA into Leer hit
+
 | HP   | Healing Strategy |
 | ---- | --------------- |
 |  1-8  | Potion before  |
@@ -162,8 +162,8 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 28+  | MP(+PS)         |
 
 #### Bridge Rocket             
-- One badge boost → HA Zubat 100% 
-- Two badge boosts → HA Ekans 100%
+- One badge boost → HA Zubat 100% and Two → HA Ekans 100%
+
 | Poke   |    HP   | Healing Strategy                       |
 | ------ | ------- | -------------------------------------- |
 | Ekans  |  1-3    | Potion before fight with moon exp      |
@@ -173,8 +173,8 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | Zubat |   1-21    | Potion if confused                    |
 
 #### Lass
-- One badge boost → MP is 53% on NidoF 
-- Two badge boosts → HA NidoM & MP on NidoF are 100%
+- One badge boost → MP is 53% on NidoFand Two → HA NidoM & MP on NidoF are 100%
+
 | Poke  |    HP   | Healing Strategy         |
 | ----- | ------- | ------------------------ |
 | NidoM  |   1-10     | Potion turn 1        |
