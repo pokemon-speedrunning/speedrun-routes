@@ -197,13 +197,14 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 2nd Oddish 16     | HA(+PS)           |
 
 #### Bill's House
+- Heal to 72+ or take the center to play safe.
 
 | HP @ L23 | Healing Strategy                       |
 | -------- | -------------------------------------- |
 | 1-22     | Take Center                            |
 | 23-34    | 2 Potions or Center                    |
 | 35-54    | 1 Potion (& Ether if needed) or Center |
-| 48+      | Don't heal or Center                   |
+| 55+      | Don't heal or Center                   |
 
 #### Post Misty
 | HP   | Healing Strategy         |
@@ -222,6 +223,8 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 25+   | BB if you have it, otherwise HA        |
 
 #### S.S. ANNE RIVAL (RATICATE)
+- note: one boost HA is 61.4% and Two boosts, HA is 100%
+
 | HP    | Standard Strategy    | Alternate Strategy        |
 | ----- | -------------------- | ------------------------- |
 | 1-12  | Potion               | MP on 7-12 hp (risk)      |
@@ -229,7 +232,6 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 18-21 | MP                   | Thrash (safe)             |
 | 22    | MP                   |                          
 | 23+   | HA(+PS) or BBx2      |  Thrash (at very high hp) |
-| note | one boost HA is 61.4% | Two boosts, HA is 100% |
 
 #### S.S. ANNE RIVAL     (KADABRA)
 | HP    | Strategy    |
