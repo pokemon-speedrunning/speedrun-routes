@@ -1,4 +1,4 @@
-## Red Glitchless Healing Guide and Red Bar Strategies for Races
+## Red Glitchless Healing Guide and Red Bar Strategy for Races
 
 # Preface
 This documentation references different safety/healing strategies and red bar strategies that can be implemented in order to either play safely or save time over the safe strategy.
@@ -235,100 +235,182 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 
 
 #### S.S. ANNE RIVAL     (KADABRA)
-1-6        HA & Potion turn 1 on Ivy, then Thrash    
-7-12    HA & Potion turn 1 on Ivy, then Thrash    (or just Thrash on 7-12 if desperate)
- 13+    Thrash
-
-Ivysaur        Vine Whip    8-10 [13-16]        Leech Seed    5
+| HP    | Strategy    |
+| ----- | -------------------- |
+| 1-6  | HA & Potion turn 1 on Ivy, then Thrash |
+| 7-12 | HA & Potion turn 1 on Ivy, then Thrash (or Thrash Kadabra if desperate |
+| 13+   | Thrash     |
 
 #### Optional Gentleman
-If 2-4 HP, always Gentleman Candy; 5-8 gentleman if ahead or low on potions
-1 hp will potion in cut menu; 9-24 hp may consider gentleman with a large lead    {9-11, 12-14, 15-16, 17-18, 19-24}
+| HP    | Strategy    |
+| ----- | -------------------- |
+| 1  | skip gentleman, use potion in cut menu |
+| 2-4 | fight the gentleman |
+| 5-8   | consider fighting the gentleman    |
+| 9-24 | gentleman with a very large lead |
 
-                                  each range is progressively “worse” hp to do gentleman on ^
-#### Surge:  Voltorb Tackle 3 [5]    Pikachu QA  4 [6-7]    Raichu:  ( 14   9    28    21 )    w/Gent: ( 15   10     31    28)
-5-20    Thrash                                              (normal; growl; screech; both)
-21-24    HA+BB or Thrash
-25    BBx2 + Thrash
+#### Surge
+| HP    | Strategy    |
+| ----- | -------------------- |
+| 5-20  | Thrash|
+| 21-24 | HA+BB or Thrash |
+| 25+   | BB + HA/BB + Thrash    |
 
-#### HP Listed at L28 for 4-turn-thrash-girl:    Hit Self = 13         Exp can be split on the 2nd bellsprout
+#### 4 Turn Thrash Girl (1st Oddish)
 
-4-5        Thrash, swap on bellsprout if confused and split experience.     Or Save before and MP.
-6-19       MP + Thrash
-20-34      Thrash if really desperate 
-35+        Thrash if desperate 
+| HP   | Strategy |
+| ---- | ---------------- |
+| 4-5 | Thrash, swap on bellsprout and split exp |
+| 6+ | MP |
 
-#### HP Listed at L28 for Venonat                 
-1-4        BBx2 and Potion on Venonat    or Save before and yolo
-5-14        BB + Thrash
-15-18, 20-21     BBx3-4 
-19,22-34    BB + Thrash
-35+        Thrash turn 1 if desperate
+#### Venonat
+| HP    | Strategy    |
+| ----- | -------------------- |
+| 1-4  | BBx2 and potion on Venonat|
+| 5-14 | BB + Thrash |
+| 15-18, 20-21   | BBx3-4   |
+| 19, 22+  | BB + Thrash  |
 
-#### HP Listed at L28 for Pokemaniac 1 and 2 (swap if confused by slowpoke)
-1-19          Normal
-20-29        1st Slowpoke BB + TB
-30-31          2nd Slowpoke BB + TB 
-32-38        TB Cubone only turn 1, skip red bar if not hit
-39-44        1st Slowpoke BBx2 + TB
-44+         TB Cubone and adapt
-44-49        1st Slowpoke BB + TB & 2nd Slowpoke BB + TB 
+## Fly Split Red Bar (Play Normal if not going for red bar)
+
+#### Pokemaniac 1 and 2 (swap if confused by slowpoke)
+| HP @ L28   | Strategy    |
+| ---------- | -------------------- |
+| 1-19  | Normal|
+| 20-29  | 1st Slowpoke BB + TB |
+| 30-31  | 2nd Slowpoke BB + TB  |
+| 32-38   | TB Cubone only turn 1, skip red bar if not hit  |
+| 39-44  | 1st Slowpoke BBx2 + TB  |
+| 44+      |  TB Cubone and adapt if hit, still BB if not hit |
+| 44-49   | 1st Slowpoke BB + TB & 2nd Slowpoke BB + TB |
 
 #### HP Listed at L29 for Oddish Girl
-1-17        Save&Thrash
-18-22        TB + adapt or Save&Thrash
-23+        Thrash or Save&Thrash
+| HP    | Strategy    |
+| ----- | -------------------- |
+| 1-17  | Save&Thrash|
+| 18-22 | TB + adapt or Save&Thrash |
+| 23+   |  Thrash or Save&Thrash   |
 
-#### JrTrainerF    Heal out of QA range [or QA crit range] before the fight     in this case repel after hiker
-    L20 Pidgey        QA        5 [9]
+#### After Hiker (Delay Repel before hiker if healing after)
+| HP    | Strategy    |
+| ----- | -------------------- |
+| 1-5  | Use Repel and Potion before JrTrainerF |
+| 6-9 | repel and heal before fight to live crit |
 
 #### Gambler
-1-8    Potion turn 1 or before the fight
-5-8    Don’t Heal if desperate 
-9+    BB + Thrash
+| HP    | Strategy    |
+| ----- | -------------------- |
+| 1-8   | potion turn 1 or before the fight|
+| 5-8   | BB + Thrash if desperate |
 
-#### Lavender Rival :
-1-8     Potion Turn 1 and Drillx5
-9-15    Late Drill            TBx2, BB, Thrash    (potion if under 9 hp on growlithe)
-16    TBx2, X-Acc, Drillx3         or do Late Drill if you prefer
-17-27    X-Acc, Drillx5             or do Late Drill if you prefer
-28+    Late Drill            TBx2, BB, Thrash
+## Flute Split
 
-**Early Drill consider TBx2-3 on Silph Arbok to save an X-Acc
-If Paralyzed leaving Arbok, use Para Heal turn 2 on Silph Rival’s Pidgeot, unless hp < 72.
+#### Lavender Rival
+| HP    | Healing Strategy                                                                                       |
+| ----- | ------------------------------------------------------------------------------------------------------ |
+| 1-7   | Heal turn 1, then use X Acc turn 2 (Early Drill)                                                       |
+| 8     | Heal turn 1, then use X Acc turn 2 if good pace, otherwise TB turn 1 and X Acc Growlithe (Early Drill) |
+| 9-15  | Normal strats (Late Drill)                                                                             |
+| 16    | TB turn 1, X Acc on Growlithe (Early Drill) (or Late Drill if you prefer)                              |
+| 17-27 | X-Acc Drillx5 (or Late Drill if you prefer)                                                            |
+| 28+   | Normal strats (Late Drill)                                                                             |
 
-#### Post-Silph Rival: 
-If less than 78 HP use your appropriate pp healing item before silph rocket
-If hp = 78+, use the pp healing item in the fight.
-Cubone:     Bone Club 25-30 [52-62]
-Drowzee    Psychic 61-72 [112-132]    Confusion 35-42 [62-74]
-Nidorino    HA  13-16 [28-34]    Fury Attack 4-5 [7-9]
+## Koga Split
+- If Paralyzed leaving Arbok with hp = 72+, use Para Heal turn 2 on Silph Rival’s Pidgeot.
+- If Para and hp < 72, menu and para heal before the fight.
 
-#### GIOVANNI 1 RHYHORN        
-24-37       TB  stall
+#### Post-Silph Rival
 
-Hypno:        Confusion 42-50 [81-96]    Headbutt 12-15 [26-31]        
-Weezing:       Self Destruct     79-94 [167-197]     X-ATK + X-SPC: 106-125
+| HP   | Healing Strategy                                    |
+| ---- | --------------------------------------------------- |
+| 1-77 | Use PP Item before Rocket                           |
+| 78+  | Use PP Item on Drowzee (or Cubone if it Bone Clubs) |
 
-#### BOOM STRATS    (Weezing KO --> 10 hp for Erika; the hp’s listed are before using rare candies after koga)
-0-1    (Full Red Bar)        Normal             [note: only living on below 19 hp still has red bar going into Erika]
-2-4    (L50 Lapras)        use pp healing item turn 2 on Bruno’s Onix, (TB stall if not hit)
-5-6    (L49 Cloyster)        Elix Gio Rhyhorn , then X Spd on VR Rhyhorn
-7-11    (L48 VR Growlithe)    Nidoking X Special, (Elixer if not hit), Elix Rhydon
-12-14    (L46 Machop)        Nidoking Elixer, then X Special/TB until hit
-15-22    (out at L43-L45)    Vileplume Poke Flute          
-23+    (out at L43-L45)    Victreebel (X-Acc if extra → Blizx3 after hit) then Poke Flute             https://pastebin.com/BMQQYcEV
+#### Gio 1 Rhyhorn
 
-#### Lorelei backup for Revive used post-Erika:
-If hp = 99+, X-Acc Turn 1
-If hp = 82-92, Potion, X-Acc
-If hp = 66-81, X-Spec, X-Acc
+| HP    | Healing Strategy |
+| ----- | ---------------- |
+| 24-37 | TB until hit     |
 
-#### Before Agatha:
-Heal to 70+ hp before Candy (or to 120+ hp for extra safety)
+## BOOM STRATS https://pastebin.com/BMQQYcEV
 
-#### Before Lance:
-Heal to 127+ hp.    126-134 can stall with X-speed on hydro miss otherwise EQ or X-Acc stall if red bar is needed
+| HP after SD on Koga   | Red Bar Lost on... | Healing Strategy | If desperate |
+| --------------------- | ---------------- |  ---------------- |------------ |
+| 0-1                   | Machamp |Normal strats    |
+| 2                     | Lapras |Normal strats | Elixir on Gio Rhyhorn, X Speed on VR Rhyhorn, PP item turn two on Bruno's Onix |
+| 3-4                   | Lapras |Rhydon Elixir | Elixir on Gio Rhyhorn, X Speed on VR Rhyhorn, PP item turn two on Bruno's Onix  |
+| 5-6                   | Cloyster |Rhyhorn Elixir, X Spd on VR Rhyhorn if not hit | TB stall VR Rhyhorn, PP item turn two on Bruno's Onix |
+| 7-11                  | VR Growlithe |Nidoking X Special, Elixir if not hit, Elixir Rhydon (wait until bike menu if have 1 Blizz) |
+| 12-14                 | Machop |Nidoking Elixir, then X Special/TB until hit |
+| 15-22                 | Erika |Vileplum Poke Flute (Out at L43-L45) |
+| 23+                   | Erika |Victreebel x-acc turn 1 if you have 2 extra, then Poke Flute stall until hit (can blizzx3 after x-acc)|
+        
+#### Lorelei backup for Revive used post-Koga
+| HP   | Strategy                                    |
+| ---- | --------------------------------------------------- |
+| 66-81 | X-Spec, X-Acc  |
+| 82-92  | Potion, X-Acc |
+| 99+ | X-Acc Turn 1 |
 
-#### Before Champ: 20s lead can super (36 s if opponent deposited)
-Heal if HP < 23 Or heal if HP < 45 if you want to play safer
+
+## Agatha Split
+
+#### Before Agatha
+- Heal to 69+ hp before Candy (or to 119+ hp for extra safety)
+
+| HP before Candy    | Healing Strategy      |
+| ------------------ | --------------------- |
+| 4-18               | Super Potion + Potion |
+| 19+                | Super Potion          |
+
+#### Agatha Arbok (if not faster than second Gengar)
+
+| HP    | Healing Strategy |
+| ----- | ---------------- |
+| 1-24  | EQ or Heal       |
+| 25-60 | X Speed          |
+| 61+   | EQ               |
+
+## Lance Split
+
+#### Before Lance (assuming ample healing items)
+
+Can roughly be summarized as _heal to 126+ without overhealing too much_
+
+| HP      | Healing Strategy                                  |
+| ------- | ------------------------------------------------- |
+| 4-5     | 2 Super Potions + 2 Potions                       |
+| 6-25    | 2 Super Potions + 1 Potion                        |
+| 26      | 2 Super Potion + Potion, skip Potion if desperate |
+| 27-48   | 2 Super Potions                                   |
+| 49-56   | 1 Super Potion + 2 Potions                        |
+| 57-76   | 1 Super Potion + 1 Potion                         |
+| 77-98   | 1 Super Potion                                    |
+| 99-106  | 2 Potions                                         |
+| 107-125 | 1 Potion                                          |
+| 126+    | Don't heal                                        |
+
+#### Lance Gyarados Turn 2 if Hydro Pump Misses
+
+| HP      | Healing Strategy                 |
+| ------- | -------------------------------- |
+| any hp | play normal to skip red bar |
+| 126-133 | X Speed                          |
+| 134+    | EQ (or X Acc if you have 2 left) |
+
+## Champ Split
+
+#### Before Champ
+- Heal if HP < 23 or if HP < 45 to play safe
+- 20 second lead can super potion (36 sec if your opponent deposited and you did not)
+
+| HP    | Healing Strategy                                             |
+| ----- | ------------------------------------------------------------ |
+| 1     | Super Potion, Potion if you need red bar to pb               |
+| 2-17  | Potion                                                       |
+| 18-21 | Don't heal if you need red bar to pb, otherwise super potion |
+| 22    | Super Potion if god pace, otherwise don't heal               |
+| 23-34 | Don't heal                                                   |
+| 35-37 | Don't heal                                                   |
+| 38-44 | Potion if god pace, otherwise don't heal                     |
+| 45+   | Don't heal                                                   |
