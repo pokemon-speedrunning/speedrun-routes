@@ -222,8 +222,8 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 25+   | BB if you have it, otherwise HA        |
 
 #### S.S. ANNE RIVAL (RATICATE)
-- one badge boost  → HA is 61.4%
-- two badge boosts → HA is 100%
+- one badge boost  → HA is 61.4% AND two badge boosts → HA is 100%
+
 | HP    | Standard Strategy    | Alternate Strategy        |
 | ----- | -------------------- | ------------------------- |
 | 1-12  | Potion               | MP on 7-12 hp (risk)      |
@@ -332,7 +332,8 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | ----- | ---------------- |
 | 24-37 | TB until hit     |
 
-## BOOM STRATS https://pastebin.com/BMQQYcEV
+## BOOM STRATS 
+- https://pastebin.com/BMQQYcEV
 
 | HP after SD on Koga   | Red Bar Lost on... | Healing Strategy | If desperate |
 | --------------------- | ---------------- |  ---------------- |------------ |
