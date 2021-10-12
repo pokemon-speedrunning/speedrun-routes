@@ -222,17 +222,14 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 25+   | BB if you have it, otherwise HA        |
 
 #### S.S. ANNE RIVAL (RATICATE)
-- one badge boost  → HA is 61.4% AND two badge boosts → HA is 100%
-
 | HP    | Standard Strategy    | Alternate Strategy        |
 | ----- | -------------------- | ------------------------- |
 | 1-12  | Potion               | MP on 7-12 hp (risk)      |
 | 13-17 | MP                   | Potion (safe)             | 
 | 18-21 | MP                   | Thrash (safe)             |
-| 22    | MP                   |                           |
+| 22    | MP                   |                          
 | 23+   | HA(+PS) or BBx2      |  Thrash (at very high hp) |
-
-
+| note | one boost HA is 61.4% | Two boosts, HA is 100% |
 
 #### S.S. ANNE RIVAL     (KADABRA)
 | HP    | Strategy    |
