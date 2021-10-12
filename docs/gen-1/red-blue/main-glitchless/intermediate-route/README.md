@@ -3,7 +3,7 @@
 ## Good Documents:
 - [Defensive Damage Ranges](../resources/defensive-ranges.md)
 - [Offensive Damage Ranges](../resources/offensive-ranges.md)
-- Not recommended for this route, but worth reading: [Advanced HP Strats](../resources/advanced-hp-strats.md)
+- Not recommended for this route, but worth reading: [Advanced HP Strats](../resources/hp-strats.md)
 
 ### Glossary:
 - Moves: HA = Horn Attack, MP = Mega Punch, BB = Bubble Beam, WG = Water Gun, TB = Thunder Bolt, Blizz = Blizzard, PS = Poison Sting, HD = Horn Drill, RS = Rock Slide
