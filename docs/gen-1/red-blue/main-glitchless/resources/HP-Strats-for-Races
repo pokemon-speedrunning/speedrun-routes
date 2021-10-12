@@ -1,183 +1,271 @@
-HP Strategies for Red Races - Works best with the Race Route or Beginner Route
+## Red Glitchless Healing Guide and Red Bar Strategies for Races
 
-Get PC Potion
+# Preface
+This documentation references different safety/healing strategies and red bar strategies that can be implemented in order to either play safely or save time over the safe strategy.
+- If an HP is not listed for a fight, assume you default to the normal
+  strategy
+Note that 1/39 rolls are selectively ignored in spots where healing has its own set of negative outcomes. If you are doing a no reset run it is very reasonable to ignore the red bar strategies and follow only the safety strats below.
+  
+# Strategies
 
-Rival 1
-1-5   Heal
+## Nidoran Split
 
-Nidoran Save Menu
-1-12   Always Heal before Manip
-13-15  Consider Heal before Manip
+#### Get PC Potion
 
-Weedle Guy
-1-7   Heal
-Check Defense on Level up = 15-17
+#### Rival 1
+| HP   | Healing Strategy          |
+| ---- | ------------------------- |
+| 1-5  | Potion                    |
 
-BEFORE BROCK & ON GEODUDE
-15 DEF - Heal to 16+ with 15 DEF
-16 DEF - Heal to 15+ with 16 DEF
-17 DEF - Heal to 14+ with 17 DEF
-Check Defense on Level up = 16-19
+#### Nidoran Manip Save Menu
+| HP   | Healing Strategy              |
+| ---- | ----------------------------- |
+| 1-12 |  Potion before Manip          |
+| 13-15 | Consider Potion before Manip |
 
-ON ONIX --------  0 ; -2 ; -4 from screech
-16 DEF - Heal to 14+ ; 15+ ; 21+
-17 DEF - Heal to 13+ ; 15+ ; 21+
-18 DEF - Heal to 13+ ; 13+ ; 21+
-19 DEF - Heal to 13+ ; 13+ ; 18+
+## Brock Split
 
-BC1 Weedle
-1-9  Heal
+#### Weedle Guy
+| HP   | Healing Strategy     |
+| ---- | -------------------- |
+| 1-7  | Potion               |
+| Stats | Check Defense at L8 |
 
-BEFORE SHORTS GUY
-1-27  Heal
+#### BEFORE BROCK & ON GEODUDE
+| DEF  |  HP   | Healing Strategy    |
+| ---- | ----- | ------------------- |
+| 15   | 1-15  | Potion              |
+| 16   | 1-14  | Potion              |
+| 17   | 1-13  | Potion              |
+|      | Stats | Check Defense at L9 |
 
-SHORTS GUY  (17 is 1/39 QA crit from Rat)
-Heal 16 on Rat; 18 if -2
-Heal 5 on Ekans; 6 if -2, 7 if -3
-Generally heal on turn 1 of wrap if you do not live 4 or 5 turn.
+#### ON ONIX
+| DEF  | HP@0  | HP@-2 | HP@-4 | 
+| ---- | ----- | ----- | ----- | 
+|  16  | 1-13  | 1-14  | 1-20  |
+|  17  | 1-12  | 1-14  | 1-20  | 
+|  18  | 1-12  | 1-12  | 1-20  | 
+|  19  | 1-12  | 1-12  | 1-17  | 
 
-Heal 5 on BC2 Caterpie
+## Route 3 Split
 
-Heal to 21+ hp for the Optional Lass if below 8 or 9 HAs on Flex Lass Route.
-OPTIONAL LASS
-Heal 12 on Rat;
-Heal 13 on NidoranM.
+#### BC1 Weedle
+| HP   | Healing Strategy  |
+| ---- | ----------------- |
+| 1-9  | use Potion        |
 
-BEFORE BUG CATCHER 3
-1-5   Potion twice
+#### BEFORE SHORTS GUY
+| HP   | Healing Strategy  |
+| ---- | ----------------- |
+| 1-27 |  Potion           |
 
-BEFORE MOON ROCKET (nolass)
-Heal to 36+ hp and save the game
+#### SHORTS GUY Rat  (17 is 1/39 QA crit)
+| HP@0  | HP@-1 | Strategy | 
+| ----- | ----- | -------- | 
+|  1-16 | 1-18  | Potion   |
 
-MOON ROCKET (Rat)
-Heal 15
+#### SHORTS GUY Ekans
+| HP@0  | HP@-1 | HP@-2 |  HP@-3 |  HP@-4 | Strategy | 
+| ----- | ----- | ----- | ----- |  ----- |  -------- | 
+|  1-5  |  1-5  |  1-6  |  1-7  |  1-8   |  Potion | 
+- Generally heal on turn 1 of wrap hitting if you do not live 4 or 5 turn.
 
-MOON ROCKET ZUBAT
-DEF       reg        conf
-@0        7        16
-@-1       11        26
-@-2       13    -2 DEF & Conf  can consider swapping to an extra poke and letting it be KO’d (only if it’s low hp)
+#### BC2 Caterpie
+| HP   | Strategy |
+| ---- | -------- |
+| 1-5  |  Potion  |
 
-MOON ROCKET (lass)
-Heal 9 on Rat; Heal 11 at -2
-HA is 100% on Rat after two tail whips
-DEF       reg        conf
-@0        8        18
-@-1       8        22
-@-2       9        32
+#### Before/During OPTIONAL LASS
+| HP   | Healing Strategy        |
+| ---- | ----------------------- |
+| 1-20 | Potion before the fight |
+| 1-13 | Potion on NidoranM      |
 
-Bridge Rival                (Two badge boost → HA Rat 100%)
+#### BEFORE BUG CATCHER 3
+| HP   | Healing Strategy  |
+| ---- | ----------------- |
+| 1-5  | Potion twice      |
 
-Heal  9 or [ 17 ] on Bird
-Heal 12 or [ 21 ] on Rat        After two tail whips: 1-6 hp swap and use potion; 7-14 potion and HA; 15+ HA
-Heal  8 or [ 14 ] on Bulba  LS is 3
+#### BEFORE MOON ROCKET (nolass)
+- Heal to 36+ hp and save the game
 
-*consider swapping to bird/squirtle and letting it faint if double sand attack and bird is one hit range (better to swap on rat)
+#### MOON ROCKET RAT (nolass)
+- Heal 15
 
-Bug Catcher (1st Trainer)
-Heal 4 on Caterpie
+#### MOON ROCKET ZUBAT (nolass)
+| DEF  | not confused  | confused      |
+| ---- | ------------- | ------------- |
+| -0   |      1-7      |     1-16      |
+| -1   |      1-11      |     1-26      |
+| -2   |      1-13      |    yolo or swap to low hp HM-mon   |
 
-Lass (2nd Trainer)
-Heal 9 before bird
-Heal 6 on NidoF
-
-Youngster         (One badge boost → HA Rat 100% - Two badge boosts → HA Ekans 85% and Zubat 100%)
-Heal 1-11 before Rat    
-Heal 12-18 on Rat
-Heal 3 on Ekans
-Heal 7 on Zubat (unless moon exp)         Heal 17 on Zubat if confused     Heal 24 on Zubat if confused at -1 DEF
-
-Lass (4th Trainer)
-Heal 9 on/before Bird
-Heal 6 on NidoF
-
-NUGGET BRIDGE MANKEY (5th Trainer)
-1-8    Heal before Mankey
-8-15    Heal on Mankey
-15-27    HA + HA/PS
-28+    MP (+PS)
-
-Bridge Rocket             (One badge boost → HA Zubat 100% - Two badge boosts → HA Ekans 100%)
-Heal 9 before Ekans, without Moon Exp
-Heal 3 before Ekans with Moon Exp
-Heal 5 or [ 9 ] on Zubat, unless HA can KO        Heal 17 or [ 21 ] on Zubat, if confused
-
-NUGGET BRIDGE ROCKET ZUBAT
-13 - 17      consider using HA for chance at red bar
+#### MOON ROCKET (lass) L16 Nidoking
+- Heal 9 on Rat; Heal 11 at -2
+- HA is 100% on Rat after two tail whips
+| DEF  | not confused  | confused      |
+| ---- | ------------- | ------------- |
+| -0   |      1-8      |     1-18      |
+| -1   |      1-8      |     1-22      |
+| -2   |      1-9      |    1-32       |
 
 
-Lass         (One badge boost → MP is 53% on NidoF - Two badge boosts → HA NidoM & MP on NidoF are 100%)
-Heal 6 or 10 on NidoM
-Heal 6 on NidoF
+## Nugget Bridge Split
 
-BOTTOM HIKER MACHOP    
-Heal 8 on Machop
-16-20   HA(+PS)        
+#### Bridge Rival
 
-1st ODDISH - Heal 6                                         
-16-18    HA + (PS)                        
-                                
-2nd ODDISH - Heal 5 (6 is 1/39 crit)
+| Poke |       HP       | Healing Strategy  |
+| ---- | -------------- | ----------------- |
+| Pidg |        17      | Potion            |
+| Rat  |        21      | Potion            |
+| Bulb |  14 (+3 if LS) | Potion            |
 
-Heal 5  (6 is 1/39 crit)
-6-8 or 16    HA + (PS)                        
+#### Bridge Rival Rat after two tail whips
+| HP   | Healing Strategy              |
+| ---- | ----------------------------- |
+| 1-6  | Swap to squirtle, Potion Nido |
+| 7-14 | Potion and then HA            |
+| 15+  |  HA                           |
 
-BILL'S HOUSE (L23)
-1-22    Center
-23-34    2 Potions or Center
-35-54    1 Potion (& Ether if needed) or Center
-55+    Don't heal or Center
+#### Lass (2nd Trainer)
+| Poke  |    HP   | Healing Strategy    |
+| ----- | ------- | ------------------- |
+| Bird  |   9     | Potion before fight |
+| NidoF |   6     | Potion turn 1       |
 
-Post-Misty:    
-1-12    Potion and teach TM11 (nugget exits)
-12-15    Male Jr. First
-16-21    HA pidgey and adapt
-22+    Normal
-* if out of potions pick up the hidden full restore in the underground for bag space
+#### Youngster
+- One badge boost → HA Rat 100% 
+- Two badge boosts → HA Ekans 85% and Zubat 100%
 
-                                    ^ can be picked up and sold later on w/ solid lead
-S.S. ANNE RIVAL     (PIDGEOTTO)
-1-12     Potion before the fight and teach TM11 
-Heal 12 on turn 2
- 
-S.S. ANNE RIVAL     (RATICATE TWx1 → HA is 61.4%; TWx2 → HA is 100%)
-1-12        Potion         (MP on 7-12 if desperate)
-13-17    MP         (or Potion to avoid miss into hyper fang crit)
-18-21    Thrash        (avoids hyper fang crit and lives most QA + Vine Whip)
-  22    MP
-  23+    HA + PS or BBx2
+| Poke  |    HP   | Healing Strategy    |
+| ----- | ------- | ------------------- |
+| Rat  |   1-11   | Potion before fight |
+| Rat  |   12-18  | Potion turn 1    |
+| Ekans|    3    |  Potion           |
+|Zubat |    7    |  Potion unless moon exp
+| Zubat |   7    | Potion if confused... |
+| Zubat |   24   | ... and -1 def |
 
-S.S. ANNE RIVAL     (KADABRA)
+
+#### Lass (4th Trainer)
+| Poke  |    HP   | Healing Strategy    |
+| ----- | ------- | ------------------- |
+| Bird  |   9     | Potion before fight |
+| NidoF |   6     | Potion turn 1       |
+
+#### NUGGET BRIDGE MANKEY (5th Trainer)
+- PS always KOs after HA into Leer hit
+| HP   | Healing Strategy |
+| ---- | --------------- |
+|  1-8  | Potion before  |
+|  8-15 | Potion turn 1  |
+| 15-27 | HA + HA/PS     |
+| 28+  | MP(+PS)         |
+
+#### Bridge Rocket             
+- One badge boost → HA Zubat 100% 
+- Two badge boosts → HA Ekans 100%
+| Poke   |    HP   | Healing Strategy                       |
+| ------ | ------- | -------------------------------------- |
+| Ekans  |  1-3    | Potion before fight with moon exp      |
+| Ekans  |  1-9    | Potion before fight without moon exp   |
+| Zubat |   1-9     | Potion turn 1 unless HA can KO        |
+| ZUbat |  13-17   | consider HA(+PS) for chance at red bar |
+| Zubat |   1-21    | Potion if confused                    |
+
+#### Lass
+- One badge boost → MP is 53% on NidoF 
+- Two badge boosts → HA NidoM & MP on NidoF are 100%
+| Poke  |    HP   | Healing Strategy         |
+| ----- | ------- | ------------------------ |
+| NidoM  |   1-10     | Potion turn 1        |
+| NidoM  |   7-10     | just MP if desperate |
+| NidoF |   6     | Potion turn 1            |
+
+#### BOTTOM HIKER MACHOP    
+| HP    | Healing Strategy         |
+| ----- | ------------------------ |
+| 1-8   | Potion                   |
+| 9-15  | MP(+PS)                  |
+| 16-20 | HA(+PS)                  |
+| 21+   | MP                       |
+
+#### Lass Oddishes
+| HP                | Healing Strategy  |
+| ----------------- | ----------------- |
+| 1-5               | Potion turn 1     |
+| 1st Oddish 16-18  | HA(+PS)           |
+| 2nd Oddish 16     | HA(+PS)           |
+
+#### Bill's House
+
+| HP @ L23 | Healing Strategy                       |
+| -------- | -------------------------------------- |
+| 1-22     | Take Center                            |
+| 23-34    | 2 Potions or Center                    |
+| 35-54    | 1 Potion (& Ether if needed) or Center |
+| 48+      | Don't heal or Center                   |
+
+#### Post Misty
+| HP   | Healing Strategy         |
+| ---- | ------------------------ |
+| 1-12 | Potion + Teach BB        |
+| 12-15 | male Jr. Trainer first  |
+| 16-21 |  HA pidgey and adapt    |
+| 22+   |  play normal            |
+
+#### S.S. Anne Rival (Pidgeotto)
+
+| HP   | Healing Strategy                        |
+| ---- | --------------------------------------- |
+| 1-12  | Potion before the fight and teach TM11 |
+| 13-24 | HA, Potion turn 2 if hit below 13 hp   |
+| 25+   | BB if you have it, otherwise HA        |
+
+#### S.S. ANNE RIVAL (RATICATE)
+- one badge boost  → HA is 61.4%
+- two badge boosts → HA is 100%
+| HP    | Standard Strategy    | Alternate Strategy        |
+| ----- | -------------------- | ------------------------- |
+| 1-12  | Potion               | MP on 7-12 hp (risk)      |
+| 13-17 | MP                   | Potion (safe)             | 
+| 18-21 | MP                   | Thrash (safe)             |
+| 22    | MP                   |                           |
+| 23+   | HA(+PS) or BBx2      |  Thrash (at very high hp) |
+
+
+
+#### S.S. ANNE RIVAL     (KADABRA)
 1-6        HA & Potion turn 1 on Ivy, then Thrash    
 7-12    HA & Potion turn 1 on Ivy, then Thrash    (or just Thrash on 7-12 if desperate)
  13+    Thrash
 
 Ivysaur        Vine Whip    8-10 [13-16]        Leech Seed    5
 
+#### Optional Gentleman
 If 2-4 HP, always Gentleman Candy; 5-8 gentleman if ahead or low on potions
 1 hp will potion in cut menu; 9-24 hp may consider gentleman with a large lead    {9-11, 12-14, 15-16, 17-18, 19-24}
 
                                   each range is progressively “worse” hp to do gentleman on ^
-Surge:  Voltorb Tackle 3 [5]    Pikachu QA  4 [6-7]    Raichu:  ( 14   9    28    21 )    w/Gent: ( 15   10     31    28)
+#### Surge:  Voltorb Tackle 3 [5]    Pikachu QA  4 [6-7]    Raichu:  ( 14   9    28    21 )    w/Gent: ( 15   10     31    28)
 5-20    Thrash                                              (normal; growl; screech; both)
 21-24    HA+BB or Thrash
 25    BBx2 + Thrash
 
-HP Listed at L28 for 4-turn-thrash-girl:    Hit Self = 13         Exp can be split on the 2nd bellsprout
+#### HP Listed at L28 for 4-turn-thrash-girl:    Hit Self = 13         Exp can be split on the 2nd bellsprout
 
 4-5        Thrash, swap on bellsprout if confused and split experience.     Or Save before and MP.
 6-19       MP + Thrash
 20-34      Thrash if really desperate 
 35+        Thrash if desperate 
 
-HP Listed at L28 for Venonat                 
+#### HP Listed at L28 for Venonat                 
 1-4        BBx2 and Potion on Venonat    or Save before and yolo
 5-14        BB + Thrash
 15-18, 20-21     BBx3-4 
 19,22-34    BB + Thrash
 35+        Thrash turn 1 if desperate
 
-HP Listed at L28 for Pokemaniac 1 and 2 (swap if confused by slowpoke)
+#### HP Listed at L28 for Pokemaniac 1 and 2 (swap if confused by slowpoke)
 1-19          Normal
 20-29        1st Slowpoke BB + TB
 30-31          2nd Slowpoke BB + TB 
@@ -186,20 +274,20 @@ HP Listed at L28 for Pokemaniac 1 and 2 (swap if confused by slowpoke)
 44+         TB Cubone and adapt
 44-49        1st Slowpoke BB + TB & 2nd Slowpoke BB + TB 
 
-HP Listed at L29 for Oddish Girl
+#### HP Listed at L29 for Oddish Girl
 1-17        Save&Thrash
 18-22        TB + adapt or Save&Thrash
 23+        Thrash or Save&Thrash
 
-JrTrainerF    Heal out of QA range [or QA crit range] before the fight     in this case repel after hiker
+#### JrTrainerF    Heal out of QA range [or QA crit range] before the fight     in this case repel after hiker
     L20 Pidgey        QA        5 [9]
 
-Gambler
+#### Gambler
 1-8    Potion turn 1 or before the fight
 5-8    Don’t Heal if desperate 
 9+    BB + Thrash
 
-Lavender Rival :
+#### Lavender Rival :
 1-8     Potion Turn 1 and Drillx5
 9-15    Late Drill            TBx2, BB, Thrash    (potion if under 9 hp on growlithe)
 16    TBx2, X-Acc, Drillx3         or do Late Drill if you prefer
@@ -209,20 +297,20 @@ Lavender Rival :
 **Early Drill consider TBx2-3 on Silph Arbok to save an X-Acc
 If Paralyzed leaving Arbok, use Para Heal turn 2 on Silph Rival’s Pidgeot, unless hp < 72.
 
-Post-Silph Rival: 
+#### Post-Silph Rival: 
 If less than 78 HP use your appropriate pp healing item before silph rocket
 If hp = 78+, use the pp healing item in the fight.
 Cubone:     Bone Club 25-30 [52-62]
 Drowzee    Psychic 61-72 [112-132]    Confusion 35-42 [62-74]
 Nidorino    HA  13-16 [28-34]    Fury Attack 4-5 [7-9]
 
-GIOVANNI 1 RHYHORN        
+#### GIOVANNI 1 RHYHORN        
 24-37       TB  stall
 
 Hypno:        Confusion 42-50 [81-96]    Headbutt 12-15 [26-31]        
 Weezing:       Self Destruct     79-94 [167-197]     X-ATK + X-SPC: 106-125
 
-BOOM STRATS    (Weezing KO --> 10 hp for Erika; the hp’s listed are before using rare candies after koga)
+#### BOOM STRATS    (Weezing KO --> 10 hp for Erika; the hp’s listed are before using rare candies after koga)
 0-1    (Full Red Bar)        Normal             [note: only living on below 19 hp still has red bar going into Erika]
 2-4    (L50 Lapras)        use pp healing item turn 2 on Bruno’s Onix, (TB stall if not hit)
 5-6    (L49 Cloyster)        Elix Gio Rhyhorn , then X Spd on VR Rhyhorn
@@ -231,16 +319,16 @@ BOOM STRATS    (Weezing KO --> 10 hp for Erika; the hp’s listed are before usi
 15-22    (out at L43-L45)    Vileplume Poke Flute          
 23+    (out at L43-L45)    Victreebel (X-Acc if extra → Blizx3 after hit) then Poke Flute             https://pastebin.com/BMQQYcEV
 
-Lorelei backup for Revive used post-Erika:
+#### Lorelei backup for Revive used post-Erika:
 If hp = 99+, X-Acc Turn 1
 If hp = 82-92, Potion, X-Acc
 If hp = 66-81, X-Spec, X-Acc
 
-Before Agatha:
+#### Before Agatha:
 Heal to 70+ hp before Candy (or to 120+ hp for extra safety)
 
-Before Lance:
+#### Before Lance:
 Heal to 127+ hp.    126-134 can stall with X-speed on hydro miss otherwise EQ or X-Acc stall if red bar is needed
 
-Before Champ: 20s lead can super (36 s if opponent deposited)
+#### Before Champ: 20s lead can super (36 s if opponent deposited)
 Heal if HP < 23 Or heal if HP < 45 if you want to play safer
