@@ -1,4 +1,4 @@
-## Red Glitchless Healing Guide and Red Bar Strategy for Races
+## Red Glitchless Healing Guide and Red Bar Strategies for Races
 
 # Preface
 This documentation references different safety/healing strategies and red bar strategies that can be implemented in order to either play safely or save time over the safe strategy.
