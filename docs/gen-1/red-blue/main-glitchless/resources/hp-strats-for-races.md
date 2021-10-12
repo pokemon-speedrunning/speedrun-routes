@@ -305,10 +305,9 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 #### Lavender Rival
 | HP    | Healing Strategy                                                                                       |
 | ----- | ------------------------------------------------------------------------------------------------------ |
-| 1-7   | Heal turn 1, then use X Acc turn 2 (Early Drill)                                                       |
-| 8     | Heal turn 1, then use X Acc turn 2 if good pace, otherwise TB turn 1 and X Acc Growlithe (Early Drill) |
+| 1-8   | Heal turn 1, then use X Acc turn 2 (Early Drill)                                                       |
 | 9-15  | Normal strats (Late Drill)                                                                             |
-| 16    | TB turn 1, X Acc on Growlithe (Early Drill) (or Late Drill if you prefer)                              |
+| 16    | TB turn 1, X Acc on Growlithe (Early Drill) (but Late Drill if gent candy or if you prefer)             |
 | 17-27 | X-Acc Drillx5 (or Late Drill if you prefer)                                                            |
 | 28+   | Normal strats (Late Drill)                                                                             |
 
