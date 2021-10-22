@@ -2,7 +2,7 @@
 
 This guide assumes you know things about the game already
 
-Keep this document open at all times: [Advanced HP Strats](../resources/advanced-hp-strats.md)
+Keep this document open at all times: [Advanced HP Strats](../resources/hp-strats.md)
 
 Damage Ranges: https://pastebin.com/Bgq1d0H5
 
