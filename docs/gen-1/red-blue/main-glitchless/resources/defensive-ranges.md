@@ -1,10 +1,10 @@
 # Red Glitchless Defensive Ranges
 ## **MP - IT - Blizzard - Agatha Candy** Route
 ### Notes:
- - `move`* denotes a badge boost, `move`** denotes 2, etc.
- - `move`@-1 denotes a defensive stat drop, `move`@-2 denotes 2, etc.
- - [`rolls`] denotes a critical hit
-   - Note : there are no [`rolls`] for stat changes because critical hits ignore all of them
+ - `move*` denotes a badge boost, `move**` denotes 2, etc.
+ - `move@-1` denotes a defensive stat drop, `move@-2` denotes 2, etc.
+ - `[rolls]` denotes a critical hit
+   - Note : there are no `[rolls]` for stat changes because critical hits ignore all of them
  - All rolls include 1/39 max roll
 
 ## Squirtle
@@ -44,7 +44,7 @@ Onix         | Tackle        | @-2          | @-4
 ## FFEF NidoranM
 ### Route 3
 
-**Bug Catcher 1**:
+**Bug Catcher 1**
 <table>
 <tr><td>
 
@@ -66,13 +66,13 @@ Caterpie | Tackle
 
 </td></tr> </table>
 
-**Short Guy**:
+**Short Guy**
 <table>
 <tr><td>
 
 Rattata      | Tackle        | Quick Attack
 ------------ | ------------- | -------------
-&nbsp;       | 7-9 [12-15]   | 8-10 [13-17]
+&nbsp;       | 7-9 [12-15]   | 8-10 [13-16]
 @-1          | 11-13         | 13-16
 @-2          |               | 16-19
 
@@ -88,7 +88,7 @@ Ekans        | Wrap          | Poison Sting
 
 </td></tr> </table>
 
-**Bug Catcher 2**:
+**Bug Catcher 2**
 <table>
 <tr><td>
 
@@ -104,7 +104,7 @@ Caterpie     | Tackle
 
 </td></tr> </table>
 
-**[OPTIONAL] Lass**:
+**[OPTIONAL] Lass**
 <table>
 <tr><td>
 
@@ -124,14 +124,15 @@ Nidoran      | Horn Attack   | Tackle
 
 </td></tr> </table>
 
-**Bug Catcher 3**:
+**Bug Catcher 3**
+
 Caterpie     | Tackle
 ------------ | -------------
 &nbsp;       | 3-4 [5-6]
 
 ### Mt. Moon
 
-**Moon Rocket**:
+**Moon Rocket**
 <table>
 <tr><td>
 
@@ -153,7 +154,7 @@ Zubat        | Leech Life    | Self Hit
 
 ## FFEF Nidoking
 
-**Nerd**:
+**Nerd**
 <table>
 <tr><td>
 
@@ -173,13 +174,13 @@ Voltorb      | Tackle
 Koffing      | Tackle
 ------------ | -------------
 &nbsp;       | 3-4 [5-6]
-@-2          |  5-7
+@-2          | 5-7
 
 </td></tr> </table>
 
 ### Nugget Bridge
 
-**Rival**:
+**Rival**
 <table>
 <tr><td>
 
@@ -201,7 +202,7 @@ Bulbasaur     | Vine Whip     | Leech Seed
 
 </td></tr> </table>
 
-**Bug Catcher 4**:
+**Bug Catcher**
 <table>
 <tr><td>
 
@@ -213,11 +214,11 @@ Caterpie     | Tackle
 
 Weedle       | Poison Sting
 ------------ | -------------
-&nbsp;       | 0-1 [0-1]
+&nbsp;       | 0 [1]
 
 </td></tr> </table>
 
-**Female Jr Trainer**
+**Lass**
 <table>
 <tr><td>
 
@@ -229,11 +230,11 @@ Pidgey       | Gust/Quick Attack
 
 NidoranF     | Scratch       | Tackle       | Poison Sting
 ------------ | ------------- | ------------ | -------------
-&nbsp;       | 3-4 [5-7]     | 3-4 [5-6]    | 1-2 [1-2]
+&nbsp;       | 3-4 [5-7]     | 3-4 [5-6]    | 1 [1]
 
 </td></tr> </table>
 
-**Male Jr Trainer**
+**Youngster**
 <table>
 <tr><td>
 
@@ -256,19 +257,19 @@ Zubat        | Leech Life
 
 </td></tr> </table>
 
-**Female Jr Trainer 2**
+**Lass 2**
 <table>
 <tr><td>
 
 Pidgey       | Gust/Quick Attack
 ------------ | -------------
-&nbsp;       |5-7 [8-10]
+&nbsp;       | 5-7 [8-10]
 
 </td><td>
 
 NidoranF     | Scratch      | Tackle       | Poison Sting
 ------------ | -------------| ------------ | -------------
-&nbsp;       | 4-5 [5-7]    | 3-4 [5-7]    | 1-2 [1-2]
+&nbsp;       | 4-5 [5-7]    | 3-4 [5-7]    | 1 [1]
 
 </td></tr> </table>
 
@@ -276,7 +277,7 @@ NidoranF     | Scratch      | Tackle       | Poison Sting
 
 Mankey       | Karate Chop   | Scratch
 ------------ | ------------- | -------------
-&nbsp;       | 7-9 [12-15]   | 6-8 [11-13]
+&nbsp;       | [12-15]       | 6-8 [11-13]
 
 **Bridge Rocket**    
 <table>
@@ -296,7 +297,7 @@ Zubat        | Leech Life    | Bite
 
 ### Misty
 
-**Female Jr. Trainer**
+**Lass**
 <table>
 <tr><td>
 
@@ -318,7 +319,7 @@ Machop       | Karate Chop
 ------------ | -------------
 &nbsp;       | 5-6 [7-9]
 
-**Female Jr. Trainer 2**
+**Lass 2**
 <table>
 <tr><td>
 
@@ -389,6 +390,12 @@ Pidgeotto     | Gust/Quick Attack
 Raticate     | Quick Attack  | Hyper Fang
 ------------ | ------------- | -------------
 &nbsp;       | 5-7 [10-12]   | 11-13 [18-22]
+
+</td><td>
+
+Kadabra      | Confusion
+------------ | -------------
+&nbsp;       | 25-30 [42-50]
 
 </td><td>
 
@@ -531,15 +538,15 @@ Ivysaur       | Vine Whip
 
 </td></tr> </table>
 
-**Channeller 1**
+**Channeler 1**
 
-Ghastly       | Lick           | Self Hit
+Gastly        | Lick           | Self Hit
 ------------- | -------------- | --------------  
 &nbsp;        | 3-4 [5-6]      | 14
 
-**Channeller 2-3**
+**Channeler 2-3**
 
-Ghastly       | Lick           | Self Hit
+Gastly        | Lick           | Self Hit
 ------------- | -------------- | --------------  
 &nbsp;        | 3-4 [5-7]      | 14
 
@@ -580,6 +587,7 @@ Arbok         | Bite
 &nbsp;        | 13-16 [27-32]
 
 **Silph Rival**
+
 NOTE: With Gentleman candy, Nidoking will be 35 for Gyarados
 
 <table>
@@ -592,10 +600,10 @@ Pidgeot       | Quick Attack   | Wing Attack
 
 </td><td>
 
-Gyarados        | Hydro Pump@+1
--------------   | --------------
-Lv.34 Nidoking  | 88-104 [245-288]
-Lv.35 Nidoking  | 83-98 [234-276]
+Gyarados            | Hydro Pump
+------------------- | --------------
+Lv.34 Nidoking @+1  | 88-104 [245-288]
+Lv.35 Nidoking @+1  | 83-98 [234-276]
 
 </td><td>
 
@@ -616,9 +624,9 @@ Cubone        | Bone Club
 
 </td><td>
 
-Drowzee       | Psychic        | Confusion    
-------------- | -------------- | --------------
-&nbsp;        | 61-72 [112-132]| 35-42 [62-74]
+Drowzee       | Psychic         | Confusion    
+------------- | --------------- | --------------
+&nbsp;        | 61-72 [112-132] | 35-42 [62-74]
 
 </td><td>
 
@@ -650,9 +658,9 @@ Rhyhorn       | Stomp/Horn Attack
 <table>
 <tr><td>
 
-Drowzee       | Psychic        | Confusion    
-------------- | -------------- | --------------
-&nbsp;        | 62-74 [122-144]| 37-44 [68-80]
+Drowzee       | Psychic         | Confusion    
+------------- | --------------- | --------------
+&nbsp;        | 62-74 [122-144] | 37-44 [68-80]
 
 </td><td>
 
@@ -664,10 +672,10 @@ Hypno         | Confusion      | Headbutt
 
 **Koga**
 
-Weezing         | Self Destruct
---------------- | --------------
-&nbsp;          | 79-94 [167-197]
-after X-Special | 71-84
+Weezing         | Self Destruct   | Self Destruct @+1
+--------------- | --------------- | ------------------
+&nbsp;          | 79-94 [167-197] | 119-140
+after X-Special | 71-84           | 106-125
 
 ### Erika
 <table>
@@ -675,7 +683,7 @@ after X-Special | 71-84
 
 Victreebel    | Razor Leaf
 ------------- | --------------
-&nbsp;        | 15-18 [28-33]
+&nbsp;        | [28-33]
 
 </td><td>
 
@@ -697,15 +705,16 @@ Machoke       | Karate Chop    | Low Kick
 <table>
 <tr><td>
 
-Rhyhorn       | Horn Attack/Stomp | Fury Attack
-------------- | ----------------- | --------------
-&nbsp;        | 18-22 [39-46]     | 5-6 [10-12]
+Rhyhorn       | Stomp         | Fury Attack
+------------- | ------------- | --------------
+&nbsp;        | 18-22 [39-46] | 5-6 [10-12]
 
 </td><td>
 
 Nidoking      | Thrash        | Horn Attack    | Tackle
 ------------- | ------------- | -------------- | --------------
 &nbsp;        | 27-32 [57-67] | 20-24 [41-49]  | 11-13 [22-27]
+\*            | 24-29         | 17-21          | 10-12
 
 </td></tr> </table>
 
@@ -715,15 +724,15 @@ Nidoking      | Thrash        | Horn Attack    | Tackle
 <table>
 <tr><td>
 
-Rhyhorn       | Fury Attack   | Stomp          | Horn Attack
-------------- | ------------- | -------------- | --------------
-\*            | 5-6 [10-12]   | 17-20 [38-45]  | 17-20 [38-45]
+Rhyhorn       | Fury Attack   | Stomp
+------------- | ------------- | -------------
+\*            | 5-6 [10-12]   | 17-20 [38-45]
 
 </td><td>
 
 Venusaur      | Razor Leaf    | Vine Whip   
 ------------- | ------------- | --------------
-&nbsp;        | 18-22 [74-87] | 12-15 [46-55]
+@+2           | [74-87]       | 12-15 [46-55]
 
 </td></tr> </table>
 
@@ -732,7 +741,7 @@ Venusaur      | Razor Leaf    | Vine Whip
 Dewgong       | Aurora Beam
 ------------- | --------------
 &nbsp;        | 81-96 [173-204]
-@+1           | 55-66
+@+1           | 56-66
 
 ### Bruno
 
@@ -741,19 +750,19 @@ Onix          | Slam          | Rock Throw     | Rage
 &nbsp;        | 17-20 [35-42] | 7-9 [17-20]    | 5-6 [10-12]
 
 ### Agatha
-_TODO_:wing attack with badge boost? bite without badge boost?
 <table>
 <tr><td>
 
 Golbat        | Wing Attack    | Self Hit
 ------------- | -------------- | --------------
-&nbsp;        | 17-21 [39-46]  | 22
+\*            | 17-21 [39-46]  | 22
+Hazed         | 21-25          | 21
 
 </td><td>
 
 Arbok         | Bite
 ------------- | --------------
-\*            | 22-26 [51-60]
+Hazed \*      | 23-28 [51-60]
 
 </td></tr> </table>
 
@@ -761,15 +770,16 @@ Arbok         | Bite
 
 Gyarados      | Hydro Pump
 ------------- | --------------
-@+1           | 108-128 [174-205]
+@+1           | 108-128 [342-402]
+@+1 \*        | 97-114
 
 ### Champion
 <table>
 <tr><td>
 
-Pidgeot       | Sky Attack    | Wing Attack'
+Pidgeot       | Sky Attack      | Wing Attack
 ------------- | --------------- | --------------
-\*            | 72-85 [177-207] | 18-22 [45-53]
+\*            | 72-85 [174-205] | 18-22 [44-52]
 
 </td><td>
 
