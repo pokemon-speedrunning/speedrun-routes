@@ -21,7 +21,7 @@ Weedle       | Poison Sting
 &nbsp;       | 3-4 [5-6]
 
 **Brock**
-<table>
+<table class="t">
 <tr><td>
 
 Geodude      | Tackle
@@ -45,7 +45,7 @@ Onix         | Tackle        | @-2          | @-4
 ### Route 3
 
 **Bug Catcher 1**
-<table>
+<table class="t">
 <tr><td>
 
 Caterpie | Tackle
@@ -67,7 +67,7 @@ Caterpie | Tackle
 </td></tr> </table>
 
 **Short Guy**
-<table>
+<table class="t">
 <tr><td>
 
 Rattata      | Tackle        | Quick Attack
@@ -89,7 +89,7 @@ Ekans        | Wrap          | Poison Sting
 </td></tr> </table>
 
 **Bug Catcher 2**
-<table>
+<table class="t">
 <tr><td>
 
 Weedle       | Poison Sting
@@ -105,7 +105,7 @@ Caterpie     | Tackle
 </td></tr> </table>
 
 **[OPTIONAL] Lass**
-<table>
+<table class="t">
 <tr><td>
 
 Rattata      | Quick Attack  | Tackle
@@ -133,7 +133,7 @@ Caterpie     | Tackle
 ### Mt. Moon
 
 **Moon Rocket**
-<table>
+<table class="t">
 <tr><td>
 
 Rattata      | Tackle        | Quick Attack
@@ -155,7 +155,7 @@ Zubat        | Leech Life    | Self Hit
 ## FFEF Nidoking
 
 **Nerd**
-<table>
+<table class="t">
 <tr><td>
 
 Grimer       | Pound
@@ -181,7 +181,7 @@ Koffing      | Tackle
 ### Nugget Bridge
 
 **Rival**
-<table>
+<table class="t">
 <tr><td>
 
 Pidgeotto     | Gust/Quick Attack
@@ -203,7 +203,7 @@ Bulbasaur     | Vine Whip     | Leech Seed
 </td></tr> </table>
 
 **Bug Catcher**
-<table>
+<table class="t">
 <tr><td>
 
 Caterpie     | Tackle
@@ -219,7 +219,7 @@ Weedle       | Poison Sting
 </td></tr> </table>
 
 **Lass**
-<table>
+<table class="t">
 <tr><td>
 
 Pidgey       | Gust/Quick Attack
@@ -235,7 +235,7 @@ NidoranF     | Scratch       | Tackle       | Poison Sting
 </td></tr> </table>
 
 **Youngster**
-<table>
+<table class="t">
 <tr><td>
 
 Rattata      | Quick Attack  | Hyper Fang
@@ -258,7 +258,7 @@ Zubat        | Leech Life
 </td></tr> </table>
 
 **Lass 2**
-<table>
+<table class="t">
 <tr><td>
 
 Pidgey       | Gust/Quick Attack
@@ -280,7 +280,7 @@ Mankey       | Karate Chop   | Scratch
 &nbsp;       | [12-15]       | 6-8 [11-13]
 
 **Bridge Rocket**    
-<table>
+<table class="t">
 <tr><td>
 
 Ekans        | Wrap
@@ -298,7 +298,7 @@ Zubat        | Leech Life    | Bite
 ### Misty
 
 **Lass**
-<table>
+<table class="t">
 <tr><td>
 
 NidoranM     | Horn Attack   | Tackle
@@ -320,7 +320,7 @@ Machop       | Karate Chop
 &nbsp;       | 5-6 [7-9]
 
 **Lass 2**
-<table>
+<table class="t">
 <tr><td>
 
 Oddish       | Absorb    
@@ -336,7 +336,7 @@ Pidgey       | Quick Attack
 </td></tr> </table>
 
 **Dig Rocket**
-<table>
+<table class="t">
 <tr><td>
 
 Machop       | Karate Chop
@@ -378,7 +378,7 @@ Raticate     | Quick Attack
 &nbsp;       | 5-7 [10-12]
 
 **Boat Rival**
-<table>
+<table class="t">
 <tr><td>
 
 Pidgeotto     | Gust/Quick Attack
@@ -406,7 +406,7 @@ Ivysaur      | Vine Whip     | Leech Seed
 </td></tr> </table>
 
 **Surge**
-<table>
+<table class="t">
 <tr><td>
 
 Voltorb      | SonicBoom     | Tackle
@@ -433,7 +433,7 @@ w/Growl & Screech | 21
 ### Fly
 
 **4 Turn Trash Girl**
-<table>
+<table class="t">
 <tr><td>
 
 Oddish       | Absorb
@@ -455,7 +455,7 @@ Venonat      | Tackle
 &nbsp;       | 4-5 [6-8]
 
 **PokeManiac**
-<table>
+<table class="t">
 <tr><td>
 
 Cubone       | Bone Club
@@ -477,7 +477,7 @@ Slowpoke     | Confusion
 &nbsp;       | 17-20 [30-36]
 
 **Oddish Girl**
-<table>
+<table class="t">
 <tr><td>
 
 Oddish       | Absorb
@@ -499,7 +499,7 @@ Pidgey       | Quick Attack
 &nbsp;       | 5-6 [8-10]
 
 **Gambler**
-<table>
+<table class="t">
 <tr><td>
 
 Growlithe     | Bite           | Ember
@@ -517,7 +517,7 @@ Vulpix       | Quick Attack
 ### Pokeflute
 
 **Rival**
-<table>
+<table class="t">
 <tr><td>
 
 Pidgeotto     | Quick Attack
@@ -563,7 +563,7 @@ Koffing       | Tackle
 &nbsp;        |  5-6 [9-11]
 
 **Rocket 3**
-<table>
+<table class="t">
 <tr><td>
 
 Rattata       | Quick Attack
@@ -590,7 +590,7 @@ Arbok         | Bite
 
 NOTE: With Gentleman candy, Nidoking will be 35 for Gyarados
 
-<table>
+<table class="t">
 <tr><td>
 
 Pidgeot       | Quick Attack   | Wing Attack
@@ -615,7 +615,7 @@ Growlithe     | Ember          | Take Down
 </td></tr> </table>
 
 **Rocket 2**
-<table>
+<table class="t">
 <tr><td>
 
 Cubone        | Bone Club
@@ -637,7 +637,7 @@ Marowak       | Bone Club
 </td></tr> </table>
 
 **Giovanni**
-<table>
+<table class="t">
 <tr><td>
 
 Nidorino      | Horn Attack    | Fury Attack    
@@ -655,7 +655,7 @@ Rhyhorn       | Stomp/Horn Attack
 ### Koga
 
 **Juggler 2**
-<table>
+<table class="t">
 <tr><td>
 
 Drowzee       | Psychic         | Confusion    
@@ -678,7 +678,7 @@ Weezing         | Self Destruct   | Self Destruct @+1
 after X-Special | 71-84           | 106-125
 
 ### Erika
-<table>
+<table class="t">
 <tr><td>
 
 Victreebel    | Razor Leaf
@@ -702,7 +702,7 @@ Machoke       | Karate Chop    | Low Kick
 &nbsp;        | 12-15 [25-30]  | 9-11 [18-22]
 
 **Giovanni**
-<table>
+<table class="t">
 <tr><td>
 
 Rhyhorn       | Stomp         | Fury Attack
@@ -721,7 +721,7 @@ Nidoking      | Thrash        | Horn Attack    | Tackle
 ### Lorelei
 
 **Viridian Rival**
-<table>
+<table class="t">
 <tr><td>
 
 Rhyhorn       | Fury Attack   | Stomp
@@ -750,7 +750,7 @@ Onix          | Slam          | Rock Throw     | Rage
 &nbsp;        | 17-20 [35-42] | 7-9 [17-20]    | 5-6 [10-12]
 
 ### Agatha
-<table>
+<table class="t">
 <tr><td>
 
 Golbat        | Wing Attack    | Self Hit
@@ -774,7 +774,7 @@ Gyarados      | Hydro Pump
 @+1 \*        | 97-114
 
 ### Champion
-<table>
+<table class="t">
 <tr><td>
 
 Pidgeot       | Sky Attack      | Wing Attack

@@ -13,7 +13,7 @@ _TODO_: shall we add route1 encounter and weedle guy ranges?
 ## FFEF NidoranM
 ### Route 3
 **Bug Catcher 1** _TODO_ add caterpie 2 %, rattata %
-<table>
+<table class="t">
 <tr><td>
 
 | Caterpie                          | &nbsp;|
@@ -54,7 +54,7 @@ _TODO_: shall we add route1 encounter and weedle guy ranges?
 |<details><summary>Horn Attack + Tackle*</summary><br><img src="https://i.imgur.com/7i95Mxx.png" width="250"></details> | 86.5% |
 
 **Bug Catcher 3**
-<table>
+<table class="t">
 <tr><td>
 
 | Caterpie       | &nbsp; |
@@ -72,7 +72,7 @@ _TODO_: shall we add route1 encounter and weedle guy ranges?
 ### Mt. Moon
 
 **Moon Rocket**
-<table>
+<table class="t">
 <tr><td>
 
 | Rattata                    | &nbsp; |
@@ -94,7 +94,7 @@ _TODO_: shall we add route1 encounter and weedle guy ranges?
 ## FFEF Nidoking
 
 **Nerd**
-<table>
+<table class="t">
 <tr><td>
 
 | Grimer                 | &nbsp; |
@@ -119,7 +119,7 @@ _TODO_: shall we add route1 encounter and weedle guy ranges?
 ### Nugget   Bridge
 _TODO_ instead of mega punch crit we should have horn attack crit into megapunch range
 **Rival**
-<table>
+<table class="t">
 <tr><td>
 
 | Pidgeotto                   | &nbsp; |
@@ -144,7 +144,7 @@ _TODO_ instead of mega punch crit we should have horn attack crit into megapunch
 </td></tr> </table>
 
 **Bug Catcher**
-<table>
+<table class="t">
 <tr><td>
 
 Caterpie     | &nbsp;
@@ -163,7 +163,7 @@ Horn Attack* | 100%
 </td></tr> </table>
 
 **Female Jr. Trainer**
-<table>
+<table class="t">
 <tr><td>
 
 Pidgey       | &nbsp;
@@ -187,7 +187,7 @@ Mega Punch   | 66.6%
 
 
 **Female Jr. Trainer 2**
-<table>
+<table class="t">
 <tr><td>
 
 Pidgey       | &nbsp;
@@ -226,7 +226,7 @@ Mega Punch	 | 92.3%
 Horn Attack# | 100%
 
 **Dig Rocket**
-<table>
+<table class="t">
 <tr><td>
 
 Machop       | &nbsp;
@@ -251,7 +251,7 @@ Thrash			 | 92.3%
 ### Surge
 
 **Boat Rival**
-<table>
+<table class="t">
 <tr><td>
 
 Pidgeotto    | &nbsp;
@@ -297,7 +297,7 @@ Thrash			 | 82.0%
 Thunderbolt	 | 53.8%
 
 **Oddish Girl**
-<table>
+<table class="t">
 <tr><td>
 
 Oddish	     | &nbsp;
@@ -313,7 +313,7 @@ Thrash			 | 84.6%
 </td></tr> </table>
 
 **Gambler**
-<table>
+<table class="t">
 <tr><td>
 
 Growlithe	   | &nbsp;
