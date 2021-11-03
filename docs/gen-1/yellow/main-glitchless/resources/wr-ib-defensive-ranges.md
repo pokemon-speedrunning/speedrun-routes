@@ -15,7 +15,7 @@
 ### Brock
 
 **Bug Catcher 1**
-<table>
+<table class="t">
 <tr><td>
 
 Caterpie     | Tackle
@@ -43,7 +43,7 @@ Caterpie     | Tackle
 &nbsp;       | 4-5 [5-7]
 
 **Light Year Guy**
-<table>
+<table class="t">
 <tr><td>
 
 Diglett      | Scratch
@@ -59,7 +59,7 @@ Sandshrew    | Scratch
 </td></tr> </table>
 
 **Brock**
-<table>
+<table class="t">
 <tr><td>
 
 Geodude      | Tackle
@@ -80,7 +80,7 @@ Onix         | Tackle        | Bind
 ### Route 3
 
 **Bug Catcher 1**:
-<table>
+<table class="t">
 <tr><td>
 
 Caterpie     | Tackle
@@ -102,7 +102,7 @@ Caterpie     | Tackle
 </td></tr> </table>
 
 **Shorts Guy**:
-<table>
+<table class="t">
 <tr><td>
 
 Rattata      | Quick Attack
@@ -118,7 +118,7 @@ Ekans        | Wrap          | Poison Sting
 </td></tr> </table>
 
 **Bug Catcher 2**:
-<table>
+<table class="t">
 <tr><td>
 
 Weedle       | Poison Sting
@@ -142,7 +142,7 @@ Caterpie     | Tackle
 ### Mt. Moon
 
 **Nerd**:
-<table>
+<table class="t">
 <tr><td>
 
 Grimer       | Pound
@@ -165,7 +165,7 @@ Koffing      | Tackle        | Smog
 </td></tr> </table>
 
 **Jessie and James**:
-<table>
+<table class="t">
 <tr><td>
 
 Ekans        | Wrap          | Poison Sting
@@ -184,7 +184,7 @@ Koffing      | Tackle        | Smog
 ### Nugget Bridge
 
 **Rival**:
-<table>
+<table class="t">
 <tr><td>
 
 Spearow       | Peck          | Fury Attack
@@ -223,7 +223,7 @@ Caterpie     | Tackle
 &nbsp;       | 2-3 [4-5]
 
 **Female Jr Trainer**
-<table>
+<table class="t">
 <tr><td>
 
 Pidgey       | Gust/Quick Attack
@@ -239,7 +239,7 @@ NidoranF     | Scratch/Tackle | Double Kick
 </td></tr> </table>
 
 **Male Jr Trainer**
-<table>
+<table class="t">
 <tr><td>
 
 Rattata      | Quick Attack
@@ -255,7 +255,7 @@ Ekans        | Wrap          | Poison Sting
 </td></tr> </table>
 
 **Female Jr Trainer 2**
-<table>
+<table class="t">
 <tr><td>
 
 Pidgey       | Quick Attack
@@ -346,7 +346,7 @@ Venonat      | Tackle        | Confusion
 &nbsp;       | 4-5 [6-8]     | 10-12 [15-18]
 
 **PokeManiac**
-<table>
+<table class="t">
 <tr><td>
 
 Cubone       | Bone Club
@@ -369,7 +369,7 @@ Slowpoke     | Confusion
 &nbsp;       | 17-20 [30-36]
 
 **Oddish Girl**
-<table>
+<table class="t">
 <tr><td>
 
 Oddish       | Absorb
@@ -391,7 +391,7 @@ Pidgey       | Quick Attack
 &nbsp;       | 5-6 [8-10]
 
 **Gambler**
-<table>
+<table class="t">
 <tr><td>
 
 Growlithe     | Bite           | Ember
@@ -409,7 +409,7 @@ Vulpix       | Quick Attack
 ### Pokeflute
 
 **Rival**
-<table>
+<table class="t">
 <tr><td>
 
 Fearow        | Fury Attack
@@ -447,7 +447,7 @@ Sandslash     | Slash          | Swift
 10 or 11 DV   | 45-54          | 19-23 [39-47]
 
 **Giovanni**
-<table>
+<table class="t">
 <tr><td>
 
 Persian       | Pay Day        | Bite
@@ -483,7 +483,7 @@ Hypno         | Confusion      | Headbutt
 11 DV / 15 DV | 42-50 [78-92]  | 12-15 [25-30]
 
 **Koga**
-<table>
+<table class="t">
 <tr><td>
 
 Venonat (1)     | Psychic         | Psychic @-1
@@ -509,7 +509,7 @@ Venomoth      | Leech Life
 </td></tr> </table>
 
 ### Blaine
-<table>
+<table class="t">
 <tr><td>
 
 Ninetales     | Quick Attack
@@ -546,7 +546,7 @@ Machoke       | Karate Chop    | Low Kick
 11 DV         | 11-14 [27-32]  | 8-10 [20-24]
 
 **Giovanni**
-<table>
+<table class="t">
 <tr><td>
 
 Dugtrio       | Dig/EQ
@@ -588,7 +588,7 @@ Hitmonchan    | Fire Punch    | Ice Punch
 15 DV         | 14-17 [29-35] | 28-34 [59-70]
 
 ### Agatha
-<table>
+<table class="t">
 <tr><td>
 
 Gengar        | Lick           | Mega Drain
@@ -608,7 +608,7 @@ Golbat        | Wing Attack    | Leech Life
 </td></tr> </table>
 
 ### Lance
-<table>
+<table class="t">
 <tr><td>
 
 Gyarados      | Hydro Pump @+1
@@ -635,7 +635,7 @@ Dragonair (2)  | Ice Beam        | Bubblebeam
 </td></tr> </table>
 
 ### Champion
-<table>
+<table class="t">
 <tr><td>
 
 Sandslash     | EQ
