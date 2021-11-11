@@ -129,9 +129,9 @@ We recommend this to anyone who wants to learn/practice the whole run and don't 
     3. Growl
   - Now, you want to make sure that you setup your PP
     1. Leech Seed PP doesn't matter
-    2. Growl should have exactly 36PP
-    3. Tacke should have exactly 16PP
-  - If you still need to reach Lv6, also kill the encounter
+    2. Tacke should have exactly 16PP
+    3. Growl should have exactly 36PP
+  - If you still need to reach Lv8, also kill the encounter
     - spam Leech Seed if your PPs are already set
   - You dont want to reach Lv9, so run away if you are Lv8 the encounter is about to die
 
