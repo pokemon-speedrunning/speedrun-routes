@@ -36,10 +36,15 @@
     }
 
     .markdown-section tr:nth-child(2n),
-    .markdown-section code,
-    .markdown-section pre,
     #darkModeToggle {
       background-color: #222;
+    }
+
+    .markdown-section pre,
+    .markdown-section code,
+    .markdown-section pre > code {
+      color: #AAA;
+      background-color: #111;
     }
   </style>
   <style>
@@ -54,7 +59,10 @@
       outline: none;
     }
 
-	table.t > tbody > tr, table.t > tbody > tr > td {border: none}
+    table.t > tbody > tr,
+    table.t > tbody > tr > td {
+      border: none
+    }
   </style>
 </head>
 <body>
