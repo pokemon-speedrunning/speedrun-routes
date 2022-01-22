@@ -1,57 +1,85 @@
 # Red Glitchless Offensive Ranges
 ## **MP - IT - Blizzard - Agatha Candy** Route
 ### Notes:
- - `move`* denotes a badge boost, `move`** denotes 2, etc.
- - `move`@-1 denotes a defensive stat drop, `move`@-2 denotes 2, etc.
- - `move`# denotes a critical hit
+ - `move*` denotes a badge boost, `move**` denotes 2, etc.
+ - `move@-1` denotes a defensive stat drop, `move@-2` denotes 2, etc.
+ - `move#` denotes a critical hit
+ - criticals are always taken into account, accuracy is not (a 1-shot is not a 1-turn)
  - images located in dropdowns are visual cue for guaranteed rolls
 
-
 ## Squirtle
-_TODO_: shall we add route1 encounter and weedle guy ranges?
+
+**Level 3 Rattata**
+
+<abbr title="Squirtle stat">10 Attack</abbr> | <abbr title="14 HP / 7 Defense Rattata">14/7 Rat</abbr> | 15/7 Rat | 15/8 Rat
+--------------------- | -------- | -------- | --------
+Tackle x2             | 0.5%     | 0.03%    | 0%
+Tackle x3             | 100%     | 100%     | 3.4%
+Tail Whip + Tackle x2 | 99.1%    | 88.1%    | 0%
+
+11 Attack             | 14/7 Rat | 15/7 Rat | 15/8 Rat
+--------------------- | -------- | -------- | --------
+Tackle x2             | 0.5%     | 0.03%    | 0%
+Tackle x3             | 100%     | 100%     | 3.4%
+Tail Whip + Tackle x2 | 99.1%    | 88.1%    | 3.5%
+
+12 Attack             | 14/7 Rat | 15/7 Rat | 15/8 Rat
+--------------------- | -------- | -------- | --------
+Tackle x2             | 1.3%     | 0.6%     | 0.03%
+Tackle x3             | 100%     | 100%     | 100%
+Tail Whip + Tackle x2 | 100%     | 99.9%    | 4.1%
+
+**Weedle Guy**
+
+Weedle    | 10 Attack | 10 Attack (TW x3) | 11 Attack | 12 Attack
+--------- | --------- | ----------------- | --------- | ---------
+Tackle x4 | 0.01%     | 92.5%             | 62.5%     | 62.5%
+Tackle x5 | 94.5%     | 99.9%             | 99.9%     | 99.9%
 
 ## FFEF NidoranM
 ### Route 3
-**Bug Catcher 1** _TODO_ add caterpie 2 %, rattata %
+
+**Bug Catcher 1**
 <table class="t">
 <tr><td>
 
-| Caterpie                          | &nbsp;|
-| --------------------------------- | ------|
-| Leer + Horn Attack x2             |	18.9% |
-| Leer + Horn Attack + Horn Attack* | 78.4% |
+| Caterpie                          | &nbsp; |
+| --------------------------------- | ------ |
+| Leer + Horn Attack x2             | 15.4%  |
+| Leer + Horn Attack + Horn Attack* | 65.7%  |
+| Leer + Horn Attack* x2            | 85.1%  |
 
 </td><td>
 
-| Weedle                       | &nbsp;|
-| ---------------------------- | ----- |
-| Leer + Horn Attack x2        |	100% |
-| <details><summary>Leer + Horn Attack + Tackle</summary><br><img src="https://i.imgur.com/XIZP3Cp.png" width="250"></details> | 52.9% |
-| <details><summary>Leer + Horn Attack + Tackle*</summary><br><img src="https://i.imgur.com/vKaAW1B.png" width="250"></details> | 83.7% |
+| Weedle                       | &nbsp; |
+| ---------------------------- | ------ |
+| Leer + Horn Attack x2        | 100%   |
+| <details><summary>Leer + Horn Attack + Tackle </summary><br><img src="https://i.imgur.com/XIZP3Cp.png" width="250"></details> | 47.1% |
+| <details><summary>Leer + Horn Attack + Tackle*</summary><br><img src="https://i.imgur.com/vKaAW1B.png" width="250"></details> | 74.9% |
 
 </td><td>
 
-| Caterpie      | &nbsp;|
-| ------------  | ------|
-| <details><summary>Leer + Horn Attack + Tackle</summary><br><img src="https://i.imgur.com/ATRw3x5.png" width="250"></details> | ? |
+| Caterpie     | &nbsp; |
+| ------------ | ------ |
+| <details><summary>Leer + Horn Attack + Tackle</summary><br><img src="https://i.imgur.com/ATRw3x5.png" width="250"></details> | 91.7% |
 
 </td></tr> </table>
 
 **Short Guy**
 
 | Rattata       | &nbsp; |
-| ------------  | ------ |
-| <details><summary>Leer + Horn Attack + Tackle </summary><br><img src="https://i.imgur.com/YsRYZxZ.png" width="250"></details> | ? |
-| <details><summary>Leer + Horn Attack + Tackle* </summary><br><img src="https://i.imgur.com/fvhiH5F.png" width="250"></details> | ? |
-| <details><summary>Leer + Horn Attack + Tackle** </summary><br><img src="https://i.imgur.com/gd0ruiU.png" width="250"></details> | ? |
+| ------------- | ------ |
+| <details><summary>Leer + Horn Attack + Tackle  </summary><br><img src="https://i.imgur.com/YsRYZxZ.png" width="250"></details> | 20.4% |
+| <details><summary>Leer + Horn Attack + Tackle* </summary><br><img src="https://i.imgur.com/fvhiH5F.png" width="250"></details> | 47.1% |
+| <details><summary>Leer + Horn Attack + Tackle**</summary><br><img src="https://i.imgur.com/gd0ruiU.png" width="250"></details> | 74.9% |
 
 
 **Bug Catcher 2**
 
 | Weedle               | &nbsp; |
 | -------------------- | ------ |
-|<details><summary>Horn Attack + Tackle</summary><br><img src="https://i.imgur.com/ic8Y6a9.png" width="250"></details> | 57.1% |
-|<details><summary>Horn Attack + Tackle*</summary><br><img src="https://i.imgur.com/7i95Mxx.png" width="250"></details> | 86.5% |
+| <details><summary>Horn Attack + Tackle </summary><br><img src="https://i.imgur.com/ic8Y6a9.png" width="250"></details> | 65.2% |
+| <details><summary>Horn Attack + Tackle*</summary><br><img src="https://i.imgur.com/7i95Mxx.png" width="250"></details> | 89.1% |
 
 **Bug Catcher 3**
 <table class="t">
@@ -65,7 +93,7 @@ _TODO_: shall we add route1 encounter and weedle guy ranges?
 
 | Metapod             | &nbsp; |
 | ------------------- | ------ |
-|<details><summary>Tackle after 3 Hardens</summary><br><img src="https://i.imgur.com/yUFH91L.png" width="250"></details> | ? |
+| <details><summary>Tackle after 3 Hardens</summary><br><img src="https://i.imgur.com/yUFH91L.png" width="250"></details> | 78.0% |
 
 </td></tr> </table>
 
@@ -75,19 +103,20 @@ _TODO_: shall we add route1 encounter and weedle guy ranges?
 <table class="t">
 <tr><td>
 
-| Rattata                    | &nbsp; |
-| -------------------------- | ------ |
-| Horn Attack x2             | 16.8%  |
-| Horn Attack + Horn Attack* | 75.0%  |
-| Leer + Horn Attack + Tackle| 100%   |
+| Rattata                     | &nbsp; |
+| --------------------------- | ------ |
+| Horn Attack x2              | 33.9%  |
+| Horn Attack + Horn Attack*  | 79.7%  |
+| Horn Attack* x2             | 100%   |
+| Leer + Horn Attack + Tackle | 100%   |
 
 </td><td>
 
 | Zubat                       | &nbsp; |
 | --------------------------- | ------ |
-| Leer + Horn Attack + Tackle | 99.7%  |
-| after Leech Life            | 58.7%  |
-| after 2 Leech Life          | 1.7%   |
+| Leer + Horn Attack + Tackle | 99.8%  |
+| after Leech Life            | 61.0%  |
+| Horn Attack* x2             | 49.8%  |
 
 </td></tr> </table>
 
@@ -99,47 +128,46 @@ _TODO_: shall we add route1 encounter and weedle guy ranges?
 
 | Grimer                 | &nbsp; |
 | ---------------------- | ------ |
-| <details><summary>Mega Punch + Water Gun</summary><br><img src="https://i.imgur.com/mp0BlQ0.png" width="250"></details> | 85.7% |
+| <details><summary>Mega Punch + Water Gun</summary><br><img src="https://i.imgur.com/mp0BlQ0.png" width="250"></details> | 90.0% |
 
 </td><td>
 
 | Voltorb      | &nbsp; |
 | ------------ | ------ |
-| Mega Punch   | 20.5%  |
-| Mega Punch*	 | 71.7%  |
+| Mega Punch   | 33.6%  |
+| Mega Punch*  | 76.4%  |
 
 </td><td>
 
 | Koffing                 | &nbsp; |
 | ----------------------- | ------ |
-| <details><summary>Mega Punch* + Water Gun</summary><br><img src="https://i.imgur.com/8atw4Ee.png" width="250"></details> | 44.7% |
+| <details><summary>Mega Punch* + Water Gun</summary><br><img src="https://i.imgur.com/8atw4Ee.png" width="250"></details> | 61.4% |
 
 </td></tr> </table>
 
-### Nugget   Bridge
-_TODO_ instead of mega punch crit we should have horn attack crit into megapunch range
+### Nugget Bridge
+
 **Rival**
 <table class="t">
 <tr><td>
 
 | Pidgeotto                   | &nbsp; |
 | --------------------------- | ------ |
-| <details><summary>Horn Attack x3 </summary><br><img src="https://i.imgur.com/pFyHKZv.png" width="250"></details> | 85.1% |
-| <details><summary>Horn Attack# + Mega Punch</summary><br><img src="https://i.imgur.com/5GWD4ye.png" width="250"></details> | ? |
+| <details><summary>Horn Attack x3           </summary><br><img src="https://i.imgur.com/pFyHKZv.png" width="250"></details> | 91.3% |
+| <details><summary>Horn Attack# + Mega Punch</summary><br><img src="https://i.imgur.com/5GWD4ye.png" width="250"></details> | 31.9% |
 
 </td><td>
 
-| Rattata      | &nbsp;|
-| ------------ | ------|
-| Horn Attack* | 51.2% |
+| Rattata      | &nbsp; |
+| ------------ | ------ |
+| Horn Attack* | 59.3%  |
 
 </td><td>
 
 | Bulbasaur                | &nbsp; |
-| -----------------------  | ------ |
-| <details><summary>Mega Punch + Horn Attack@-1</summary><br><img src="https://cdn.discordapp.com/attachments/742565967871082496/766461675317624842/hpbar-bulbasaur-lv17-14.png" width="250"></details>  | ? |
-| <details><summary>Mega Punch# + Posion Sting</summary><br><img src="https://i.imgur.com/lPCZgOh.png" width="250"></details> | ? |
-
+| ------------------------ | ------ |
+| <details><summary>Mega Punch + Horn Attack@-1</summary><br><img src="https://cdn.discordapp.com/attachments/742565967871082496/766461675317624842/hpbar-bulbasaur-lv17-14.png" width="250"></details> | 49.6% |
+| <details><summary>Mega Punch# + Poison Sting </summary><br><img src="https://i.imgur.com/lPCZgOh.png" width="250"></details> | 100% |
 
 </td></tr> </table>
 
@@ -149,26 +177,27 @@ _TODO_ instead of mega punch crit we should have horn attack crit into megapunch
 
 Caterpie     | &nbsp;
 ------------ | ------
-Mega Punch   | 76.9%
-Horn Attack* | 17.9%
+Mega Punch   | 80.7%
+Mega Punch*  | 100%
+Horn Attack* | 31.4%
 
 </td><td>
 
-Weedle       | &nbsp;
------------- | ------
-Mega Punch   | 100%
-Horn Attack	 | 51.2%
-Horn Attack* | 100%
+Weedle       | L18 Nidoking | <abbr title="Moon XP">L19 Nidoking</abbr>
+------------ | ------------ | -----------------------------------------
+Mega Punch   | 100%         |
+Horn Attack  | 59.3%        | 82.9%
+Horn Attack* | 100%         |
 
 </td></tr> </table>
 
-**Female Jr. Trainer**
+**Lass**
 <table class="t">
 <tr><td>
 
 Pidgey       | &nbsp;
 ------------ | ------
-Mega Punch   | 79.4%
+Mega Punch   | 82.9%
 
 </td><td>
 
@@ -178,41 +207,74 @@ Horn Attack# | 100%
 
 </td></tr> </table>
 
-**Male Jr. Trainer**
+**Youngster**
+<table class="t">
+<tr><td>
+
+Rattata      | &nbsp;
+------------ | ------
+Horn Attack* | 100%
+
+</td><td>
 
 Ekans        | &nbsp;
 ------------ | ------
-Mega Punch   | 66.6%
+Mega Punch   | 72.1%
+Mega Punch*  | 100%
 
+</td><td>
 
+Zubat        | &nbsp;
+------------ | ------
+Horn Attack* | 70.0%
 
-**Female Jr. Trainer 2**
+</td></tr> </table>
+
+**Lass**
 <table class="t">
 <tr><td>
 
 Pidgey       | &nbsp;
 ------------ | ------
-Mega Punch   | 71.9%
+Mega Punch   | 76.4%
 
 </td><td>
 
 | NidoranF     | &nbsp; |
 | ------------ | ------ |
 | Horn Attack# | 41.0%  |
-| <details><summary>Horn Attack + Horn Attack@-1</summary><br><img src="https://i.imgur.com/TXYYsCM.png" width="250"></details> | ? |
+| <details><summary>Horn Attack + Horn Attack@-1</summary><br><img src="https://i.imgur.com/TXYYsCM.png" width="250"></details> | 87.0% |
 
 </td></tr> </table>
 
 **Mankey Guy**
 
 | Mankey      | &nbsp; |
-|------------ | ------ |  
-|Mega Punch   | 15.3%  |
-|<details><summary>Horn Attack + Poison Sting</summary><br><img src="https://i.imgur.com/IfiyNIR.png" width="250"></details> | ? |
+| ----------- | ------ |
+| Mega Punch  | 29.3%  |
+| <details><summary>Horn Attack + Poison Sting</summary><br><img src="https://i.imgur.com/IfiyNIR.png" width="250"></details> | 94.9% |
+
+**Bridge Rocket**
+<table class="t">
+<tr><td>
+
+Ekans        | &nbsp;
+------------ | ------
+Mega Punch   | 100%
+Horn Attack* | 70.0%
+
+</td><td>
+
+Zubat        | &nbsp;
+------------ | ------
+Horn Attack  | 78.6%
+Horn Attack* | 100%
+
+</td></tr> </table>
 
 ### Misty
 
-**Female Jr Trainer**
+**Lass**
 
 NidoranF     | &nbsp;
 ------------ | ------
@@ -222,8 +284,14 @@ Horn Attack# | 100%
 
 Machop       | &nbsp;
 ------------ | ------
-Mega Punch	 | 92.3%
+Mega Punch   | 93.6%
 Horn Attack# | 100%
+
+**Lass**
+
+Oddish       | &nbsp;
+------------ | ------
+Horn Attack  | 59.3%
 
 **Dig Rocket**
 <table class="t">
@@ -231,13 +299,13 @@ Horn Attack# | 100%
 
 Machop       | &nbsp;
 ------------ | ------
-Thrash			 | 35.9%
+Thrash       | 46.4%
 
 </td><td>
 
 Drowzee      | &nbsp;
 ------------ | ------
-Thrash			 | 92.3%
+Thrash       | 93.6%
 
 </td></tr> </table>
 
@@ -245,8 +313,8 @@ Thrash			 | 92.3%
 
 | Starmie      | &nbsp; |
 | ------------ | ------ |
-| Thrash x2    | 99.7%  |
-| <details><summary>Trash + Trash@-1 + Poison Sting@-1</summary><br><img src="https://i.imgur.com/2kylKlG.png" width="250"></details> | ? |
+| Thrash x2    | 99.8%  |
+| <details><summary>Thrash + Thrash@-1 + Poison Sting@-1</summary><br><img src="https://i.imgur.com/2kylKlG.png" width="250"></details> | 82.1% |
 
 ### Surge
 
@@ -262,53 +330,63 @@ Horn Attack# | 100%
 
 Raticate     | &nbsp;
 ------------ | ------
-Mega Punch	 | 100%
+Mega Punch   | 100%
 
 </td><td>
 
 Ivysaur            | &nbsp;
 ------------------ | ------
-Thrash + Thrash@-1 | 100%			
+Thrash + Thrash@-1 | 100%
 
 </td></tr> </table>
 
 **Surge**
+<table class="t">
+<tr><td>
 
-| Voltorb	     | &nbsp; |
+| Voltorb      | &nbsp; |
 | ------------ | ------ |
-| Thrash			 | 69.2%  |
-|<details><summary>Bubblebeam x2</summary><br><img src="https://i.imgur.com/y2mhzgH.png" width="250"></details> | 98.9% |
+| Thrash       | 74.3%  |
+| <details><summary>Bubblebeam x2</summary><br><img src="https://i.imgur.com/y2mhzgH.png" width="250"></details> | 99.3% |
 
 </td><td>
 
-| Raichu	     | &nbsp;|
-|------------ | ------ |
-| <details><summary>Thrash + Bubblebeam</summary><br><img src="https://i.imgur.com/J6J72b0.png" width="250"></details> | ? |
+| Raichu      | &nbsp; |
+| ----------- | ------ |
+| <details><summary>Thrash + Bubblebeam</summary><br><img src="https://i.imgur.com/J6J72b0.png" width="250"></details> | 30.1% |
 
 </td></tr> </table>
 
 ### Fly
 
+**4 Turn Thrash Girl**
+
+Oddish            | &nbsp;
+----------------- | ------
+Mega Punch        | 100%
+after Parlyz Heal | 89.3%
+
 **Bug Catcher**
 
-Venonat	     | &nbsp;
+Venonat      | &nbsp;
 ------------ | ------
-Thrash			 | 82.0%
-Thunderbolt	 | 53.8%
+Thrash       | 85.0%
+Thunderbolt  | 61.4%
 
 **Oddish Girl**
 <table class="t">
 <tr><td>
 
-Oddish	     | &nbsp;
+Oddish       | &nbsp;
 ------------ | ------
-Thrash		   | 46.1%
+Thrash       | 55.0%
 
 </td><td>
 
-Bulbasaur		 | &nbsp;
------------- | ------
-Thrash			 | 84.6%
+Bulbasaur         | &nbsp;
+----------------- | ------
+Thrash            | 87.1%
+after Parlyz Heal | 35.7%
 
 </td></tr> </table>
 
@@ -316,66 +394,61 @@ Thrash			 | 84.6%
 <table class="t">
 <tr><td>
 
-Growlithe	   | &nbsp;
+Growlithe    | &nbsp;
 ------------ | ------
-Thrash			 | 56.4%
-Bubblebeam	 | 89.7%
+Thrash       | 63.6%
+Bubblebeam   | 91.4%
 
 </td><td>
 
-Vulpix 	     | &nbsp;
+Vulpix       | &nbsp;
 ------------ | ------
-Bubblebeam	 | 46.1%
+Bubblebeam   | 55.0%
 
 </td></tr> </table>
 
 ### Pokeflute
 
-**[OPTIONAL]Heal Pad Skip Hunter**
-
-Haunter 	   | &nbsp;
------------- | ------
-Rock Slide	 | 82.0%
-
 **Rocket 1**
 
-Golbat 	     | &nbsp;
+Golbat       | &nbsp;
 ------------ | ------
-Thunderbolt	 | 89.7%
-Thunderbolt	 | 100% if Haunter
+Thunderbolt  | 91.4%
 
 **Rocket 3**
 
-Raticate 	   | L33 Nidoking  | L34 Nidoking
+Raticate     | L33 Nidoking  | <abbr title="Gentleman Candy">L34 Nidoking</abbr>
 ------------ | ------------- | -------------
-Thrash		   | 84.6%         | 92.3%
-Thunderbolt	 | 41.0%         | 58.9%
+Thrash       | 87.1%         | 93.6%
+Thunderbolt  | 50.7%         | 65.7%
 
 ### Silph
 
 **Rocket 1**
 
-Arbok 	         | &nbsp;
+Arbok            | &nbsp;
 ---------------- | ------
-Thrash x2        | 43.4%
-Thrash + Thrash* | 94.1%
+Thrash x2        | 60.5%
+Thrash + Thrash* | 95.9%
+
+### Koga
 
 **Juggler 2**
 
-| Hypno 	         | &nbsp; |
+| Hypno            | &nbsp; |
 | ---------------- | ------ |
-|<details><summary>Earthquake + Bubblebeam</summary><br><img src="https://i.imgur.com/UXijDJt.png" width="250"></details> | ? |
+| <details><summary>Earthquake + Bubblebeam</summary><br><img src="https://i.imgur.com/UXijDJt.png" width="250"></details> | 77.3% |
 
 ### Giovanni
 
-Rhydon 	     | &nbsp;
+Rhydon       | &nbsp;
 ------------ | ------
-Blizzard     | 46.1%
+Blizzard     | 55.0%
 
 ### Lorelei
 
 **Viridian Rival**
 
-Pidgeot	     | &nbsp;
+Pidgeot      | &nbsp;
 ------------ | ------
-Blizzard*    | 58.9%
+Blizzard*    | 65.7%
