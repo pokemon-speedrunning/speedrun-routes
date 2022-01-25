@@ -39,42 +39,38 @@
 
 ## Viridian City
 
-- Get XP from one encounter in Route 1
-	- During the parcel quest kill one encounter from a level 2 Rat, level 3 Rat, or a level 2 Pidgey. You can fight level 3 Pidgeys but you will take a bit of damage if you have a lower attack (10-11 at level 6) Squirtle. This early XP will get you Bubble for Brock
+Get XP from one encounter in Route 1
+- During the parcel quest kill one encounter from a level 2 Rat, level 3 Rat, or a level 2 Pidgey. You can fight level 3 Pidgeys but you will take a bit of damage if you have a lower attack (10-11 at level 6) Squirtle. This early XP will get you Bubble for Brock
 
+Shopping:
+- 4 Poke Balls (This does require you to get consistent at manip yoloballs, you can buy 5 and 1 less Potion later on)
 
-- Shopping:
-	- 4 Poke Balls (This does require you to get consistent at manip yoloballs, you can buy 5 and 1 less Potion later on)
-
-
-- Nidoran Manip:
-	- [Optimal (HIGHLY RECOMMENDED)](../../resources/nido-manip.md)
-	- [1 A Press](https://youtu.be/qPzSWHyMuW8)
+Nidoran Manip:
+- [Optimal (HIGHLY RECOMMENDED)](../../resources/nido-manip.md)
+- [1 A Press](https://youtu.be/qPzSWHyMuW8)
 
 ## Viridian Forest
 
 - Walk [this path](http://gunnermaniac.com/pokeworld?map=51#17/47/UUUURURRRRRRRRUUUUUUUULUURRUUUUUUUUUUUULLUUUUUUUUAUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDDDLLLLLLUUUA) in the forest and pick up the Antidote and the hidden Potion along the way
 
-**Bug Catcher:**
+**Weedle Guy:**
 - Tail Whip x2 + spam Tackle [Heal if HP < 7]
 - Check your leveled up stats after this fight, if you have 13 special you have bad special, if you have 14 or 15 you have good special
 
-
-- If you were poisoned do the following:
-	- Swap Nidoran and Squirtle (Nidoran should be the lead pokemon)
-	- Antidote
-	- Potion if HP < 16
+If you were poisoned do the following:
+- Swap Nidoran and Squirtle (Nidoran should be the lead pokemon)
+- Antidote
+- Potion if HP < 16
 
 ## Pewter City
 
-- Shopping:
-	- 8 Potions
+Shopping:
+- 8 Potions
 
-
-- If you weren't poisoned do the following:
-	- Swap Nidoran and Squirtle (Nidoran should be the lead pokemon)
-	- Potion if HP < 16
-	- [OPTIONAL SAVE IF YOU HAVE BAD SPECIAL]
+If you weren't poisoned do the following:
+- Swap Nidoran and Squirtle (Nidoran should be the lead pokemon)
+- Potion if HP < 16
+- [OPTIONAL SAVE IF YOU HAVE BAD SPECIAL]
 
 **Brock:**
 - Geodude [Heal if HP < 8]
@@ -84,8 +80,7 @@
 		- IF ONIX USES BIDE: Tail Whip x2
 	- Spam Bubble
 
-
-- Options: Battle Style to Set before leaving Brock's gym
+Options: Battle Style to Set before leaving Brock's gym
 
 ## Route 3
 
@@ -95,8 +90,7 @@
 	- Leer + HA + Tackle if you got String Shot hit OR Tackle will always kill
 - Caterpie: HA x2 + Tackle
 
-
-- Menu: Potion if HP < 25
+Menu: Potion if HP < 25
 
 **Shorts Guy:**
 - Rat: [Heal if HP < 16]
@@ -115,8 +109,7 @@
 - Metapod:
 	- HA x2 + Tackle
 
-
-- Menu: Potion if HP < 21
+Menu: Potion if HP < 21
 
 **Lass:** (this route also fights the optional lass)
 - HA x4
@@ -127,7 +120,7 @@
 - Metapod:
 	- HA, PS, HA, PS (you really want at least 1 HA after this fight, if you are at 1 HA just PS)
 
-
+Route 3 grass:
 - Catch a flyer
 	- Tackle then toss a Ball at any flyer except L8 Pidgey where you HA then toss a Ball
 - Kill one encounter in the grass with HA except level 3 or level 7 Jigglypuffs to get Nidoran to level 15
@@ -136,21 +129,20 @@
 
 **Mount Moon Manip:**
 
-Don't stress too much doing the longer manips, just learn Post Nerd Backup Paras and start working on a full moon manip. If you fail the manip just keep going and do the backup Paras. There is also a 2nd floor backup you can learn.
+Don't stress too much doing the longer manips, just learn Post Nerd Backup Paras and start working on a full Moon manip. If you fail the manip just keep going and do the backup Paras. There is also a 2nd floor backup you can learn.
 - [Entr's Moon Manip](https://pastebin.com/jnj9j47S) (Optimal for this route)
 - Backups (in case you fail the full manip):
 	- [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy)
 	- [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
+- Get TM12 (Water Gun), Rare Candy, Escape Rope, TM01 (Mega Punch), Moon Stone during Mount Moon manip
 
-
-- Get TM12 (Water Gun), Rare Candy, Escape Rope, TM01 (Mega Punch), Moon Stone during mount moon manip
-- Menu after Paras and before Rocket:
-	- Toss any remaining Poke Balls (ONLY IF YOU HAVE A PARAS)
-	- Toss Antidote if you still have it
-	- Use Rare Candy
-	- Teach TM12 (Water Gun) over Tackle (slot 2)
-	- Use Moon Stone
-	- Teach TM01 (Mega Punch) over Leer (slot 1)
+Menu after Paras and before Rocket:
+- Toss any remaining Poke Balls (ONLY IF YOU HAVE A PARAS)
+- Toss Antidote if you still have it
+- Use Rare Candy
+- Teach TM12 (Water Gun) over Tackle (slot 2)
+- Use Moon Stone
+- Teach TM01 (Mega Punch) over Leer (slot 1)
 
 **Rocket:**
 - Rat: MP
@@ -226,10 +218,9 @@ Don't stress too much doing the longer manips, just learn Post Nerd Backup Paras
 	- Teach Thrash over Water Gun (slot 2)
 - Thrash
 
-
-- Menu after Bill:
-	- Use Rare Candy
-	- Use Escape Rope
+Menu after Bill:
+- Use Rare Candy
+- Use Escape Rope
 
 ## Cerulean City
 
@@ -278,18 +269,17 @@ If HP < 13 after this fight:
 
 If you have less than 9 HP and IT, fight the Gentleman in [this room](https://gunnermaniac.com/pokeworld?map=96#21/11) with Thrash then pick up the Rare Candy
 
-- Shopping:
-	- Buy:
-		- 6 Repels
-		- 4 Parlyz Heals
+Shopping:
+- Buy:
+	- 6 Repels
+	- 4 Parlyz Heals
 
-
-- Menu before cut bush:
-	- Teach TM11 (Bubblebeam) over PS (slot 4)
-	- [Rare Candy if you fought the Gentleman]
-	- Teach HM01 to Paras
-	- Teach TM28 (Dig) to Paras
-	- Use Cut
+Menu before Cut bush:
+- Teach TM11 (Bubblebeam) over PS (slot 4)
+- [Rare Candy if you fought the Gentleman]
+- Teach HM01 to Paras
+- Teach TM28 (Dig) to Paras
+- Use Cut
 
 Surge Cans Manip:
 - [Optimal](https://www.youtube.com/watch?v=8Pa2f2WxCe4)
@@ -326,13 +316,13 @@ Surge Cans Manip:
 
 ## Rock Tunnel
 
-- Menu after taking 1 step down: Scroll down and use a Repel
+Menu after taking 1 step down: Scroll down and use a Repel
 
-**Slowpoke Dude 1:**
+**Pokemaniac 1:**
 - BB
 - TB
 
-**Slowpoke Dude 2:**
+**Pokemaniac 2:**
 - TB
 
 [Optional Save if HP < 18 and you did not fight the Gentleman]
@@ -341,9 +331,9 @@ Surge Cans Manip:
 - If you fought the Gentleman, Thrash. The ranges are guaranteed
 - 18-22 HP: TB, then Thrash
 - Otherwise, just Thrash
-- If you get paralyzed use a heal on it, and if you get put to sleep heal if Absorb kills
+	- If you get paralyzed use a heal on it, if you get put to sleep heal if HP < 6
 
-
+After the fight:
 - Use one Repel [here](https://gunnermaniac.com/pokeworld?map=232#25/19)
 - Use another Repel [here](https://gunnermaniac.com/pokeworld?map=232#8/17)
 	- You can delay these 2 Repels up to ~10 tiles
@@ -354,7 +344,7 @@ Surge Cans Manip:
 **Jr Trainer F:**
 - Thrash
 
-- Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
+Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
 
 ## Route 8
 
@@ -389,15 +379,15 @@ Shopping:
 	- Buy 9 X Specs (7 if you have 0 Potions at this point)
 	- Buy 1 X Speeds (3 if you have 0 Potions at this point)
 
+Take the elevator and get HM02 (Fly)
 
-- Take the elevator and get HM02 (Fly)
-- Menu after getting Fly:
-	- Swap slot 2 with TM07
-	- Use a Super Repel
-	- Teach TM48 (Rock Slide) over Mega Punch (slot 1)
-	- Swap slot 3 with X Accs
-	- Teach HM02 to the bird
-	- Use Fly to go to Lavender
+Menu after getting Fly:
+- Swap slot 2 with TM07
+- Use a Super Repel
+- Teach TM48 (Rock Slide) over Mega Punch (slot 1)
+- Swap slot 3 with X Accs
+- Teach HM02 to the bird
+- Use Fly to go to Lavender
 
 ## Lavender Town
 
@@ -419,9 +409,8 @@ Note: From this point on you have 2 Revives which means deaths aren't as scary, 
 - Teach TM07 (Horn Drill) over Rock Slide (slot 1)
 
 **Ghost Encounter:**
-- Menu:
-	- Swap slot 3 with Super Repels
-	- Use Poke Doll
+- Swap slot 3 with Super Repels
+- Use Poke Doll
 
 **Rocket 1:**
 - TB x3 (+ BB)
@@ -446,7 +435,7 @@ Note: From this point on you have 2 Revives which means deaths aren't as scary, 
 **Rocket 1:**
 - Thrash
 
-- Get the Card Key
+Get the Card Key
 
 **Rival:**
 - Pidgeot:
@@ -455,9 +444,9 @@ Note: From this point on you have 2 Revives which means deaths aren't as scary, 
 	- X Speed
 - HD x5
 
+Note: In this split we want to take a bit of damage to do a strat on Koga called Boom Strats
 
-- Note: In this split we want to take a bit of damage to do a strat on Koga called Boom Strats
-- If HP < 78, use an Elixer before the next fight
+If HP < 78, use an Elixer before the next fight
 
 **Rocket 2:**
 - Cubone:
@@ -472,17 +461,18 @@ Note: From this point on you have 2 Revives which means deaths aren't as scary, 
 **Giovanni:**
 - X Acc, HD x2, BB, HD
 
+Go back to the elevator and go to the 10th Floor to get [TM26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
 
-- Go back to the elevator and go to the 10th Floor to get [TM26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
-- Use Dig on Paras
+Use Dig on Paras
 
 ## Celadon City
 
 - Use your Bike and go to Snorlax
-- Menu before Snorlax:
-	- Use a Repel
-	- Swap slot 5 (Parlyz Heal) for Rare Candies
-	- Use Poke Flute
+
+Menu before Snorlax:
+- Use a Repel
+- Swap slot 5 (Parlyz Heal) for Rare Candies
+- Use Poke Flute
 
 ## Cycling Road
 
@@ -491,15 +481,14 @@ Note: From this point on you have 2 Revives which means deaths aren't as scary, 
 
 ## Fuschia City
 
-- Menu:
-	- Use a Repel
-	- Swap slot 6 (Potion) with X Spec (if 0 Potions, then swap Helix Fossil with X Spec instead)
-	- Teach TM26 (Earthquake) over Thrash (slot 2)
-	- Use Bike
+Menu:
+- Use a Repel
+- Swap slot 6 (Potion) with X Spec (if 0 Potions, then swap Helix Fossil with X Spec instead)
+- Teach TM26 (Earthquake) over Thrash (slot 2)
+- Use Bike
 
-
-- In the Safari Zone:
-	- Super Repel on the 2nd map around [this tile](https://gunnermaniac.com/pokeworld?map=217#13/24)
+In the Safari Zone:
+- Super Repel on the 2nd map around [this tile](https://gunnermaniac.com/pokeworld?map=217#13/24)
 - Pick up the [Teeth](https://gunnermaniac.com/pokeworld?map=219#19/7) and get Surf
 - After getting Surf, Dig out of the safari and Fly back to Fuschia City
 
@@ -517,18 +506,17 @@ Note: From this point on you have 2 Revives which means deaths aren't as scary, 
 	- If Koga used X Attack, scroll up 2 and use X Spec until you die
 	- If you didn't die from Koga you can still try to get red bar by following the [intermediate backups](https://pastebin.com/BMQQYcEV). Note that this can be risky
 
-
-- Menu after Koga:
-	- Use all Rare Candies
-	- Bike to get Strength
-	- Fly to Pallet Town
+Menu after Koga:
+- Use all Rare Candies
+- Bike to get Strength
+- Fly to Pallet Town
 
 ## Pallet Town
 
-- Menu at the bottom of the water:
-	- Super Repel
-	- Teach HM03 (Surf) to Squirtle
-	- Surf
+Menu at the bottom of the water:
+- Super Repel
+- Teach HM03 (Surf) to Squirtle
+- Surf
 
 ## Cinnabar Island
 
@@ -543,33 +531,34 @@ Note: From this point on you have 2 Revives which means deaths aren't as scary, 
 
 ## Celadon City
 
-- Bike to the gym
+Bike to the gym
 
 **Beauty:**
 - Blizz
 
 **Erika:**
 - EQ, Blizz, EQ
-- After Erika Fly back to Cinnabar
+
+Fly back to Cinnabar
 
 ## Cinnabar Island
 
-- Quiz answers: A B B B A B
+Quiz answers: A B B B A B
 
 **Blaine:**
 - X Acc, EQ
 - HD x3
 
-
-- Dig out and Bike to Sabrina's gym
+Dig out and Bike to Sabrina's gym
 
 ## Saffron City
 
-- Teleporter puzzle: Top left, Bottom left, Bottom left
+Teleporter puzzle: Top left, Bottom left, Bottom left
 
 **Sabrina:**
 - EQ x4
-- Walk back to the teleporter and Dig out and Fly to
+
+Walk back to the teleporter and Dig out and Fly to
 
 ## Viridian City
 
@@ -581,19 +570,18 @@ Note: From this point on you have 2 Revives which means deaths aren't as scary, 
 **Blackbelt:**
 - X Acc, HD, Blizz, HD
 
+Leave the gym to reset the trainer
 
-- Leave the gym to reset the trainer
-- Menu after entering the gym again:
-	- Elixer
+Menu after entering the gym again:
+- Elixer
 
 **Giovanni:**
 - EQ x4, Blizz (+ Blizz)
 	- Note: Don't go below 2 Blizzards in this fight, use EQ to finish Rhydon if you need to
 
-
-- Menu after leaving the gym:
-	- Super Repel
-	- Bike
+Menu after leaving the gym:
+- Super Repel
+- Bike
 
 **Rival:**
 - X Acc, Blizz + TB
@@ -618,7 +606,7 @@ Note: From this point on you have 2 Revives which means deaths aren't as scary, 
 
 ## E4
 
-- Don't deposit extra pokes unless you have no more Revives
+Don't deposit extra pokes unless you have no more Revives
 
 **Lorelei:**
 - Dewgong:
@@ -626,8 +614,7 @@ Note: From this point on you have 2 Revives which means deaths aren't as scary, 
 	- Swap back to Nido and X Acc
 	- HD x5
 
-
-- Before Bruno use a Max Ether on HD
+Before Bruno use a Max Ether on HD
 
 **Bruno:**
 - X Acc, HD x5

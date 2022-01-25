@@ -18,12 +18,13 @@
 
 Rival 1:
 - Tail Whip + spam Tackle
+
 > Check stats on level up after Rival 1
-	- 10 ATK - Tail Whip x3 on Weedle Guy in forest
-	- 12 ATK - Tail Whip + Tackle x2 on L3 Rat encounter only
-	- 12 DEF is bad defense, expect Geodude & Onix to do more damage (see Defensive Ranges)
-	- 11 SPC is likely bad special (3 hit on Geodude and/or Onix)
-	- 12 SPC is guaranteed good special (2 hit on Geodude & Onix)
+> - 10 ATK - Tail Whip x3 on Weedle Guy in forest
+> - 12 ATK - Tail Whip + Tackle x2 on L3 Rat encounter only
+> - 12 DEF is bad defense, expect Geodude & Onix to do more damage (see Defensive Ranges)
+> - 11 SPC is likely bad special (3 hit on Geodude and/or Onix)
+> - 12 SPC is guaranteed good special (2 hit on Geodude & Onix)
 
 Route 1
 - Spam Tackle to faint one encounter that is L2 or L3
@@ -92,10 +93,9 @@ Bug Catcher 3:
 - Metapod: (Note: You need at least 2 HAs for after this fight)
 	- Spam HA, finish with Tackle
 
-
-- Catch a flyer
-	- Tackle then toss a Ball at any flyer except L8 Pidgey where you HA then toss a Ball
-	- Exception: If only 2 HAs are left, then weaken L8 Pidgey with Leer + Tackle
+Catch a flyer:
+- Tackle then toss a Ball at any flyer except L8 Pidgey where you HA then toss a Ball
+- Exception: If only 2 HAs are left, then weaken L8 Pidgey with Leer + Tackle
 
 ## MT. MOON SPLIT
 
@@ -348,9 +348,9 @@ Pokemaniac 1:
 Pokemaniac 2:
 - Slowpoke: TB
 
-Oddish Girl: Parlyz Heal immediately if Stun Spore hits
-- Oddish: Thrash x1-2 (or at 18-22 HP use: TB + Thrash, Potion if asleep below 6 HP)
-- Bulba: Thrash x1-2
+Oddish Girl: [Parlyz Heal immediately if Stun Spore hits]
+- Oddish: Thrash (or at 18-22 HP use: TB + Thrash, Potion if asleep below 6 HP)
+- Bulba: Thrash
 
 Use 2 Repels at some point after this fight and before the next fight
 
@@ -362,22 +362,31 @@ Jr Trainer F:
 
 Pick up the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=1#336/97) outside of Tunnel
 
-Gambler: Potion turn 1 if HP < 5
+Gambler: [Potion turn 1 if HP < 5]
 - Growlithe: BB (+ Thrash)
 - Vulpix: Thrash
 > Take note of your HP leaving Gambler
-- If HP is **1-8** or **16-27** follow **Early Drill** strats
-	- On Early Drill - TM07 Horn Drill is taught in **Fly Menu** before Lavender Rival (buys an extra X Acc)
-- If HP is **9-15** or **28+** follow **Late Drill** strats
-	- On Late Drill - TM07 Horn Drill is taught near the top of **Lavender Tower** just before Marowak Ghost
+
+HP    | Strategy
+----- | --------------
+1-8   | Early Drill
+9-15  | Late Drill
+16    | Early Drill, Late Drill if Gentleman Candy
+17-18 | Late Drill
+19    | Late Drill, Early Drill if you got Moon Exp
+20-27 | Early Drill
+28+   | Late Drill
+
+> At 17+ you can also just stick to your personal preference
+> - On Early Drill - Horn Drill is taught in the *Fly Menu* before Lavender Rival
+> - On Late Drill - Horn Drill is taught near the top of *Lavender Tower* just before the Marowak Ghost
 
 Get the [Underground Elixer](https://gunnermaniac.com/pokeworld?map=121#21/5)
 
 ### Celadon Mart
-- If you fought the Gentleman guarding the Candy on boat, then...
-	- On Early Drill, you are still able to buy 4 Super Potions and 5 X Specials
-	- On Late Drill, buy 6 X Specials and 4 X Speeds (1 extra of each)
-
+> - If you fought the Gentleman guarding the Candy on boat, then...
+>	- On Early Drill, you are still able to buy 4 Super Potions and 5 X Specials
+>	- On Late Drill, buy 6 X Specials and 4 X Speeds (1 extra of each)
 
 - 2nd Floor
 	- Buy TM07
@@ -387,7 +396,7 @@ Get the [Underground Elixer](https://gunnermaniac.com/pokeworld?map=121#21/5)
 	- Buy 1 Poke Doll
 - Roof
 	- Buy a Soda Pop
-	- Trade it to the girl for TM48 Rock Slide
+	- Trade it to the girl
 	- Buy a Fresh Water
 - 5th Floor
 	- Buy 11 X Accuracy (**12 on Early Drill**)
@@ -404,15 +413,16 @@ Get HM02 Fly
 - Down 3 to teach **TM48** (Rock Slide) over slot 1 MP (**over slot 2 Thrash on Early Drill**)
 - (**only if on Early Drill - teach TM07 (Horn Drill) over slot 1 MP**)
 - Swap **S.S. Ticket** for **X Accuracy** (2 below Poke Doll)
-- Down 3 to teach **HM02** Fly to bird
+- Down 3 to teach **HM02** (Fly) to bird
 - Fly to Lavender
 
-Lavender Rival is an HP dependent fight:
-- **1-8:** Turn 1 use slot 6 **Potion**, turn 2 scroll up 4 to use **X Acc**, HD x5
-- **9-15:** TB x2, BB (if under 9 HP on Growlithe use slot 7 **Potion**, then BB), Thrash
-- **16:** TB x2, X Acc on Growlithe, HD x3
-- **17-27:** Turn 1 use X Acc, HD x5; can Potion turn 2 if crit below 8 HP
-- **28+:** TB x2, BB, Thrash
+Lavender Rival:
+- On Late Drill:
+	- TB x2, BB, Thrash (if HP < 9 on Growlithe use Potion, then BB)
+- On Early Drill:
+	- 1-8: Turn 1 use slot 6 **Potion**, turn 2 scroll up 4 to use **X Acc**, HD x5
+	- 16: TB x2, X Acc on Growlithe, HD x3
+	- 20+: X Acc, HD x5 (can Potion turn 2 if crit below 9 HP)
 
 Channeler 1: ([Tower Map](https://imgur.com/gallery/Yf2tY3u))
 - RS x2 (don't forget Rock Slide will be in either slot 1 or slot 2)
@@ -484,39 +494,41 @@ Silph Rocket:
 	- HD
 - Marowak: HD
 
-Giovanni: Note: Only if you happen to be at **24-37 HP** on Rhyhorn, then use TB to stall for a hit into red bar, if hit by Tail Whip keep stalling if 31-37 HP; otherwise BB, and always BB after 2nd Tail Whip.
+Giovanni:
 - Nidorino: X Acc, HD
 - Kangaskhan: HD
 - Rhyhorn: BB
+	- Note: Only if you happen to be at **24-37 HP** on Rhyhorn, then use TB to stall for a hit into red bar, if hit by Tail Whip keep stalling if 31-37 HP; otherwise BB, and always BB after 2nd Tail Whip.
 - Nidoqueen: HD
 
+Go back to the elevator and go to the 10th Floor to get [TM26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
 
-- Go back to the elevator and go to the 10th Floor to get [TM26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
-- Use Dig on Paras
+Use Dig on Paras
 
 ### Celadon City
-- Use your Bike and go west to Snorlax
-- **Menu** before Snorlax
-	- Use slot 4 **Repel**
-	- Down 1 to swap **Parlyz Heal** for **Rare Candy** (3 below X Special)
-	- Down 1 to use Poke Flute
+Use your Bike and go west to Snorlax
+
+**Menu** before Snorlax
+- Use slot 4 **Repel**
+- Down 1 to swap **Parlyz Heal** for **Rare Candy** (3 below X Special)
+- Down 1 to use Poke Flute
 
 ### Cycling Road
 - Get the [hidden Rare Candy](https://imgur.com/gallery/wVT4Rrw)
 
 ### Fuschia City
-- Note: If you have ran out of Potions then make these three modifications (ignore this if Potions were replaced with TM34)
-> **(1)** In the next menu - instead of swapping Potions down, swap Helix Fossil with X Spec  
-> **(2)** In the 3rd Zone of the Safari - pick up [TM40](https://gunnermaniac.com/pokeworld?map=218#19/7) for bag space  
-> **(3)** In the Surf menu - swap HM01 with X Speed
+> Note: If you have ran out of Potions then make these three modifications (ignore this if Potions were replaced with TM34)
+> - In the next menu - instead of swapping Potions down, swap Helix Fossil with X Spec
+> - In the 3rd Zone of the Safari - pick up [TM40](https://gunnermaniac.com/pokeworld?map=218#19/7) for bag space
+> - In the Surf menu - swap HM01 with X Speed
 
-- **Menu**
-	- Use slot 4 **Repel**
-	- Down 2 to swap **Potion** with **X Special** (3 below HM01)
-	- Down 6 to teach **TM26** Earthquake in move slot 2 (over Thrash or RS)
-	- Use Bike
+**Menu**
+- Use slot 4 **Repel**
+- Down 2 to swap **Potion** with **X Special** (3 below HM01)
+- Down 6 to teach **TM26** Earthquake in move slot 2 (over Thrash or RS)
+- Use Bike
 
-
+In the Safari Zone:
 - If needed see [Safari Movement](https://imgur.com/gallery/h9KpU3I)
 - Menu in the 2nd Zone around [this tile](https://gunnermaniac.com/pokeworld?map=217#17/24) to use slot 2 Super Repel (cursor is on items)
 - If you have zero Potions, pick up [TM40](https://gunnermaniac.com/pokeworld?map=218#19/7) for bag space
@@ -661,9 +673,10 @@ Agatha:
 
 **Menu** before Lance
 - Use **Elixer** and **heal to 127+ HP**
-- Note: If you need Lance and/or champ red bar to PB, then be prepared to stall if Hydro Pump misses
-> **(1)** If 127-133 HP, then use X Speed turn 2 on Gyarados instead of on 2nd Dragonair  
-> **(2)** If 133+ HP, then stall with EQ or X Acc **but only if you have 2 X Accs left**
+
+> Note: If you need Lance and/or Champ red bar to PB, then be prepared to stall if Hydro Pump misses
+> - If 127-133 HP, then use X Speed turn 2 on Gyarados instead of on 2nd Dragonair
+> - If 133+ HP, then stall with EQ or X Acc *but only if you have 2 X Accs left*
 
 Lance:
 - Gyarados: X Spec + TB
