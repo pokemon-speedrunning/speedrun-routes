@@ -143,7 +143,7 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | Rat   |  1-11   | Potion before fight           |
 | Rat   |  12-18  | Potion turn 1                 |
 | Ekans |  1-3    | Potion                        |
-| Zubat |  1-7    | Potion unless Moon exp        |
+| Zubat |  1-7    | Potion unless Moon Exp        |
 | Zubat |  1-17   | Potion if confused            |
 | Zubat |  1-24   | Potion if confused and -1 def |
 
@@ -170,8 +170,8 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 
 | Poke  |    HP   | Strategy                                 |
 | ----- | ------- | --------------------------------------   |
-| Ekans |  1-3    | Potion before fight with Moon exp        |
-| Ekans |  1-9    | Potion before fight without Moon exp     |
+| Ekans |  1-3    | Potion before fight with Moon Exp        |
+| Ekans |  1-9    | Potion before fight without Moon Exp     |
 | Zubat |  1-9    | Potion turn 1 unless HA can KO           |
 | Zubat |  13-17  | Consider HA (+ PS) for chance at red bar |
 | Zubat |  1-21   | Potion if confused                       |
@@ -194,12 +194,11 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 16-20 | HA (+ PS)     |
 | 21+   | MP            |
 
-#### Lass Oddishes
-| HP                | Strategy          |
-| ----------------- | ----------------- |
-| 1-5               | Potion turn 1     |
-| 1st Oddish 16-18  | HA (+ PS)         |
-| 2nd Oddish 16     | HA (+ PS)         |
+#### Lass first Oddish
+| HP  | Strategy                                                 |
+| --- | -------------------------------------------------------- |
+| 1-5 | Potion turn 1                                            |
+| 16  | HA + PS if you got Moon Exp (except from a L7/8 Geodude) |
 
 #### Bill's House
 - Heal to 72+ or take the center to play safe.

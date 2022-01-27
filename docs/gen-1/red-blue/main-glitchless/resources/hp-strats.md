@@ -93,13 +93,12 @@ you but can increase the chance of you dying.
 | 16-20 | HA unless low on Potions |
 | 21+   | MP                       |
 
-#### Lass Oddishes
+#### Lass first Oddish
 
-| HP                | Strategy                          |
-| ----------------- | --------------------------------- |
-| 1-3               | Potion turn 1 or yolo if bad pace |
-| 1st Oddish 16-18  | HA                                |
-| 2nd Oddish 16     | HA                                |
+| HP  | Strategy                                                 |
+| --- | -------------------------------------------------------- |
+| 1-3 | Potion turn 1 or yolo if bad pace                        |
+| 16  | HA + PS if you got Moon Exp (except from a L7/8 Geodude) |
 
 #### Bill's House
 

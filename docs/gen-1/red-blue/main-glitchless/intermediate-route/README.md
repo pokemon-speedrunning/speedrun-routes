@@ -200,10 +200,10 @@ Hiker:
 
 Lass: Ideally save 2+ MP for after this fight
 > Potion on 1st Oddish if HP < 6
-- Oddish: MP (HA + PS if 16-18 HP)
+- Oddish: MP
 - Pidgey: HA
-- Oddish: MP (HA + PS if 16 HP)
-> HA the 2nd Oddish if you leveled early from Moon EXP
+- Oddish: MP
+> HA the 2nd Oddish if you leveled early from Moon Exp
 - Teach Thrash in slot 2 over WG
 
 > If you happen to have 35+ HP and 0 Mega Punches, pick up the [hidden Ether](https://gunnermaniac.com/pokeworld?map=1#288/3) and use it on Mega Punch before using Escape Rope in Bill Menu.
