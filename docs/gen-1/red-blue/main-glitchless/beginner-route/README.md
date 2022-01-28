@@ -1,10 +1,11 @@
-# Red-Blue Glitchless Routes
+# Pokemon Red Glitchless Beginner Guide
 
-* [2021 Route](2021/)
-* [2020 Route](2020/)
+* [Lass Version](lass/)
+* [No Lass Version](nolass/)
+
+- Credit to Squarerootofsheep for this adaptation from the main route.
 
 ## What are the differences?
-- The 2020 route uses the older WR route created in 2020 as a base, while the 2021 route has been updated to reflect the current WR route.
-- Both routes are viable, but the 2020 route has an extra risk on Viridian Rival's Venusaur that has been routed out in the 2021 version.
-- Because of this, it's recommended that you use the 2021 route for extra safety and slightly easier transition into non-beginner routes.
-- The 2021 route has a slightly worse Agatha. In the case that you get Night Shade into Blizzard miss into Haze, you will no longer have an X Speed to use.
+- These differences revolve around fighting an extra Lass on route 3 for a much safer Moon Rocket fight and a lot of improved ranges.
+- The Moon Rocket fight can be complicated to play "safely", so the Lass route makes the fight much safer and simpler.
+- The Lass route has a strict requirement of using [Entr's Moon Manip](https://pastebin.com/jnj9j47S), which is slightly worse than [Route 3 Moon Manip](https://pastebin.com/tggXpQRC). However, the differences are rather minimal and both are viable, even at the top level.

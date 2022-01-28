@@ -2,18 +2,18 @@
 
 This guide assumes you know things about the game already
 
-Keep this document open at all times: [Advanced HP Strats](../resources/hp-strats.md)
-
-Damage Ranges: https://pastebin.com/Bgq1d0H5
+- [Defensive Damage Ranges](../resources/defensive-ranges.md)
+- [Offensive Damage Ranges](../resources/offensive-ranges.md)
+- Keep this document open at all times: [Advanced HP Strats](../resources/hp-strats.md)
 
 ## NIDORAN SPLIT
 
 Rival 1:
 - Tail Whip x1
-- Tackle Spam
+- Tackle spam
 
 Route 1
-- Kill something that isnt lvl 4+
+- Kill something that is level 2 or 3
 
 Viridian Mart
 - Buy 3 Poke Balls
@@ -26,10 +26,10 @@ Do [Triple Extended Manip](../resources/triple-extended)
 
 Weedle Guy:
 - Tail Whip x2
-- Tackle Spam
+- Tackle spam
 
 Swap Squirtle and Nido at some point
-- Toss antidote if you are healing Squirtle before Brock
+- Toss Antidote if you are healing Squirtle before Brock
 
 Pewter Mart
 - Buy 8 Potions
@@ -42,28 +42,28 @@ Brock:
 
 ## ROUTE 3 SPLIT
 
-Change Options to Set before leaving the Gym
+Change Options to Set before leaving the gym
 
 BC1:
-- Leer, HA x2(Tackle)
-- Leer, HA(finish with Tackle if you can)
-- Leer, HA + Tackle
+- Leer + HA x2 (+ Tackle)
+- Leer + HA (finish with Tackle if you can)
+- Leer + HA + Tackle
 
-*Toss antidote if healing before Shorts Guy*
+*Toss Antidote if healing before Shorts Guy*
 
 Shorts Guy:
-- Leer, HA x2
-- Leer, HA x2
+- Leer + HA x2
+- Leer + HA x2
 
 BC2:
-- HA(finish with Tackle if you can
+- HA (finish with Tackle if you can)
 - HA x3-4
 - HA x2
-- HA x2, Tackle
+- HA x2 + Tackle
 
 BC3:
 - HA x2
-- HA x3-4(finish with Tackle if you can)
+- HA x3-4 (finish with Tackle if you can)
 
 ## MT. MOON SPLIT
 
@@ -71,27 +71,27 @@ Do Route 3 Moon Manip https://pastebin.com/tggXpQRC
 
 Rocket:
 - Rattata
-  - If you have 3+ HA, HA x2(+PS)
-  - Otherwise, Leer + HA + Tackle (PS instead of Tackle is a favorable range)
+	- If you have 3+ HA, HA x2 (+ PS)
+	- Otherwise, Leer + HA + Tackle (PS instead of Tackle is a favorable range)
 - Zubat
-  - If you have 3+ HA, HA x3(+Tackle)
-  - If you have 2 HA, Leer + HA x2(+Tackle)
-  - Otherwise, Leer + HA + Tackle(+Tackle)
+	- If you have 3+ HA, HA x3
+	- If you have 2 HA, Leer + HA x2
+	- Otherwise, Leer + HA + Tackle (+ Tackle)
 
 Moon Menu:
 - Use Rare Candy
-- Teach Water Gun (TM12) in Slot 2
+- Teach TM12 (Water Gun) in slot 2
 - Use Moon Stone
-- Teach Mega Punch (TM01) in Slot 1
+- Teach TM01 (Mega Punch) in slot 1
 
 Nerd:
-- MP(Finish with WG if you can)
-- MP(PS)
-- MP x2(lead with HA if you have one. WG if you crit HA, otherwise MP to finish)
+- MP (finish with WG if you can)
+- MP (PS)
+- MP x2 (lead with HA if you have one. WG if you crit HA, otherwise MP to finish)
 
 ## BRIDGE SPLIT
 
-Take the Center then get Instant Text then get hidden Rare Candy
+Take the center then get Instant Text then get the hidden Rare Candy
 
 Rival 2:
 - HA x3
@@ -100,16 +100,17 @@ Rival 2:
 - MP + HA
 
 BC:
-- MP(PS)
+- MP (+ PS)
 - MP (HA if Caterpie used String Shot)
 
 Lass:
-- MP(PS), HA x2
+- MP (+ PS), HA x2
+
 Youngster:
 - MP all
 
 Lass:
-- MP(PS)
+- MP (+ PS)
 - HA x2
 
 Youngster:
@@ -130,13 +131,13 @@ Lass:
 Hiker:
 - WG
 - WG
-- MP(PS)
+- MP (+ PS)
 - WG
 
 Lass:
 - MP
 - HA
-- MP(Teach Thrash in slot 2)
+- MP (teach Thrash in slot 2)
 
 Skip hidden Ether
 
@@ -171,12 +172,12 @@ Boat Rival:
 
 Vermillion Mart:
 - Sell TM34 and Nugget
-- Buy 6 repels and 2 paralyz heals
+- Buy 6 Repels and 2 Parlyz Heals
 
 Cut Menu:
-- Teach Bubblebeam (TM11) to Nidoking in slot 4
-- Teach Cut (HM01) to Paras
-- Teach Dig (TM28) to Paras
+- Teach TM11 (Bubblebeam) to Nidoking in slot 4
+- Teach HM01 (Cut) to Paras
+- Teach TM28 (Dig) to Paras
 
 Do Cans Manip
 
@@ -185,11 +186,11 @@ Surge:
 
 ## FLY SPLIT
 
-Get Bike Voucher then dig out and get the bike
+Get the Bike Voucher then Dig out and get the Bike
 
 Bike Menu:
-- Swap slot 1 with bike
-- Teach Thunderbolt (TM24) to Nidoking in slot 3
+- Swap slot 1 with Bike
+- Teach TM24 (Thunderbolt) to Nidoking in slot 3
 - Use Bike
 
 4 Turn Thrash Girl:
@@ -200,200 +201,198 @@ BC:
 - BB
 - Thrash
 
-ROCK TUNNEL:
+Rock Tunnel: Repel 1 step in
 
-Repel 1 step in
-
-1st guy:
+Pokemaniac 1:
 - BB
 - TB
 
-2nd guy:
+Pokemaniac 2:
 - TB
 
-3rd guy:
+Oddish Girl:
 - Thrash
 
 Use 2 Repels at some point after this fight and before the next fight
 
-4th guy:
-- BB All
+Hiker:
+- BB all
 
-5th guy:
+Lass:
 - Thrash
 
-Pick up Max Ether outside of Tunnel
+Pick up the Max Ether outside of Tunnel
 
 Gambler:
 - BB
 - Thrash
 
-Get Underground Elixir
+Get the Underground Elixer
 
 Shopping
 - 2nd Floor
-    - Buy TM07
-    - Buy 7 Super Repels
-    - Buy 4 Super Potions
+	- Buy TM07
+	- Buy 7 Super Repels
+	- Buy 4 Super Potions
 - 4th Floor
-    - Buy 1 Pokedoll
+	- Buy 1 Poke Doll
 - Roof
-    - Buy a Soda Pop
-    - Trade it to the girl for Rock Slide
-    - Buy a Fresh Water
+	- Buy a Soda Pop
+	- Trade it to the girl for Rock Slide
+	- Buy a Fresh Water
 - 5th Floor
-    - Buy 11 X Accuracy
-    - Buy 6 X Specials
-    - Buy 3 X Speeds
-> If early drill buy 3 super potion, 12 X Acc, 5 X Special
+	- Buy 11 X Accuracy
+	- Buy 6 X Specials
+	- Buy 3 X Speeds
+> If Early Drill buy 3 Super Potion, 12 X Acc, 5 X Special
 
 Get HM02 Fly
 
 ## FLUTE SPLIT
 
-Fly Menu
+Fly Menu:
 - Swap slot 2 for TM07
 - Use Super Repel
-- Teach Rockslide in slot 1
+- Teach TM48 (Rock Slide) in slot 1
 - Swap slot 3 for X Accuracy
-- Teach Fly
+- Teach HM02 (Fly)
 - Fly to Lavender
-> If early Drill then swap slot 2 for tm07, use super repel, teach rockslide, teach tm07, swap slot 2 for x acc then teach fly
+> If Early Drill then swap slot 2 for TM07, use Super Repel, teach TM48, teach TM07, swap slot 2 for X Acc then teach Fly
 
 Rival:
 - TB
 - TB
 - BB
 - Thrash
-> If early drill, x acc then drill x5
+> If Early Drill, X Acc then HD x5
 
 Channeler 1:
-- Rockslide All
+- RS x2
 
-Pick up 2 Elixirs
+Pick up the 2 Elixers
 
 Take Heal Pad
 
 Channeler 2:
-- Rockslide
+- RS
 
 Channeler 3:
-- Rockslide
+- RS
 
 Pick up the Rare Candy
 
-Teach TM07 over slot 1 if you haven’t already
+Teach TM07 over slot 1 if you haven't already
 
 Ghost Menu:
 - Swap slot 3 for Super Repel
-- Use Pokedoll
+- Use Poke Doll
 
 Rocket 1:
 - TB all (BB to finish)
 
 Rocket 2:
-- X Acc + Drill x2
+- X Acc + HD x2
 
 Rocket 3:
 - TB
 - TB
-- Thrash (or TB x2 if early drill)
+- Thrash (or TB x2 if Early Drill)
 
-Get Pokeflute
+Get the Poke Flute
 
 ## KOGA SPLIT
 
-Fly to Celadon and take the Center, then Bike to Silph
+Fly to Celadon and take the center, then Bike to Silph
 
-Go to floor 5 and pick up hidden Elixir
+Go to floor 5 and pick up the hidden Elixer
 
 Rocket:
-- X Acc + Drill
-> Paralyz heal immediately if glare
-- Use Thrash instead if skipping Silph bar and you didn't do early drill
+- X Acc + HD
+> Parlyz Heal immediately if Glare
+- Use Thrash instead if skipping Silph bar and you didn't do Early Drill
 
 Rival:
 - X Acc + X Speed
 > Use HP strats to see how to setup silph red bar from here
-- Drill everything except BB Growlithe (or RS Growlithe if skipping silph bar and you did early drill)
+- HD everything except BB Growlithe (or RS Growlithe if skipping silph bar and you did Early Drill)
 
 Use Elixer before or during the next fight
 
 Rocket:
 - X Acc + BB
-- Drill
-- Drill
+- HD
+- HD
 
 Giovanni:
-- X Acc + Drill
-- Drill
+- X Acc + HD
+- HD
 - BB
-- Drill
+- HD
 
-Go to floor 10 and get Rare Candy and TM26 then dig out
+Go to floor 10 and get the Rare Candy and TM26 then Dig out
 
 Bike to Snorlax
 
 Snorlax Menu:
 - Repel
-- Swap slot 5 for Rare Candy then use Pokeflute
+- Swap slot 5 for Rare Candy then use Poke Flute
 
-CYCLING ROAD:
-- Get rare candy
+Cycling Road
+- Get the Rare Candy
 
 Post Cycling Road Menu:
 - Use Repel
-- Swap slot 6 for x special
+- Swap slot 6 for X Special
 - Teach TM26
 - Bike
 
 Cut the bushes to get to Safari Zone
 - Super Repel in Zone 2
 
-Dig out after getting surf then fly to Fuschia and Bike to Gym
+Dig out after getting Surf then Fly to Fuschia and Bike to the gym
 
 Juggler 1:
 - EQ x4
 
 Juggler 2:
 - EQ
-- EQ + TB (+EQ/BB if TB disable. BB is a range)
+- EQ + TB (+ EQ/BB if TB disable. BB is a range)
 
 Koga:
 - EQ x3
-- Elixir
-> x special if x attack and have an extra
+- Elixer
+> X Special if X Attack and have an extra
 
 ## ERIKA SPLIT
 
-After exiting the gym use 3 rare candies on nidoking then bike
+After exiting the gym use 3 Rare Candies on Nidoking then Bike
 
-Get Strength then fly to Pallet town and walk to the bottom of the water
+Get Strength then Fly to Pallet Town and walk to the bottom of the water
 
-Pallet Menu
+Pallet Menu:
 - Use Super Repel
 - Swap slot 8 for X Speed
-- Teach hm03 to squirtle
+- Teach HM03 to Squirtle
 - Surf
 
 Mansion
 - Get Blizzard then menu
 
-Blizzard Menu
-- Teach Strength to Squirtle
-- Teach Blizzard to Nidoking in slot 4
+Blizzard Menu:
+- Teach HM04 to Squirtle
+- Teach TM14 (Blizzard) to Nidoking in slot 4
 - Use Repel
 
-Pick up the rare candy and secret key then dig out
+Pick up the Rare Candy and Secret Key then Dig out
 
-Bike to Gym
+Bike to the gym
 
 Beauty:
-- Blizzard
+- Blizz
 
 Erika:
 - EQ
-- Blizzard
+- Blizz
 - EQ
 
 ## BLAINE SPLIT
@@ -402,64 +401,63 @@ Fly to Cinnabar
 
 Blaine:
 - X Acc + EQ
-- Drill x3
+- HD x3
 
 ## SABRINA SPLIT
 
-Dig out and bike to Sabrinas Gym
+Dig out and Bike to Sabrina's gym
 
 Sabrina:
 - EQ x4
 
 ## GIOVANNI SPLIT
 
-Dig out and fly to Viridian City and bike to gym
+Dig out and Fly to Viridian City and Bike to the gym
 
 Cooltrainer:
 - EQ
 
 Blackbelt:
-- X Acc + Drill
-- Blizzard
-- Drill
+- X Acc + HD
+- Blizz
+- HD
 
-Leave the gym then go back in and go up 1 tile before menuing to use Elixir
+Leave the gym, re-enter and use Elixer 1 step in
 
-*Note: You need to save at least 1 Blizzard for Agatha's Golbat so play accordingly
+Note: You need to save at least 1 Blizzard for Agatha's Golbat so play accordingly
 
 Giovanni:
 - EQ x4
-- Blizzard rhydon until you have 2 blizzard left(EQ after that)
- - If early elixir EQ rhydon once if miss blizz range
+- Blizz Rhydon until you have 2 Blizzard left (EQ after that)
+	- If early Elixer EQ Rhydon once if miss Blizz range
 
 ## LORELEI SPLIT
 
 Super Repel + Bike
 
 Rival:
-- X Acc + X Speed + Blizzard(TB)
-- Blizzard
-- Drill x4
- - If you used too many Blizzards on Rhydon, can Drill Rhyhorn
- - TB Gyarados if you Elixired early
- - EQ Rhyhorn if you used too many Blizzards on Rhydon and you Elixired early
+- X Acc + X Speed + Blizz (+ TB)
+- HD or Blizz
+- HD x4
+	- TB Gyarados if you Elixered early
+	- EQ Rhyhorn if you used too many Blizzards on Rhydon and you Elixered early
 
-Pick up the hidden Max Ether and use it on Horn Drill on final Victory Road Menu
+Pick up the hidden Max Ether and use it on Horn Drill on the final Victory Road menu
 
 Deposit Squirtle and Paras
 
 Lorelei: 
-- Swap to Bird turn 1.
+- Swap to bird turn 1
 - Swap to Nidoking
-- X Acc + Drill x5
-- note: option to swap nidoking and flyer pre fight if you wanna save 0.2s at the cost of being very difficult.
+- X Acc + HD x5
+- Note: Option to swap Nidoking and bird pre-fight if you want to save 0-0.5s at the cost of being difficult
 
 ## BRUNO SPLIT
 
 Use Max Ether on Horn Drill
 
 Bruno:
-- X Acc + Drill x5
+- X Acc + HD x5
 
 ## AGATHA SPLIT
 
@@ -467,27 +465,27 @@ Use Super Potion and Rare Candy
 
 Agatha:
 - X Special + EQ
-- Blizzard
+- Blizz
 - EQ x3
-> If miss Golbat into Haze kill it with TB x2 then use X Speed on Arbok if 25-60 HP or yolo
+> If miss Golbat into Haze, then TB x2 and use X Speed on Arbok if 25-60 HP or yolo
 
 ## LANCE SPLIT
 
-Use elixir and heal to 127+ hp
+Use Elixer and heal to 127+ HP
 
 Lance:
 - X Special + TB
-- Blizzard
-- X Speed + Blizzard
+- Blizz
+- X Speed + Blizz
 - TB
-- Blizzard
+- Blizz
 
 ## CHAMP SPLIT
 
 Champion:
-- X Special + X Acc + Drill
-- Drill x2
+- X Special + X Acc + HD
+- HD x2
 - TB
-- Drill x2
-> X Special turn 1 (WA does 18-22)
-> If Sky Attack Turn 1, Kill Pidgeot with Blizzard, EQ Alakazam, and X Acc on Rhydon (1/4 to Fury Attack)
+- HD x2
+> X Special turn 1 (WA does 18-22)  
+> If Sky Attack turn 1: Blizz Pidgeot, EQ Alakazam, and X Acc on Rhydon (1/4 to Fury Attack)
