@@ -961,6 +961,8 @@ Timing ends when the screen fully fades to white after 151 Pokemon are displayed
 |||
 | ![](https://user-images.githubusercontent.com/22380063/155243578-3f2d632e-fcab-4b33-a8ff-cfbbc4985d91.png) | Spearow Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#29/5/DD)<br>pal, hop2<br><br>59/60<br>Frame 36: Rhyhorn from dv fly |
 |||
+| ![](https://user-images.githubusercontent.com/22380063/155243578-3f2d632e-fcab-4b33-a8ff-cfbbc4985d91.png) | Doduo Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#29/5/DDD)<br>nopal(ab), fsback<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: No encounter |
+|||
 | ![](https://user-images.githubusercontent.com/22380063/155243689-7992993b-75a5-4c60-a7ae-bd82db60331d.png) | Jigglypuff Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=14#58/0/DDDDDDDDRR)<br>nopal, gfwait<br><br>59/60<br>Frame 36: No encounter |
 |||
 | ![](https://user-images.githubusercontent.com/22380063/155243713-8ae3be99-68fe-42b5-be14-3b681b7ad61a.png) | Magnemite Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=83#8/11/DDURD)<br>pal(hold), fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: [L24 Pikachu encounter](https://gunnermaniac.com/pokeworld?local=83#9/13) |
