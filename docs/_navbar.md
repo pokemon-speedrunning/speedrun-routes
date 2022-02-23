@@ -17,6 +17,7 @@
 * Glitched Routes
   * [Red-Blue-NSC](/gen-1/red-blue/main-nsc/ 'A Speedrun Guide for Pokemon Red and Blue No Save Corruption')
   * [Red-Blue-Any%](/gen-1/red-blue/main-any/ 'A Speedrun Guide for Pokemon Red and Blue Any% No Restriction')
+  * [Red-Blue-Catch-'Em-All](/gen-1/red-blue/main-cea/ 'A Speedrun Guide for Pokemon Red and Blue Catch \'Em All')
   * [Yellow-NSC](/gen-1/yellow/main-nsc/ 'A Speedrun Guide for Pokemon Yellow Any% No Save Corruption')
   * [Yellow-Any%](/gen-1/yellow/main-any/ 'A Speedrun Guide for Pokemon Yellow Any% No Restriction')
   * [Gold-Silver-Any%](/gen-2/gold-silver/main-any/ 'Speedrun Guides for Pokemon Gold and Silver Any%')
