@@ -1,4 +1,4 @@
-<img align="left" src="https://user-images.githubusercontent.com/22380063/155185929-1dd8cde1-7bb6-430a-b479-89f39a1c4e3e.gif">
+<img align="left" src="https://i.imgur.com/uvKl6UX.gif">
 
 # Pokemon Blue - Catch 'Em All
 
@@ -37,7 +37,7 @@ ty!
 
 ### Intro
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155191148-110bca8d-81e8-48e6-85f2-3360e1280669.png">
+<img align="right" src="https://i.imgur.com/qF5VB9p.png">
 
 Clear save data before each attempt with Up + Select + B on the title screen.
 
@@ -102,7 +102,7 @@ Non-manipulated Bulbasaurs can pick up [the tree potion](https://gunnermaniac.co
 
 ### Route 2
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155193530-9f993033-1fe3-4cef-a86d-c52935a58b75.png">
+<img align="right" src="https://i.imgur.com/MCefV9n.png">
 
 Manipulate a Pidgey encounter & catch with `nopal(ab)` and the path shown. This Pidgey will always have HP that works for Brock Through Walls and will always catch, so a random Pidgey is not a viable alternative.
 
@@ -143,7 +143,7 @@ Brock Skip by holding Start after clearing the gym guy's last textbox with B, sa
 
 After loading the save, walk to Route 3 and back to reload Pewter, then talk to the gym guy from the right. (PP strats need to swap Bulbasaur to the last party slot here before talking to the gym guy.)
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155194140-a2bafcf7-916a-41b3-bc0e-935b4566204d.png">
+<img align="right" src="https://i.imgur.com/pG2E8zC.png">
 
 Hold B after the textboxes to be able to Brock Through Walls.
 
@@ -159,7 +159,7 @@ Save the game immediately after climbing down the ladder. Hard reset and use the
 
 Enter Vermilion Center. Deposit all Pokemon except Pidgey then heal before leaving.
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155194713-ac6b5fce-23ee-4671-b14c-2f7e250d36fe.png">
+<img align="right" src="https://i.imgur.com/m1QUvIU.png">
 
 Go to Route 11 to do the deathfly manip with `nopal(ab)`. After respawning in Vermilion, talk to [the Dux girl](https://gunnermaniac.com/pokeworld?map=1#235/193) but say no to the trade, then flash the start menu before leaving her house. Returning to Route 11 will open the start menu and closing it will activate the Missingno deathfly. Stall (don't run) until you black out.
 
@@ -243,7 +243,7 @@ Your money should be **$49xx** after you buy all the items listed.
 
 ### Item Underflow #2
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155201353-2a7c0569-d55b-45af-83f4-2ca5f864cfa3.png">
+<img align="right" src="https://i.imgur.com/z3Cszl1.png">
 
 Open the item bag while facing left on the tile **1** to your right:
 
@@ -290,9 +290,9 @@ For each of the following manips, you do not need to move before saving.
 
 |||
 |---|---|
-| <img align="right" src="https://user-images.githubusercontent.com/22380063/155202912-aa8ef90d-2602-4a32-ac15-8f5f3b7735e2.png"> 1) Manip **Paras** with <ins>extra text while saving</ins>. **Use 9F** before catching. | <img align="right" src="https://user-images.githubusercontent.com/22380063/155204771-03fcdd86-fe20-4199-9e1a-baa569c925ef.png"> 2) Manip **NidoranF** with `hop1`, `fsback`. **Use 9F** before catching. |
+| <img align="right" src="https://i.imgur.com/c8aTlei.png"> 1) Manip **Paras** with <ins>extra text while saving</ins>. **Use 9F** before catching. | <img align="right" src="https://i.imgur.com/Y1rvWlE.png"> 2) Manip **NidoranF** with `hop1`, `fsback`. **Use 9F** before catching. |
 |||
-| <img align="right" src="https://user-images.githubusercontent.com/22380063/155205070-72dd5f85-6a63-497a-99b9-76f273c0c5f4.png"> 3) Manip **NidoranM** with `nopal(ab)`, `fsback`. **Use 9F** before catching. | <img align="right" src="https://user-images.githubusercontent.com/22380063/155205193-78e9745f-6233-4a1b-8b7f-705bd85f76a5.png"> 4) Manip **Exeggcute** with `pal(hold)`. (Do not use 9F.) |
+| <img align="right" src="https://i.imgur.com/qKKPhwX.png"> 3) Manip **NidoranM** with `nopal(ab)`, `fsback`. **Use 9F** before catching. | <img align="right" src="https://i.imgur.com/UXdJ6LF.png"> 4) Manip **Exeggcute** with `pal(hold)`. (Do not use 9F.) |
 
 After appearing in Lavender, move **4** tiles down to Route 12. Close the menu and catch **Mr. Mime**.
 
@@ -325,11 +325,11 @@ You are limited on box space so do not catch more than 10 of the above (Magneton
 | |
 |---|
 | Cerulean Cave 2F |
-| ![](https://user-images.githubusercontent.com/22380063/155207962-8666bdc9-e152-4322-b317-ca94d84b0a6c.png) |
+| ![](https://i.imgur.com/MrZkiVk.png) |
 | Cerulean Cave 1F (entry floor) |
-| ![](https://user-images.githubusercontent.com/22380063/155210392-de79e23e-502a-44ce-a7fb-be5bb2e16839.png) |
+| ![](https://i.imgur.com/lKPzIYd.png) |
 | Cerulean Cave B1F |
-| ![](https://user-images.githubusercontent.com/22380063/155210328-4e35a86e-c07c-48f6-825f-e57bc02ccd7e.png) |
+| ![](https://i.imgur.com/1CGlg6h.png) |
 
 Catch things on any floor until you are satisfied then go to the basement.
 
@@ -351,7 +351,7 @@ After Mewtwo, move **3** tiles left then continue to search for an unneeded enco
 - Swap Awakenings back with the HM04, now in rival name
 - Flash WA4 in options then throw a preoptions Master Ball
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155210507-5403055a-7cd3-448c-b9cb-d2528b30b0cc.png">
+<img align="right" src="https://i.imgur.com/M0rtiv5.png">
 
 Manip **Chansey** with <ins>extra text while saving</ins>. You do not need to move before saving for this manip.
 
@@ -380,7 +380,7 @@ Leave the center to warp to Seafoam B2F.
 
 ### Seafoam Islands
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155216050-2ecc5dc7-937e-4537-8070-28a3cfa67438.png">
+<img align="right" src="https://i.imgur.com/K7m7zHK.png">
 
 Corner bonk to the right of the bottom ladder for encounters.
 
@@ -395,18 +395,18 @@ In your first unneeded encounter LG for **Magikarp**:
 - Swap HM04 back with Max Potion x0 in TLP2
 - Flash WA4 in options then throw a preoptions Master Ball
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155216348-77707ef5-ed50-4051-998a-cbdfaee8dedc.png">
+<img align="right" src="https://i.imgur.com/vo0uq5G.png">
 
 Manip **Shellder** with `pal`, `fsback` (not cycling yet) if you didn't catch one before the LG, otherwise save and soft reset.
 
 | |
 |---|
 | Seafoam B3F |
-| ![](https://user-images.githubusercontent.com/22380063/155216451-a534d463-8954-4caf-8d73-bbdb3f477588.png) |
+| ![](https://i.imgur.com/0X9mMgf.png) |
 | Seafoam B4F |
-| ![](https://user-images.githubusercontent.com/22380063/155216476-53785a4b-02c4-47b8-b6c8-cedc9b134ae6.png) |
+| ![](https://i.imgur.com/4cFWgKv.png) |
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155216967-0532ff73-4adb-46b2-b5cf-c1dc25d191e7.png">
+<img align="right" src="https://i.imgur.com/721AlTW.png">
 
 Hop on the bicycle and take the ladder to B3F. 
 
@@ -434,13 +434,13 @@ After, immediately do the following menu:
 | |
 |---|
 | Victory Road 1F |
-| ![](https://user-images.githubusercontent.com/22380063/155217252-c1f2cccf-f652-42c3-9750-41644a0ac2d3.png) |
+| ![](https://i.imgur.com/QllNbLU.png) |
 
 Corner bonk above the ladder for an encounter before hopping on the bicycle.
 
 Catch everything but 1 of: **Machop**, **Geodude**, **Zubat**, **Onix**.
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155217410-8b064680-b547-4a9f-8896-d0c84accd0a7.png">
+<img align="right" src="https://i.imgur.com/3TwooOP.png">
 
 Once you have all but 1, get an encounter on the tile in the picture and LG for **Machamp**:
 
@@ -453,9 +453,9 @@ Once you have all but 1, get an encounter on the tile in the picture and LG for 
 
 |||
 |---|---|
-| <img align="right" src="https://user-images.githubusercontent.com/22380063/155217831-e4a7b174-9317-418d-8602-61ac55b33cd2.png"> **Machop** with `pal(hold)` | <img align="right" src="https://user-images.githubusercontent.com/22380063/155217670-b9f38e86-a448-471a-8f9e-18f486d605a4.png"> **Geodude** with `pal` |
+| <img align="right" src="https://i.imgur.com/YR6plUU.png"> **Machop** with `pal(hold)` | <img align="right" src="https://i.imgur.com/Vas90CP.png"> **Geodude** with `pal` |
 |||
-| <img align="right" src="https://user-images.githubusercontent.com/22380063/155217999-6d7eefde-8b2f-464f-92c0-4216f7dfcb9d.png"> **Zubat** with `pal(hold)` | <img align="right" src="https://user-images.githubusercontent.com/22380063/155218039-da4427d6-f9ed-4753-bb6b-36b84076143c.png"> **Onix** with `pal(hold)`, `fsback` |
+| <img align="right" src="https://i.imgur.com/YJ8SmnR.png"> **Zubat** with `pal(hold)` | <img align="right" src="https://i.imgur.com/6BUH7cN.png"> **Onix** with `pal(hold)`, `fsback` |
 
 In the manipped encounter:
 
@@ -466,7 +466,7 @@ In the manipped encounter:
 
 ### Route 11 #1
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155220877-f95c72e3-015f-49e4-b41c-4366e13e74c7.png">
+<img align="right" src="https://i.imgur.com/Dply87I.png">
 
 You will be crazywarped to Route 11, close the menu and catch **Scyther**.
 
@@ -476,7 +476,7 @@ Talk to the sailor to your right and catch **Moltres**.
 
 Bike upwards to an item ball, talk to it, and catch **Koffing**. <ins>Warning:</ins> out of bounds is the row above the item ball.
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155221028-d5b336ea-eac5-4996-ba41-445ac81cce74.png">
+<img align="right" src="https://i.imgur.com/ucJlfz3.png">
 
 After both crazywarp catches, move to the tile shown in the picture (relative to sprite positions) and use jack while facing down. Move **7** tiles left into Vermilion, then hold right until you enter Diglett's Cave.
 
@@ -484,7 +484,7 @@ Catch at least a **Diglett**, then leave the cave and head back to Route 11.
 
 ### Route 11 #2
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155221175-2de3147e-e7e1-4168-a95b-bbc0b7546b22.png">
+<img align="right" src="https://i.imgur.com/7RgqpMF.png">
 
 Search for wild encounters near the gambler to the south.
 
@@ -502,7 +502,7 @@ Manip **Drowzee** if you still need it. If it's already caught, manip **Sandshre
 
 |||
 |---|---|
-| <img align="right" src="https://user-images.githubusercontent.com/22380063/155221425-8f8b5ea3-d1c3-4c62-b0ec-d44cb575b8c8.png"> Drowzee with `nopal(ab)` | <img align="right" src="https://user-images.githubusercontent.com/22380063/155221512-2ebad2f9-9444-4ce0-a9b8-4cbb9478b678.png"> Sandshrew with `pal`, `hop1` |
+| <img align="right" src="https://i.imgur.com/kEoWeA9.png"> Drowzee with `nopal(ab)` | <img align="right" src="https://i.imgur.com/rF75UTq.png"> Sandshrew with `pal`, `hop1` |
 
 Get another wild encounter and LG for **Venonat**.
 
@@ -527,7 +527,7 @@ Manip **Gastly**. If the manip fails due to IGT, do the backup manip instead of 
 
 |||
 |---|---|
-| <img align="right" src="https://user-images.githubusercontent.com/22380063/155223053-bc334cef-9a42-485f-b824-6873447ebf55.png"> Primary with `pal`, `hop1`, `fsback x2` | <img align="right" src="https://user-images.githubusercontent.com/22380063/155223196-aff75d95-f606-4b3c-ae51-f9df929687f8.png"> Backup with `nopal(ab)`, `gfwait` |
+| <img align="right" src="https://i.imgur.com/xyiLIgM.png"> Primary with `pal`, `hop1`, `fsback x2` | <img align="right" src="https://i.imgur.com/IruxmHJ.png"> Backup with `nopal(ab)`, `gfwait` |
 
 In the manipped encounter:
 
@@ -538,7 +538,7 @@ You will be crazywarped to Route 21. Hop on the bicycle in the trainer fly menu,
 
 An item ball will walk to you; catch **Vulpix**. Bike down to talk to the item ball and catch **Fearow**. Bike left then up to talk to the last item ball and catch **Gengar**. <ins>Warning:</ins> the fisherman has a range of 4, do not get seen while he is still there.
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155223492-5b3fa58c-00ff-4ae1-be23-e01d540ac243.png">
+<img align="right" src="https://i.imgur.com/kk5rrda.png">
 
 Search for wild encounters on the tile in the picture. Only catch Pidgeotto if it's level 32, **never** catch Tangela.
 
@@ -557,9 +557,9 @@ Manip **Pidgeotto** if you still need it, otherwise save and soft reset.
 
 |||
 |---|---|
-| <img align="right" src="https://user-images.githubusercontent.com/22380063/155223722-fbc2477c-097b-48c4-a9eb-a677163dc575.png"> Primary with `fsback` | <img align="right" src="https://user-images.githubusercontent.com/22380063/155223832-576144a4-b8ab-4ba7-826f-f4cdc0ef35ea.png"> Backup with `pal(hold)`, `hop1` |
+| <img align="right" src="https://i.imgur.com/yPbkzx3.png"> Primary with `fsback` | <img align="right" src="https://i.imgur.com/okZSsNT.png"> Backup with `pal(hold)`, `hop1` |
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155224069-e99764c4-9e0e-49af-b7ef-1a72b028c549.png">
+<img align="right" src="https://i.imgur.com/4Phpw3z.png">
 
 Find another encounter, now on the tile in this picture, and LG for **Charmander**:
 
@@ -577,7 +577,7 @@ Manip **Tangela** with `pal(hold)`, `fsback x2`. You do not need to move before 
 
 | |
 |---|
-| ![](https://user-images.githubusercontent.com/22380063/155224196-20cf4ec0-f553-4b8b-9c6e-069c54868427.png) |
+| ![](https://i.imgur.com/8vNMicz.png) |
 
 Fly to Celadon directly after.
 
@@ -585,7 +585,7 @@ Fly to Celadon directly after.
 
 In Celadon move **1** tile left, swap Great Ball in inventory with Rare Candy x0 in x coord, then hop on the bicycle in map ID.
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155224630-4849b62e-8389-4cc9-8752-0b0913f71bea.png">
+<img align="right" src="https://i.imgur.com/Emo674H.png">
 
 Follow the path shown, it will lead you to Route 16 with a trainer fly waiting. Catch the **Dragonite** that appears.
 
@@ -594,11 +594,11 @@ Use jack to get on the tree to the right of **Snorlax**, then play the Poke Flut
 | |
 |---|
 | Route 16 |
-| ![](https://user-images.githubusercontent.com/22380063/155224776-0d3391f1-a81e-4248-be17-89ceecb15e8f.png) |
+| ![](https://i.imgur.com/MWKm80b.png) |
 
 Just like in Victory Road, catch everything but 1 of: **Spearow**, **Rattata**, and **Doduo**.
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155224893-2e6b214b-a228-408f-abce-f57bf9589b19.png">
+<img align="right" src="https://i.imgur.com/4t1Qy3h.png">
 
 In the first unneeded encounter LG for **Rhyhorn**.
 
@@ -622,7 +622,7 @@ Alternate up and down steps until you get an encounter, then do the following:
 
 ||||
 |---|---|---|
-| <img align="right" src="https://user-images.githubusercontent.com/22380063/155227880-cd7f4005-fa99-4374-8b07-92d91034d899.png"> Spearow with `pal`, `hop2` | <img align="right" src="https://user-images.githubusercontent.com/22380063/155228075-bf9e6ed4-32b7-4b31-b4b7-75b9287968d3.png"> Rattata with `nopal(ab)` | <img align="right" src="https://user-images.githubusercontent.com/22380063/155228124-3bf4fc67-3adc-437d-a932-c9ac75fae7b7.png"> Doduo with `nopal(ab)`, `fsback` |
+| <img align="right" src="https://i.imgur.com/f2eSneP.png"> Spearow with `pal`, `hop2` | <img align="right" src="https://i.imgur.com/QAl4Gpi.png"> Rattata with `nopal(ab)` | <img align="right" src="https://i.imgur.com/Bw0vz21.png"> Doduo with `nopal(ab)`, `fsback` |
 
 After the manip encounter ends, bike left until you are outside the grass, then hold down until the start menu opens. Fly to Pewter and catch **Mew**.
 
@@ -632,7 +632,7 @@ Enter the center, **change boxes**, then leave the center.
 
 Use jack and bike to the **right** of the gym guy used for Brock Through Walls. Unjack and talk to him, then while holding Select move right until a trainer fly ("brock fly") textbox opens. Close it and catch the **Goldeen**.
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155230903-4dca417f-5de6-4d10-b895-577f7b027b87.png">
+<img align="right" src="https://i.imgur.com/9zEXBwi.png">
 
 After the brock fly, open the item menu, swap jack in slot 6 with Fire Stone x99, then toss 12 from Awakening x182 in map ID. You are now on the green tile in the picture, bike to the grass to search for an encounter.
 
@@ -640,7 +640,7 @@ After the brock fly, open the item menu, swap jack in slot 6 with Fire Stone x99
 
 Catch the encounter if it's a **Jigglypuff**, otherwise LG for **Cubone**.
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155231104-b126ccb5-3bcc-4a3d-8d8b-d43671567926.png">
+<img align="right" src="https://i.imgur.com/lsBwMzA.png">
 
 Manip Jigglypuff with `gfwait` if you still need one. If it's already caught, move to the Metapod tile in the picture then **use** "4" to generate a Metapod encounter and run away from it.
 
@@ -657,11 +657,11 @@ Exit the menu and catch **Oddish**. Exit the gym to warp to the Power Plant.
 
 | |
 |---|
-| ![](https://user-images.githubusercontent.com/22380063/155231318-4cd11fcb-1059-496f-9cd0-70821a3ff11a.png) |
+| ![](https://i.imgur.com/17FX3Cv.png) |
 
 Dsum for either a **Magnemite** or a **Pikachu** (the other can be manipped later). Do not catch Voltorb. At some point, talk to **Zapdos** and catch it too.
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155231422-82e3f61f-d382-4a60-8a3f-f6bb63a1365c.png">
+<img align="right" src="https://i.imgur.com/rv7mAXt.png">
 
 After Zapdos, walk to the tile in the picture and do the following:
 
@@ -670,7 +670,7 @@ After Zapdos, walk to the tile in the picture and do the following:
 - Toss all-but-8 from Max Elixer x136 above
 - Walk **1** tile right and talk to the ball, catch **Voltorb**
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155231511-515dbf5b-804f-4d26-bca7-3696e08124e3.png">
+<img align="right" src="https://i.imgur.com/qInnztJ.png">
 
 Get an encounter **1** tile down from where you talked to Voltorb, then LG for **Farfetch'd**:
 
@@ -721,9 +721,9 @@ Leave the prize corner and bike to Route 7.
 | |
 |---|
 | Route 7 |
-| ![](https://user-images.githubusercontent.com/22380063/155231986-40c01ff4-7b5c-47f0-b273-1d00abd90e3f.png) |
+| ![](https://i.imgur.com/VKtlLuw.png) |
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155232081-501b77f1-ef5a-4aec-90fd-726dd724b8ef.png">
+<img align="right" src="https://i.imgur.com/o5fYYEN.png">
 
 Dsum for either a **Bellsprout** or a **Meowth** (the other can be manipped later).
 
@@ -735,11 +735,11 @@ If you caught both, move to the **right Mankey tile** and utilize the Metapod ti
 
 |||
 |---|---|
-| <img align="right" src="https://user-images.githubusercontent.com/22380063/155232249-5ef53d1b-cb1a-4f44-b928-76453dcc7ed5.png"> Bellsprout | <img align="right" src="https://user-images.githubusercontent.com/22380063/155232305-663439c8-3e4f-49d3-9b0b-00649cf60e90.png"> Meowth with `pal`, `hop2`, `fsback` |
+| <img align="right" src="https://i.imgur.com/kzMYCjP.png"> Bellsprout | <img align="right" src="https://i.imgur.com/rcL53Fi.png"> Meowth with `pal`, `hop2`, `fsback` |
 
 After having caught Bellsprout and Meowth, get an encounter and LG for **Ivysaur**:
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155237933-970b3299-115c-4ca9-81cb-0a9353c32c4f.png">
+<img align="right" src="https://i.imgur.com/wHdfGOJ.png">
 
 - Use 9F
 - Unjack, enter the guardhouse to your right
@@ -755,7 +755,7 @@ After having caught Bellsprout and Meowth, get an encounter and LG for **Ivysaur
 
 Take the teleporter pad you arrive on, talk to the hostage to receive **Lapras**, and take the teleporter pad back to 11F.
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155238058-73db5f2b-b3ce-4598-8b11-38b3b0645f42.png">
+<img align="right" src="https://i.imgur.com/hW51Tuv.png">
 
 From the teleporter walk **2** tiles left then **2** tiles down (must be facing downwards).
 
@@ -778,7 +778,7 @@ Inside the center, swap Revive x93 with Master Ball x118 in TID1, then again wit
 
 Enter the center again and swap the Revives with the Poke Dolls again. Talk to Nurse Joy to receive **Omanyte**, give her an Old Amber, and **undo the swap**. **Change boxes** then leave the center.
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155238352-33ca15a1-de1c-42c8-aa03-3638d3ea3e2a.png">
+<img align="right" src="https://i.imgur.com/ZIFaTlX.png">
 
 Enter the center again(!) and walk to the tile in the picture. Swap the Revives with the Poke Dolls one more time, then LG for **Jynx**:
 
@@ -791,7 +791,7 @@ Enter the center again(!) and walk to the tile in the picture. Swap the Revives 
 
 Talk to Nurse Joy to receive **Aerodactyl**. Leave the center (don't undo any swaps).
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155238435-f4cfbc6b-8606-435c-b341-9d5f455f3a44.png">
+<img align="right" src="https://i.imgur.com/aA3TuOc.png">
 
 Walk to the tile in the picture to do the first menu:
 
@@ -801,7 +801,7 @@ Walk to the tile in the picture to do the first menu:
 - Swap Poke Dolls again with "44yPC" in text pointer
 - Toss 1 Poke Doll
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155238508-323b1e62-a770-40f8-96cb-76350e373f61.png">
+<img align="right" src="https://i.imgur.com/HaM6wnQ.png">
 
 Walk below the sign next to the gym and **face right** to do the second menu:
 
@@ -813,7 +813,7 @@ Walk below the sign next to the gym and **face right** to do the second menu:
 
 The setup for "Eevee Factory" is now complete. Follow the instructions to catch **Lickitung**, **Eevee**, **Slowpoke**, **Eevee**, **Poliwag**, and **Eevee**.
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155238660-e320ae90-4f55-421b-aa7f-0031ab93bd4d.png">
+<img align="right" src="https://i.imgur.com/hwBdghB.png">
 
 (While learning, you may find it helpful to watch a run complete this section, because the map graphics will not fully update to match the picture.)
 
@@ -851,11 +851,11 @@ Walk **4** tiles up to enter Mansion 1F.
 
 | |
 |---|
-| ![](https://user-images.githubusercontent.com/22380063/155238988-996874dd-64a3-44ba-8e2d-ae382844b9d3.png) |
+| ![](https://i.imgur.com/pQ7EITv.png) |
 
 Dsum for both **Grimer** and **Ponyta**. Muk and Weezing can appear as bonuses.
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155239034-096427ec-bd9c-458d-851f-d7fe50f052ac.png">
+<img align="right" src="https://i.imgur.com/3PaFhL5.png">
 
 Jack through the wall to your right, then corner bonk on the tile in the picture for encounters (you do not need to unjack).
 
@@ -866,7 +866,7 @@ In your first unneeded encounter LG for **Electabuzz**:
 - Flash map
 - Flash WA4 in options then throw a preoptions Master Ball
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155239094-66eee864-7bea-4c95-9512-d0c63e5599ae.png">
+<img align="right" src="https://i.imgur.com/mqWMcA8.png">
 
 Manip **Weezing** with <ins>extra text while saving</ins>, or if you somehow caught one naturally, manip **Muk** instead.
 
@@ -901,7 +901,7 @@ When done, deposit all but 1 Pokemon then do the following menu:
 - Swap "F" in text pointer (up 2) with TM40 x192 in width
 - Swap Master Ball x4 in TLP2 with Ultra Ball x0 in brightness
 
-<img align="right" src="https://user-images.githubusercontent.com/22380063/155239403-28ea962b-fd79-4a2e-9027-30c5f26140eb.png">
+<img align="right" src="https://i.imgur.com/ErqwNmg.png">
 
 Walk **1** tile up to warp to the Hall of Fame!
 
@@ -913,69 +913,69 @@ Timing ends when the screen fully fades to white after 151 Pokemon are displayed
 
 |||
 |---|---|
-| ![](https://user-images.githubusercontent.com/22380063/155239721-a1eb1599-de1f-424d-9cb5-e4f40d564601.png) | Pidgey into Caterpie Manip<br>[Pokeworld Link 1](https://gunnermaniac.com/pokeworld?local=13#4/56/UUAURAURRURAU) \| [Pokeworld Link 2](https://gunnermaniac.com/pokeworld?local=13#8/50/LRRU)<br>nopal(ab), fastest buffers<br><br>59/60 pidgey, 56/60 extended<br>Frame 15: Caterpie yoloball fail<br>Frame 36: No Pidgey encounter<br>Frame 37: No Caterpie encounter<br>Frame 47: Rattata encounter on extended |
+| ![](https://i.imgur.com/6rMpeCF.png) | Pidgey into Caterpie Manip<br>[Pokeworld Link 1](https://gunnermaniac.com/pokeworld?local=13#4/56/UUAURAURRURAU) \| [Pokeworld Link 2](https://gunnermaniac.com/pokeworld?local=13#8/50/LRRU)<br>nopal(ab), fastest buffers<br><br>59/60 pidgey, 56/60 extended<br>Frame 15: Caterpie yoloball fail<br>Frame 36: No Pidgey encounter<br>Frame 37: No Caterpie encounter<br>Frame 47: Rattata encounter on extended |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155239981-893caa0e-02ac-472f-974d-442d1e74d6e4.png) | Non-extended Caterpie Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=51#21/43/UURRRRUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULLLLLLLLDDDDDDDLLLLLAUUUUUUUUUUUAUUALLLLDDADDDDDDDDDDDDDDLLAD)<br>nopal, fastest buffers<br><br>57/60<br>Frame 25: Caterpie yoloball fail<br>Frame 36: [Metapod encounter](https://gunnermaniac.com/pokeworld?map=51#25/25)<br>Frame 37: [Kakuna encounter](https://gunnermaniac.com/pokeworld?map=51#12/16) |
+| ![](https://i.imgur.com/plw6lqS.png) | Non-extended Caterpie Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=51#21/43/UURRRRUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULLLLLLLLDDDDDDDLLLLLAUUUUUUUUUUUAUUALLLLDDADDDDDDDDDDDDDDLLAD)<br>nopal, fastest buffers<br><br>57/60<br>Frame 25: Caterpie yoloball fail<br>Frame 36: [Metapod encounter](https://gunnermaniac.com/pokeworld?map=51#25/25)<br>Frame 37: [Kakuna encounter](https://gunnermaniac.com/pokeworld?map=51#12/16) |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155240101-2aacf855-ff67-4e13-a1a1-e937797577e1.png) | Diglett's Cave Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=197#5/5/DDDDDDDDDADDDARRRADDDADRRRRDDDDADDDDRRRRRRARRRRRRDRRRRRRRRRRRRRD)<br>pal, fastest buffers<br><br>58/60<br>Frame 30: [L15 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#5/7)<br>Frame 36: [L16 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#5/9) |
+| ![](https://i.imgur.com/DiPPZTA.png) | Diglett's Cave Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=197#5/5/DDDDDDDDDADDDARRRADDDADRRRRDDDDADDDDRRRRRRARRRRRRDRRRRRRRRRRRRRD)<br>pal, fastest buffers<br><br>58/60<br>Frame 30: [L15 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#5/7)<br>Frame 36: [L16 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#5/9) |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155240101-2aacf855-ff67-4e13-a1a1-e937797577e1.png) | Dugtrio Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?map=197#5/5/DDDDDDDDDADDDARRRADDDADRRRRDDDDADDDDRRRRRRARRRRRRDRRRARRRS_BRRRRDDDRRUUU)<br>pal, fastest buffers<br><br>56/60<br>Frame 29: Dugtrio yoloball fail<br>Frame 30: [L15 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#5/7)<br>Frame 36: [L16 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#5/9)<br>Frame 37: [L19 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#34/31) |
+| ![](https://i.imgur.com/DiPPZTA.png) | Dugtrio Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?map=197#5/5/DDDDDDDDDADDDARRRADDDADRRRRDDDDADDDDRRRRRRARRRRRRDRRRARRRS_BRRRRDDDRRUUU)<br>pal, fastest buffers<br><br>56/60<br>Frame 29: Dugtrio yoloball fail<br>Frame 30: [L15 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#5/7)<br>Frame 36: [L16 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#5/9)<br>Frame 37: [L19 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#34/31) |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155242113-a76502e3-3b09-4191-a0d8-d6896b174a42.png) | Deathfly Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=22#4/6/RRRRARRRRU)<br>nopal(ab), fastest buffers<br><br>58/60<br>Frame 25: Sandshrew uses Sand Attack<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/3dN1VAT.png) | Deathfly Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=22#4/6/RRRRARRRRU)<br>nopal(ab), fastest buffers<br><br>58/60<br>Frame 25: Sandshrew uses Sand Attack<br>Frame 36: No encounter |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155242196-b5fd4731-8c52-4139-aed4-af88fb594443.png) | Paras Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=217#5/1/DDDDDRRRRRRR)<br>nopal, fastest buffers<br><br>59/60<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/rT5Q9nb.png) | Paras Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=217#5/1/DDDDDRRRRRRR)<br>nopal, fastest buffers<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155242305-a04cf28b-708a-43bd-99d9-371b806eeca1.png) | Nidoran Female Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=217#12/1/RR)<br>nopal, hop1, fsback<br><br>60/60 |
+| ![](https://i.imgur.com/gmL4a46.png) | Nidoran Female Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=217#12/1/RR)<br>nopal, hop1, fsback<br><br>60/60 |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155242358-976c19c8-5cee-4d0b-9480-a14ea43d80b2.png) | Nidoran Male manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=217#14/1/RRRAR)<br>nopal(ab), fsback<br><br>59/60<br>Frame 58: No encounter |
+| ![](https://i.imgur.com/2xFaI1s.png) | Nidoran Male manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=217#14/1/RRRAR)<br>nopal(ab), fsback<br><br>59/60<br>Frame 58: No encounter |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155242438-b9b35463-f7b3-4f18-9318-bec2c9eeea26.png) | Exeggcute Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=217#18/1/RRRDADDDDRR)<br>pal(hold), fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: Pidgey from dv fly |
+| ![](https://i.imgur.com/1K22K0J.png) | Exeggcute Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=217#18/1/RRRDADDDDRR)<br>pal(hold), fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: Pidgey from dv fly |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155242502-ee4c6cce-58ab-4e0a-8920-debf1719bb7b.png) | Chansey Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=227#19/1/US_BUUU)<br>nopal, fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: Starmie from dv fly |
+| ![](https://i.imgur.com/zL0ircc.png) | Chansey Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=227#19/1/US_BUUU)<br>nopal, fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: Starmie from dv fly |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155242601-69dacf8b-c2fb-491b-bf18-afb4f38a66ef.png) | Shellder Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=160#26/14/US_BL)<br>pal, fsback<br><br>59/60<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/PfpvcJn.png) | Shellder Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=160#26/14/US_BL)<br>pal, fsback<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155242690-53a6a9a2-6717-4d23-a5b6-c8a2b94efeb7.png) | Machop Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/DDDDDDS_BRRRRRRRS_BLL)<br>pal(hold)<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: No encounter |
+| ![](https://i.imgur.com/c23vY6m.png) | Machop Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/DDDDDDS_BRRRRRRRS_BLL)<br>pal(hold)<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: No encounter |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155242690-53a6a9a2-6717-4d23-a5b6-c8a2b94efeb7.png) | Zubat Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/DDDDDARRRRS_BR)<br>pal(hold)<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: Blastoise from dv fly |
+| ![](https://i.imgur.com/c23vY6m.png) | Zubat Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/DDDDDARRRRS_BR)<br>pal(hold)<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: Blastoise from dv fly |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155242690-53a6a9a2-6717-4d23-a5b6-c8a2b94efeb7.png) | Onix Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRRADDDS_BRRRR)<br>pal(hold), fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: Tangela from dv fly |
+| ![](https://i.imgur.com/c23vY6m.png) | Onix Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRRADDDS_BRRRR)<br>pal(hold), fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: Tangela from dv fly |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155242690-53a6a9a2-6717-4d23-a5b6-c8a2b94efeb7.png) | Geodude Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/DDDDDDDARRRRRRRS_BLL)<br>pal<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: [L39 Onix encounter](https://gunnermaniac.com/pokeworld?local=194#15/6) |
+| ![](https://i.imgur.com/c23vY6m.png) | Geodude Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/DDDDDDDARRRRRRRS_BLL)<br>pal<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: [L39 Onix encounter](https://gunnermaniac.com/pokeworld?local=194#15/6) |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155242946-33c9af46-fac5-4d29-8f35-adce851f8563.png) | Sandshrew Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=22#15/17/UUUUUARR)<br>pal, hop1<br><br>59/60<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/msGkpdL.png) | Sandshrew Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=22#15/17/UUUUUARR)<br>pal, hop1<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155242946-33c9af46-fac5-4d29-8f35-adce851f8563.png) | Drowzee Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=22#15/17/UUURR)<br>nopal(ab), fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: [L13 Spearow encounter](https://gunnermaniac.com/pokeworld?local=22#17/14) |
+| ![](https://i.imgur.com/msGkpdL.png) | Drowzee Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=22#15/17/UUURR)<br>nopal(ab), fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: [L13 Spearow encounter](https://gunnermaniac.com/pokeworld?local=22#17/14) |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155243080-e7ec74ac-a629-494a-be9b-19dc4a4db58d.png) | Primary Gastly Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=145#3/9/DRDRRRADRRRADRR)<br>pal, hop1, fsback, fsback<br><br>58/60<br>Frame 20: Arbok from dv fly<br>Frame 21: No encounter |
+| ![](https://i.imgur.com/rtfiKFH.png) | Primary Gastly Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=145#3/9/DRDRRRADRRRADRR)<br>pal, hop1, fsback, fsback<br><br>58/60<br>Frame 20: Arbok from dv fly<br>Frame 21: No encounter |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155243080-e7ec74ac-a629-494a-be9b-19dc4a4db58d.png) | Backup Gastly Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=145#3/9/DRDRDDRADRRRARURR)<br>nopal(ab), gfwait<br><br>56/60 (works on the missing 2/60 above)<br>Frame 19; 36; 37; 48: No encounter |
+| ![](https://i.imgur.com/rtfiKFH.png) | Backup Gastly Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=145#3/9/DRDRDDRADRRRARURR)<br>nopal(ab), gfwait<br><br>56/60 (works on the missing 2/60 above)<br>Frame 19; 36; 37; 48: No encounter |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155243233-db085d0e-18db-42ca-a222-b654a5371c3e.png) | Primary Pidgeotto Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#10/4/RRR)<br>nopal, fsback<br><br>59/60<br>Frame 58: No encounter |
+| ![](https://i.imgur.com/rVfUc87.png) | Primary Pidgeotto Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#10/4/RRR)<br>nopal, fsback<br><br>59/60<br>Frame 58: No encounter |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155243233-db085d0e-18db-42ca-a222-b654a5371c3e.png) | Backup Pidgeotto Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#10/4/RRRDDD)<br>pal(hold), hop1<br><br>59/60 (works on the missing 1/60 above)<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/rVfUc87.png) | Backup Pidgeotto Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#10/4/RRRDDD)<br>pal(hold), hop1<br><br>59/60 (works on the missing 1/60 above)<br>Frame 36: No encounter |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155243360-2f90c839-c3da-4c08-93f9-1fafebf5d4e2.png) | Tangela Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#13/2/DDDD)<br>pal(hold), fsback, fsback<br><br>58/60<br>Frame 20: No encounter<br>Frame 21: Missingno. from dv fly |
+| ![](https://i.imgur.com/iosJu7n.png) | Tangela Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#13/2/DDDD)<br>pal(hold), fsback, fsback<br><br>58/60<br>Frame 20: No encounter<br>Frame 21: Missingno. from dv fly |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155243459-5b16cad6-61a7-45ce-a330-ec4553330dce.png) | Rattata Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#28/5/DDDDADDD)<br>nopal(ab), fastest buffers<br><br>59/60<br>Frame 36: [L20 Doduo encounter](https://gunnermaniac.com/pokeworld?local=27#28/12) |
+| ![](https://i.imgur.com/Yn2UgRC.png) | Rattata Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#28/5/DDDDADDD)<br>nopal(ab), fastest buffers<br><br>59/60<br>Frame 36: [L20 Doduo encounter](https://gunnermaniac.com/pokeworld?local=27#28/12) |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155243578-3f2d632e-fcab-4b33-a8ff-cfbbc4985d91.png) | Spearow Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#29/5/DD)<br>pal, hop2<br><br>59/60<br>Frame 36: Rhyhorn from dv fly |
+| ![](https://i.imgur.com/Dyy76n5.png) | Spearow Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#29/5/DD)<br>pal, hop2<br><br>59/60<br>Frame 36: Rhyhorn from dv fly |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155243578-3f2d632e-fcab-4b33-a8ff-cfbbc4985d91.png) | Doduo Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#29/5/DDD)<br>nopal(ab), fsback<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: No encounter |
+| ![](https://i.imgur.com/Dyy76n5.png) | Doduo Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#29/5/DDD)<br>nopal(ab), fsback<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: No encounter |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155243689-7992993b-75a5-4c60-a7ae-bd82db60331d.png) | Jigglypuff Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=14#58/0/DDDDDDDDRR)<br>nopal, gfwait<br><br>59/60<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/HH3DpGT.png) | Jigglypuff Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=14#58/0/DDDDDDDDRR)<br>nopal, gfwait<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155243713-8ae3be99-68fe-42b5-be14-3b681b7ad61a.png) | Magnemite Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=83#8/11/DDURD)<br>pal(hold), fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: [L24 Pikachu encounter](https://gunnermaniac.com/pokeworld?local=83#9/13) |
+| ![](https://i.imgur.com/Cx3evTa.png) | Magnemite Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=83#8/11/DDURD)<br>pal(hold), fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: [L24 Pikachu encounter](https://gunnermaniac.com/pokeworld?local=83#9/13) |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155243713-8ae3be99-68fe-42b5-be14-3b681b7ad61a.png) | Pikachu Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=83#8/11/DDUUUDD)<br>pal, fastest buffers<br><br>59/60<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/Cx3evTa.png) | Pikachu Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=83#8/11/DDUUUDD)<br>pal, fastest buffers<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155243747-13bbc95e-5e28-47a2-bf27-c1a5430d9013.png) | Bellsprout Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=18#8/15/UUUAUUUUUUU)<br>nopal, fastest buffers<br><br>59/60<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/9h54TuN.png) | Bellsprout Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=18#8/15/UUUAUUUUUUU)<br>nopal, fastest buffers<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155243747-13bbc95e-5e28-47a2-bf27-c1a5430d9013.png) | Meowth Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=18#8/15/UUUAUUUUUUAUUU)<br>pal, hop2, fsback<br><br>60/60 |
+| ![](https://i.imgur.com/9h54TuN.png) | Meowth Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=18#8/15/UUUAUUUUUUAUUU)<br>pal, hop2, fsback<br><br>60/60 |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155243814-032c853b-3944-4829-b772-c1625eb24992.png) | Weezing Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#12/26/DS_BRRR)<br>pal, hop2, fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: [L37 Muk encounter](https://gunnermaniac.com/pokeworld?local=165#15/27) |
+| ![](https://i.imgur.com/9C6CTIK.png) | Weezing Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#12/26/DS_BRRR)<br>pal, hop2, fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: [L37 Muk encounter](https://gunnermaniac.com/pokeworld?local=165#15/27) |
 |||
-| ![](https://user-images.githubusercontent.com/22380063/155243814-032c853b-3944-4829-b772-c1625eb24992.png) | Muk Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#12/26/D)<br>nopal(ab), fsback<br><br>60/60 |
+| ![](https://i.imgur.com/9C6CTIK.png) | Muk Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#12/26/D)<br>nopal(ab), fsback<br><br>60/60 |
 
 ## Brock Flies
 
