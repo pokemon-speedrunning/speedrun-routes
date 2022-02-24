@@ -239,7 +239,7 @@ Buy:
 - 15 Fire Stones
 - 1 Poke Doll
 
-Your money should be **$49xx** after you buy all the items listed.
+Your money needs to be **$49xx** after you buy all the items listed.
 
 ### Item Underflow #2
 
@@ -416,69 +416,65 @@ Afterwards jack through the wall shown in the picture and take the ladder to the
 
 In the basement catch **Krabby** and **Staryu**, then jack over the water to catch **Articuno**.
 
-Use an Escape Rope from badges. Enter the center and **change boxes**.
+Use an Escape Rope from badges. Enter the center and **change boxes**. Open the menu while at the PC:
 
-Walk to the **left** doormat tile and swap Master Ball x5 in warping with roaming TMs.
+- Swap Ultra Ball x0 in brightness with HM04 in TLP2
+- Swap Potion x6 in tileset with Parlyz Heal x65 in roaming
+- Swap roaming TMs with north connection (j. x255)
 
-Leave the center to warp to Victory Road 2F.
+Walk **1** tile up to enter Victory Road 2F.
 
 ### Victory Road
 
-Take the ladder you appear on by moving **up then down** to avoid an encounter.
-
-After, immediately do the following menu:
-
-- Swap GARY x89 in map data with Thunderbadge in x coord
-- Toss all-but-1 from the GARY stack
-
 | |
 |---|
+| Victory Road 2F |
+| ![](https://i.imgur.com/JHwSXLy.png) |
 | Victory Road 1F |
 | ![](https://i.imgur.com/QllNbLU.png) |
 
-Corner bonk above the ladder for an encounter before hopping on the bicycle.
+Bonk for an encounter before hopping on the bicycle.
 
-Catch everything but 1 of: **Machop**, **Geodude**, **Zubat**, **Onix**.
+Catch everything but 1 of: **Machop**, **Geodude**, **Zubat**, **Onix**. At some point while searching, decide when to take the ladder you arrived on to move towards the next LG on 1F.
 
 <img align="right" src="https://i.imgur.com/3TwooOP.png">
 
-Once you have all but 1, get an encounter on the tile in the picture and LG for **Machamp**:
+Once you have all but 1, get an encounter on the tile in the picture (do **not** approach from the right) and LG for **Machamp**:
 
 - Use 9F
 - Swap HM04 in TLP2 with Volcanobadge in text pointer
 - Flash map
 - Swap the HM04 back with the Volcanobadge
-- Flash the item in x coord (down 1) then throw a Master Ball from warping
+- Flash WA4 in options then throw a preoptions Master Ball
 - Save + Quit, manip the final encounter <ins>(read the next part before catching)</ins>
 
 |||
 |---|---|
-| <img align="right" src="https://i.imgur.com/YR6plUU.png"> **Machop** with `pal(hold)` | <img align="right" src="https://i.imgur.com/Vas90CP.png"> **Geodude** with `pal` |
+| <img align="right" src="https://i.imgur.com/O8DschK.png"> **Zubat** with `pal` | <img align="right" src="https://i.imgur.com/fL4g3XK.png"> **Geodude** |
 |||
-| <img align="right" src="https://i.imgur.com/YJ8SmnR.png"> **Zubat** with `pal(hold)` | <img align="right" src="https://i.imgur.com/6BUH7cN.png"> **Onix** with `pal(hold)`, `fsback` |
+| <img align="right" src="https://i.imgur.com/9EoPf1h.png"> **Onix** with `fsback` | <img align="right" src="https://i.imgur.com/R0BVzBx.png"> **Machop** with `pal`, `hop2`, `fsback` |
 
 In the manipped encounter:
 
 - Swap Cascadebadge with the nameless item in map ID (above HM04)
-- Swap the item in x coord (down 2) with Pokedex in width
-- Swap j. x197 in warping with Pokedex in roaming
-- Throw a Master Ball (up 3)
+- Swap Master Ball x5 in warping with Parlyz Heal x17 in tileset
+- Throw a Master Ball
 
 ### Route 11 #1
 
-<img align="right" src="https://i.imgur.com/Dply87I.png">
+<img align="right" src="https://i.imgur.com/acVQIoi.png">
 
 You will be crazywarped to Route 11, close the menu and catch **Scyther**.
 
-The sprites may be in different positions relative to the map graphics, so always use the sprites for positioning.
+The sprites may be in different positions relative to the map graphics, so always use the sprites for positioning. The sprites may also be offscreen to the left after Scyther.
 
-Talk to the sailor to your right and catch **Moltres**.
+Bike to the item ball, talk to it, and catch **Koffing**. <ins>Warning:</ins> out of bounds is the row above the item ball.
 
-Bike upwards to an item ball, talk to it, and catch **Koffing**. <ins>Warning:</ins> out of bounds is the row above the item ball.
+Talk to the sailor below and catch **Moltres**.
 
-<img align="right" src="https://i.imgur.com/ucJlfz3.png">
+<img align="right" src="https://i.imgur.com/zDHwwFt.png">
 
-After both crazywarp catches, move to the tile shown in the picture (relative to sprite positions) and use jack while facing down. Move **7** tiles left into Vermilion, then hold right until you enter Diglett's Cave.
+After both crazywarp catches, exit Route 11 by moving left on the row below Moltres until the sprites have disappeared. Move back to the right and enter Diglett's Cave, which may be partially covered by other graphics.
 
 Catch at least a **Diglett**, then leave the cave and head back to Route 11.
 
@@ -487,8 +483,6 @@ Catch at least a **Diglett**, then leave the cave and head back to Route 11.
 <img align="right" src="https://i.imgur.com/7RgqpMF.png">
 
 Search for wild encounters near the gambler to the south.
-
-Catching random Drowzee or Sandshrew is generally not worth it unless they are level 13+ or level 14+ respectively.
 
 "Natural" LGs are done by doing the following in a wild encounter:
 
@@ -542,7 +536,7 @@ An item ball will walk to you; catch **Vulpix**. Bike down to talk to the item b
 
 Search for wild encounters on the tile in the picture. Only catch Pidgeotto if it's level 32, **never** catch Tangela.
 
-LG for **Tentacool** in your first unneeded encounter:
+In your first unneeded encounter LG for **Tentacool**:
 
 - Use 9F
 - Swap HM04 in TLP2 in with Bike Voucher in width
@@ -606,7 +600,7 @@ After catching Rhyhorn, move **1** tile up, **swap Master Balls into slot 1** (s
 
 Undo the swap the next time you open the item menu.
 
-After having caught all but 1 from the list above, get an encounter and LG for **Kabuto**.
+Once you have all but 1 of the required wild Pokemon, get an encounter and LG for **Kabuto**.
 
 If you are missing Spearow or Doduo use "4" on the **right** Horsea tile, or if you are missing Rattata use it on the **left** Horsea tile.
 
@@ -766,7 +760,7 @@ LG for **Weedle**:
 - Toss 3 Moon Stones
 - Flash **trainer card**
 - Swap the Moon Stones back with the Pokedex
-- Toss all-but-8 from the j. x255 in north connection
+- Toss all-but-8 from j. x255 in north connection
 - Toss the entire TM50 stack below
 - Flash "4" and throw a Master Ball
 
@@ -884,8 +878,8 @@ Walk below the PC, face up, and menu to set up the AFO glitch city:
 
 - Swap HM04 in TLP2 with Master Ball x5 in warping
 - Toss 1 from the Master Balls you just swapped
-- Swap HM04 again for the j. x255 in north connection
-- Swap roaming TMs for Poke Ball x7 in width
+- Swap HM04 again with j. x255 in north connection
+- Swap roaming TMs with Poke Ball x7 in width
 - Toss 6 TMs
 - Flash map
 - Toss the entire stack of Parlyz Heal x65 below
@@ -935,13 +929,13 @@ Timing ends when the screen fully fades to white after 151 Pokemon are displayed
 |||
 | ![](https://i.imgur.com/PfpvcJn.png) | Shellder Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=160#26/14/US_BL)<br>pal, fsback<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://i.imgur.com/c23vY6m.png) | Machop Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/DDDDDDS_BRRRRRRRS_BLL)<br>pal(hold)<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: No encounter |
+| ![](https://i.imgur.com/c23vY6m.png) | Zubat Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRRS_BS_BLLAL)<br>pal, fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: Blastoise from dv fly |
 |||
-| ![](https://i.imgur.com/c23vY6m.png) | Zubat Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/DDDDDARRRRS_BR)<br>pal(hold)<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: Blastoise from dv fly |
+| ![](https://i.imgur.com/c23vY6m.png) | Geodude Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRS_BRS_BS_BLLL)<br>nopal, fastest buffers<br><br>58/60<br>Frame 36: [L26 Zubat encounter](https://gunnermaniac.com/pokeworld?local=194#17/0)<br>Frame 37: No encounter |
 |||
-| ![](https://i.imgur.com/c23vY6m.png) | Onix Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRRADDDS_BRRRR)<br>pal(hold), fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: Tangela from dv fly |
+| ![](https://i.imgur.com/c23vY6m.png) | Onix Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRRDDS_BDS_BL)<br>nopal, fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: Machoke from dv fly |
 |||
-| ![](https://i.imgur.com/c23vY6m.png) | Geodude Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/DDDDDDDARRRRRRRS_BLL)<br>pal<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: [L39 Onix encounter](https://gunnermaniac.com/pokeworld?local=194#15/6) |
+| ![](https://i.imgur.com/c23vY6m.png) | Machop Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRRDDDL)<br>pal, hop2, fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: Arcanine from dv fly |
 |||
 | ![](https://i.imgur.com/msGkpdL.png) | Sandshrew Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=22#15/17/UUUUUARR)<br>pal, hop1<br><br>59/60<br>Frame 36: No encounter |
 |||
