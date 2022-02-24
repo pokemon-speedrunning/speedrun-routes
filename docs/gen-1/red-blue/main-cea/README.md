@@ -616,7 +616,7 @@ Alternate up and down steps until you get an encounter, then do the following:
 
 ||||
 |---|---|---|
-| <img align="right" src="https://i.imgur.com/f2eSneP.png"> Spearow with `pal`, `hop2` | <img align="right" src="https://i.imgur.com/QAl4Gpi.png"> Rattata with `nopal(ab)` | <img align="right" src="https://i.imgur.com/Bw0vz21.png"> Doduo with `nopal(ab)`, `fsback` |
+| <img align="right" src="https://i.imgur.com/f2eSneP.png"> Spearow with `pal`, `hop2` | <img align="right" src="https://i.imgur.com/Bw0vz21.png"> Doduo with `nopal(ab)`, `fsback` | <img align="right" src="https://i.imgur.com/QAl4Gpi.png"> Rattata with `nopal(ab)` |
 
 After the manip encounter ends, bike left until you are outside the grass, then hold down until the start menu opens. Fly to Pewter and catch **Mew**.
 
@@ -937,9 +937,9 @@ Timing ends when the screen fully fades to white after 151 Pokemon are displayed
 |||
 | ![](https://i.imgur.com/c23vY6m.png) | Machop Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRRDDDL)<br>pal, hop2, fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: Arcanine from dv fly |
 |||
-| ![](https://i.imgur.com/msGkpdL.png) | Sandshrew Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=22#15/17/UUUUUARR)<br>pal, hop1<br><br>59/60<br>Frame 36: No encounter |
-|||
 | ![](https://i.imgur.com/msGkpdL.png) | Drowzee Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=22#15/17/UUURR)<br>nopal(ab), fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: [L13 Spearow encounter](https://gunnermaniac.com/pokeworld?local=22#17/14) |
+|||
+| ![](https://i.imgur.com/msGkpdL.png) | Sandshrew Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=22#15/17/UUUUUARR)<br>pal, hop1<br><br>59/60<br>Frame 36: No encounter |
 |||
 | ![](https://i.imgur.com/rtfiKFH.png) | Primary Gastly Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=145#3/9/DRDRRRADRRRADRR)<br>pal, hop1, fsback, fsback<br><br>58/60<br>Frame 20: Arbok from dv fly<br>Frame 21: No encounter |
 |||
@@ -951,11 +951,11 @@ Timing ends when the screen fully fades to white after 151 Pokemon are displayed
 |||
 | ![](https://i.imgur.com/iosJu7n.png) | Tangela Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#13/2/DDDD)<br>pal(hold), fsback, fsback<br><br>58/60<br>Frame 20: No encounter<br>Frame 21: Missingno. from dv fly |
 |||
-| ![](https://i.imgur.com/Yn2UgRC.png) | Rattata Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#28/5/DDDDADDD)<br>nopal(ab), fastest buffers<br><br>59/60<br>Frame 36: [L20 Doduo encounter](https://gunnermaniac.com/pokeworld?local=27#28/12) |
-|||
 | ![](https://i.imgur.com/Dyy76n5.png) | Spearow Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#29/5/DD)<br>pal, hop2<br><br>59/60<br>Frame 36: Rhyhorn from dv fly |
 |||
 | ![](https://i.imgur.com/Dyy76n5.png) | Doduo Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#29/5/DDD)<br>nopal(ab), fsback<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: No encounter |
+|||
+| ![](https://i.imgur.com/Yn2UgRC.png) | Rattata Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#28/5/DDDDADDD)<br>nopal(ab), fastest buffers<br><br>59/60<br>Frame 36: [L20 Doduo encounter](https://gunnermaniac.com/pokeworld?local=27#28/12) |
 |||
 | ![](https://i.imgur.com/HH3DpGT.png) | Jigglypuff Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=14#58/0/DDDDDDDDRR)<br>nopal, gfwait<br><br>59/60<br>Frame 36: No encounter |
 |||
