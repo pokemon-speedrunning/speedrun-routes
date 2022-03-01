@@ -1,12 +1,12 @@
 <img align="left" src="https://i.imgur.com/uvKl6UX.gif">
 
-# Pokemon Blue - Catch 'Em All
+# Pokemon Blue: Catch 'Em All
 
-Autumn 2020 route & guide
+Autumn 2020 route & guide, last updated <ins>1 March 2022</ins>
 
 ## Before We Begin
 
-Before doing runs of this category, it is suggested you are familiar with the following concepts, techniques, and glitches: <ins>(updated links welcome)</ins>
+Before doing runs of this category, it helps to be familiar with the following concepts, glitches, and techniques: <ins>(updated links welcome)</ins>
 
 - Item Underflow
 - RNG Manipulation and [its lingo](https://pastebin.com/QdgbSu35)
@@ -25,7 +25,7 @@ The end of this document has additional resources which you may find useful for 
 
 ## Credits
 
-Catch ‘Em All has been speedrun and influenced by many people in the community, including but not limited to:
+Catch 'Em All has been speedrun and influenced by many people in the community, including but not limited to:
 
 Ætienne, Besson, Chivu, Dabomstew, Decon, DerTeppich, Driekiann, eddaket, entrpntr, ExtraTricky, gifvex, Grogir, HorouIchigo, Keizaron, krazyd4n, luckytyphlosion, MrWint, PicklePlop, pokeguy, randalleatscheese, Sanqui, Shenanagans, Sidosh, SinH4, Sinstar, Smurfy, Snairam, stocchi, stringflow, TehHammerShow, VaultButler, werster,
 
@@ -43,7 +43,7 @@ Clear save data before each attempt with Up + Select + B on the title screen.
 
 Hard reset and [manipulate the trainer ID 54878](https://youtu.be/upzxy_0KW7A).
 
-Hold the A or B button while clearing textboxes with the other, as the text speed option is still the default.
+Hold the A or B button while clearing textboxes with the other while the text speed option is still the default.
 
 Name the player a one-character name like `A` or `I`.
 
@@ -55,25 +55,25 @@ Open the start menu and set the options to Fast/Off/Shift.
 
 Optional: Withdraw the Potion from the PC.
 
-You will be choosing Bulbasaur as the starter for the run:
+You will be choosing **Bulbasaur** as the starter for the run:
 
-- Advanced runners can choose to manipulate Bulbasaur's DVs for optimal fights and an always-working special stat for the Brock Through Walls glitch later on. However this is **not** recommended for beginner runners as the manipulation can be very difficult to execute if you do not have much experience with clearing textboxes during RNG manipulations.
+- Advanced runners can choose to manipulate Bulbasaur's DVs for optimal fights and an always-working special stat for the Brock Through Walls glitch later on. This is not recommended for beginners because the manipulation can be very difficult to execute if you do not have experience clearing textboxes during RNG manipulations.
 
-- For beginners it is recommended to take a random Bulbasaur instead. Note having a bad attack stat on your Bulbasaur can make you lose turns on the Rival and Weedle Guy fights. In addition, the fastest setup for the Brock Through Walls glitch ("Pidgey Strats") only has a 9/16 (~56%) chance of working with a random Bulbasaur. 
+- Beginner runners should take a random Bulbasaur instead. Note having a bad attack stat on your Bulbasaur can make you lose turns on the Rival and Weedle Guy fights, and the fastest setup for the Brock Through Walls glitch ("Pidgey Strats") only has a 9/16 (~56%) chance of working with a random Bulbasaur. 
 
-Do **not** nickname the Bulbasaur as the name length is a requirement for the upcoming RNG manipulations to work.
+Do **not** nickname the Bulbasaur, the name length is a requirement for the upcoming RNG manipulations to work.
 
-To manipulate Bulbasaur: walk below the ball, then hold Up and press Start to buffer the menu, which is required for the manip to work. Save and hard reset then execute the manip's intro. After loading the save buffer a start flash, buffer A to interact with the ball, then while holding A or B clear every textbox perfectly (4 frame windows), including the Yes for Bulbasaur and the No for nicknaming.
+To manipulate Bulbasaur: walk below the ball, then hold Up and press Start for a buffered save (required). Save, hard reset, and execute the manip's intro. After loading the save buffer a start flash, buffer A to interact with the ball, then while holding A or B clear every textbox perfectly, including the Yes for Bulbasaur and the No for nicknaming.
 
 The IGT success rate on this manip is 56/60, but due to NPC timers the manip will fail an additional ~15% of the time.
 
-More info can be [found on pastebin](https://pastebin.com/L14vtxJS), and a video with inputs can be [found here](https://youtu.be/VjLFyiX5JdA).
+More info can be [found on pastebin](https://pastebin.com/L14vtxJS) and a video with inputs can be [found here](https://youtu.be/VjLFyiX5JdA).
 
-If you received a random Bulbasaur, it can be beneficial to check the summary immediately in the upcoming battle and remember the special stat for when it levels up, in order to better know how likely the Bulbasaur will work for Pidgey Strats. The trainer ID is displayed in the bottom right corner of the summary, so you can use this time to double check it as well.
+If you take a random Bulbasaur, you can check its stats at the start of the upcoming battle. Remember the special stat until it levels up in order to better know how likely the Bulbasaur will work for Pidgey Strats. The trainer ID is displayed in the bottom right corner of the stats screen so you can use this time to double check it as well.
 
 ### Rival Fight
 
-Use Tackle on every turn. Heal up with a Potion if at 6 health or below. Winning the fight is mandatory.
+Use Tackle on every turn. Heal up with a Potion if at 6 health or below. Winning the fight is required.
 
 After defeating the Charmander you will level up to 6. If you did not manipulate the Bulbasaur now is the perfect time to check your special stat:
 
@@ -98,15 +98,15 @@ Enter Viridian Mart and buy:
 - 3-5 Poke Balls
 - 1 Parlyz Heal
 
-Non-manipulated Bulbasaurs can pick up [the tree potion](https://gunnermaniac.com/pokeworld?map=1#54/166) before leaving, especially if they took damage while gaining experience, but another potion is on the way.
+Non-manipulated Bulbasaurs can pick up [the tree potion](https://gunnermaniac.com/pokeworld?map=1#54/166) before leaving, especially if they took damage while gaining experience, but another potion later will be faster to pick up.
 
 ### Route 2
 
 <img align="right" src="https://i.imgur.com/MCefV9n.png">
 
-Manipulate a Pidgey encounter & catch with `nopal(ab)` and the path shown. This Pidgey will always have HP that works for Brock Through Walls and will always catch, so a random Pidgey is not a viable alternative.
+Manipulate a **Pidgey** encounter & catch with `nopal(ab)` and the path shown. This Pidgey will always have HP that works for Brock Through Walls and will always catch, so a random Pidgey is not a viable alternative.
 
-It is recommended you extend the Pidgey manip into a Caterpie by clearing Pidgey's textboxes and Pokedex entry perfectly, then by moving `L R R U` afterwards. For beginners, or if an issue occurs, a solo Caterpie manip is an option once inside Viridian Forest.
+Ideally you extend the Pidgey manip into a **Caterpie** by clearing Pidgey's textboxes and Pokedex entry perfectly, then by moving `L R R U` afterwards. For beginners, or if an issue occurs, a solo Caterpie manip is an option once inside Viridian Forest.
 
 ### Viridian Forest
 
@@ -196,7 +196,7 @@ Item PC:
 * Withdraw 1 from coins (the slot above the first nonzero j. quantity)
 * Withdraw 36 Full Restores
 * Withdraw 255 Master Balls from the x0 stack a few slots down
-* Swap the Master Ball x1 with Pewter script (Poke Ball x0 many slots down)
+* Swap the Master Ball x1 with Pewter City script (Poke Ball x0 many slots down)
 * Swap the Master Ball again with Route 4 script (down 1)
 * Withdraw all-but-1 Pewter Gym script (down 1)
 * Withdraw all-but-1 Route 3 script (up 2)
@@ -206,7 +206,7 @@ Item PC:
 * Withdraw all-but-1 Route 21 script (up 4)
 * Withdraw all-but-1 Route 17 script (up 1)
 
-Leave the center using the left doormat tile to warp to Celadon then enter the mart from the right door.
+Leave the center using the left doormat tile to warp to Celadon, then enter the mart using the right door.
 
 ### Celadon Shopping
 
@@ -239,7 +239,7 @@ Buy:
 - 15 Fire Stones
 - 1 Poke Doll
 
-Your money needs to be **$49xx** after you buy all the items listed.
+Your money must be **$49xx** after you buy all the items listed.
 
 ### Item Underflow #2
 
@@ -272,8 +272,8 @@ Take **4** steps to the right and open the item bag:
 Bike **4** tiles to the right, then alternate left and right steps until you get an encounter. In the encounter do the following menu to LG for **Ekans**:
 
 - Use 9F (then press Start)
-- Move 3 tiles left
-- Swap slot 6 with CANCEL x145 (Jack) in rival name
+- Move **3** tiles left
+- Swap Ice Heals in slot 6 with CANCEL x145 ("jack") in rival name
 - Swap vtm in rival name with HM04 in TLP2
 - Swap TM18 x42 in x coord with Ice Heal x15 in width
 - Toss 6 TM18s
@@ -316,11 +316,9 @@ Walk below the item ball: (you currently have 3 steps of encounter immunity!)
 
 Cerulean Cave is filled with Pokemon we call **bonuses**. They are typically evolutions of Pokemon we catch throughout the run. Catching bonuses will save withdrawing the pre-evolution, candying it, watching it evolve, and depositing it. In general, if it's on your screen and you don't have it, catch it unless the notes say otherwise.
 
-Every single wild encounter in Cerulean Cave is a bonus. Proper use of dsum can save a lot of time here. Pokemon worth catching in order from best to worst: **Hypno**, **Kadabra**, **Dodrio**, **Sandslash**, **Magneton**, **Parasect**, **Venomoth**, **Electrode**, **Rhydon**, **Marowak**, **Wigglytuff**, **Raichu**, **Golbat**.
+Every wild encounter in Cerulean Cave is a bonus. Proper use of dsum manipulation here can save a lot of time. Pokemon worth catching in order from best to worst: **Hypno**, **Kadabra**, **Dodrio**, **Sandslash**, **Magneton**, **Parasect**, **Venomoth**, **Electrode**, **Rhydon**, **Marowak**, **Wigglytuff**, **Raichu**, **Golbat**.
 
-You are limited on box space so do not catch more than 10 of the above (Magneton does not count towards the 10). Do **not** catch Chansey and Ditto, as those will be obtained later.
-
-※ If you catch 3 or less (2 or less if manipped dugtrio) bonuses between Cerulean Cave and Seafoam, you are able to skip the next box change. Shellder manip will have <ins>extra text while saving</ins>.
+You are limited on box space so do not catch more than 10 (9 if manipped Dugtrio) of the above. Magneton does not count towards the limit. Do **not** catch Chansey and Ditto, those two will be obtained later.
 
 | |
 |---|
@@ -338,9 +336,9 @@ Move **2** tiles above the ladder and open the menu:
 - Swap Super Repel x1 with Parlyz Heal x224 in TID2
 - Swap Super Repel again with the Old Amber in brightness directly below
 - Swap Great Ball x0 in x coord with the Soulbadge in tileset
-- Bike down and catch Mewtwo
+- Bike down and catch **Mewtwo**
 
-After Mewtwo, move **3** tiles left then continue to search for an unneeded encounter by alternating up and down steps. LG for Tauros:
+After Mewtwo, move **3** tiles left then continue to search for an unneeded encounter by alternating up and down steps. LG for **Tauros**:
 
 - Use 9F
 - Swap Awakenings in slot 4 with "4" in rival name
@@ -373,7 +371,7 @@ Open the item bag:
 - Swap Thunderbadge in items with Old Amber in map ID
 - Swap Thunderbadge again with Pokedex in width
 - Fly to Celadon, enter the center, and **change boxes**
-- Walk to the **left** doormat tile
+- Walk to the left doormat tile
 - Swap Master Ball x6 in warping with PCEKANS in rival name
 
 Leave the center to warp to Seafoam B2F.
@@ -401,6 +399,8 @@ Manip **Shellder** with `pal`, `fsback` (not cycling yet) if you didn't catch on
 
 | |
 |---|
+| Seafoam B2F |
+| ![](https://i.imgur.com/cBEc97H.png) |
 | Seafoam B3F |
 | ![](https://i.imgur.com/0X9mMgf.png) |
 | Seafoam B4F |
@@ -450,9 +450,9 @@ Once you have all but 1, get an encounter on the tile in the picture (do **not**
 
 |||
 |---|---|
-| <img align="right" src="https://i.imgur.com/O8DschK.png"> **Zubat** with `pal` | <img align="right" src="https://i.imgur.com/fL4g3XK.png"> **Geodude** |
+| <img align="right" src="https://i.imgur.com/O8DschK.png"> Zubat with `pal` | <img align="right" src="https://i.imgur.com/fL4g3XK.png"> Geodude |
 |||
-| <img align="right" src="https://i.imgur.com/9EoPf1h.png"> **Onix** with `fsback` | <img align="right" src="https://i.imgur.com/R0BVzBx.png"> **Machop** with `pal`, `hop2`, `fsback` |
+| <img align="right" src="https://i.imgur.com/9EoPf1h.png"> Onix with `fsback` | <img align="right" src="https://i.imgur.com/R0BVzBx.png"> Machop with `pal`, `hop2`, `fsback` |
 
 In the manipped encounter:
 
