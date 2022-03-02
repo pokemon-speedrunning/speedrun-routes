@@ -506,7 +506,7 @@ Manip **Sandshrew** if you still need it (**unjack** and move to the Growlithe t
 
 Get a final wild encounter and LG for **Hitmonchan**. Fly to Celadon directly after.
 
-Enter the center and **change boxes**. Open the menu while at the PC:
+Enter the center, deposit NidoranM, then **change boxes**. Open the menu while at the PC:
 
 - Swap jack in slot 6 with Fire Stone x15
 - Swap jack again with HM04 in TLP2
@@ -643,7 +643,8 @@ Bike back to the tile you arrived at originally and move **1** tile left to retu
 
 In the trainer fly menu do the following:
 
-- Swap Super Potion x83 from inventory with Ultra Ball x0 in brightness
+- Evolve Exeggcute, NidoranF, Paras (if needed), and Nidorina
+- Swap Super Potion x83 in inventory with Ultra Ball x0 in brightness
 - Swap Super Potion x83 again with j. x2 in warping
 
 Exit the menu and catch **Oddish**. Exit the gym to warp to the Power Plant.
@@ -704,12 +705,12 @@ LG for **Squirtle** & friends:
 
 ### Route 7 + Silph Co.
 
-Enter the center and **change boxes**.
+Enter the center, deposit Pidgey, Paras(ect), Nidoqueen, and Exeggutor, then **change boxes**.
 
 Use Bicycle in map ID to bike to the prize corner and purchase:
 
-- **Pinsir**, **Porygon**, and **Dratini** from the middle window,
-- **Abra**, **Nidorino**, and **Clefairy** from the left window.
+- **Abra**, **Clefairy**, and **Nidorino** from the left window
+- **Dratini**, **Pinsir**, and **Porygon** from the middle window
 
 Leave the prize corner and bike to Route 7.
 
