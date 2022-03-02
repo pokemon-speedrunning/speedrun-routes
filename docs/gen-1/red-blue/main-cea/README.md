@@ -1,12 +1,12 @@
 <img align="left" src="https://i.imgur.com/uvKl6UX.gif">
 
-# Pokemon Blue - Catch 'Em All
+# Pokemon Blue: Catch 'Em All
 
-Autumn 2020 route & guide
+Autumn 2020 route & guide, last updated <ins>1 March 2022</ins>
 
 ## Before We Begin
 
-Before doing runs of this category, it is suggested you are familiar with the following concepts, techniques, and glitches: <ins>(updated links welcome)</ins>
+Before doing runs of this category, it helps to be familiar with the following concepts, glitches, and techniques: <ins>(updated links welcome)</ins>
 
 - Item Underflow
 - RNG Manipulation and [its lingo](https://pastebin.com/QdgbSu35)
@@ -25,7 +25,7 @@ The end of this document has additional resources which you may find useful for 
 
 ## Credits
 
-Catch ‘Em All has been speedrun and influenced by many people in the community, including but not limited to:
+Catch 'Em All has been speedrun and influenced by many people in the community, including but not limited to:
 
 Ætienne, Besson, Chivu, Dabomstew, Decon, DerTeppich, Driekiann, eddaket, entrpntr, ExtraTricky, gifvex, Grogir, HorouIchigo, Keizaron, krazyd4n, luckytyphlosion, MrWint, PicklePlop, pokeguy, randalleatscheese, Sanqui, Shenanagans, Sidosh, SinH4, Sinstar, Smurfy, Snairam, stocchi, stringflow, TehHammerShow, VaultButler, werster,
 
@@ -43,7 +43,7 @@ Clear save data before each attempt with Up + Select + B on the title screen.
 
 Hard reset and [manipulate the trainer ID 54878](https://youtu.be/upzxy_0KW7A).
 
-Hold the A or B button while clearing textboxes with the other, as the text speed option is still the default.
+Hold the A or B button while clearing textboxes with the other while the text speed option is still the default.
 
 Name the player a one-character name like `A` or `I`.
 
@@ -55,25 +55,25 @@ Open the start menu and set the options to Fast/Off/Shift.
 
 Optional: Withdraw the Potion from the PC.
 
-You will be choosing Bulbasaur as the starter for the run:
+You will be choosing **Bulbasaur** as the starter for the run:
 
-- Advanced runners can choose to manipulate Bulbasaur's DVs for optimal fights and an always-working special stat for the Brock Through Walls glitch later on. However this is **not** recommended for beginner runners as the manipulation can be very difficult to execute if you do not have much experience with clearing textboxes during RNG manipulations.
+- Advanced runners can choose to manipulate Bulbasaur's DVs for optimal fights and an always-working special stat for the Brock Through Walls glitch later on. This is not recommended for beginners because the manipulation can be very difficult to execute if you do not have experience clearing textboxes during RNG manipulations.
 
-- For beginners it is recommended to take a random Bulbasaur instead. Note having a bad attack stat on your Bulbasaur can make you lose turns on the Rival and Weedle Guy fights. In addition, the fastest setup for the Brock Through Walls glitch ("Pidgey Strats") only has a 9/16 (~56%) chance of working with a random Bulbasaur. 
+- Beginner runners should take a random Bulbasaur instead. Note having a bad attack stat on your Bulbasaur can make you lose turns on the Rival and Weedle Guy fights, and the fastest setup for the Brock Through Walls glitch ("Pidgey Strats") only has a 9/16 (~56%) chance of working with a random Bulbasaur. 
 
-Do **not** nickname the Bulbasaur as the name length is a requirement for the upcoming RNG manipulations to work.
+Do **not** nickname the Bulbasaur, the name length is a requirement for the upcoming RNG manipulations to work.
 
-To manipulate Bulbasaur: walk below the ball, then hold Up and press Start to buffer the menu, which is required for the manip to work. Save and hard reset then execute the manip's intro. After loading the save buffer a start flash, buffer A to interact with the ball, then while holding A or B clear every textbox perfectly (4 frame windows), including the Yes for Bulbasaur and the No for nicknaming.
+To manipulate Bulbasaur: walk below the ball, then hold Up and press Start for a buffered save (required). Save, hard reset, and execute the manip's intro. After loading the save buffer a start flash, buffer A to interact with the ball, then while holding A or B clear every textbox perfectly, including the Yes for Bulbasaur and the No for nicknaming.
 
 The IGT success rate on this manip is 56/60, but due to NPC timers the manip will fail an additional ~15% of the time.
 
-More info can be [found on pastebin](https://pastebin.com/L14vtxJS), and a video with inputs can be [found here](https://youtu.be/VjLFyiX5JdA).
+More info can be [found on pastebin](https://pastebin.com/L14vtxJS) and a video with inputs can be [found here](https://youtu.be/VjLFyiX5JdA).
 
-If you received a random Bulbasaur, it can be beneficial to check the summary immediately in the upcoming battle and remember the special stat for when it levels up, in order to better know how likely the Bulbasaur will work for Pidgey Strats. The trainer ID is displayed in the bottom right corner of the summary, so you can use this time to double check it as well.
+If you take a random Bulbasaur, you can check its stats at the start of the upcoming battle. Remember the special stat until it levels up in order to better know how likely the Bulbasaur will work for Pidgey Strats. The trainer ID is displayed in the bottom right corner of the stats screen so you can use this time to double check it as well.
 
 ### Rival Fight
 
-Use Tackle on every turn. Heal up with a Potion if at 6 health or below. Winning the fight is mandatory.
+Use Tackle on every turn. Heal up with a Potion if at 6 health or below. Winning the fight is required.
 
 After defeating the Charmander you will level up to 6. If you did not manipulate the Bulbasaur now is the perfect time to check your special stat:
 
@@ -98,15 +98,15 @@ Enter Viridian Mart and buy:
 - 3-5 Poke Balls
 - 1 Parlyz Heal
 
-Non-manipulated Bulbasaurs can pick up [the tree potion](https://gunnermaniac.com/pokeworld?map=1#54/166) before leaving, especially if they took damage while gaining experience, but another potion is on the way.
+Non-manipulated Bulbasaurs can pick up [the tree potion](https://gunnermaniac.com/pokeworld?map=1#54/166) before leaving, especially if they took damage while gaining experience, but another potion later will be faster to pick up.
 
 ### Route 2
 
 <img align="right" src="https://i.imgur.com/MCefV9n.png">
 
-Manipulate a Pidgey encounter & catch with `nopal(ab)` and the path shown. This Pidgey will always have HP that works for Brock Through Walls and will always catch, so a random Pidgey is not a viable alternative.
+Manipulate a **Pidgey** encounter & catch with `nopal(ab)` and the path shown. This Pidgey will always have HP that works for Brock Through Walls and will always catch, so a random Pidgey is not a viable alternative.
 
-It is recommended you extend the Pidgey manip into a Caterpie by clearing Pidgey's textboxes and Pokedex entry perfectly, then by moving `L R R U` afterwards. For beginners, or if an issue occurs, a solo Caterpie manip is an option once inside Viridian Forest.
+Ideally you extend the Pidgey manip into a **Caterpie** by clearing Pidgey's textboxes and Pokedex entry perfectly, then by moving `L R R U` afterwards. For beginners, or if an issue occurs, a solo Caterpie manip is an option once inside Viridian Forest.
 
 ### Viridian Forest
 
@@ -196,7 +196,7 @@ Item PC:
 * Withdraw 1 from coins (the slot above the first nonzero j. quantity)
 * Withdraw 36 Full Restores
 * Withdraw 255 Master Balls from the x0 stack a few slots down
-* Swap the Master Ball x1 with Pewter script (Poke Ball x0 many slots down)
+* Swap the Master Ball x1 with Pewter City script (Poke Ball x0 many slots down)
 * Swap the Master Ball again with Route 4 script (down 1)
 * Withdraw all-but-1 Pewter Gym script (down 1)
 * Withdraw all-but-1 Route 3 script (up 2)
@@ -206,7 +206,7 @@ Item PC:
 * Withdraw all-but-1 Route 21 script (up 4)
 * Withdraw all-but-1 Route 17 script (up 1)
 
-Leave the center using the left doormat tile to warp to Celadon then enter the mart from the right door.
+Leave the center using the left doormat tile to warp to Celadon, then enter the mart using the right door.
 
 ### Celadon Shopping
 
@@ -239,7 +239,7 @@ Buy:
 - 15 Fire Stones
 - 1 Poke Doll
 
-Your money needs to be **$49xx** after you buy all the items listed.
+Your money must be **$49xx** after you buy all the items listed.
 
 ### Item Underflow #2
 
@@ -272,15 +272,14 @@ Take **4** steps to the right and open the item bag:
 Bike **4** tiles to the right, then alternate left and right steps until you get an encounter. In the encounter do the following menu to LG for **Ekans**:
 
 - Use 9F (then press Start)
-- Move 3 tiles left
-- Swap slot 6 with CANCEL x145 (Jack) in rival name
+- Move **3** tiles left
+- Swap Ice Heals in slot 6 with CANCEL x145 ("jack") in rival name
 - Swap vtm in rival name with HM04 in TLP2
 - Swap TM18 x42 in x coord with Ice Heal x15 in width
 - Toss 6 TM18s
 - Flash map (close then open the start menu)
 - Swap the TM18s back with Ice Heal x15
 - Swap vtm back with the HM04, now in rival name
-- Toss 7 from TM41 x80 directly below
 - Flash WA4 (press A on it so the Use/Toss window comes up, then press B)
 - Throw a Master Ball from TID1 (down 2)
 
@@ -310,17 +309,17 @@ Leave the center to warp to Cerulean Cave.
 
 Walk below the item ball: (you currently have 3 steps of encounter immunity!)
 
-- Swap "4" x77 in map data with Full Restore x77 in text pointer
-- Swap 4 again with TM41 in rival name
+- Swap Old Amber in brightness with Parlyz Heal x[]4 in TID2
+- Swap TM41 x80 in rival name with "4" x77 in map data
+- Swap TM41 again with Full Restore x77 in text pointer
+- Toss 7 TM41s
 - Talk to the item ball, catch the **Golem** that appears
 
 Cerulean Cave is filled with Pokemon we call **bonuses**. They are typically evolutions of Pokemon we catch throughout the run. Catching bonuses will save withdrawing the pre-evolution, candying it, watching it evolve, and depositing it. In general, if it's on your screen and you don't have it, catch it unless the notes say otherwise.
 
-Every single wild encounter in Cerulean Cave is a bonus. Proper use of dsum can save a lot of time here. Pokemon worth catching in order from best to worst: **Hypno**, **Kadabra**, **Dodrio**, **Sandslash**, **Magneton**, **Parasect**, **Venomoth**, **Electrode**, **Rhydon**, **Marowak**, **Wigglytuff**, **Raichu**, **Golbat**.
+Every wild encounter in Cerulean Cave is a bonus. Proper use of dsum manipulation here can save a lot of time. Pokemon worth catching in order from best to worst: **Hypno**, **Kadabra**, **Dodrio**, **Sandslash**, **Magneton**, **Parasect**, **Venomoth**, **Electrode**, **Rhydon**, **Marowak**, **Wigglytuff**, **Raichu**, **Golbat**.
 
-You are limited on box space so do not catch more than 10 of the above (Magneton does not count towards the 10). Do **not** catch Chansey and Ditto, as those will be obtained later.
-
-※ If you catch 3 or less (2 or less if manipped dugtrio) bonuses between Cerulean Cave and Seafoam, you are able to skip the next box change. Shellder manip will have <ins>extra text while saving</ins>.
+You are limited on box space so do not catch more than 10 (9 if manipped Dugtrio) of the above. Magneton does not count towards the limit. Do **not** catch Chansey and Ditto, those two will be obtained later.
 
 | |
 |---|
@@ -335,12 +334,11 @@ Catch things on any floor until you are satisfied then go to the basement.
 
 Move **2** tiles above the ladder and open the menu:
 
-- Swap Super Repel x1 with Parlyz Heal x224 in TID2
-- Swap Super Repel again with the Old Amber in brightness directly below
+- Swap Revive x93 in inventory with Master Ball x[]3 in TID1
 - Swap Great Ball x0 in x coord with the Soulbadge in tileset
-- Bike down and catch Mewtwo
+- Bike down and catch **Mewtwo**
 
-After Mewtwo, move **3** tiles left then continue to search for an unneeded encounter by alternating up and down steps. LG for Tauros:
+After Mewtwo, move **3** tiles left then continue to search for an unneeded encounter by alternating up and down steps. LG for **Tauros**:
 
 - Use 9F
 - Swap Awakenings in slot 4 with "4" in rival name
@@ -348,6 +346,7 @@ After Mewtwo, move **3** tiles left then continue to search for an unneeded enco
 - Toss 32 TM27s in TLP1
 - Flash map
 - Toss 1 TM27 in TLP1
+- Swap Old Amber in brightness with Master Ball x[]8 in warping
 - Swap Awakenings back with the HM04, now in rival name
 - Flash WA4 in options then throw a preoptions Master Ball
 
@@ -357,24 +356,19 @@ Manip **Chansey** with <ins>extra text while saving</ins>. You do not need to mo
 
 In the manipped encounter:
 
-- Swap Parlyz Heal x224 with Thunderbadge in x coord
-- Swap TM27 in map ID with the Old Amber in TID2 (**top** Old Amber stack)
-- Swap the Master Ball stack in TID1 with the Master Ball stack in preoptions to merge them (swap order matters)
-- Throw a preoptions Master Ball
+- Swap Master Ball x[]3 in inventory (**not** main stack) with Master Ball x4 in preoptions
+- Swap Old Amber in TID2 (**top** Old Amber stack) with TM27 x7 in map ID
+- Throw a Master Ball (up 1)
 
 You will be crazywarped to Route 20, close the menu and catch **Alakazam**.
 
-Talk to the item ball to your right and catch **Kangaskhan**.
+Bike left to an item ball, talk to it, and catch **Kangaskhan**.
 
-If you didn't catch **Magneton** in Cerulean Cave: bike upwards to another item ball, talk to it, and catch it. Before menuing, move left as needed so the cave entrance tile will be covered by the start menu.
+If you didn't catch **Magneton** in Cerulean Cave: bike upwards to another item ball, talk to it, and catch it.
 
-Open the item bag:
+Fly to Pewter, enter the center, and **change boxes**.
 
-- Swap Thunderbadge in items with Old Amber in map ID
-- Swap Thunderbadge again with Pokedex in width
-- Fly to Celadon, enter the center, and **change boxes**
-- Walk to the **left** doormat tile
-- Swap Master Ball x6 in warping with PCEKANS in rival name
+Walk to the left doormat tile, then swap PCEKANS in rival name with Master Ball x2 in warping.
 
 Leave the center to warp to Seafoam B2F.
 
@@ -387,6 +381,7 @@ Corner bonk to the right of the bottom ladder for encounters.
 In your first unneeded encounter LG for **Magikarp**:
 
 - Use 9F
+- Swap Master Ball x2 in rival name with Old Amber in brightness
 - Swap HM04 in TLP2 with Max Potion x0 in roaming
 - Swap HM04 again with BLUE in text pointer
 - Swap TM50 x0 1 above with Pokedex, also 1 above
@@ -401,12 +396,14 @@ Manip **Shellder** with `pal`, `fsback` (not cycling yet) if you didn't catch on
 
 | |
 |---|
+| Seafoam B2F |
+| ![](https://i.imgur.com/cBEc97H.png) |
 | Seafoam B3F |
 | ![](https://i.imgur.com/0X9mMgf.png) |
 | Seafoam B4F |
 | ![](https://i.imgur.com/4cFWgKv.png) |
 
-<img align="right" src="https://i.imgur.com/721AlTW.png">
+<img align="right" src="https://i.imgur.com/fgT6BOX.png">
 
 Hop on the bicycle and take the ladder to B3F. 
 
@@ -414,9 +411,11 @@ Catch **Psyduck** and **Seel**.
 
 Afterwards jack through the wall shown in the picture and take the ladder to the basement.
 
-In the basement catch **Krabby** and **Staryu**, then jack over the water to catch **Articuno**.
+In the basement catch **Krabby**, **Staryu**, and jack across the water to catch **Articuno**.
 
-Use an Escape Rope from badges. Enter the center and **change boxes**. Open the menu while at the PC:
+When done, swap Super Repel x1 in inventory with Old Amber in brightness, then use an Escape Rope from badges.
+
+Enter the center and **change boxes**. Open the menu while at the PC:
 
 - Swap Ultra Ball x0 in brightness with HM04 in TLP2
 - Swap Potion x6 in tileset with Parlyz Heal x65 in roaming
@@ -437,22 +436,23 @@ Bonk for an encounter before hopping on the bicycle.
 
 Catch everything but 1 of: **Machop**, **Geodude**, **Zubat**, **Onix**. At some point while searching, decide when to take the ladder you arrived on to move towards the next LG on 1F.
 
-<img align="right" src="https://i.imgur.com/3TwooOP.png">
+<img align="right" src="https://i.imgur.com/P3EThWG.png">
 
 Once you have all but 1, get an encounter on the tile in the picture (do **not** approach from the right) and LG for **Machamp**:
 
 - Use 9F
-- Swap HM04 in TLP2 with Volcanobadge in text pointer
+- Swap Old Amber in brightness with HM04 in TLP2
+- Swap Old Amber again with Volcanobadge in text pointer
 - Flash map
-- Swap the HM04 back with the Volcanobadge
+- Swap the Volcanobadge, now in TLP2, with the HM04, now in brightness
 - Flash WA4 in options then throw a preoptions Master Ball
 - Save + Quit, manip the final encounter <ins>(read the next part before catching)</ins>
 
 |||
 |---|---|
-| <img align="right" src="https://i.imgur.com/O8DschK.png"> **Zubat** with `pal` | <img align="right" src="https://i.imgur.com/fL4g3XK.png"> **Geodude** |
+| <img align="right" src="https://i.imgur.com/O8DschK.png"> Zubat with `pal` | <img align="right" src="https://i.imgur.com/fL4g3XK.png"> Geodude |
 |||
-| <img align="right" src="https://i.imgur.com/9EoPf1h.png"> **Onix** with `fsback` | <img align="right" src="https://i.imgur.com/R0BVzBx.png"> **Machop** with `pal`, `hop2`, `fsback` |
+| <img align="right" src="https://i.imgur.com/9EoPf1h.png"> Onix with `fsback` | <img align="right" src="https://i.imgur.com/R0BVzBx.png"> Machop with `pal`, `hop2`, `fsback` |
 
 In the manipped encounter:
 
@@ -462,7 +462,7 @@ In the manipped encounter:
 
 ### Route 11 #1
 
-<img align="right" src="https://i.imgur.com/acVQIoi.png">
+<img align="right" src="https://i.imgur.com/nnfUgdb.png">
 
 You will be crazywarped to Route 11, close the menu and catch **Scyther**.
 
@@ -472,7 +472,7 @@ Bike to the item ball, talk to it, and catch **Koffing**. <ins>Warning:</ins> ou
 
 Talk to the sailor below and catch **Moltres**.
 
-<img align="right" src="https://i.imgur.com/zDHwwFt.png">
+<img align="right" src="https://i.imgur.com/CPVEUiy.png">
 
 After both crazywarp catches, exit Route 11 by moving left on the row below Moltres until the sprites have disappeared. Move back to the right and enter Diglett's Cave, which may be partially covered by other graphics.
 
@@ -506,12 +506,12 @@ Manip **Sandshrew** if you still need it (**unjack** and move to the Growlithe t
 
 Get a final wild encounter and LG for **Hitmonchan**. Fly to Celadon directly after.
 
-Enter the center and **change boxes**. Open the menu while at the PC:
+Enter the center, deposit NidoranM, then **change boxes**. Open the menu while at the PC:
 
 - Swap jack in slot 6 with Fire Stone x15
-- Swap jack again with Moon Stone x10 in roaming
+- Swap jack again with HM04 in TLP2
+- Swap jack again with Ultra Ball x0 in brightness
 - Swap jack again with north connection (j. x255)
-- Swap HM04 in TLP2 with Ultra Ball x0 in brightness
 
 Walk **1** tile up and **buffer Start** to enter Tower 4F.
 
@@ -532,19 +532,19 @@ You will be crazywarped to Route 21. Hop on the bicycle in the trainer fly menu,
 
 An item ball will walk to you; catch **Vulpix**. Bike down to talk to the item ball and catch **Fearow**. Bike left then up to talk to the last item ball and catch **Gengar**. <ins>Warning:</ins> the fisherman has a range of 4, do not get seen while he is still there.
 
-<img align="right" src="https://i.imgur.com/kk5rrda.png">
+<img align="right" src="https://i.imgur.com/IIdeVnv.png">
 
 Search for wild encounters on the tile in the picture. Only catch Pidgeotto if it's level 32, **never** catch Tangela.
 
 In your first unneeded encounter LG for **Tentacool**:
 
 - Use 9F
-- Swap HM04 in TLP2 in with Bike Voucher in width
-- Swap HM04 again with Moon Stone x0 in x coord
-- Swap HM04 again with Soulbadge in tileset
+- Swap Old Amber in rival name with Moon Stone x0 in x coord
+- Swap Ultra Ball x0 in brightness with HM04 in TLP2
+- Swap Ultra Ball again with Bike Voucher in width
 - Flash map
-- Swap HM04 again with Moon Stone x0 in width
-- Swap HM04 again with Bike Voucher in TLP2
+- Swap Ultra Ball back with the Bike Voucher
+- Swap Ultra Ball back with the HM04
 - Flash WA4 in options then throw a preoptions Master Ball
 
 Manip **Pidgeotto** if you still need it, otherwise save and soft reset.
@@ -558,7 +558,7 @@ Manip **Pidgeotto** if you still need it, otherwise save and soft reset.
 Find another encounter, now on the tile in this picture, and LG for **Charmander**:
 
 - Use 9F
-- Swap Burn Heal in inventory with Poke Flute in money
+- Swap Burn Heal x1 in inventory with Poke Flute in money
 - Swap Burn Heal again with Ultra Ball x0 in brightness
 - Swap Burn Heal again with HM04 in TLP2
 - Toss 8 from the Fire Stone stack above (map ID)
@@ -577,7 +577,7 @@ Fly to Celadon directly after.
 
 ### Route 16
 
-In Celadon move **1** tile left, swap Great Ball in inventory with Rare Candy x0 in x coord, then hop on the bicycle in map ID.
+In Celadon move **1** tile left, swap Great Ball x1 in inventory with Rare Candy x0 in x coord, then hop on the bicycle in map ID.
 
 <img align="right" src="https://i.imgur.com/Emo674H.png">
 
@@ -611,6 +611,7 @@ Alternate up and down steps until you get an encounter, then do the following:
 - Use 9F
 - Open items (do **not** flash map or trainer card)
 - Flash "4" and throw a Master Ball to catch **Horsea**
+- Swap Master Ball x[]8 in inventory (**not** main stack) with Moon Stone x0 in rival name
 - Swap the unnamed item in rival name (from Victory Road) with x coord, which is either a Repel or an Escape Rope
 - Save + Quit, manip the final encounter
 
@@ -642,7 +643,8 @@ Bike back to the tile you arrived at originally and move **1** tile left to retu
 
 In the trainer fly menu do the following:
 
-- Swap Super Potion x83 from inventory with Ultra Ball x0 in brightness
+- Evolve Exeggcute, NidoranF, Paras (if needed), and Nidorina
+- Swap Super Potion x83 in inventory with Ultra Ball x0 in brightness
 - Swap Super Potion x83 again with j. x2 in warping
 
 Exit the menu and catch **Oddish**. Exit the gym to warp to the Power Plant.
@@ -703,12 +705,12 @@ LG for **Squirtle** & friends:
 
 ### Route 7 + Silph Co.
 
-Enter the center and **change boxes**.
+Enter the center, deposit Pidgey, Paras(ect), Nidoqueen, and Exeggutor, then **change boxes**.
 
 Use Bicycle in map ID to bike to the prize corner and purchase:
 
-- **Pinsir**, **Porygon**, and **Dratini** from the middle window,
-- **Abra**, **Nidorino**, and **Clefairy** from the left window.
+- **Abra**, **Clefairy**, and **Nidorino** from the left window
+- **Dratini**, **Pinsir**, and **Porygon** from the middle window
 
 Leave the prize corner and bike to Route 7.
 
@@ -759,16 +761,15 @@ LG for **Weedle**:
 - Swap Moon Stone x16 in tileset with Pokedex in width
 - Toss 3 Moon Stones
 - Flash **trainer card**
-- Swap the Moon Stones back with the Pokedex
 - Toss all-but-8 from j. x255 in north connection
-- Toss the entire TM50 stack below
-- Flash "4" and throw a Master Ball
+- Swap the Moon Stones back with the Pokedex
+- Flash WA4 in options then throw a preoptions Master Ball
 
 Walk **1** tile up (hold up, there is a long delay before you can move). After, flash the start menu, walk **1** tile down and **1** tile up to enter Cinnabar center.
 
 ### Cinnabar Island
 
-Inside the center, swap Revive x93 with Master Ball x118 in TID1, then again with Poke Doll x94 in text pointer. Talk to Nurse Joy, who now revives fossils, and give her a Helix Fossil. **Undo the last swap** then leave the center.
+Inside the center, swap Revive x93 in TID1 with Poke Doll x94 in text pointer. Talk to Nurse Joy, who now revives fossils, and give her a Helix Fossil. **Undo the last swap** then leave the center.
 
 Enter the center again and swap the Revives with the Poke Dolls again. Talk to Nurse Joy to receive **Omanyte**, give her an Old Amber, and **undo the swap**. **Change boxes** then leave the center.
 
@@ -793,7 +794,7 @@ Walk to the tile in the picture to do the first menu:
 - Swap Poke Dolls again with TM35 x198 (down 2)
 - Toss 33 TM35s
 - Swap Poke Dolls again with "44yPC" in text pointer
-- Toss 1 Poke Doll
+- Use 1 Poke Doll
 
 <img align="right" src="https://i.imgur.com/HaM6wnQ.png">
 
