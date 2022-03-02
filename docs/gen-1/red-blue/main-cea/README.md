@@ -280,7 +280,6 @@ Bike **4** tiles to the right, then alternate left and right steps until you get
 - Flash map (close then open the start menu)
 - Swap the TM18s back with Ice Heal x15
 - Swap vtm back with the HM04, now in rival name
-- Toss 7 from TM41 x80 directly below
 - Flash WA4 (press A on it so the Use/Toss window comes up, then press B)
 - Throw a Master Ball from TID1 (down 2)
 
@@ -310,8 +309,10 @@ Leave the center to warp to Cerulean Cave.
 
 Walk below the item ball: (you currently have 3 steps of encounter immunity!)
 
-- Swap "4" x77 in map data with Full Restore x77 in text pointer
-- Swap 4 again with TM41 in rival name
+- Swap Old Amber in brightness with Parlyz Heal x[]4 in TID2
+- Swap TM41 x80 in rival name with "4" x77 in map data
+- Swap TM41 again with Full Restore x77 in text pointer
+- Toss 7 TM41s
 - Talk to the item ball, catch the **Golem** that appears
 
 Cerulean Cave is filled with Pokemon we call **bonuses**. They are typically evolutions of Pokemon we catch throughout the run. Catching bonuses will save withdrawing the pre-evolution, candying it, watching it evolve, and depositing it. In general, if it's on your screen and you don't have it, catch it unless the notes say otherwise.
@@ -333,8 +334,7 @@ Catch things on any floor until you are satisfied then go to the basement.
 
 Move **2** tiles above the ladder and open the menu:
 
-- Swap Super Repel x1 with Parlyz Heal x224 in TID2
-- Swap Super Repel again with the Old Amber in brightness directly below
+- Swap Revive x93 in inventory with Master Ball x[]3 in TID1
 - Swap Great Ball x0 in x coord with the Soulbadge in tileset
 - Bike down and catch **Mewtwo**
 
@@ -346,6 +346,7 @@ After Mewtwo, move **3** tiles left then continue to search for an unneeded enco
 - Toss 32 TM27s in TLP1
 - Flash map
 - Toss 1 TM27 in TLP1
+- Swap Old Amber in brightness with Master Ball x[]8 in warping
 - Swap Awakenings back with the HM04, now in rival name
 - Flash WA4 in options then throw a preoptions Master Ball
 
@@ -355,24 +356,19 @@ Manip **Chansey** with <ins>extra text while saving</ins>. You do not need to mo
 
 In the manipped encounter:
 
-- Swap Parlyz Heal x224 with Thunderbadge in x coord
-- Swap TM27 in map ID with the Old Amber in TID2 (**top** Old Amber stack)
-- Swap the Master Ball stack in TID1 with the Master Ball stack in preoptions to merge them (swap order matters)
-- Throw a preoptions Master Ball
+- Swap Master Ball x[]3 in inventory (**not** main stack) with Master Ball x4 in preoptions
+- Swap Old Amber in TID2 (**top** Old Amber stack) with TM27 x7 in map ID
+- Throw a Master Ball (up 1)
 
 You will be crazywarped to Route 20, close the menu and catch **Alakazam**.
 
-Talk to the item ball to your right and catch **Kangaskhan**.
+Bike left to an item ball, talk to it, and catch **Kangaskhan**.
 
-If you didn't catch **Magneton** in Cerulean Cave: bike upwards to another item ball, talk to it, and catch it. Before menuing, move left as needed so the cave entrance tile will be covered by the start menu.
+If you didn't catch **Magneton** in Cerulean Cave: bike upwards to another item ball, talk to it, and catch it.
 
-Open the item bag:
+Fly to Pewter, enter the center, and **change boxes**.
 
-- Swap Thunderbadge in items with Old Amber in map ID
-- Swap Thunderbadge again with Pokedex in width
-- Fly to Celadon, enter the center, and **change boxes**
-- Walk to the left doormat tile
-- Swap Master Ball x6 in warping with PCEKANS in rival name
+Walk to the left doormat tile, then swap PCEKANS in rival name with Master Ball x2 in warping.
 
 Leave the center to warp to Seafoam B2F.
 
@@ -385,6 +381,7 @@ Corner bonk to the right of the bottom ladder for encounters.
 In your first unneeded encounter LG for **Magikarp**:
 
 - Use 9F
+- Swap Master Ball x2 in rival name with Old Amber in brightness
 - Swap HM04 in TLP2 with Max Potion x0 in roaming
 - Swap HM04 again with BLUE in text pointer
 - Swap TM50 x0 1 above with Pokedex, also 1 above
@@ -406,7 +403,7 @@ Manip **Shellder** with `pal`, `fsback` (not cycling yet) if you didn't catch on
 | Seafoam B4F |
 | ![](https://i.imgur.com/4cFWgKv.png) |
 
-<img align="right" src="https://i.imgur.com/721AlTW.png">
+<img align="right" src="https://i.imgur.com/fgT6BOX.png">
 
 Hop on the bicycle and take the ladder to B3F. 
 
@@ -414,9 +411,11 @@ Catch **Psyduck** and **Seel**.
 
 Afterwards jack through the wall shown in the picture and take the ladder to the basement.
 
-In the basement catch **Krabby** and **Staryu**, then jack over the water to catch **Articuno**.
+In the basement catch **Krabby**, **Staryu**, and jack across the water to catch **Articuno**.
 
-Use an Escape Rope from badges. Enter the center and **change boxes**. Open the menu while at the PC:
+When done, swap Super Repel x1 in inventory with Old Amber in brightness, then use an Escape Rope from badges.
+
+Enter the center and **change boxes**. Open the menu while at the PC:
 
 - Swap Ultra Ball x0 in brightness with HM04 in TLP2
 - Swap Potion x6 in tileset with Parlyz Heal x65 in roaming
@@ -437,14 +436,15 @@ Bonk for an encounter before hopping on the bicycle.
 
 Catch everything but 1 of: **Machop**, **Geodude**, **Zubat**, **Onix**. At some point while searching, decide when to take the ladder you arrived on to move towards the next LG on 1F.
 
-<img align="right" src="https://i.imgur.com/3TwooOP.png">
+<img align="right" src="https://i.imgur.com/P3EThWG.png">
 
 Once you have all but 1, get an encounter on the tile in the picture (do **not** approach from the right) and LG for **Machamp**:
 
 - Use 9F
-- Swap HM04 in TLP2 with Volcanobadge in text pointer
+- Swap Old Amber in brightness with HM04 in TLP2
+- Swap Old Amber again with Volcanobadge in text pointer
 - Flash map
-- Swap the HM04 back with the Volcanobadge
+- Swap the Volcanobadge, now in TLP2, with the HM04, now in brightness
 - Flash WA4 in options then throw a preoptions Master Ball
 - Save + Quit, manip the final encounter <ins>(read the next part before catching)</ins>
 
@@ -462,7 +462,7 @@ In the manipped encounter:
 
 ### Route 11 #1
 
-<img align="right" src="https://i.imgur.com/acVQIoi.png">
+<img align="right" src="https://i.imgur.com/nnfUgdb.png">
 
 You will be crazywarped to Route 11, close the menu and catch **Scyther**.
 
@@ -472,7 +472,7 @@ Bike to the item ball, talk to it, and catch **Koffing**. <ins>Warning:</ins> ou
 
 Talk to the sailor below and catch **Moltres**.
 
-<img align="right" src="https://i.imgur.com/zDHwwFt.png">
+<img align="right" src="https://i.imgur.com/CPVEUiy.png">
 
 After both crazywarp catches, exit Route 11 by moving left on the row below Moltres until the sprites have disappeared. Move back to the right and enter Diglett's Cave, which may be partially covered by other graphics.
 
@@ -509,9 +509,9 @@ Get a final wild encounter and LG for **Hitmonchan**. Fly to Celadon directly af
 Enter the center and **change boxes**. Open the menu while at the PC:
 
 - Swap jack in slot 6 with Fire Stone x15
-- Swap jack again with Moon Stone x10 in roaming
+- Swap jack again with HM04 in TLP2
+- Swap jack again with Ultra Ball x0 in brightness
 - Swap jack again with north connection (j. x255)
-- Swap HM04 in TLP2 with Ultra Ball x0 in brightness
 
 Walk **1** tile up and **buffer Start** to enter Tower 4F.
 
@@ -532,19 +532,19 @@ You will be crazywarped to Route 21. Hop on the bicycle in the trainer fly menu,
 
 An item ball will walk to you; catch **Vulpix**. Bike down to talk to the item ball and catch **Fearow**. Bike left then up to talk to the last item ball and catch **Gengar**. <ins>Warning:</ins> the fisherman has a range of 4, do not get seen while he is still there.
 
-<img align="right" src="https://i.imgur.com/kk5rrda.png">
+<img align="right" src="https://i.imgur.com/IIdeVnv.png">
 
 Search for wild encounters on the tile in the picture. Only catch Pidgeotto if it's level 32, **never** catch Tangela.
 
 In your first unneeded encounter LG for **Tentacool**:
 
 - Use 9F
-- Swap HM04 in TLP2 in with Bike Voucher in width
-- Swap HM04 again with Moon Stone x0 in x coord
-- Swap HM04 again with Soulbadge in tileset
+- Swap Old Amber in rival name with Moon Stone x0 in x coord
+- Swap Ultra Ball x0 in brightness with HM04 in TLP2
+- Swap Ultra Ball again with Bike Voucher in width
 - Flash map
-- Swap HM04 again with Moon Stone x0 in width
-- Swap HM04 again with Bike Voucher in TLP2
+- Swap Ultra Ball back with the Bike Voucher
+- Swap Ultra Ball back with the HM04
 - Flash WA4 in options then throw a preoptions Master Ball
 
 Manip **Pidgeotto** if you still need it, otherwise save and soft reset.
@@ -558,7 +558,7 @@ Manip **Pidgeotto** if you still need it, otherwise save and soft reset.
 Find another encounter, now on the tile in this picture, and LG for **Charmander**:
 
 - Use 9F
-- Swap Burn Heal in inventory with Poke Flute in money
+- Swap Burn Heal x1 in inventory with Poke Flute in money
 - Swap Burn Heal again with Ultra Ball x0 in brightness
 - Swap Burn Heal again with HM04 in TLP2
 - Toss 8 from the Fire Stone stack above (map ID)
@@ -577,7 +577,7 @@ Fly to Celadon directly after.
 
 ### Route 16
 
-In Celadon move **1** tile left, swap Great Ball in inventory with Rare Candy x0 in x coord, then hop on the bicycle in map ID.
+In Celadon move **1** tile left, swap Great Ball x1 in inventory with Rare Candy x0 in x coord, then hop on the bicycle in map ID.
 
 <img align="right" src="https://i.imgur.com/Emo674H.png">
 
@@ -611,6 +611,7 @@ Alternate up and down steps until you get an encounter, then do the following:
 - Use 9F
 - Open items (do **not** flash map or trainer card)
 - Flash "4" and throw a Master Ball to catch **Horsea**
+- Swap Master Ball x[]8 in inventory (**not** main stack) with Moon Stone x0 in rival name
 - Swap the unnamed item in rival name (from Victory Road) with x coord, which is either a Repel or an Escape Rope
 - Save + Quit, manip the final encounter
 
@@ -759,16 +760,15 @@ LG for **Weedle**:
 - Swap Moon Stone x16 in tileset with Pokedex in width
 - Toss 3 Moon Stones
 - Flash **trainer card**
-- Swap the Moon Stones back with the Pokedex
 - Toss all-but-8 from j. x255 in north connection
-- Toss the entire TM50 stack below
-- Flash "4" and throw a Master Ball
+- Swap the Moon Stones back with the Pokedex
+- Flash WA4 in options then throw a preoptions Master Ball
 
 Walk **1** tile up (hold up, there is a long delay before you can move). After, flash the start menu, walk **1** tile down and **1** tile up to enter Cinnabar center.
 
 ### Cinnabar Island
 
-Inside the center, swap Revive x93 with Master Ball x118 in TID1, then again with Poke Doll x94 in text pointer. Talk to Nurse Joy, who now revives fossils, and give her a Helix Fossil. **Undo the last swap** then leave the center.
+Inside the center, swap Revive x93 in TID1 with Poke Doll x94 in text pointer. Talk to Nurse Joy, who now revives fossils, and give her a Helix Fossil. **Undo the last swap** then leave the center.
 
 Enter the center again and swap the Revives with the Poke Dolls again. Talk to Nurse Joy to receive **Omanyte**, give her an Old Amber, and **undo the swap**. **Change boxes** then leave the center.
 
@@ -793,7 +793,7 @@ Walk to the tile in the picture to do the first menu:
 - Swap Poke Dolls again with TM35 x198 (down 2)
 - Toss 33 TM35s
 - Swap Poke Dolls again with "44yPC" in text pointer
-- Toss 1 Poke Doll
+- Use 1 Poke Doll
 
 <img align="right" src="https://i.imgur.com/HaM6wnQ.png">
 
