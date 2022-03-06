@@ -2,7 +2,7 @@
 
 # Pokemon Blue: Catch 'Em All
 
-Autumn 2020 route & guide, last updated <ins>1 March 2022</ins>
+Autumn 2020 route & guide, last updated <ins>6 March 2022</ins>
 
 ## Before We Begin
 
@@ -343,7 +343,7 @@ After Mewtwo, move **3** tiles left then continue to search for an unneeded enco
 - Use 9F
 - Swap Awakenings in slot 4 with "4" in rival name
 - Swap Awakenings again with HM04 in TLP2
-- Toss 32 TM27s in TLP1
+- Toss all-but-8 TM27s in TLP1
 - Flash map
 - Toss 1 TM27 in TLP1
 - Swap Old Amber in brightness (**bottom** Old Amber stack) with Master Ball x[]8 in warping
@@ -366,11 +366,12 @@ Bike left to an item ball, talk to it, and catch **Kangaskhan**.
 
 If you didn't catch **Magneton** in Cerulean Cave: bike upwards to another item ball, talk to it, and catch it.
 
-Fly to Pewter, enter the center, and **change boxes**.
+Fly to Pewter, enter the center, and **change boxes**. Walk **2** tiles left and **1** tile down, then open the menu:
 
-Walk to the left doormat tile, then swap PCEKANS in rival name with Master Ball x2 in warping.
+- Swap PCEKANS x[]0 in rival name with Master Ball x2 in warping
+- Swap Antidote x0 in x coord with Ultra Ball x0 in brightness
 
-Leave the center to warp to Seafoam B2F.
+Walk **1** tile right then **3** tiles down to warp to Seafoam B2F.
 
 ### Seafoam Islands
 
@@ -446,7 +447,7 @@ Once you have all but 1, get an encounter on the tile in the picture (do **not**
 - Flash map
 - Swap the Volcanobadge, now in TLP2, with the HM04, now in brightness
 - Flash WA4 in options then throw a preoptions Master Ball
-- Save + Quit, manip the final encounter <ins>(read the next part before catching)</ins>
+- Manip the final encounter <ins>(read the next part before catching)</ins>
 
 |||
 |---|---|
@@ -567,11 +568,11 @@ Find another encounter, now on the tile in this picture, and LG for **Charmander
 - Swap Burn Heal back with the HM04
 - Flash WA4 in options then throw a preoptions Master Ball
 
-Manip **Tangela** with `pal(hold)`, `fsback x2`. You do not need to move before saving for this manip.
+Manip **Tangela**. You do not need to move before saving for this manip.
 
 | |
 |---|
-| ![](https://i.imgur.com/8vNMicz.png) |
+| <img align="right" src="https://i.imgur.com/8vNMicz.png"> Tangela with `pal(hold)`, `fsback x2` |
 
 Fly to Celadon directly after.
 
@@ -583,7 +584,7 @@ In Celadon move **1** tile left, swap Great Ball x1 in inventory with Rare Candy
 
 Follow the path shown, it will lead you to Route 16 with a trainer fly waiting. Catch the **Dragonite** that appears.
 
-Use jack to get on the tree to the right of **Snorlax**, then play the Poke Flute to wake it up (no need to unjack for this).
+Use jack to get on the tree to the right of **Snorlax**, then play the Poke Flute to wake it up (you don't need to unjack).
 
 | |
 |---|
@@ -613,7 +614,7 @@ Alternate up and down steps until you get an encounter, then do the following:
 - Flash "4" and throw a Master Ball to catch **Horsea**
 - Swap Master Ball x[]8 in inventory (**not** main stack) with Moon Stone x0 in rival name
 - Swap the unnamed item in rival name (from Victory Road) with x coord, which is either a Repel or an Escape Rope
-- Save + Quit, manip the final encounter
+- Manip the final encounter
 
 ||||
 |---|---|---|
@@ -692,7 +693,7 @@ After "9F warping" walk **1** tile right, jack **1** tile up, press Down and hol
 LG for **Squirtle** & friends:
 
 - Swap Antidote x4 in inventory with Coin Case in TLP2
-- Toss 4 from JACK x255 one slot above (if not tossable, flash toss Antidotes)
+- Toss 4 from "JACK" x255 one slot above (if not tossable, flash toss Antidotes)
 - Swap Ultra Ball x0 in brightness with Potion x2 in tileset
 - **If you 9F warped from a manip, throw a Master Ball from warping**
 - Swap Parlyz Heal x1 in x coord with j. x64 in map data (4 slots down)
@@ -712,34 +713,28 @@ Use Bicycle in map ID to bike to the prize corner and purchase:
 - **Abra**, **Clefairy**, and **Nidorino** from the left window
 - **Dratini**, **Pinsir**, and **Porygon** from the middle window
 
+<img align="right" src="https://i.imgur.com/o5fYYEN.png">
+
 Leave the prize corner and bike to Route 7.
+
+Get an encounter and catch it if it's **Bellsprout**. If it's not, LG for **Mankey**. The tile you move to depends on what you will do after the LG:
+
+If you need Bellsprout, move to the **left Mankey tile** and manip after.
+
+If you already caught Bellsprout, move to the **right Mankey tile** and utilize the Metapod tile after. Move to the Metapod tile in the picture then **use** "4" to generate a Metapod encounter and run away from it.
 
 | |
 |---|
-| Route 7 |
-| ![](https://i.imgur.com/VKtlLuw.png) |
+| <img align="right" src="https://i.imgur.com/kzMYCjP.png"> Bellsprout |
 
-<img align="right" src="https://i.imgur.com/o5fYYEN.png">
-
-Dsum for either a **Bellsprout** or a **Meowth** (the other can be manipped later).
-
-In your first unneeded encounter you will LG for Mankey. The tile you move to depends on what you will do after the LG:
-
-If you still need **Bellsprout** or **Meowth**, move to the **left Mankey tile** and manip after.
-
-If you caught both, move to the **right Mankey tile** and utilize the Metapod tile after. Move to the Metapod tile in the picture then **use** "4" to generate a Metapod encounter and run away from it.
-
-|||
-|---|---|
-| <img align="right" src="https://i.imgur.com/kzMYCjP.png"> Bellsprout | <img align="right" src="https://i.imgur.com/rcL53Fi.png"> Meowth with `pal`, `hop2`, `fsback` |
-
-After having caught Bellsprout and Meowth, get an encounter and LG for **Ivysaur**:
+After having caught Bellsprout and Mankey, get an encounter and LG for **Ivysaur**:
 
 <img align="right" src="https://i.imgur.com/wHdfGOJ.png">
 
 - Use 9F
 - Unjack, enter the guardhouse to your right
 - Walk **1** tile right and **1** tile up, face left
+- Swap Poke Flute with HM04 above Helix Fossil
 - Swap Helix Fossil with HM03 in TLP2
 - Swap Ultra Ball x0 in brightness with Master Ball x18 in warping
 - Toss 21 Ultra Balls
@@ -760,35 +755,51 @@ LG for **Weedle**:
 - Swap HM04 in TLP2 with Master Ball x0 in x coord
 - Swap Moon Stone x16 in tileset with Pokedex in width
 - Toss 3 Moon Stones
-- Flash **trainer card**
+- Flash map
 - Toss all-but-8 from j. x255 in north connection
-- Swap the Moon Stones back with the Pokedex
+- Toss 1 from Master Ball x0 in TLP2
+- Toss 1 from TM35 x22 in TLP1
 - Flash WA4 in options then throw a preoptions Master Ball
+- Flash **trainer card**
+- Flash WA4 in options
 
-Walk **1** tile up (hold up, there is a long delay before you can move). After, flash the start menu, walk **1** tile down and **1** tile up to enter Cinnabar center.
+Close the menu and wait to enter Cinnabar center.
 
 ### Cinnabar Island
 
 Inside the center, swap Revive x93 in TID1 with Poke Doll x94 in text pointer. Talk to Nurse Joy, who now revives fossils, and give her a Helix Fossil. **Undo the last swap** then leave the center.
 
-Enter the center again and swap the Revives with the Poke Dolls again. Talk to Nurse Joy to receive **Omanyte**, give her an Old Amber, and **undo the swap**. **Change boxes** then leave the center.
+Enter the center again and swap the Revives with the Poke Dolls again. Talk to Nurse Joy to receive **Omanyte**, give her an Old Amber, and **change boxes**.
 
-<img align="right" src="https://i.imgur.com/ZIFaTlX.png">
+<img align="right" src="https://i.imgur.com/K2toQQL.png">
 
-Enter the center again(!) and walk to the tile in the picture. Swap the Revives with the Poke Dolls one more time, then LG for **Jynx**:
+Walk to the tile in the picture to start the LG for **Jynx**: <ins>Warning:</ins> Moving to the doormat tiles from above may cause you to leave and lose the Revives.
 
 - Swap Card Key in map data with HM04 in TLP2
 - Flash map
-- Swap Card Key back with HM04, now in map data
-- Flash WA4 in options then throw a preoptions Master Ball
-- Catch **Ditto** by throwing another preoptions Master Ball
+- Flash NEW NAME in TLP1
+- Swap Card Key back with HM04
+- Swap Revive x93 in text pointer with south connection (1 below CANCEL)
 - Unjack
 
-Talk to Nurse Joy to receive **Aerodactyl**. Leave the center (don't undo any swaps).
+Leave the center, enter the mart, and open the menu:
+
+- Swap Revives (already on it) with "4" in text pointer. This 4 is a click item, which requires pressing B **once** whenever its name prints to continue scrolling.
+- Catch Jynx by throwing a preoptions Master Ball 
+- Catch **Ditto** by throwing another preoptions Master Ball
+
+<img align="right" src="https://i.imgur.com/nXZBsdc.png">
+
+Talk to the mart guy to receive **Aerodactyl**.
+
+LG for **Meowth** on the tile in the picture:
+
+- Flash WA4 in options then throw a preoptions Master Ball
+- Unjack
 
 <img align="right" src="https://i.imgur.com/aA3TuOc.png">
 
-Walk to the tile in the picture to do the first menu:
+Leave the mart and walk to the tile in the picture to do the first menu:
 
 - Swap Poke Doll x94, now in TID1, with Pokedex in north connection (**second** Pokedex scrolling down)
 - Swap Poke Dolls again with TM35 x198 (down 2)
@@ -796,9 +807,11 @@ Walk to the tile in the picture to do the first menu:
 - Swap Poke Dolls again with "44yPC" in text pointer
 - Use 1 Poke Doll
 
+Talk to the sign next to the gym once to receive **Eevee**. 
+
 <img align="right" src="https://i.imgur.com/HaM6wnQ.png">
 
-Walk below the sign next to the gym and **face right** to do the second menu:
+**Face right** to do the second menu:
 
 - Swap Pokedex in width with Moon Stone x0 in tileset
 - Toss 17 Moon Stones
@@ -806,7 +819,7 @@ Walk below the sign next to the gym and **face right** to do the second menu:
 - Toss all-but-3 Ultra Balls
 - Flash map
 
-The setup for "Eevee Factory" is now complete. Follow the instructions to catch **Lickitung**, **Eevee**, **Slowpoke**, **Eevee**, **Poliwag**, and **Eevee**.
+The setup for "Eevee Factory" is now complete. Follow the next instructions to catch Lickitung, Eevee, Slowpoke, Eevee, and Poliwag.
 
 <img align="right" src="https://i.imgur.com/hwBdghB.png">
 
@@ -836,40 +849,40 @@ LG for **Poliwag**:
 - Walk **1** tile right, **2** tiles up, **3** tiles right
 - Face left and flash WA4 to active jack, move down **1** tile
 - Flash WA4 in options then throw a preoptions Master Ball
-- Unjack, close the menu
-- <ins>Hold left (not up)</ins> to walk **1** tile left, **1** tile up, **2** tiles left, **3** tiles down
-- Face left and press A to receive **Eevee**
 
-Walk **4** tiles up to enter Mansion 1F.
+Walk **2** tiles up after a delay (you don't need to unjack) to enter Mansion 1F.
 
 ### Cinnabar Mansion
+
+Swap HM04 in TLP2 with Poke Flute in inventory, then manip **Weezing** with <ins>extra text while saving</ins>. You do not need to move before saving for this manip.
+
+| |
+|---|
+| <img align="right" src="https://i.imgur.com/z8KlzpG.png"> Weezing with `pal(hold)` |
 
 | |
 |---|
 | ![](https://i.imgur.com/pQ7EITv.png) |
 
-Dsum for both **Grimer** and **Ponyta**. Muk and Weezing can appear as bonuses.
+Dsum for either a **Grimer** or a **Ponyta** (the other can be manipped later). Muk can appear as a bonus.
 
-<img align="right" src="https://i.imgur.com/3PaFhL5.png">
+<img align="right" src="https://i.imgur.com/qUgD8Gz.png">
 
-Jack through the wall to your right, then corner bonk on the tile in the picture for encounters (you do not need to unjack).
+Make sure your three-step-rule will end then jack to the tile in the picture, ideally by flashing "4" on the highlighted tile.
 
-In your first unneeded encounter LG for **Electabuzz**:
+Bonk for an encounter (you don't need to unjack) and LG for **Electabuzz**:
 
 - Use 9F
-- Swap Poke Flute in inventory with HM05 in TLP2
 - Flash map
-- Flash WA4 in options then throw a preoptions Master Ball
+- Flash "4" then throw a Master Ball
 
-<img align="right" src="https://i.imgur.com/mqWMcA8.png">
-
-Manip **Weezing** with <ins>extra text while saving</ins>, or if you somehow caught one naturally, manip **Muk** instead.
+Manip one of the following:
 
 |||
 |---|---|
-| Weezing | `pal`, `hop2`, `fsback`, `D S_B R R R` |
+| <img align="right" src="https://i.imgur.com/g8fPXm1.png"> Grimer with `hop1` | <img align="right" src="https://i.imgur.com/UkY3NTF.png"> Ponyta with `pal(hold)` |
 |||
-| Muk | `nopal(ab)`, `fsback`, `D` |
+| <img align="right" src="https://i.imgur.com/opi33H2.png"> Muk wih `nopal(ab)`, `fsback` | <img align="right" src="https://i.imgur.com/GawJkTb.png"> Weezing with `pal`, `hop2`, `fsback` |
 
 After having caught Grimer, Ponyta, and Weezing, use an Escape Rope <ins>from badges</ins>, then enter Vermilion center.
 
@@ -966,11 +979,15 @@ Timing ends when the screen fully fades to white after 151 Pokemon are displayed
 |||
 | ![](https://i.imgur.com/9h54TuN.png) | Bellsprout Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=18#8/15/UUUAUUUUUUU)<br>nopal, fastest buffers<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://i.imgur.com/9h54TuN.png) | Meowth Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=18#8/15/UUUAUUUUUUAUUU)<br>pal, hop2, fsback<br><br>60/60 |
+| ![](https://i.imgur.com/lbT4Bg2.png) | Weezing Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#5/10/URRRUUUS_BUS_BLLLLAUU)<br>pal(hold), fastest buffers<br><br>58/60<br>Frame 36: [L34 Ponyta encounter](https://gunnermaniac.com/pokeworld?local=165#8/6)<br>Frame 37: [L37 Muk encounter](https://gunnermaniac.com/pokeworld?local=165#4/3) |
 |||
-| ![](https://i.imgur.com/9C6CTIK.png) | Weezing Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#12/26/DS_BRRR)<br>pal, hop2, fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: [L37 Muk encounter](https://gunnermaniac.com/pokeworld?local=165#15/27) |
+| ![](https://i.imgur.com/9C6CTIK.png) | Grimer Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#4/2/D)<br>nopal, hop1<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://i.imgur.com/9C6CTIK.png) | Muk Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#12/26/D)<br>nopal(ab), fsback<br><br>60/60 |
+| ![](https://i.imgur.com/9C6CTIK.png) | Ponyta Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#4/2/DADDLLUAUL)<br>pal(hold), fastest buffers<br><br>59/60<br>Frame 36: No encounter |
+|||
+| ![](https://i.imgur.com/9C6CTIK.png) | Muk Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#4/2/D)<br>nopal(ab), fsback<br><br>60/60 |
+|||
+| ![](https://i.imgur.com/9C6CTIK.png) | Weezing Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#4/2/DS_LLL)<br>pal, hop2, fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: [L37 Muk encounter](https://gunnermaniac.com/pokeworld?local=165#1/3) |
 
 ## Brock Flies
 
