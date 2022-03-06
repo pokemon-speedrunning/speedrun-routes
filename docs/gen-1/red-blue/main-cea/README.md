@@ -8,7 +8,7 @@ Autumn 2020 route & guide, last updated <ins>1 March 2022</ins>
 
 Before doing runs of this category, it helps to be familiar with the following concepts, glitches, and techniques: <ins>(updated links welcome)</ins>
 
-- Item Underflow
+- [Item Underflow slots](https://glitchcity.wiki/Expanded_bag_item_documentation_(Generation_I))
 - RNG Manipulation and [its lingo](https://pastebin.com/QdgbSu35)
 - Trainer Fly
 - Lol Glitch ("LG")
@@ -181,7 +181,7 @@ Item bag:
 - Toss all-but-2 of slot 1
 - Swap slot 1 with slot 2, twice; this achieves item underflow
 
-* Swap slot 1 with badges
+* Swap slot 1 with badges (the slot below j. x[]9 in options)
 * Swap the slot above options ("preoptions") with Master Ball x5 in warping
 * Toss all-but-6 of the j. stack now in warping
 * Swap "vtm" x64 in map data with options
@@ -273,7 +273,7 @@ Bike **4** tiles to the right, then alternate left and right steps until you get
 
 - Use 9F (then press Start)
 - Move **3** tiles left
-- Swap Ice Heals in slot 6 with CANCEL x145 ("jack") in rival name
+- Swap Ice Heals in slot 6 with CANCEL x[]5 ("jack") in rival name
 - Swap vtm in rival name with HM04 in TLP2
 - Swap TM18 x42 in x coord with Ice Heal x15 in width
 - Toss 6 TM18s
@@ -346,7 +346,7 @@ After Mewtwo, move **3** tiles left then continue to search for an unneeded enco
 - Toss 32 TM27s in TLP1
 - Flash map
 - Toss 1 TM27 in TLP1
-- Swap Old Amber in brightness with Master Ball x[]8 in warping
+- Swap Old Amber in brightness (**bottom** Old Amber stack) with Master Ball x[]8 in warping
 - Swap Awakenings back with the HM04, now in rival name
 - Flash WA4 in options then throw a preoptions Master Ball
 
@@ -357,7 +357,7 @@ Manip **Chansey** with <ins>extra text while saving</ins>. You do not need to mo
 In the manipped encounter:
 
 - Swap Master Ball x[]3 in inventory (**not** main stack) with Master Ball x4 in preoptions
-- Swap Old Amber in TID2 (**top** Old Amber stack) with TM27 x7 in map ID
+- Swap Old Amber in TID2 with TM27 x7 in map ID
 - Throw a Master Ball (up 1)
 
 You will be crazywarped to Route 20, close the menu and catch **Alakazam**.
@@ -456,7 +456,7 @@ Once you have all but 1, get an encounter on the tile in the picture (do **not**
 
 In the manipped encounter:
 
-- Swap Cascadebadge with the nameless item in map ID (above HM04)
+- Swap Cascadebadge in rival name with the nameless item in map ID (above HM04)
 - Swap Master Ball x5 in warping with Parlyz Heal x17 in tileset
 - Throw a Master Ball
 
@@ -892,8 +892,8 @@ Evolve everything you need to in boxes 7 through 2 this way. (Box 1 will always 
 
 When done, deposit all but 1 Pokemon then do the following menu:
 
-- Swap Master Ball x118 (above "4") with HM04 in north connection (**second** HM04 scrolling down)
-- Swap "F" in text pointer (up 2) with TM40 x192 in width
+- Swap Master Ball x[]8 in rival name with HM04 in north connection (**second** HM04 scrolling down)
+- Swap "F" in text pointer (up 2) with TM40 x[]2 in width
 - Swap Master Ball x4 in TLP2 with Ultra Ball x0 in brightness
 
 <img align="right" src="https://i.imgur.com/ErqwNmg.png">
