@@ -15,7 +15,7 @@ If something isn't clear,you should watch:
 ## Brock Through Walls
 
 The first glitch we will perform is called Brock Through Walls.
-A detailed guide on what strategy could be best for you and how to execute it can be found [here](resources/Brock-Through-Walls-Guide.md)
+[A detailed guide on what strategy could be best for you and how to execute it can be found here](resources/Brock-Through-Walls-Guide.md)
 
 - **[1024 Charmander]** [Route 1 to weedle manip](https://www.youtube.com/watch?v=ZbAv0m19v9g)
 - **[PP/Pidgey Strat]** Viridian shop: buy
@@ -156,19 +156,19 @@ A detailed guide on what strategy could be best for you and how to execute it ca
 ## Misty
 
 - Walk down, right 1 tile, then down until you leave the gym
-- Enter gym
-- CANCEL round the left side of the gym to reach Misty
-- Talk to Misty.
+- Enter gym and do this movement <https://imgur.com/a/rSwhLV1>
+- CANCEL on the green tile, move left 3 tile, up 1 and talk to Misty without exiting cancel
 - Stomp x2
 
 ## Brock + Hall of Fame warp
 
+- Walk right 1 tile
 - Swap Soda pop with master ball x3
-- Swap HM04 with Great ball x0 below
+- Swap HM04 with Great ball x1 below
 - Swap [block]m[block] x72 below ????? with j. x255
 - Toss 18 from [block]m[block]
-- Close menu, walk up 1
-- Swap ????? above Soda Pop with [block]g[block]
+- Close menu, walk up 2
+- Swap ????? above 3F with [block]g[block]
 - Swap Potion x7 with HM05, toss 6 potions
 - Scroll up 1, toss all but 1
 - Walk 2 left, talk to Brock
