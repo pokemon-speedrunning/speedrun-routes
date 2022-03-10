@@ -162,7 +162,7 @@ The first glitch we will perform is called Brock Through Walls.
 
 ## Brock + Hall of Fame warp
 
-- Walk right 1 tile
+- Walk left 1 tile
 - Swap Soda pop with master ball x3
 - Swap HM04 with Great ball x1 below
 - Swap [block]m[block] x72 below ????? with j. x255
