@@ -20,7 +20,7 @@ Viridian Mart
 
 Do [Nido Manip](../resources/nido-manip.md)
 
-Do [Triple Extended Manip](../resources/triple-extended)
+Do [Triple Extended Manip](../resources/triple-extended/)
 
 ## BROCK SPLIT
 
