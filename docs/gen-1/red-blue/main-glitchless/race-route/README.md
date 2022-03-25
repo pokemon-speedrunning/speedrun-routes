@@ -489,7 +489,12 @@ Arbok Rocket:
 	- Use Parlyz Heal immediately if Glare hits
 
 Silph Rival:
-- Pidgeot: X Acc + (use Parlyz Heal if needed) + X Speed + HD
+- Pidgeot:
+	- X Acc
+	- [use Parlyz Heal if needed]
+	- Swap slot 8 **SS Ticket** with X Special
+	- X Speed
+	- HD
 - Gyarados: HD
 - Growlithe: RS on Early Drill / HD on Late Drill
 - Alakazam: HD
