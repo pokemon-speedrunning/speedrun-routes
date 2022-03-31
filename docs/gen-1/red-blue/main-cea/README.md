@@ -47,7 +47,7 @@ Hold the A or B button while clearing textboxes with the other while the text sp
 
 Name the player a one-character name like `A` or `I`.
 
-Name the rival `AaRRSA*`, where the asterisk is the character below S.
+Name the rival `AaRRSA×`, where × is the character below S.
 
 ### Pallet Town
 
@@ -65,7 +65,7 @@ Do **not** nickname the Bulbasaur, the name length is a requirement for the upco
 
 To manipulate Bulbasaur: walk below the ball, then hold Up and press Start for a buffered save (required). Save, hard reset, and execute the manip's intro. After loading the save buffer a start flash, buffer A to interact with the ball, then while holding A or B clear every textbox perfectly, including the Yes for Bulbasaur and the No for nicknaming.
 
-The IGT success rate on this manip is 56/60, but due to NPC timers the manip will fail an additional ~15% of the time.
+The IGT success rate on this manip is [56/60](https://pastebin.com/dUiiVZYS), but due to NPC timers the manip will fail an additional ~15% of the time.
 
 More info can be [found on pastebin](https://pastebin.com/L14vtxJS) and a video with inputs can be [found here](https://youtu.be/VjLFyiX5JdA).
 
@@ -77,11 +77,11 @@ Use Tackle on every turn. Heal up with a Potion if at 6 health or below. Winning
 
 After defeating the Charmander you will level up to 6. If you did not manipulate the Bulbasaur now is the perfect time to check your special stat:
 
-- 11 special -> 12 special at level 6 = reset (no chance of working)
-- 11 special -> 13 special at level 6 = go for level 8 (50% chance to work)
-- 12 special -> 13 special at level 6 = go for level 8 (100% chance to work)
-- 12 special -> 14 special at level 6 = go for level 7 (33% chance to work)
-- 13 special -> 14 special at level 6 = go for level 7 (100% chance to work)
+- 11 special → 12 special at level 6 = reset (no chance of working)
+- 11 special → 13 special at level 6 = go for level 8 (50% chance to work)
+- 12 special → 13 special at level 6 = go for level 8 (100% chance to work)
+- 12 special → 14 special at level 6 = go for level 7 (33% chance to work)
+- 13 special → 14 special at level 6 = go for level 7 (100% chance to work)
 
 Note regardless of the level 5 special stat, 13 at 6 will always try to go for level 8, and 14 at 6 will always try to go for level 7. A manipulated Bulbasaur will always go for level 7.
 
@@ -98,15 +98,13 @@ Enter Viridian Mart and buy:
 - 3-5 Poke Balls
 - 1 Parlyz Heal
 
-Non-manipulated Bulbasaurs can pick up [the tree potion](https://gunnermaniac.com/pokeworld?map=1#54/166) before leaving, especially if they took damage while gaining experience, but another potion later will be faster to pick up.
-
 ### Route 2
 
 <img align="right" src="https://i.imgur.com/MCefV9n.png">
 
 Manipulate a **Pidgey** encounter & catch with `nopal(ab)` and the path shown. This Pidgey will always have HP that works for Brock Through Walls and will always catch, so a random Pidgey is not a viable alternative.
 
-Ideally you extend the Pidgey manip into a **Caterpie** by clearing Pidgey's textboxes and Pokedex entry perfectly, then by moving `L R R U` afterwards. For beginners, or if an issue occurs, a solo Caterpie manip is an option once inside Viridian Forest.
+Ideally you extend the Pidgey manip into a **Caterpie** by clearing Pidgey's textboxes and Pokedex entry perfectly, then by moving `L R R U` afterwards, or by doing the [forest Caterpie extended](#rng-manipulations) (with npcs `DU,rl,ud`). For beginners, or if an issue occurs, a solo Caterpie manip is an option once inside Viridian Forest.
 
 ### Viridian Forest
 
@@ -375,9 +373,14 @@ Walk **1** tile right then **hold down** to warp to Seafoam B2F.
 
 ### Seafoam Islands
 
+| |
+|---|
+| Seafoam B2F |
+| ![](https://i.imgur.com/cBEc97H.png) |
+
 <img align="right" src="https://i.imgur.com/K7m7zHK.png">
 
-Corner bonk to the right of the bottom ladder for encounters.
+Corner bonk to the right of the bottom ladder for encounters. Hop on the bicycle after the first one.
 
 In your first unneeded encounter LG for **Magikarp**:
 
@@ -391,14 +394,17 @@ In your first unneeded encounter LG for **Magikarp**:
 - Swap HM04 back with Max Potion x0 in TLP2
 - Flash WA4 in options then throw a preoptions Master Ball
 
-<img align="right" src="https://i.imgur.com/vo0uq5G.png">
+Manip **Shellder** if you didn't catch one before the LG, otherwise manip one of your choice.
 
-Manip **Shellder** with `pal`, `fsback` (not cycling yet) if you didn't catch one before the LG, otherwise save and soft reset.
+||||
+|---|---|---|
+| <img align="right" src="https://i.imgur.com/WSPPC7o.png"> Shellder | <img align="right" src="https://i.imgur.com/qrlGA5a.png"> Seel | <img align="right" src="https://i.imgur.com/sUzFAjW.png"> Psyduck with `nopal(ab)` |
+|||
+| <img align="right" src="https://i.imgur.com/cCJwcXH.png"> Krabby with `nopal(ab)`, `fsback` | <img align="right" src="https://i.imgur.com/ccNYjy5.png"> Staryu with `fsback` | <img align="right" src="https://i.imgur.com/Ub5WwO1.png"> Kingler with `pal`, `hop2`, `fsback` |
+
 
 | |
 |---|
-| Seafoam B2F |
-| ![](https://i.imgur.com/cBEc97H.png) |
 | Seafoam B3F |
 | ![](https://i.imgur.com/0X9mMgf.png) |
 | Seafoam B4F |
@@ -406,7 +412,7 @@ Manip **Shellder** with `pal`, `fsback` (not cycling yet) if you didn't catch on
 
 <img align="right" src="https://i.imgur.com/fgT6BOX.png">
 
-Hop on the bicycle and take the ladder to B3F. 
+After Shellder take the bottom ladder to B3F.
 
 Catch **Psyduck** and **Seel**.
 
@@ -548,11 +554,13 @@ In your first unneeded encounter LG for **Tentacool**:
 - Swap Ultra Ball back with the HM04
 - Flash WA4 in options then throw a preoptions Master Ball
 
-Manip **Pidgeotto** if you still need it, otherwise save and soft reset.
+Manip **Pidgeotto** if you still need it, otherwise manip one of your choice.
 
 |||
 |---|---|
-| <img align="right" src="https://i.imgur.com/yPbkzx3.png"> Primary with `fsback` | <img align="right" src="https://i.imgur.com/okZSsNT.png"> Backup with `pal(hold)`, `hop1` |
+| <img align="right" src="https://i.imgur.com/yPbkzx3.png"> Pidgeotto with `fsback` | <img align="right" src="https://i.imgur.com/okZSsNT.png"> Backup Pidgeotto with `pal(hold)`, `hop1` |
+|||
+| <img align="right" src="https://i.imgur.com/lSA4rPq.png"> Rattata with `nopal(ab)`, `hop2` | <img align="right" src="https://i.imgur.com/qVFmtF5.png"> Raticate with `gfwait`, `fsback x2` |
 
 <img align="right" src="https://i.imgur.com/4Phpw3z.png">
 
@@ -919,9 +927,11 @@ Timing ends when the screen fully fades to white after 151 Pokemon are displayed
 
 |||
 |---|---|
-| ![](https://i.imgur.com/6rMpeCF.png) | Pidgey into Caterpie Manip<br>[Pokeworld Link 1](https://gunnermaniac.com/pokeworld?local=13#4/56/UUAURAURRURAU) \| [Pokeworld Link 2](https://gunnermaniac.com/pokeworld?local=13#8/50/LRRU)<br>nopal(ab), fastest buffers<br><br>59/60 pidgey, 56/60 extended<br>Frame 15: Caterpie yoloball fail<br>Frame 36: No Pidgey encounter<br>Frame 37: No Caterpie encounter<br>Frame 47: Rattata encounter on extended |
+| ![](https://i.imgur.com/6rMpeCF.png) | Pidgey into Caterpie Manip<br>[Pokeworld Link 1](https://gunnermaniac.com/pokeworld?local=13#4/56/UUAURAURRURAU) \| [Pokeworld Link 2](https://gunnermaniac.com/pokeworld?local=13#8/50/LRRU)<br>nopal(ab), fastest buffers<br><br>59/60 pidgey, 56/59 extended<br>Frame 15: Caterpie yoloball fail<br>Frame 36: No Pidgey encounter<br>Frame 37: No Caterpie encounter<br>Frame 47: Rattata encounter on extended |
 |||
-| ![](https://i.imgur.com/plw6lqS.png) | Non-extended Caterpie Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=51#21/43/UURRRRUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULLLLLLLLDDDDDDDLLLLLAUUUUUUUUUUUAUUALLLLDDADDDDDDDDDDDDDDLLAD)<br>nopal, fastest buffers<br><br>57/60<br>Frame 25: Caterpie yoloball fail<br>Frame 36: [Metapod encounter](https://gunnermaniac.com/pokeworld?map=51#25/25)<br>Frame 37: [Kakuna encounter](https://gunnermaniac.com/pokeworld?map=51#12/16) |
+| ![](https://i.imgur.com/6rMpeCF.png) | Forest Caterpie extended Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=51#21/61/UUUAUULALLLLUUUUURAUUAUUUUUURRRRRRURRUUUUUUUUUUUUUUUUUUUUUAUUUAUUUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDLDDDLLLLULUU) ([full path](https://i.imgur.com/95P0yLk.png))<br>Npcs: [DU, rl/l, ud/lr](https://pastebin.com/kaBVumw5)<br><br>54/59<br>Frame 18: No encounter<br>Frame 19: [L4 Kakuna encounter](https://gunnermaniac.com/pokeworld?local=51#25/34)<br>Frame 37: [L6 Metapod encounter](https://gunnermaniac.com/pokeworld?local=51#25/31)<br>Frame 47: No encounter<br>Frame 56: [L4 Metapod encounter](https://gunnermaniac.com/pokeworld?local=51#25/31) |
+|||
+| ![](https://i.imgur.com/plw6lqS.png) | Non-extended Caterpie Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=51#21/43/RARRRUUUUUUUUUUUUUAUUUUUUUUUUUUUUUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDLDDLLLLLUUU)<br>nopal, fastest buffers<br><br>58/60<br>Frame 37: No encounter<br>Frame 43: Caterpie yoloball fail |
 |||
 | ![](https://i.imgur.com/DiPPZTA.png) | Diglett's Cave Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=197#5/5/DDDDDDDDDADDDARRRADDDADRRRRDDDDADDDDRRRRRRARRRRRRDRRRRRRRRRRRRRD)<br>pal, fastest buffers<br><br>58/60<br>Frame 30: [L15 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#5/7)<br>Frame 36: [L16 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#5/9) |
 |||
@@ -939,7 +949,19 @@ Timing ends when the screen fully fades to white after 151 Pokemon are displayed
 |||
 | ![](https://i.imgur.com/qSi4ogz.png) | Chansey Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=227#19/1/US_BUUU)<br>nopal, fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: Starmie from dv fly |
 |||
-| ![](https://i.imgur.com/lDHntsX.png) | Shellder Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=160#26/14/US_BL)<br>pal, fsback<br><br>59/60<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/fHX2ffT.png) | Shellder Manip (on bike)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=160#26/14/UUL)<br>nopal<br><br>59/60<br>Frame 36: No encounter |
+|||
+| ![](https://i.imgur.com/lDHntsX.png) | Shellder Manip (on foot)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=160#26/14/US_BL)<br>pal, fsback<br><br>59/60<br>Frame 36: No encounter |
+|||
+| ![](https://i.imgur.com/fHX2ffT.png) | Seel Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUUUUUUUURRRDS_BDD)<br>nopal<br><br>59/60<br>Frame 37: [L33 Psyduck encounter](https://gunnermaniac.com/pokeworld?local=161#28/7) |
+|||
+| ![](https://i.imgur.com/fHX2ffT.png) | Psyduck Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUS_BUAUUUAUUU)<br>nopal(ab)<br><br>58/60<br>Frame 23: No encounter<br>Frame 36: No encounter |
+|||
+| ![](https://i.imgur.com/fHX2ffT.png) | Krabby Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUAUUUUUAUU)<br>nopal(ab), fsback<br><br>60/60 |
+|||
+| ![](https://i.imgur.com/fHX2ffT.png) | Staryu Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUAUUUU)<br>nopal, fsback<br><br>58/60<br>Frame 44: No encounter<br>Frame 58: No encounter |
+|||
+| ![](https://i.imgur.com/fHX2ffT.png) | Kingler Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUAUUUUAUU)<br>pal, hop2, fsback<br><br>58/60<br>Frame 44: No encounter<br>Frame 58: [L31 Psyduck encounter](https://gunnermaniac.com/pokeworld?local=161#25/13) |
 |||
 | ![](https://i.imgur.com/po2JqdC.png) | Zubat Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRRS_BS_BLLAL)<br>pal, fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: Blastoise from dv fly |
 |||
@@ -960,6 +982,10 @@ Timing ends when the screen fully fades to white after 151 Pokemon are displayed
 | ![](https://i.imgur.com/rVfUc87.png) | Primary Pidgeotto Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#10/4/RRR)<br>nopal, fsback<br><br>59/60<br>Frame 58: No encounter |
 |||
 | ![](https://i.imgur.com/rVfUc87.png) | Backup Pidgeotto Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#10/4/RRRDDD)<br>pal(hold), hop1<br><br>59/60 (works on the missing 1/60 above)<br>Frame 36: No encounter |
+|||
+| ![](https://i.imgur.com/rVfUc87.png) | Rattata Manip (Route 21)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#10/4/RR)<br>nopal(ab), hop2<br><br>60/60 |
+|||
+| ![](https://i.imgur.com/rVfUc87.png) | Raticate Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#10/4/R)<br>gfwait, fsback x2<br><br>60/60 |
 |||
 | ![](https://i.imgur.com/WGX3ruS.png) | Tangela Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#13/2/DDDD)<br>pal(hold), fsback, fsback<br><br>58/60<br>Frame 20: No encounter<br>Frame 21: Missingno. from dv fly |
 |||
@@ -985,7 +1011,7 @@ Timing ends when the screen fully fades to white after 151 Pokemon are displayed
 |||
 | ![](https://i.imgur.com/9C6CTIK.png) | Muk Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#4/2/D)<br>nopal(ab), fsback<br><br>60/60 |
 |||
-| ![](https://i.imgur.com/9C6CTIK.png) | Weezing Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#4/2/DS_LLL)<br>pal, hop2, fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: [L37 Muk encounter](https://gunnermaniac.com/pokeworld?local=165#1/3) |
+| ![](https://i.imgur.com/9C6CTIK.png) | Backup Weezing Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#4/2/DS_LLL)<br>pal, hop2, fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: [L37 Muk encounter](https://gunnermaniac.com/pokeworld?local=165#1/3) |
 
 ## Brock Flies
 

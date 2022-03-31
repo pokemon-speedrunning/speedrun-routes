@@ -8,7 +8,7 @@ Based on davidpoko's guide, which was based on krazyd4n's guide.
   - [Faster, but slightly harder](https://youtu.be/hjFPSA1YEYk)
   - [Slower, but sligtly easier](https://youtu.be/u5_hDQ7H98w)
   - Note that the TID manip length doesn't impact the final time, it's only about reset efficiency
-- Name yourself m[Mn]a.[female symbol]tF
+- Name yourself m<sup>M</sup><sub>N</sub>a.♀tF
   - The fastest way to do this is:
     - Select, Down, Right, Right, Right, A, Up, Up, Up, Up, Left, A, Down, Down, Down, A, Up, Up, Left, Left, Left, A, Left, Left, A, Left, Left, Left, Up, Up, A, Select, Right, Right, Right, Right, Up, Up, A, A.
 - Name rival RED
