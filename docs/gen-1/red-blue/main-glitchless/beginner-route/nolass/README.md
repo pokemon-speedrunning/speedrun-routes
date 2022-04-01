@@ -132,8 +132,13 @@ Don't stress too much doing the longer manips, just learn Post Nerd Backup Paras
 	- [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
 - Get TM12 (Water Gun), Rare Candy, Escape Rope, TM01 (Mega Punch), Moon Stone during Mount Moon manip
 
+Menu before walking in front of the Rocket:
+- Toss any remaining Poke Balls (ONLY IF YOU HAVE A PARAS)
+- Toss Antidote if you still have it
+- Potion if HP < 36
+- (Optional but recommended) Save
+
 **Rocket:**
-- (Optional but recommended) Save before walking in front of the Rocket
 - This fight will change depending on how many Horn Attacks you have left
 - 1 HA:
 	- Rat: Leer + Tackle x2 (+ PS)
@@ -152,8 +157,6 @@ Don't stress too much doing the longer manips, just learn Post Nerd Backup Paras
 	- Zubat: HA x3 (+ Tackle)
 
 Menu before Super Nerd:
-- Toss any remaining Poke Balls (ONLY IF YOU HAVE A PARAS)
-- Toss Antidote if you still have it
 - Use Rare Candy
 - Teach TM12 (Water Gun) over Tackle (slot 2)
 - Use Moon Stone
