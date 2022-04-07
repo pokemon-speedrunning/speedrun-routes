@@ -59,7 +59,7 @@ You will be choosing **Bulbasaur** as the starter for the run:
 
 - Advanced runners can choose to manipulate Bulbasaur's DVs for optimal fights and an always-working special stat for the Brock Through Walls glitch later on. This is not recommended for beginners because the manipulation can be very difficult to execute if you do not have experience clearing textboxes during RNG manipulations.
 
-- Beginner runners should take a random Bulbasaur instead. Note having a bad attack stat on your Bulbasaur can make you lose turns on the Rival and Weedle Guy fights, and the fastest setup for the Brock Through Walls glitch ("Pidgey Strats") only has a 9/16 (~56%) chance of working with a random Bulbasaur. 
+- Beginner runners should take a random Bulbasaur instead. Note having a bad attack stat on your Bulbasaur can make you lose turns on the Rival and Weedle Guy fights, and the fastest setup for the Brock Through Walls glitch ("Pidgey Strats") only has a 9/16 (~56%) chance of working with a random Bulbasaur.
 
 Do **not** nickname the Bulbasaur, the name length is a requirement for the upcoming RNG manipulations to work.
 
@@ -95,7 +95,7 @@ Run from all other encounters and deliver the parcel, then head back to Viridian
 
 Enter Viridian Mart and buy:
 
-- 3-5 Poke Balls
+- 4 Poke Balls
 - 1 Parlyz Heal
 
 ### Route 2
@@ -113,8 +113,7 @@ If you still need a Caterpie, use the [Non-extended Caterpie Manip](#rng-manipul
 Otherwise, [follow this path](https://gunnermaniac.com/pokeworld?map=51#17/47/UUUURRRRRRRRRUUUUUUUUULUURRUAUAUAUAUAUAUAUAUAUAUAUALLUUUUUUUUUUULLALLALLALLADADADADADADADALLLLAUAUAUAUAUAUAUAUAUAUAUUULLLLLLDDDADADADADADADADADADADADADADADADADALLLLALLUUUU) because many tiles in Viridian Forest do not give encounters, which are indicated in green on this map.
 
 Pick up the Antidote in both cases.
-
-Non-manipulated Bulbasaurs can pick up [the hidden potion](https://gunnermaniac.com/pokeworld?local=51#1/18) before the trainer battle, especially if they took damage while gaining experience.
+You need at least 1 Potion **after** the next fight, so pick up [the hidden potion](https://gunnermaniac.com/pokeworld?local=51#1/18) if you don't have one.
 
 Spam Tackle to defeat Weedle Guy. Heal up with a Potion if at 3 health or below. Bulbasaur must have 16 special when it levels up after this battle. If so, continue to Pewter.
 
@@ -133,7 +132,6 @@ Open the start menu and move the cursor to Save.
 
 Enter Pewter Mart and buy:
 
-- 1 Potion, unless you have one
 - 1 Burn Heal
 - 1 Escape Rope (into slot 6)
 
@@ -237,7 +235,7 @@ Buy:
 - 15 Fire Stones
 - 1 Poke Doll
 
-Your money must be **$49xx** after you buy all the items listed.
+Your money must be **$4940** after you buy all the items listed.
 
 ### Item Underflow #2
 
@@ -793,7 +791,7 @@ Walk to the tile in the picture to start the LG for **Jynx**: <ins>Warning:</ins
 Leave the center, enter the mart, and open the menu:
 
 - Swap Revives (already on it) with "4" in text pointer. This 4 is a click item, which requires pressing B **once** whenever its name prints to continue scrolling.
-- Catch Jynx by throwing a preoptions Master Ball 
+- Catch Jynx by throwing a preoptions Master Ball
 - Catch **Ditto** by throwing another preoptions Master Ball
 
 <img align="right" src="https://i.imgur.com/nXZBsdc.png">
@@ -815,7 +813,7 @@ Leave the mart and walk to the tile in the picture to do the first menu:
 - Swap Poke Dolls again with "44yPC" in text pointer
 - Use 1 Poke Doll
 
-Talk to the sign next to the gym once to receive **Eevee**. 
+Talk to the sign next to the gym once to receive **Eevee**.
 
 <img align="right" src="https://i.imgur.com/HaM6wnQ.png">
 
