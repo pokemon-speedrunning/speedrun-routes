@@ -2,7 +2,7 @@
 
 # Pokemon Blue: Catch 'Em All
 
-Autumn 2020 route & guide, last updated <ins>6 March 2022</ins>
+Autumn 2020 route & guide, last updated <ins>8 April 2022</ins>
 
 ## Before We Begin
 
