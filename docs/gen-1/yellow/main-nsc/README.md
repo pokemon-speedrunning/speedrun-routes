@@ -1,15 +1,16 @@
-# Pokemon Yellow Any% No Save Corruption
+# Pokemon Yellow Any% No Save Corruption 2022 Route
 **CLEAR SAVE DATA FOR EACH ATTEMPT OR YOUR RUN IS INVALID**
 
-credit to stringflow/entrpntr for this guide
+credit to stringflow/entrpntr/luckytyphlosion/gifvex
 
- [Video playlist](https://www.youtube.com/playlist?list=PLQpdNvoYOPZy1hhIrnVSbpOSe38BdwwDK)
+ [Video playlist](https://youtube.com/playlist?list=PL2AJLbxMcDHftGOxRKpQleHuaBaTE9Njs)
 
 ## Intro
+- Manipulate $76 in low TID byte with *yellow_gfskip_intro1(reset)_gfskip_intro0(reset)_gfskip_intro2_title_newgame: 0x8476 (33910), Offset: 38.08*
+  - [video with inputs](https://youtu.be/5zrjmfCqgOs)
 - Set options to Fast/Off/Shift
-- Name yourself 'ASH'
-- Name rival '×S×'
-  - [×] being the multiplication symbol, not lowercase X
+- Name yourself 'ASH' (preset)
+- Name rival 'BLUE' (preset)
 
 ## Rival
 - Skip PC potion
@@ -37,7 +38,7 @@ credit to stringflow/entrpntr for this guide
 ## Forest
 - [Manipulate no encounter Forest](https://www.youtube.com/watch?v=KDRDvVE3VN4)
   - 54/60 for the manip to work
-- Potion is picked up because 3+ items are needed for the final glitch
+- Potion is picked up because 5 items are needed for the final glitch
 - Make sure to not load the final Bug Catcher before the next manipulation
 
 ## Deathfly Glitch
@@ -57,31 +58,28 @@ credit to stringflow/entrpntr for this guide
     - use this to troubleshoot your failed manips
 
 ## Forest mart
-- Buy 1 TMTRAINER (glitched item, 2nd slot in buy menu)
-- Exit mart
-- Buffer right to move a tile before exiting
-  - going down immediately will crash the game
-- Walk back to Viridian Mart
+- Buy 90x Bike
+- scroll down
+- Once you see COIN CASE on top, there are 4 click item
+  - click items require pressing B **once** whenever its name prints to continue scrolling
+- Buy 30x 5f
+- Buy 1 Repel
+  - same slot you bought 5f from
+- Buy 1 ABCDEF... glitch item
+  - 1 slot above the repel you just bought
+- close the mart (there's 1 click item you need to press B multiple times)
+- Buffer right to move a tile
+   - going down immediately will crash the game
+- Exit and repel, then hop on bike
 
-## Viridian Mart
-- Upon entering, walk 1 left and "attempt" to save (press B at the Yes/No dialog)
-- Toss TMTRAINER x116 (you currently have 186, so mash down to get to 116)
-- Walk 2 up and flash your item bag
-- Open shop and attempt to sell TMTRAINER
-  - you will get "I can't put a price on that."
-- Buy 1 more TMTRAINER (2nd in buy menu), then close the shop
-- Walk 2 down and "attempt" to save again
-- Toss TMTRAINER x1, then toss your top 2 items (Poke Ball, Potion)
-- "Attempt" to save again and walk 2 right
-
-## Underflow
-- [Video tutorial](https://www.youtube.com/watch?v=ofcFqkG3BQg)
-- Toss TMTRAINER x253 from the *first* slot
-- Swap slot 1 with slot 2 twice (causes the stacks to merge)
-- Before scrolling down, "attempt" to use TMTRAINER (not necessary, but avoids 1 click item)
-- Scroll down past a load of []x[] items until you hit some "real" items.
-  - Swap TM41 x[]6 with TM41 x80 (rival name)
-  - Swap TM41 x99 with item below Thunderbadge (map script ptr)
-  - Swap Thunderbadge (map text ptr) with Helix Fossil (map id)
-- Close the menu
-  - if everything was done correctly, you will warp to the Hall of Fame
+## Ace
+- Walk along this path https://gunnermaniac.com/pokeworld?map=1#53/133/DDDDDDDDDDDDDDDDDRRRRDDDDDDDDDDDDDDDRDDDDDDDDDDDDDDDLLLULLLLLLLLLLLLLLLLLLLL
+- come to a complete stop, then move right https://gunnermaniac.com/pokeworld?map=1#35/179/RRRRRRR
+  - this is needed to have 22(0x16) repel steps remaining. You can actually turn frame anywhere but just remember to only do it once.
+- Open the bag and scroll to the bottom, so the menu looks like this:
+  - 5f
+  - "4{}{}}{}{}4"
+  - CANCEL
+- flash the glitch item you just swapped, cursor will reset on 5f
+- use 5f, mash for a bit (you are clearing invisible textboxes) then run away from metapod.
+- if all was done correctly, you will warp to HoF
