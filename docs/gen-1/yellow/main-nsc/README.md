@@ -7,10 +7,10 @@ credit to stringflow/entrpntr/luckytyphlosion/gifvex
 
 ## Intro
 - Manipulate $76 in low TID byte with *yellow_gfskip_intro1(reset)_gfskip_intro0(reset)_gfskip_intro2_title_newgame: 0x8476 (33910), Offset: 38.08*
+  - [video with inputs](https://youtu.be/5zrjmfCqgOs)
 - Set options to Fast/Off/Shift
-- Name yourself 'ASH'
-- Name rival '×S×'
-  - [×] being the multiplication symbol, not lowercase X
+- Name yourself 'ASH' (preset)
+- Name rival 'BLUE' (preset)
 
 ## Rival
 - Skip PC potion
@@ -38,7 +38,7 @@ credit to stringflow/entrpntr/luckytyphlosion/gifvex
 ## Forest
 - [Manipulate no encounter Forest](https://www.youtube.com/watch?v=KDRDvVE3VN4)
   - 54/60 for the manip to work
-- Potion is picked up because 3+ items are needed for the final glitch
+- Potion is picked up because 5 items are needed for the final glitch
 - Make sure to not load the final Bug Catcher before the next manipulation
 
 ## Deathfly Glitch
@@ -58,26 +58,28 @@ credit to stringflow/entrpntr/luckytyphlosion/gifvex
     - use this to troubleshoot your failed manips
 
 ## Forest mart
-- Buy 1 Bike in slot3
-- Buy 1 ABCDEF... glitch item in slot2
-- Backout once, open the BUY menu again, scroll down
-- Once you scroll past 4 HP-UP, there are 4 click item
-  - click items require pressing B **once** whenever its name prints to continue scrolling.
-- Buy x90 Master Balls from the second Master Ball stack
+- Buy 90x Bike
+- scroll down
+- Once you see COIN CASE on top, there are 4 click item
+  - click items require pressing B **once** whenever its name prints to continue scrolling
 - Buy 30x 5f
 - Buy 1 Repel
-- Buffer right to move a tile, then open the menu and use the repel 
+  - same slot you bought 5f from
+- Buy 1 ABCDEF... glitch item
+  - 1 slot above the repel you just bought
+- close the mart (there's 1 click item you need to press B multiple times)
+- Buffer right to move a tile
    - going down immediately will crash the game
-- Exit and hop on bike
+- Exit and repel, then hop on bike
 
 ## Ace
-- Walk along this path https://gunnermaniac.com/pokeworld?map=1#53/133/DDDDDDDDDDDDDDDDDRRRRDDDDDDDDDDDDDDDRDDDDDDDDDDDDDLLDLLLLLLLLLLLLLLLLLLL
-- come to a complete stop, then move right https://gunnermaniac.com/pokeworld?map=1#37/179/RRRRR
+- Walk along this path https://gunnermaniac.com/pokeworld?map=1#53/133/DDDDDDDDDDDDDDDDDRRRRDDDDDDDDDDDDDDDRDDDDDDDDDDDDDDDLLLULLLLLLLLLLLLLLLLLLLL
+- come to a complete stop, then move right https://gunnermaniac.com/pokeworld?map=1#35/179/RRRRRRR
   - this is needed to have 22(0x16) repel steps remaining. You can actually turn frame anywhere but just remember to only do it once.
-- Open the bag and swap the first glitch item 
-  - which now reads as "4{}{}}{}{}4"
-- with 5f
-- now flash the glitch item you just swapped, cursor will reset on 5f
-  - warning: make sure 5f is on the top visible slot before flashing.
+- Open the bag and scroll to the bottom, so the menu looks like this:
+  - 5f
+  - "4{}{}}{}{}4"
+  - CANCEL
+- flash the glitch item you just swapped, cursor will reset on 5f
 - use 5f, mash for a bit (you are clearing invisible textboxes) then run away from metapod.
 - if all was done correctly, you will warp to HoF
