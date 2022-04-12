@@ -1,22 +1,25 @@
 # Pokemon Yellow Any% No Save Corruption 2022 Route
 **CLEAR SAVE DATA FOR EACH ATTEMPT OR YOUR RUN IS INVALID**
 
-credit to stringflow/entrpntr/luckytyphlosion/gifvex
+credits to:
+- original pikawalk route: luckytyphlosion, gifvex, entrpntr, stringflow
+- pikawalk-less route: entrpntr
+- 5F route: gifvex, luckytyphlosion, stringflow
 
- [Video playlist](https://youtube.com/playlist?list=PL2AJLbxMcDHftGOxRKpQleHuaBaTE9Njs)
+[Video playlist](https://youtube.com/playlist?list=PL2AJLbxMcDHftGOxRKpQleHuaBaTE9Njs)
 
 ## Intro
-- Manipulate $76 in low TID byte with *yellow_gfskip_intro1(reset)_gfskip_intro0(reset)_gfskip_intro2_title_newgame: 0x8476 (33910), Offset: 38.08*
-  - [video with inputs](https://youtu.be/5zrjmfCqgOs)
-- Set options to Fast/Off/Shift
+- Manipulate $76 in low TID byte: [video with inputs](https://youtu.be/5zrjmfCqgOs)
+- Hold the A or B button while clearing textboxes with the other while the text speed option is still the default.
 - Name yourself 'ASH' (preset)
 - Name rival 'BLUE' (preset)
 
 ## Rival
+- Set options to Fast/Off/Shift
 - Skip PC potion
 - Get Pikachu and don't nickname it
 - Battle rival, spam Thundershock
-  - Winning or losing doesn't matter
+  - losing is slightly faster
 
 ## Parcel quest
 - Remember to hold B to walk through Pikachu
@@ -24,7 +27,7 @@ credit to stringflow/entrpntr/luckytyphlosion/gifvex
 - Go behind Oak when delivering the Parcel
 
 ## Catch something
-- Enter the mart and buy 5+ Pokeballs (you need at least 1 left over after catching something)
+- Enter the mart and buy 8 or less Pokeballs (you need at least 1 left over after catching something)
 - Backtrack to Route 1 to catch any Pokemon
   - Immediately chuck balls at L2-L4 Pidgeys
   - Weaken Rattatas and L5-7 Pidgeys with Thundershock before catching
@@ -60,8 +63,8 @@ credit to stringflow/entrpntr/luckytyphlosion/gifvex
 ## Forest mart
 - Buy 90x Bike
 - scroll down
-- Once you see COIN CASE on top, there are 4 click item
-  - click items require pressing B **once** whenever its name prints to continue scrolling
+- Once you see "COIN" on top, you need to get past 4 click items
+  - click items require pressing B **once** whenever their name prints to continue scrolling
 - Buy 30x 5f
 - Buy 1 Repel
   - same slot you bought 5f from
@@ -73,13 +76,13 @@ credit to stringflow/entrpntr/luckytyphlosion/gifvex
 - Exit and repel, then hop on bike
 
 ## Ace
-- Walk along this path https://gunnermaniac.com/pokeworld?map=1#53/133/DDDDDDDDDDDDDDDDDRRRRDDDDDDDDDDDDDDDRDDDDDDDDDDDDDDDLLLULLLLLLLLLLLLLLLLLLLL
-- come to a complete stop, then move right https://gunnermaniac.com/pokeworld?map=1#35/179/RRRRRRR
+- Walk along [this path](https://gunnermaniac.com/pokeworld?map=1#53/133/DDDDDDDDDDDDDDDDDRRRRDDDDDDDDDDDDDDDRDDDDDDDDDDDDDDDLLLULLLLLLLLLLLLLLLLLLLL)
+- come to a complete stop, then [move right to this tile](https://gunnermaniac.com/pokeworld?map=1#35/179/RRRRRRR)
   - this is needed to have 22(0x16) repel steps remaining. You can actually turn frame anywhere but just remember to only do it once.
 - Open the bag and scroll to the bottom, so the menu looks like this:
   - 5f
   - "4{}{}}{}{}4"
   - CANCEL
-- flash the glitch item you just swapped, cursor will reset on 5f
+- flash the "4{}{}}{}{}4" glitch item, cursor will then reset on 5f
 - use 5f, mash for a bit (you are clearing invisible textboxes) then run away from metapod.
 - if all was done correctly, you will warp to HoF
