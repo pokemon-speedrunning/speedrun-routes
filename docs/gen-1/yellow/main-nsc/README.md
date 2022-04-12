@@ -1,7 +1,10 @@
 # Pokemon Yellow Any% No Save Corruption 2022 Route
 **CLEAR SAVE DATA FOR EACH ATTEMPT OR YOUR RUN IS INVALID**
 
-credit to stringflow/entrpntr/luckytyphlosion/gifvex
+credits to:
+- original pikawalk route: luckytyphlosion, gifvex, entrpntr, stringflow
+- pikawalk-less route: entrpntr
+- 5F route: gifvex, luckytyphlosion, stringflow
 
 [Video playlist](https://youtube.com/playlist?list=PL2AJLbxMcDHftGOxRKpQleHuaBaTE9Njs)
 
