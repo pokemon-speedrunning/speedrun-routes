@@ -41,7 +41,8 @@ ty!
 
 Clear save data before each attempt with Up + Select + B on the title screen.
 
-Hard reset and [manipulate the trainer ID 54878](https://youtu.be/upzxy_0KW7A).
+Hard reset and [manipulate the trainer ID 54878](https://youtu.be/upzxy_0KW7A). 
+*nopal(ab)_gfskip_hop3_title0(backout)_title0_opt(backout)_backout_title0_opt(backout)*
 
 Hold the A or B button while clearing textboxes with the other while the text speed option is still the default.
 
