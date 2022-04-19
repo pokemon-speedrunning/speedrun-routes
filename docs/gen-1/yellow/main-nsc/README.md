@@ -9,13 +9,12 @@ credits to:
 [Video playlist](https://youtube.com/playlist?list=PL2AJLbxMcDHftGOxRKpQleHuaBaTE9Njs)
 
 ## Intro
-- Manipulate $76 in low TID byte: [video with inputs](https://youtu.be/5zrjmfCqgOs)
-- Hold the A or B button while clearing textboxes with the other while the text speed option is still the default.
+-  Set options to Fast Text/Animations Off
 - Name yourself 'ASH' (preset)
 - Name rival 'BLUE' (preset)
 
 ## Rival
-- Set options to Fast/Off/Shift
+
 - Skip PC potion
 - Get Pikachu and don't nickname it
 - Battle rival, spam Thundershock
@@ -73,12 +72,11 @@ credits to:
 - close the mart (there's 1 click item you need to press B multiple times)
 - Buffer right to move a tile
    - going down immediately will crash the game
-- Exit and repel, then hop on bike
+- Exit and hop on bike
 
-## Ace
-- Walk along [this path](https://gunnermaniac.com/pokeworld?map=1#53/133/DDDDDDDDDDDDDDDDDRRRRDDDDDDDDDDDDDDDRDDDDDDDDDDDDDDDLLLULLLLLLLLLLLLLLLLLLLL)
-- come to a complete stop, then [move right to this tile](https://gunnermaniac.com/pokeworld?map=1#35/179/RRRRRRR)
-  - this is needed to have 22(0x16) repel steps remaining. You can actually turn frame anywhere but just remember to only do it once.
+## ACE
+- Bike to this tile<img align="right" height="100" src="https://i.imgur.com/XZ9gzxx.png">
+- Use the repel, walk 1 tile to the right.
 - Open the bag and scroll to the bottom, so the menu looks like this:
   - 5f
   - "4{}{}}{}{}4"
@@ -86,3 +84,4 @@ credits to:
 - flash the "4{}{}}{}{}4" glitch item, cursor will then reset on 5f
 - use 5f, mash for a bit (you are clearing invisible textboxes) then run away from metapod.
 - if all was done correctly, you will warp to HoF
+
