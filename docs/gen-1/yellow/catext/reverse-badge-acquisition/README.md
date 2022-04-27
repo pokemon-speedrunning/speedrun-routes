@@ -2,7 +2,7 @@
 [original guide](https://pastebin.com/XScRtwTr), credit to krazyd4n for several seconds of improvements to the route
 ## Intro
 - [TID Manip]()
-	- yellow_gfskip_intro0_title_newgame_oakreset_gfskip_intro0_title_backout_title_newgame_oakreset_gfskip_intro0_title_newgame: 0xC5E6 (50662)
+- yellow_gfskip_intro0_title_newgame_oakreset_gfskip_intro0_title_backout_title_newgame_oakreset_gfskip_intro0_title_newgame: 0xC5E6 (50662)
   - TID manip puts HM02 and TM30 in Pewter glitch mart    
 - Choose 1 char player name ("A")
 - Rival name: BLUE (pre-set)
@@ -135,7 +135,7 @@ Close glitched mart, then re-open unglitched mart
 - Face right and jack, follow [this path](https://gunnermaniac.com/pokeworld?map=45#16/17/LUUUUUUUUUUUULLLLLLUL)
 - IP, BZ, IP, IP, IP
 
-
+## Blaine
 Before exiting gym:
 - Use Max Repel close with up
 - Pick up Revive  
@@ -145,12 +145,13 @@ Before exiting gym:
 - jack and bike to enter Blaine's gym
   - must see 1 tile of water on top
 
-## Blaine
+
 - Face right and jack, follow [this path](https://i.imgur.com/JHPJqUb.png)
  - medicine re-jack on "D" and "U", unjack on "X"
 - BZ, BZ, BZ+IP
   - Don't Ether during fight if out of Blizzards, since that causes instant victory (b&). Use Ice Punches instead.
 
+## Sabrina
 After the fight:
 - Ether on Blizzard
 - Teach Fly to Pidgey
@@ -165,46 +166,53 @@ After the fight:
 - Brock thru Walls to [Saffron Gym](https://gunnermaniac.com/pokeworld?map=1#53/80/RRRRRRRRRRRRRRRRRRRRUUUUUUUUUURRRRRRRUUUUUUUUULLLLLLLLL) (still in BTW state after Teleporting)
  - keep left until game turns blue, go down until orange, right to enter gym
 
-## Sabrina
+
 - Walk 1 right, jack to sabrina
 - BS, BZ, BZ
+
+## Koga
 - jack again when looking up to exit gym
 - Bike and Jack, Heal in Celadon Center
 - Face right, jack
-- medicine jack to skip the gate
+- medicine jack to skip the first gate, medicine jack again to skip the second gate
+  - [map here](https://gunnermaniac.com/pokeworld?map=1#191/118/LLLLLLLLLLLLLLLLLLLLLLLLLDDDDDDDDLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLDSLLLLLLLLLLLLDDDDDDDDDDDDDDDDDDDDDDDDDDDDDRRRDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDLDDDDDDDDDDDDDDDDDDDDDDDDDDDDRRRRRRRRRRRRRRRRRRRRUSURRRRRRRRRRRRRRRRDDDDDA)
 
-## Koga
+
 - Face down and jack to get to Koga
 - IP, IP, IP, BZ
+
+## Erika
 - Jack to exit gym
 - Teleport to Celadon
 - Face right, bike and [jack](https://gunnermaniac.com/pokeworld?map=1#191/118/LLLLLDDDDDDDDDDDDDLLLLLLLLLLLLLLLDDDDDDDDD)
-
-## Erika
 - Face down and jack to get to Erika
 - IP, BS, IP
-- Jack to exit gym
-- Teleport to Celadon
-- Face down, bike and [jack](https://gunnermaniac.com/pokeworld?map=1#191/118/RRRRRRRRRRRRRDDDDDDRRRRDDDDDRRRRRRRRR)
-- face right and medicine [rejack](https://gunnermaniac.com/pokeworld?map=1#217/129/RRRRRDDDDDDDDDDRRRRRRRRRRRRRRRRRDDDDDL)
-- face left and medicine rejack
-- unjack and skip trainers/grass
-- [jack](https://gunnermaniac.com/pokeworld?map=1#246/164/DDDDDDDDDLLLLLLLLDDDDDDDDDDDDDDDDDDDDDDLLLLLDDDD) to get into surge's gym
 
 ## Surge
+- Jack to exit gym
+- Teleport to Celadon
+- Face down, bike and jack
+ - full movement [here](https://gunnermaniac.com/pokeworld?map=1#191/118/RRRRRRRRRRRRRDDDDDDRRRRDDDDDRRRRRRRRRSRRRRRDDDDDDDDDDRRRRRRRRRRRRRRRRRDDDDDLSLDDADDDDDDDDDDLLDDDDDDDDRRRRRRRRRRRSDDDDDDDDDLLLLLLLLDDDDDDDDDDDDDDDDDDDDDDLLLLLDDDDAL)
+- face right and medicine rejack past the first gate
+- face left and medicine rejack past the second gate
+- unjack and skip trainers/grass
+ - can medicine rejack here facing down and medicine rejack the next step to have your sprite on screen which makes the movement easier but slightly slower
+- jack to get into surge's gym
 - Face left, jack to get to Surge. 1 right then up
 - IP
-- Jack to exit gym
-- Fly to Cerulean, walk to Misty's gym
 
 ## Misty
+- Jack to exit gym
+- Fly to Cerulean, walk to Misty's gym
 - Use Surfboard (2 under Jack) on left side of gym to surf to Misty
 - BS, BS
 
-Fly to Pewter
-
 ## Brock
+- Fly to Pewter, walk right, [jack to enter the gym from the right](https://gunnermaniac.com/pokeworld?map=1#54/80/RRRRUUUUUUUUULL)
 - IP, IP
 
 ## League
-Fly to Indigo, skip E4+Champ, go immediately to HOF
+- Fly to Indigo
+- jack through the E4
+  - save a turnframe by unjacking on top of Lance
+- walk past the Champion and enter the Hall of Fame
