@@ -48,7 +48,7 @@ The first glitch we will perform is called Brock Through Walls.
 - **[1024 Charmander]** ditto manip:
   - [redbar](https://www.youtube.com/watch?v=zofvpQK4dFQ)
   - [non redbar](https://www.youtube.com/watch?v=aIE01IgqhFw&list=PLFAPrbMDJZ2LS1c8W46jPxlMB5QQpyKMv&index=4)
-- **[PP/Pidgey Strat]** [ditto manip](https://youtu.be/alE01lgqhFw)
+- **[PP/Pidgey Strat]** [ditto manip](https://youtu.be/aIE01IgqhFw)
 - Swap ditto to front, use escape rope
 - Get CoolTrainer glitch:
   - encounter any Rattata or a lv5 Pidgey
