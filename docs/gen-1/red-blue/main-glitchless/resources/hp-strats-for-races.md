@@ -1,14 +1,15 @@
-## Red Glitchless Healing Guide and Red Bar Strategies for Races
+# Red Glitchless Healing Guide and Red Bar Strategies for Races
 
-# Preface
+## Preface
 This documentation references different safety/healing strategies and red bar strategies that can be implemented in order to either play safely or save time over the safe strategy.
 - If an HP is not listed for a fight, assume you default to the normal
   strategy
-Note that 1/39 rolls are selectively ignored in spots where healing has its own set of negative outcomes. If you are doing a no reset run it is very reasonable to ignore the red bar strategies and follow only the safety strats below.
-  
-# Strategies
 
-## Nidoran Split
+Note that 1/39 rolls are selectively ignored in spots where healing has its own set of negative outcomes. If you are doing a no reset run it is very reasonable to ignore the red bar strategies and follow only the safety strats below.
+
+## Strategies
+
+### Nidoran Split
 
 #### Get PC Potion
 
@@ -23,7 +24,7 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 1-12 |  Potion before Manip          |
 | 13-15 | Consider Potion before Manip |
 
-## Brock Split
+### Brock Split
 
 #### Weedle Guy
 | HP   | Healing Strategy     |
@@ -40,14 +41,14 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 |      | Stats | Check Defense at L9 |
 
 #### On Onix
-| DEF  | HP@0  | HP@-2 | HP@-4 | 
-| ---- | ----- | ----- | ----- | 
+| DEF  | HP@0  | HP@-2 | HP@-4 |
+| ---- | ----- | ----- | ----- |
 |  16  | 1-13  | 1-14  | 1-20  |
-|  17  | 1-12  | 1-14  | 1-20  | 
-|  18  | 1-12  | 1-12  | 1-20  | 
-|  19  | 1-12  | 1-12  | 1-17  | 
+|  17  | 1-12  | 1-14  | 1-20  |
+|  18  | 1-12  | 1-12  | 1-20  |
+|  19  | 1-12  | 1-12  | 1-17  |
 
-## Route 3 Split
+### Route 3 Split
 
 #### BC1 Weedle
 | HP   | Healing Strategy  |
@@ -60,14 +61,14 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 1-27 |  Potion           |
 
 #### Shorts Guy Rat (16 is 1/39 QA crit)
-| HP@0  | HP@-1 | Strategy | 
-| ----- | ----- | -------- | 
+| HP@0  | HP@-1 | Strategy |
+| ----- | ----- | -------- |
 |  1-15 | 1-15  | Potion   |
 
 #### Shorts Guy Ekans
-| HP@0  | HP@-1 | HP@-2 |  HP@-3 |  HP@-4 | Strategy | 
-| ----- | ----- | ----- | ----- |  ----- |  -------- | 
-|  1-5  |  1-5  |  1-6  |  1-7  |  1-8   |  Potion | 
+| HP@0  | HP@-1 | HP@-2 |  HP@-3 |  HP@-4 | Strategy |
+| ----- | ----- | ----- | ----- |  ----- |  -------- |
+|  1-5  |  1-5  |  1-6  |  1-7  |  1-8   |  Potion |
 - Generally heal on turn 1 of Wrap hitting if you do not live 4 or 5 turn.
 
 #### BC2 Caterpie
@@ -110,8 +111,7 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | -1   |      1-8      |     1-22      |
 | -2   |      1-9      |    1-32       |
 
-
-## Nugget Bridge Split
+### Nugget Bridge Split
 
 #### Bridge Rival
 
@@ -147,7 +147,6 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | Zubat |  1-17   | Potion if confused            |
 | Zubat |  1-24   | Potion if confused and -1 def |
 
-
 #### Lass (4)
 | Poke   |    HP   | Healing Strategy    |
 | ------ | ------- | ------------------- |
@@ -164,7 +163,7 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 15-27 | HA + HA/PS      |
 | 28+   | MP(+PS)         |
 
-#### Bridge Rocket             
+#### Bridge Rocket
 - One badge boost → HA Zubat 100%
 - Two → HA Ekans 100%
 
@@ -232,7 +231,7 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | HP    | Standard Strategy    | Alternate Strategy        |
 | ----- | -------------------- | ------------------------- |
 | 1-12  | Potion               | MP on 7-12 hp (risk)      |
-| 13-17 | MP                   | Potion (safe)             | 
+| 13-17 | MP                   | Potion (safe)             |
 | 18-21 | MP                   | Thrash (safe)             |
 | 22    | MP                   |                           |
 | 23+   | HA (+ PS) or BB x2   | Thrash (at very high hp)  |
@@ -274,7 +273,7 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 15-18, 20-21 | BB x4                       |
 | 19, 22+      | BB + Thrash                 |
 
-## Fly Split Red Bar (play normal if not going for red bar)
+### Fly Split Red Bar (play normal if not going for red bar)
 
 #### Pokemaniac 1 and 2 (swap if confused by Slowpoke)
 | HP @ L28 | Strategy                                         |
@@ -318,7 +317,7 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 20-27 | Early Drill                                 |
 | 28+   | Late Drill                                  |
 
-## Flute Split
+### Flute Split
 
 #### Lavender Rival on Early Drill
 | HP    | Strategy                           |
@@ -327,7 +326,7 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 16    | TB turn 1, X Acc on Growlithe      |
 | 20-27 | X Acc turn 1                       |
 
-## Koga Split
+### Koga Split
 - If paralyzed leaving Arbok with 72+ HP, use Parlyz Heal turn 2 on Silph Rival's Pidgeot
 - If HP < 72, menu and Parlyz Heal before the fight
 
@@ -344,7 +343,7 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | ----- | ---------------- |
 | 24-37 | TB until hit     |
 
-## BOOM STRATS 
+### Boom Strats
 - https://pastebin.com/BMQQYcEV
 
 | HP after SD on Koga | Red Bar Lost on... | Healing Strategy                               | If desperate                                                                   |
@@ -358,6 +357,8 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 15-22               | Erika              | Vileplume Poke Flute (Out at L43-L45)          |                                                                                |
 | 23+                 | Erika              | Victreebel X Acc turn 1 if you have 2 extra, then Poke Flute stall until hit (can Blizz x3 after X Acc) |                       |
 
+### Lorelei Split
+
 #### Lorelei backup for Revive used post-Koga
 | HP     | Strategy       |
 | ----   | -------------- |
@@ -365,8 +366,16 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 82-92  | Potion, X Acc  |
 | 99+    | X Acc Turn 1   |
 
+### Bruno Split
 
-## Agatha Split
+#### Before Bruno
+
+| HP   | Strategy                                       |
+| ---- | ---------------------------------------------- |
+| 1-19 | Rare Candy now unless you need the jingle skip |
+| 20+  | Normal strats                                  |
+
+### Agatha Split
 
 #### Before Agatha
 - Heal to 119+ for extra safety
@@ -384,7 +393,7 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 25-60 | X Speed          |
 | 61+   | EQ               |
 
-## Lance Split
+### Lance Split
 
 #### Before Lance (assuming ample healing items)
 
@@ -411,7 +420,7 @@ Can roughly be summarized as _heal to 126+ without overhealing too much_
 | 126-133 | X Speed                          |
 | 134+    | EQ (or X Acc if you have 2 left) |
 
-## Champ Split
+### Champ Split
 
 #### Before Champ
 - Heal if HP < 23 or if HP < 45 to play safe

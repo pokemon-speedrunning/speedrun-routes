@@ -667,6 +667,7 @@ Lorelei:
 
 **Menu**
 - Use Elixer
+- Only if HP < 20, Rare Candy now unless you need the jingle skip
 
 Bruno:
 - X Acc + Blizz, HD x2, Blizz, HD

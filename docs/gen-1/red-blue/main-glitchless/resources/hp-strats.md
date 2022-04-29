@@ -1,6 +1,6 @@
-## Red Glitchless Red Bar Strategies
+# Red Glitchless Red Bar Strategies
 
-# Preface
+## Preface
 This documentation references different red bar strategies that can be
 implemented in order to save time over the normal strategies outlined in the
 various guides.
@@ -21,9 +21,9 @@ If you are not going for world record, it is advised that you take these
 strategies with a grain of salt, as these strategies might not be required for
 you but can increase the chance of you dying.
 
-# Strategies
+## Strategies
 
-## Brock Split
+### Brock Split
 
 #### Before Brock (assuming not bad Defense)
 
@@ -33,7 +33,7 @@ you but can increase the chance of you dying.
 | 8-10 | Potion if you have a menu |
 | 11+  | Don't Heal                |
 
-## Route 3 Split
+### Route 3 Split
 
 #### Before Shorts Guy
 
@@ -65,7 +65,7 @@ you but can increase the chance of you dying.
 | 16-35 | 1 Potion                |
 | 36+   | Don't heal              |
 
-## Nugget Bridge Split
+### Nugget Bridge Split
 
 #### Nugget Bridge Mankey
 
@@ -83,7 +83,7 @@ you but can increase the chance of you dying.
 | 13-17 | HA               |
 | 18+   | MP               |
 
-## Misty Split
+### Misty Split
 
 #### Bottom Hiker Machop
 
@@ -109,7 +109,7 @@ you but can increase the chance of you dying.
 | 28-47    | 1 Potion         |
 | 48+      | Don't heal       |
 
-## Surge Split
+### Surge Split
 
 #### Post Misty
 
@@ -150,7 +150,7 @@ you but can increase the chance of you dying.
 | 1-20 | Thrash           |
 | 21+  | Bubblebeam       |
 
-## Fly Split
+### Fly Split
 
 #### 4 Turn Thrash Girl (1st Oddish)
 
@@ -197,7 +197,7 @@ you but can increase the chance of you dying.
 | 19    | Late Drill, Early Drill if you got Moon Exp |
 | 20+   | Early Drill                                 |
 
-## Flute Split
+### Flute Split
 
 #### Lavender Rival on Early Drill
 
@@ -208,7 +208,7 @@ you but can increase the chance of you dying.
 | 16    | TB turn 1, X Acc on Growlithe                                                            |
 | 20+   | X Acc turn 1                                                                             |
 
-## Koga Split
+### Koga Split
 
 #### Silph Bar
 - If Gentleman Candy: https://pastebin.com/rYnUzt7j
@@ -255,7 +255,7 @@ you but can increase the chance of you dying.
 | 24-37 | TB until hit     |
 | 38+   | BB               |
 
-## BOOM STRATS
+### Boom Strats
 
 | HP after SD on Koga | Strategy                                                          | If desperate                                  |
 | ------------------- | ----------------------------------------------------------------- | --------------------------------------------- |
@@ -269,7 +269,7 @@ you but can increase the chance of you dying.
 | 15-22               | Vileplume Poke Flute (Out at L43-L45)                             |                                               |
 | 23+                 | Victreebel Poke Flute (Out at L43-L45)                            |                                               |
 
-## Agatha Split
+### Agatha Split
 
 #### Before Agatha
 
@@ -286,7 +286,7 @@ you but can increase the chance of you dying.
 | 25-60 | X Speed          |
 | 61+   | EQ               |
 
-## Lance Split
+### Lance Split
 
 #### Before Lance (assuming ample healing items)
 
@@ -312,7 +312,7 @@ Can roughly be summarized as _heal to 126+ without overhealing too much_
 | 126-133 | X Speed                          |
 | 134+    | EQ (or X Acc if you have 2 left) |
 
-## Champ Split
+### Champ Split
 
 #### Before Champ
 
