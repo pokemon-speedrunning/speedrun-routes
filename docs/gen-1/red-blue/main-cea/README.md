@@ -8,7 +8,7 @@ Autumn 2020 route & guide, last updated <ins>8 April 2022</ins>
 
 Before doing runs of this category, it helps to be familiar with the following concepts, glitches, and techniques: <ins>(updated links welcome)</ins>
 
-- [Item Underflow slots](https://glitchcity.wiki/Expanded_bag_item_documentation_(Generation_I))
+- [Item Underflow slots](https://glitchcity.wiki/Expanded_bag_item_documentation_(Generation_I)) [(quick list)](https://pastebin.com/pSEQNxvL)
 - RNG Manipulation and [its lingo](https://pastebin.com/QdgbSu35)
 - Trainer Fly
 - Lol Glitch ("LG")
@@ -166,6 +166,9 @@ Go to Route 11 to do the deathfly manip with `nopal(ab)`. After respawning in Ve
 Repeat the above but this time toss 2 Escape Ropes before you save for the manip.
 
 ### Item Underflow #1
+
+> [Underflow slots documentation](https://glitchcity.wiki/Expanded_bag_item_documentation_(Generation_I))  
+> [Underflow slots nicknames quick list](https://pastebin.com/pSEQNxvL)
 
 Enter Vermilion center after dying to the second Missingno. Walk to the PC to do the following menus.
 
@@ -400,7 +403,7 @@ Manip **Shellder** if you didn't catch one before the LG, otherwise manip one of
 
 ||||
 |---|---|---|
-| <img align="right" src="https://i.imgur.com/WSPPC7o.png"> Shellder | <img align="right" src="https://i.imgur.com/qrlGA5a.png"> Seel | <img align="right" src="https://i.imgur.com/sUzFAjW.png"> Psyduck with `nopal(ab)` |
+| <img align="right" src="https://i.imgur.com/WSPPC7o.png"> Shellder | <img align="right" src="https://i.imgur.com/qrlGA5a.png"> Seel | <img align="right" src="https://i.imgur.com/QHSEOOO.png"> Psyduck with `nopal(ab)` |
 |||
 | <img align="right" src="https://i.imgur.com/cCJwcXH.png"> Krabby with `nopal(ab)`, `fsback` | <img align="right" src="https://i.imgur.com/ccNYjy5.png"> Staryu with `fsback` | <img align="right" src="https://i.imgur.com/Ub5WwO1.png"> Kingler with `pal`, `hop2`, `fsback` |
 
@@ -927,6 +930,8 @@ Timing ends when the screen fully fades to white after 151 Pokemon are displayed
 
 ## RNG Manipulations
 
+[RNG manipulation video playlist](https://www.youtube.com/playlist?list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR)
+
 |||
 |---|---|
 | ![](https://i.imgur.com/6rMpeCF.png) | Pidgey into Caterpie Manip<br>[Pokeworld Link 1](https://gunnermaniac.com/pokeworld?local=13#4/56/UUAURAURRURAU) \| [Pokeworld Link 2](https://gunnermaniac.com/pokeworld?local=13#8/50/LRRU)<br>nopal(ab), fastest buffers<br><br>59/60 pidgey, 56/59 extended<br>Frame 15: Caterpie yoloball fail<br>Frame 36: No Pidgey encounter<br>Frame 37: No Caterpie encounter<br>Frame 47: Rattata encounter on extended |
@@ -957,7 +962,7 @@ Timing ends when the screen fully fades to white after 151 Pokemon are displayed
 |||
 | ![](https://i.imgur.com/fHX2ffT.png) | Seel Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUUUUUUUURRRDS_BDD)<br>nopal<br><br>59/60<br>Frame 37: [L33 Psyduck encounter](https://gunnermaniac.com/pokeworld?local=161#28/7) |
 |||
-| ![](https://i.imgur.com/fHX2ffT.png) | Psyduck Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUS_BUAUUUAUUU)<br>nopal(ab)<br><br>58/60<br>Frame 23: No encounter<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/fHX2ffT.png) | Psyduck Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUS_BUUUAUUUAU)<br>nopal(ab)<br><br>58/60<br>Frame 23: No encounter<br>Frame 36: No encounter |
 |||
 | ![](https://i.imgur.com/fHX2ffT.png) | Krabby Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUAUUUUUAUU)<br>nopal(ab), fsback<br><br>60/60 |
 |||
@@ -1073,4 +1078,4 @@ Disassembly
 
 - [pret/pokered](https://github.com/pret/pokered)
 - [Assembly instruction details](https://pastebin.com/raw/bHn8y18B)
-- [Item underflow slots](https://glitchcity.wiki/Expanded_bag_item_documentation_(Generation_I))
+- [Item underflow slots](https://glitchcity.wiki/Expanded_bag_item_documentation_(Generation_I)) [(quick list)](https://pastebin.com/pSEQNxvL)

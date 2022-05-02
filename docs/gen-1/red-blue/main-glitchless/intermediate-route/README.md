@@ -653,6 +653,7 @@ Lorelei:
 
 **Menu**
 - Use Max Ether on Horn Drill
+- Only if HP < 20, Rare Candy now unless you need the jingle skip
 
 Bruno:
 - X Acc + HD x5

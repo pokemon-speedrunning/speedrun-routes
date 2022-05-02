@@ -11,7 +11,7 @@
 
 **Level 3 Rattata**
 
-<abbr title="Squirtle stat">10 Attack</abbr> | <abbr title="14 HP / 7 Defense Rattata">14/7 Rat</abbr> | 15/7 Rat | 15/8 Rat
+<abbr title="Squirtle Attack">10 Attack</abbr> | <abbr title="14 HP / 7 Defense Rattata">14/7 Rat</abbr> | 15/7 Rat | 15/8 Rat
 --------------------- | -------- | -------- | --------
 Tackle x2             | 0.5%     | 0.03%    | 0%
 Tackle x3             | 100%     | 100%     | 3.4%
@@ -78,6 +78,7 @@ Tackle x5 | 94.5%     | 99.9%             | 99.9%     | 99.9%
 
 | Weedle               | &nbsp; |
 | -------------------- | ------ |
+| Horn Attack#         | 66.7%  |
 | <details><summary>Horn Attack + Tackle </summary><br><img src="https://i.imgur.com/ic8Y6a9.png" width="250"></details> | 65.2% |
 | <details><summary>Horn Attack + Tackle*</summary><br><img src="https://i.imgur.com/7i95Mxx.png" width="250"></details> | 89.1% |
 
@@ -109,6 +110,7 @@ Tackle x5 | 94.5%     | 99.9%             | 99.9%     | 99.9%
 | Horn Attack + Horn Attack*  | 79.7%  |
 | Horn Attack* x2             | 100%   |
 | Leer + Horn Attack + Tackle | 100%   |
+| <details><summary>Leer + Horn Attack + PS</summary><br><img src="https://i.imgur.com/GqLehBV.png" width="250"></details> | 91.6% |
 
 </td><td>
 
@@ -158,15 +160,18 @@ Tackle x5 | 94.5%     | 99.9%             | 99.9%     | 99.9%
 
 </td><td>
 
-| Rattata      | &nbsp; |
-| ------------ | ------ |
-| Horn Attack* | 59.3%  |
+| Rattata       | &nbsp; |
+| ------------- | ------ |
+| Horn Attack*  | 59.3%  |
+| Horn Attack** | 100%   |
 
 </td><td>
 
-| Bulbasaur                | &nbsp; |
-| ------------------------ | ------ |
-| <details><summary>Mega Punch + Horn Attack@-1</summary><br><img src="https://cdn.discordapp.com/attachments/742565967871082496/766461675317624842/hpbar-bulbasaur-lv17-14.png" width="250"></details> | 49.6% |
+| Bulbasaur                  | &nbsp; |
+| ------------------------   | ------ |
+| Mega Punch + Mega Punch@-1 | 95.4%  |
+| <details><summary>Mega Punch + Horn Attack@-1</summary><br><img src="https://i.imgur.com/9wjBCXp.png" width="250"></details> | 49.6% |
+| Mega Punch#                | 41.0%  |
 | <details><summary>Mega Punch# + Poison Sting </summary><br><img src="https://i.imgur.com/lPCZgOh.png" width="250"></details> | 100% |
 
 </td></tr> </table>
@@ -325,12 +330,22 @@ Thrash       | 93.6%
 Pidgeotto    | &nbsp;
 ------------ | ------
 Horn Attack# | 100%
+Bubblebeam#  | 46.2%
 
 </td><td>
 
-Raticate     | &nbsp;
+Raticate      | &nbsp;
+------------- | ------
+Mega Punch    | 100%
+Horn Attack*  | 61.4%
+Horn Attack** | 100%
+
+</td><td>
+
+Kadabra      | &nbsp;
 ------------ | ------
-Mega Punch   | 100%
+Thrash       | 100%
+Horn Attack  | 100%
 
 </td><td>
 
@@ -403,6 +418,7 @@ Bubblebeam   | 91.4%
 
 Vulpix       | &nbsp;
 ------------ | ------
+Thrash       | 100%
 Bubblebeam   | 55.0%
 
 </td></tr> </table>
