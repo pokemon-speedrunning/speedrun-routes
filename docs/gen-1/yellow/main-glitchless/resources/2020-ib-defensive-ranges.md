@@ -1,9 +1,9 @@
 # Yellow Glitchless Defensive Ranges
 
 ### Notes:
- - `move`@-1 denotes a defensive stat drop, `move`@-2 denotes 2, etc.
- - [ `rolls` ] denotes a critical hit
-   - Note: there are no [`rolls`] for stat changes because critical hits ignore all of them
+ - `move@-1` denotes a defensive stat drop, `move@-2` denotes 2, etc.
+ - `[rolls]` denotes a critical hit
+   - Note: there are no `[rolls]` for stat changes because critical hits ignore all of them
  - All rolls include 1/39 max roll
     - AKA, all highest rolls in this page are 1/39s
  - Nidoran DV variations when it comes to defensive rolls are:
@@ -15,8 +15,7 @@
 ### Brock
 
 **Bug Catcher 1**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Caterpie     | Tackle
 ------------ | -------------
@@ -43,8 +42,7 @@ Caterpie     | Tackle
 &nbsp;       | 4-5 [5-7]
 
 **Light Year Guy**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Diglett      | Scratch
 ------------ | -------------
@@ -54,23 +52,22 @@ Diglett      | Scratch
 
 Sandshrew    | Scratch
 ------------ | -------------
-&nbsp;       | 5-7 [8-10]
+&nbsp;       | 5-7 [9-11]
 
 </td></tr> </table>
 
 **Brock**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Geodude      | Tackle
 ------------ | -------------
-&nbsp;       | 5-7 [8-10]
+&nbsp;       | 5-7 [9-11]
 
 </td><td>
 
 Onix         | Tackle        | Bind
 ------------ | ------------- | ------------
-&nbsp;       | 4-5 [7-9]     | 2-3 [4-5]
+&nbsp;       | 5-6 [7-9]     | 2-3 [4-5]
 @-2          | 8-10          | 4-5
 @-4          | 13-16         | 6-8
 @-6          | 16-19         | 7-9
@@ -79,9 +76,8 @@ Onix         | Tackle        | Bind
 
 ### Route 3
 
-**Bug Catcher 1**:
-<table class="t">
-<tr><td>
+**Bug Catcher 1**
+<table class="t"> <tr><td>
 
 Caterpie     | Tackle
 ------------ | -------------
@@ -101,9 +97,8 @@ Caterpie     | Tackle
 
 </td></tr> </table>
 
-**Shorts Guy**:
-<table class="t">
-<tr><td>
+**Shorts Guy**
+<table class="t"> <tr><td>
 
 Rattata      | Quick Attack
 ------------ | -------------
@@ -117,13 +112,12 @@ Ekans        | Wrap          | Poison Sting
 
 </td></tr> </table>
 
-**Bug Catcher 2**:
-<table class="t">
-<tr><td>
+**Bug Catcher 2**
+<table class="t"> <tr><td>
 
 Weedle       | Poison Sting
 ------------ | -------------
-&nbsp;       | 1-2 [1-2]
+&nbsp;       | 1 [1-2]
 
 </td><td>
 
@@ -133,7 +127,7 @@ Caterpie     | Tackle
 
 </td></tr> </table>
 
-**Bug Catcher 3**:
+**Bug Catcher 3**
 
 Caterpie     | Tackle
 ------------ | -------------
@@ -141,9 +135,8 @@ Caterpie     | Tackle
 
 ### Mt. Moon
 
-**Nerd**:
-<table class="t">
-<tr><td>
+**Nerd**
+<table class="t"> <tr><td>
 
 Grimer       | Pound
 ------------ | -------------
@@ -164,9 +157,8 @@ Koffing      | Tackle        | Smog
 
 </td></tr> </table>
 
-**Jessie and James**:
-<table class="t">
-<tr><td>
+**Jessie and James**
+<table class="t"> <tr><td>
 
 Ekans        | Wrap          | Poison Sting
 ------------ | ------------- | -------------
@@ -183,9 +175,8 @@ Koffing      | Tackle        | Smog
 
 ### Nugget Bridge
 
-**Rival**:
-<table class="t">
-<tr><td>
+**Rival**
+<table class="t"> <tr><td>
 
 Spearow       | Peck          | Fury Attack
 ------------  | ------------- | -------------
@@ -216,15 +207,14 @@ Eevee        | Tackle
 
 </td></tr> </table>
 
-**Bug Catcher**:
+**Bug Catcher**
 
 Caterpie     | Tackle
 ------------ | -------------
 &nbsp;       | 2-3 [4-5]
 
 **Female Jr Trainer**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Pidgey       | Gust/Quick Attack
 ------------ | -------------
@@ -239,8 +229,7 @@ NidoranF     | Scratch/Tackle | Double Kick
 </td></tr> </table>
 
 **Male Jr Trainer**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Rattata      | Quick Attack
 ------------ | -------------
@@ -255,8 +244,7 @@ Ekans        | Wrap          | Poison Sting
 </td></tr> </table>
 
 **Female Jr Trainer 2**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Pidgey       | Quick Attack
 ------------ | -------------
@@ -272,19 +260,19 @@ NidoranF     | Scratch       | Tackle       | Double Kick
 
 ### Misty
 
-**Hiker 1**
+**Hiker**
 
 Onix         | Tackle        | Bind
 ------------ | ------------- | -------------
 &nbsp;       | 3-4 [5-7]     | 2-3 [3-4]
 
-**Male Jr Trainer**
+**Male Jr. Trainer**
 
 Rattata      | Quick Attack
 ------------ | -------------
 &nbsp;       | 5-6 [7-9]
 
-**Female Jr. Trainer 2**
+**Lass 2**
 
 Pidgey       | Quick Attack
 ------------ | -------------
@@ -333,11 +321,11 @@ Raichu       | Mega Punch    | Mega Kick
 
 ### Fly
 
-**4 Turn Trash Girl**
+**4 Turn Thrash Girl**
 
 Bellsprout     | Wrap            | Self Hit
 -------------- | --------------- | ---------------
-&nbsp;         | 2-3 [3-4]       | 13 (?)
+&nbsp;         | 2-3 [3-4]       | 14
 
 **Bug Catcher**
 
@@ -346,8 +334,7 @@ Venonat      | Tackle        | Confusion
 &nbsp;       | 4-5 [6-8]     | 10-12 [15-18]
 
 **PokeManiac**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Cubone       | Bone Club
 ------------ | -------------
@@ -357,8 +344,8 @@ Cubone       | Bone Club
 
 Slowpoke     | Confusion
 ------------ | -------------
-13 DV        | 15-18 [27-32]
-14 or 15 DV  | 17-20 [27-32]
+13 DV        | 17-20 [27-32]
+14 or 15 DV  | 15-18 [27-32]
 
 </td></tr> </table>
 
@@ -369,8 +356,7 @@ Slowpoke     | Confusion
 &nbsp;       | 17-20 [30-36]
 
 **Oddish Girl**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Oddish       | Absorb
 ------------ | -------------
@@ -388,11 +374,10 @@ Bulbasaur     | Vine Whip
 
 Pidgey       | Quick Attack
 ------------ | -------------
-&nbsp;       | 5-6 [8-10]
+&nbsp;       | 5-7 [10-12]
 
 **Gambler**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Growlithe     | Bite           | Ember
 ------------- | -------------- | --------------
@@ -409,8 +394,7 @@ Vulpix       | Quick Attack
 ### Pokeflute
 
 **Rival**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Fearow        | Fury Attack
 ------------- | --------------
@@ -425,11 +409,11 @@ Eevee         | Quick Attack
 
 </td></tr> </table>
 
-**Channeller 1-3**
+**Channeler 1-3**
 
-Ghastly       | Lick           | Self Hit
+Gastly        | Lick           | Self Hit
 ------------- | -------------- | --------------
-&nbsp;        | 3-4 [5-7]      | 14 (?)
+&nbsp;        | 3-4 [5-7]      | 15
 
 ### Sabrina
 
@@ -447,8 +431,7 @@ Sandslash     | Slash          | Swift
 10 or 11 DV   | 45-54          | 19-23 [39-47]
 
 **Giovanni**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Persian       | Pay Day        | Bite
 ------------- | -------------- | --------------
@@ -483,8 +466,7 @@ Hypno         | Confusion      | Headbutt
 11 DV / 15 DV | 42-50 [78-92]  | 12-15 [25-30]
 
 **Koga**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Venonat (1)     | Psychic         | Psychic @-1
 --------------- | --------------- | --------------
@@ -497,7 +479,7 @@ Venonat (2)   | Psychic        | Psychic @-1    | Psybeam        | Psybeam @-1
 ------------- | -------------- | -------------- | -------------- | --------------
 13 DV         | 39-46 [69-82]  | 57-68          | 28-34 [51-60]  | 42-50
 14 DV         | 37-44 [69-82]  | 56-66          | 27-32 [51-60]  | 40-48
-15 DV         | 37-44 [68-80]  | 56-66          | 27-32 [51-61]  | 40-48
+15 DV         | 37-44 [68-80]  | 56-66          | 27-32 [51-60]  | 40-48
 
 </td><td>
 
@@ -509,8 +491,7 @@ Venomoth      | Leech Life
 </td></tr> </table>
 
 ### Blaine
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Ninetales     | Quick Attack
 ------------- | --------------
@@ -521,7 +502,7 @@ Ninetales     | Quick Attack
 
 Rapidash      | Take Down      | Stomp          | Fire Spin
 ------------- | -------------- | -------------- | --------------
-9 DV / 13 DV  | 36-43 [84-99]  | 26-31 [62-73]  | 10-12 [18-22]
+9 DV / 13 DV  | 36-43 [85-101] | 26-31 [62-73]  | 10-12 [18-22]
 10 DV / 14 DV | 35-42 [84-99]  | 26-31 [61-72]  | 10-12 [18-22]
 11 DV / 15 DV | 35-42 [83-98]  | 26-31 [60-71]  | 10-12 [17-21]
 
@@ -529,7 +510,7 @@ Rapidash      | Take Down      | Stomp          | Fire Spin
 
 Arcanine       | Take Down       | Flamethrower    | Fire Blast
 -------------- | --------------- | --------------- | ---------------
-9 DV / 13 DV   | 18-22 [34-40]   | 64-76 [125-147] | 81-96
+9 DV / 13 DV   | 44-52 [106-125] | 64-76 [125-147] | 81-96
 10 DV / 14 DV  | 43-51 [105-124] | 63-75 [123-145] | 79-94
 11 DV / 15 DV  | 43-51 [104-123] | 63-75 [120-142] | 79-93
 
@@ -541,13 +522,11 @@ Arcanine       | Take Down       | Flamethrower    | Fire Blast
 
 Machoke       | Karate Chop    | Low Kick
 ------------- | -------------- | --------------
-9 DV          | 12-15 [28-33]  | 9-11 [20-24]
-10 DV         | 12-15 [27-32]  | 9-11 [20-24]
-11 DV         | 11-14 [27-32]  | 8-10 [20-24]
+9 DV          | 13-16 [28-33]  | 10-12 [20-24]
+10 or 11 DV   | 13-16 [27-32]  | 10-12 [20-24]
 
 **Giovanni**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Dugtrio       | Dig/EQ
 ------------- | -----------------
@@ -588,8 +567,7 @@ Hitmonchan    | Fire Punch    | Ice Punch
 15 DV         | 14-17 [29-35] | 28-34 [59-70]
 
 ### Agatha
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Gengar        | Lick           | Mega Drain
 ------------- | -------------- | --------------
@@ -608,8 +586,7 @@ Golbat        | Wing Attack    | Leech Life
 </td></tr> </table>
 
 ### Lance
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Gyarados      | Hydro Pump @+1
 ------------- | --------------
@@ -628,15 +605,14 @@ Dragonair (1)  | Hyper Beam      | Slam
 
 Dragonair (2)  | Ice Beam        | Bubblebeam
 -------------- | --------------- | ---------------
-13 DV          | 32-38 [127-150] | 28-34 [88-104]
+13 DV          | 32-38 [127-150] | 22-26 [88-104]
 14 DV          | 30-36 [127-150] | 22-26 [88-104]
 15 DV          | 30-36 [125-148] | 22-26 [86-102]
 
 </td></tr> </table>
 
 ### Champion
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Sandslash     | EQ
 ------------- | ---------------
