@@ -6,15 +6,15 @@ Autumn 2020 route & guide, last updated <ins>8 April 2022</ins>
 
 ## Before We Begin
 
-Before doing runs of this category, it helps to be familiar with the following concepts, glitches, and techniques: <ins>(updated links welcome)</ins>
+Before doing runs of this category, it helps to be familiar with the following concepts, glitches, and techniques:
 
 - [Item Underflow slots](https://glitchcity.wiki/Expanded_bag_item_documentation_(Generation_I)) [(quick list)](https://pastebin.com/pSEQNxvL)
-- RNG Manipulation and [its lingo](https://pastebin.com/QdgbSu35)
-- Trainer Fly
-- Lol Glitch ("LG")
-- Jack state
+- [RNG Manipulation](https://www.youtube.com/watch?v=QirPrbub21g) and [its lingo](https://pastebin.com/QdgbSu35)
+- [Trainer Fly](https://glitchcity.wiki/Trainer_escape_glitch)
+- [Lol Glitch ("LG")](https://glitchcity.wiki/LOL_glitch)
+- [Jack state](https://glitchcity.wiki/Rival%27s_effect)
 - Crazywarp
-- Dsum manipulation
+- [Dsum manipulation](http://wiki.pokemonspeedruns.com/index.php/Pok%C3%A9mon_Red/Blue/Yellow_DSum_Manipulation)
 
 ## Tools
 
@@ -450,7 +450,9 @@ Catch everything but 1 of: **Machop**, **Geodude**, **Zubat**, **Onix**. At some
 
 <img align="right" src="https://i.imgur.com/P3EThWG.png">
 
-Once you have all but 1, get an encounter on the tile in the picture (do **not** approach from the right) and LG for **Machamp**:
+Once you have all but 1, corner bonk for an encounter on the tile in the picture (if you get the encounter while moving to the tile, flash Pokemon before saving for the manip).
+
+LG for **Machamp**:
 
 - Use 9F
 - Swap Old Amber in brightness with HM04 in TLP2
@@ -934,7 +936,9 @@ Timing ends when the screen fully fades to white after 151 Pokemon are displayed
 
 |||
 |---|---|
-| ![](https://i.imgur.com/6rMpeCF.png) | Pidgey into Caterpie Manip<br>[Pokeworld Link 1](https://gunnermaniac.com/pokeworld?local=13#4/56/UUAURAURRURAU) \| [Pokeworld Link 2](https://gunnermaniac.com/pokeworld?local=13#8/50/LRRU)<br>nopal(ab), fastest buffers<br><br>59/60 pidgey, 56/59 extended<br>Frame 15: Caterpie yoloball fail<br>Frame 36: No Pidgey encounter<br>Frame 37: No Caterpie encounter<br>Frame 47: Rattata encounter on extended |
+| ![](https://i.imgur.com/6rMpeCF.png) | Pidgey Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=13#4/56/UUAURAURRURAU)<br>nopal(ab), fastest buffers<br><br>59/60<br>Frame 36: No encounter |
+|||
+| ![](https://i.imgur.com/6rMpeCF.png) | Caterpie extended Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=13#8/50/LRRU)<br><br>56/59<br>Frame 15: Yoloball fail<br>Frame 37: No encounter<br>Frame 47: Rattata encounter |
 |||
 | ![](https://i.imgur.com/6rMpeCF.png) | Forest Caterpie extended Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=51#21/61/UUUAUULALLLLUUUUURAUUAUUUUUURRRRRRURRUUUUUUUUUUUUUUUUUUUUUAUUUAUUUUUUUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDLDDDLLLLULUU) ([full path](https://i.imgur.com/95P0yLk.png))<br>Npcs: [DU, rl/l, ud/lr](https://pastebin.com/kaBVumw5)<br><br>54/59<br>Frame 18: No encounter<br>Frame 19: [L4 Kakuna encounter](https://gunnermaniac.com/pokeworld?local=51#25/34)<br>Frame 37: [L6 Metapod encounter](https://gunnermaniac.com/pokeworld?local=51#25/31)<br>Frame 47: No encounter<br>Frame 56: [L4 Metapod encounter](https://gunnermaniac.com/pokeworld?local=51#25/31) |
 |||
@@ -942,83 +946,83 @@ Timing ends when the screen fully fades to white after 151 Pokemon are displayed
 |||
 | ![](https://i.imgur.com/DiPPZTA.png) | Diglett's Cave Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=197#5/5/DDDDDDDDDADDDARRRADDDADRRRRDDDDADDDDRRRRRRARRRRRRDRRRRRRRRRRRRRD)<br>pal, fastest buffers<br><br>58/60<br>Frame 30: [L15 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#5/7)<br>Frame 36: [L16 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#5/9) |
 |||
-| ![](https://i.imgur.com/DiPPZTA.png) | Dugtrio Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?map=197#5/5/DDDDDDDDDADDDARRRADDDADRRRRDDDDADDDDRRRRRRARRRRRRDRRRARRRS_BRRRRDDDRRUUU)<br>pal, fastest buffers<br><br>56/60<br>Frame 29: Dugtrio yoloball fail<br>Frame 30: [L15 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#5/7)<br>Frame 36: [L16 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#5/9)<br>Frame 37: [L19 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#34/31) |
+| ![](https://i.imgur.com/DiPPZTA.png) | [Dugtrio Manip](https://www.youtube.com/watch?v=vN6IqskBBCI&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=2)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?map=197#5/5/DDDDDDDDDADDDARRRADDDADRRRRDDDDADDDDRRRRRRARRRRRRDRRRARRRS_BRRRRDDDRRUUU)<br>pal, fastest buffers<br><br>56/60<br>Frame 29: Dugtrio yoloball fail<br>Frame 30: [L15 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#5/7)<br>Frame 36: [L16 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#5/9)<br>Frame 37: [L19 Diglett encounter](https://gunnermaniac.com/pokeworld?map=197#34/31) |
 |||
 | ![](https://i.imgur.com/3dN1VAT.png) | Deathfly Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=22#4/6/RRRRARRRRU)<br>nopal(ab), fastest buffers<br><br>58/60<br>Frame 25: Sandshrew uses Sand Attack<br>Frame 36: No encounter |
 |||
-| ![](https://i.imgur.com/rT5Q9nb.png) | Paras Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=217#5/1/DDDDDRRRRRRR)<br>nopal, fastest buffers<br><br>59/60<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/rT5Q9nb.png) | [Paras Manip](https://www.youtube.com/watch?v=w8gJUVm2Be4&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=3)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=217#5/1/DDDDDRRRRRRR)<br>nopal, fastest buffers<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://i.imgur.com/gmL4a46.png) | Nidoran Female Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=217#12/1/RR)<br>nopal, hop1, fsback<br><br>60/60 |
+| ![](https://i.imgur.com/gmL4a46.png) | [Nidoran Female Manip](https://www.youtube.com/watch?v=w8gJUVm2Be4&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=3)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=217#12/1/RR)<br>nopal, hop1, fsback<br><br>60/60 |
 |||
-| ![](https://i.imgur.com/2xFaI1s.png) | Nidoran Male manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=217#14/1/RRRAR)<br>nopal(ab), fsback<br><br>59/60<br>Frame 58: No encounter |
+| ![](https://i.imgur.com/2xFaI1s.png) | [Nidoran Male Manip](https://www.youtube.com/watch?v=w8gJUVm2Be4&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=3)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=217#14/1/RRRAR)<br>nopal(ab), fsback<br><br>59/60<br>Frame 58: No encounter |
 |||
-| ![](https://i.imgur.com/1K22K0J.png) | Exeggcute Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=217#18/1/RRRDADDDDRR)<br>pal(hold), fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: Pidgey from dv fly |
+| ![](https://i.imgur.com/1K22K0J.png) | [Exeggcute Manip](https://www.youtube.com/watch?v=w8gJUVm2Be4&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=3)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=217#18/1/RRRDADDDDRR)<br>pal(hold), fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: Pidgey from dv fly |
 |||
-| ![](https://i.imgur.com/qSi4ogz.png) | Chansey Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=227#19/1/US_BUUU)<br>nopal, fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: Starmie from dv fly |
+| ![](https://i.imgur.com/qSi4ogz.png) | [Chansey Manip](https://www.youtube.com/watch?v=JHu2NFuSeYQ&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=4)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=227#19/1/US_BUUU)<br>nopal, fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: Starmie from dv fly |
 |||
-| ![](https://i.imgur.com/fHX2ffT.png) | Shellder Manip (on bike)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=160#26/14/UUL)<br>nopal<br><br>59/60<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/fHX2ffT.png) | [Shellder Manip (on bike)](https://www.youtube.com/watch?v=itBfy6yCWzU&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=6)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=160#26/14/UUL)<br>nopal<br><br>59/60<br>Frame 36: No encounter |
 |||
 | ![](https://i.imgur.com/lDHntsX.png) | Shellder Manip (on foot)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=160#26/14/US_BL)<br>pal, fsback<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://i.imgur.com/fHX2ffT.png) | Seel Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUUUUUUUURRRDS_BDD)<br>nopal<br><br>59/60<br>Frame 37: [L33 Psyduck encounter](https://gunnermaniac.com/pokeworld?local=161#28/7) |
+| ![](https://i.imgur.com/fHX2ffT.png) | [Seel Manip](https://www.youtube.com/watch?v=SRY-VZQ8crY&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=6)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUUUUUUUURRRDS_BDD)<br>nopal<br><br>59/60<br>Frame 37: [L33 Psyduck encounter](https://gunnermaniac.com/pokeworld?local=161#28/7) |
 |||
-| ![](https://i.imgur.com/fHX2ffT.png) | Psyduck Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUS_BUUUAUUUAU)<br>nopal(ab)<br><br>58/60<br>Frame 23: No encounter<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/fHX2ffT.png) | [Psyduck Manip](https://www.youtube.com/watch?v=01SVjV5AFAo&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=7)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUS_BUUUAUUUAU)<br>nopal(ab)<br><br>58/60<br>Frame 23: No encounter<br>Frame 36: No encounter |
 |||
-| ![](https://i.imgur.com/fHX2ffT.png) | Krabby Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUAUUUUUAUU)<br>nopal(ab), fsback<br><br>60/60 |
+| ![](https://i.imgur.com/fHX2ffT.png) | [Krabby Manip](https://www.youtube.com/watch?v=FPnptNTWXY0&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=8)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUAUUUUUAUU)<br>nopal(ab), fsback<br><br>60/60 |
 |||
-| ![](https://i.imgur.com/fHX2ffT.png) | Staryu Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUAUUUU)<br>nopal, fsback<br><br>58/60<br>Frame 44: No encounter<br>Frame 58: No encounter |
+| ![](https://i.imgur.com/fHX2ffT.png) | [Staryu Manip](https://www.youtube.com/watch?v=KRy8lrY50A8&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=10)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUAUUUU)<br>nopal, fsback<br><br>58/60<br>Frame 44: No encounter<br>Frame 58: No encounter |
 |||
-| ![](https://i.imgur.com/fHX2ffT.png) | Kingler Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUAUUUUAUU)<br>pal, hop2, fsback<br><br>58/60<br>Frame 44: No encounter<br>Frame 58: [L31 Psyduck encounter](https://gunnermaniac.com/pokeworld?local=161#25/13) |
+| ![](https://i.imgur.com/fHX2ffT.png) | [Kingler Manip](https://www.youtube.com/watch?v=1OIcCHGqWaM&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=9)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=161#26/14/LUAUUUUAUU)<br>pal, hop2, fsback<br><br>58/60<br>Frame 44: No encounter<br>Frame 58: [L31 Psyduck encounter](https://gunnermaniac.com/pokeworld?local=161#25/13) |
 |||
-| ![](https://i.imgur.com/po2JqdC.png) | Zubat Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRRS_BS_BLLAL)<br>pal, fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: Blastoise from dv fly |
+| ![](https://i.imgur.com/po2JqdC.png) | [Zubat Manip](https://www.youtube.com/watch?v=AXos7mq7Hnc&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=12)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRRS_BS_BLLAL)<br>pal, fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: Blastoise from dv fly |
 |||
-| ![](https://i.imgur.com/po2JqdC.png) | Geodude Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRS_BRS_BS_BLLL)<br>nopal, fastest buffers<br><br>58/60<br>Frame 36: [L26 Zubat encounter](https://gunnermaniac.com/pokeworld?local=194#17/0)<br>Frame 37: No encounter |
+| ![](https://i.imgur.com/po2JqdC.png) | [Geodude Manip](https://www.youtube.com/watch?v=tk4AMUfNfk0&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=14)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRS_BRS_BS_BLLL)<br>nopal, fastest buffers<br><br>58/60<br>Frame 36: [L26 Zubat encounter](https://gunnermaniac.com/pokeworld?local=194#17/0)<br>Frame 37: No encounter |
 |||
-| ![](https://i.imgur.com/po2JqdC.png) | Onix Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRRDDS_BDS_BL)<br>nopal, fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: Machoke from dv fly |
+| ![](https://i.imgur.com/po2JqdC.png) | [Onix Manip](https://www.youtube.com/watch?v=KobRvcVpln0&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=13)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRRDDS_BDS_BL)<br>nopal, fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: Machoke from dv fly |
 |||
-| ![](https://i.imgur.com/po2JqdC.png) | Machop Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRRDDDL)<br>pal, hop2, fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: Arcanine from dv fly |
+| ![](https://i.imgur.com/po2JqdC.png) | [Machop Manip](https://www.youtube.com/watch?v=xAzQ7QqBUEQ&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=11)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=194#15/0/RRRDDDL)<br>pal, hop2, fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: Arcanine from dv fly |
 |||
-| ![](https://i.imgur.com/msGkpdL.png) | Drowzee Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=22#15/17/UUURR)<br>nopal(ab), fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: [L13 Spearow encounter](https://gunnermaniac.com/pokeworld?local=22#17/14) |
+| ![](https://i.imgur.com/msGkpdL.png) | [Drowzee Manip](https://www.youtube.com/watch?v=X7mkUxlP3pk&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=16)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=22#15/17/UUURR)<br>nopal(ab), fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: [L13 Spearow encounter](https://gunnermaniac.com/pokeworld?local=22#17/14) |
 |||
-| ![](https://i.imgur.com/msGkpdL.png) | Sandshrew Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=22#15/17/UUUUUARR)<br>pal, hop1<br><br>59/60<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/msGkpdL.png) | [Sandshrew Manip](https://www.youtube.com/watch?v=Boy4_vhfrNA&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=15)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=22#15/17/UUUUUARR)<br>pal, hop1<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://i.imgur.com/FK7kPrg.png) | Primary Gastly Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=145#3/9/DRDRRRADRRRADRR)<br>pal, hop1, fsback, fsback<br><br>58/60<br>Frame 20: Arbok from dv fly<br>Frame 21: No encounter |
+| ![](https://i.imgur.com/FK7kPrg.png) | [Primary Gastly Manip](https://www.youtube.com/watch?v=qayKHt-GhrE&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=17)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=145#3/9/DRDRRRADRRRADRR)<br>pal, hop1, fsback, fsback<br><br>58/60<br>Frame 20: Arbok from dv fly<br>Frame 21: No encounter |
 |||
-| ![](https://i.imgur.com/FK7kPrg.png) | Backup Gastly Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=145#3/9/DRDRDDRADRRRARURR)<br>nopal(ab), gfwait<br><br>56/60 (works on the missing 2/60 above)<br>Frame 19; 36; 37; 48: No encounter |
+| ![](https://i.imgur.com/FK7kPrg.png) | [Backup Gastly Manip](https://www.youtube.com/watch?v=k3aevdCcDs8&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=18)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=145#3/9/DRDRDDRADRRRARURR)<br>nopal(ab), gfwait<br><br>56/60 (works on the missing 2/60 above)<br>Frame 19; 36; 37; 48: No encounter |
 |||
-| ![](https://i.imgur.com/rVfUc87.png) | Primary Pidgeotto Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#10/4/RRR)<br>nopal, fsback<br><br>59/60<br>Frame 58: No encounter |
+| ![](https://i.imgur.com/rVfUc87.png) | [Primary Pidgeotto Manip](https://www.youtube.com/watch?v=ALeQhU75KCY&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=19)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#10/4/RRR)<br>nopal, fsback<br><br>59/60<br>Frame 58: No encounter |
 |||
-| ![](https://i.imgur.com/rVfUc87.png) | Backup Pidgeotto Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#10/4/RRRDDD)<br>pal(hold), hop1<br><br>59/60 (works on the missing 1/60 above)<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/rVfUc87.png) | [Backup Pidgeotto Manip](https://www.youtube.com/watch?v=fPjxh1nMis4&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=20)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#10/4/RRRDDD)<br>pal(hold), hop1<br><br>59/60 (works on the missing 1/60 above)<br>Frame 36: No encounter |
 |||
-| ![](https://i.imgur.com/rVfUc87.png) | Rattata Manip (Route 21)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#10/4/RR)<br>nopal(ab), hop2<br><br>60/60 |
+| ![](https://i.imgur.com/rVfUc87.png) | [Rattata Manip (Route 21)](https://www.youtube.com/watch?v=Si5iKjjDObA&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=21)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#10/4/RR)<br>nopal(ab), hop2<br><br>60/60 |
 |||
-| ![](https://i.imgur.com/rVfUc87.png) | Raticate Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#10/4/R)<br>gfwait, fsback x2<br><br>60/60 |
+| ![](https://i.imgur.com/rVfUc87.png) | [Raticate Manip](https://www.youtube.com/watch?v=oSShOfHtvLI&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=22)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#10/4/R)<br>gfwait, fsback x2<br><br>60/60 |
 |||
-| ![](https://i.imgur.com/WGX3ruS.png) | Tangela Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#13/2/DDDD)<br>pal(hold), fsback, fsback<br><br>58/60<br>Frame 20: No encounter<br>Frame 21: Missingno. from dv fly |
+| ![](https://i.imgur.com/WGX3ruS.png) | [Tangela Manip](https://www.youtube.com/watch?v=ke83K2UxIKg&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=23)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=32#13/2/DDDD)<br>pal(hold), fsback, fsback<br><br>58/60<br>Frame 20: No encounter<br>Frame 21: Missingno. from dv fly |
 |||
-| ![](https://i.imgur.com/Dyy76n5.png) | Spearow Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#29/5/DD)<br>pal, hop2<br><br>59/60<br>Frame 36: Rhyhorn from dv fly |
+| ![](https://i.imgur.com/Dyy76n5.png) | [Spearow Manip](https://www.youtube.com/watch?v=H9Hn6oJUQUk&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=25)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#29/5/DD)<br>pal, hop2<br><br>59/60<br>Frame 36: Rhyhorn from dv fly |
 |||
-| ![](https://i.imgur.com/Dyy76n5.png) | Doduo Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#29/5/DDD)<br>nopal(ab), fsback<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: No encounter |
+| ![](https://i.imgur.com/Dyy76n5.png) | [Doduo Manip](https://www.youtube.com/watch?v=f5-nmSP5R3s&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=24)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#29/5/DDD)<br>nopal(ab), fsback<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: No encounter |
 |||
-| ![](https://i.imgur.com/Yn2UgRC.png) | Rattata Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#28/5/DDDDADDD)<br>nopal(ab), fastest buffers<br><br>59/60<br>Frame 36: [L20 Doduo encounter](https://gunnermaniac.com/pokeworld?local=27#28/12) |
+| ![](https://i.imgur.com/Yn2UgRC.png) | [Rattata Manip](https://www.youtube.com/watch?v=nluS4KMc3F0&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=26)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=27#28/5/DDDDADDD)<br>nopal(ab), fastest buffers<br><br>59/60<br>Frame 36: [L20 Doduo encounter](https://gunnermaniac.com/pokeworld?local=27#28/12) |
 |||
-| ![](https://i.imgur.com/HH3DpGT.png) | Jigglypuff Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=14#58/0/DDDDDDDDRR)<br>nopal, gfwait<br><br>59/60<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/HH3DpGT.png) | [Jigglypuff Manip](https://www.youtube.com/watch?v=4rDzj48VYLw&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=27)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=14#58/0/DDDDDDDDRR)<br>nopal, gfwait<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://i.imgur.com/Cx3evTa.png) | Magnemite Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=83#8/11/DDURD)<br>pal(hold), fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: [L24 Pikachu encounter](https://gunnermaniac.com/pokeworld?local=83#9/13) |
+| ![](https://i.imgur.com/Cx3evTa.png) | [Magnemite Manip](https://www.youtube.com/watch?v=qCPstLNK_h8&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=28)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=83#8/11/DDURD)<br>pal(hold), fastest buffers<br><br>58/60<br>Frame 36: No encounter<br>Frame 37: [L24 Pikachu encounter](https://gunnermaniac.com/pokeworld?local=83#9/13) |
 |||
-| ![](https://i.imgur.com/Cx3evTa.png) | Pikachu Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=83#8/11/DDUUUDD)<br>pal, fastest buffers<br><br>59/60<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/Cx3evTa.png) | [Pikachu Manip](https://www.youtube.com/watch?v=R17VXRaKcs4&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=29)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=83#8/11/DDUUUDD)<br>pal, fastest buffers<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://i.imgur.com/9h54TuN.png) | Bellsprout Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=18#8/15/UUUAUUUUUUU)<br>nopal, fastest buffers<br><br>59/60<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/9h54TuN.png) | [Bellsprout Manip](https://www.youtube.com/watch?v=BWWeRE_B-zQ&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=30)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=18#8/15/UUUAUUUUUUU)<br>nopal, fastest buffers<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://i.imgur.com/nubIFes.png) | Weezing Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#5/10/URRRUUUS_BUS_BLLLLAUU)<br>pal(hold), fastest buffers<br><br>58/60<br>Frame 36: [L34 Ponyta encounter](https://gunnermaniac.com/pokeworld?local=165#8/6)<br>Frame 37: [L37 Muk encounter](https://gunnermaniac.com/pokeworld?local=165#4/3) |
+| ![](https://i.imgur.com/nubIFes.png) | [Weezing Manip](https://www.youtube.com/watch?v=qcDd-3rv0jI&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=31)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#5/10/URRRUUUS_BUS_BLLLLAUU)<br>pal(hold), fastest buffers<br><br>58/60<br>Frame 36: [L34 Ponyta encounter](https://gunnermaniac.com/pokeworld?local=165#8/6)<br>Frame 37: [L37 Muk encounter](https://gunnermaniac.com/pokeworld?local=165#4/3) |
 |||
-| ![](https://i.imgur.com/9C6CTIK.png) | Grimer Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#4/2/D)<br>nopal, hop1<br><br>59/60<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/9C6CTIK.png) | [Grimer Manip](https://www.youtube.com/watch?v=vHMdTIzqiqg&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=33)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#4/2/D)<br>nopal, hop1<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://i.imgur.com/9C6CTIK.png) | Ponyta Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#4/2/DADDLLUAUL)<br>pal(hold), fastest buffers<br><br>59/60<br>Frame 36: No encounter |
+| ![](https://i.imgur.com/9C6CTIK.png) | [Ponyta Manip](https://www.youtube.com/watch?v=mIw7yGPQBDo&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=34)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#4/2/DADDLLUAUL)<br>pal(hold), fastest buffers<br><br>59/60<br>Frame 36: No encounter |
 |||
-| ![](https://i.imgur.com/9C6CTIK.png) | Muk Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#4/2/D)<br>nopal(ab), fsback<br><br>60/60 |
+| ![](https://i.imgur.com/9C6CTIK.png) | [Muk Manip](https://www.youtube.com/watch?v=hwYmtMGUmao&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=35)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#4/2/D)<br>nopal(ab), fsback<br><br>60/60 |
 |||
-| ![](https://i.imgur.com/9C6CTIK.png) | Backup Weezing Manip<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#4/2/DS_LLL)<br>pal, hop2, fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: [L37 Muk encounter](https://gunnermaniac.com/pokeworld?local=165#1/3) |
+| ![](https://i.imgur.com/9C6CTIK.png) | [Backup Weezing Manip](https://www.youtube.com/watch?v=uAx7UoN0mT0&list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR&index=32)<br>[Pokeworld Link](https://gunnermaniac.com/pokeworld?local=165#4/2/DS_LLL)<br>pal, hop2, fsback<br><br>58/60<br>Frame 58: No encounter<br>Frame 59: [L37 Muk encounter](https://gunnermaniac.com/pokeworld?local=165#1/3) |
 
 ## Brock Flies
 
@@ -1057,6 +1061,10 @@ Manip links
 
 - [RNG manipulation video playlist](https://www.youtube.com/playlist?list=PLGhm5bU72JPTU-i7sOyURd3s05UjHunJR)
 - [Bulbasaur manip info](https://pastebin.com/L14vtxJS)
+
+Dsum
+
+- [Dsum Charts](http://wiki.pokemonspeedruns.com/index.php?title=Pok%C3%A9mon_Red/Blue/151_Pok%C3%A9mon/DSum_Charts)
 
 Speedruns
 
