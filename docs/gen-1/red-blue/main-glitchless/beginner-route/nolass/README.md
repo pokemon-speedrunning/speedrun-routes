@@ -1,25 +1,25 @@
 # Pokemon Red Glitchless Beginner Guide, No-Lass Version
 
-**FAQ: Please read the [FAQ](https://pastebin.com/iYrcaEfS) before learning :)**
+**FAQ: [Please read the FAQ before learning :)](../../resources/faq.md)**
 
 ### Manip quick reference
 - Nidoran Manip:
-	- [Optimal (HIGHLY RECOMMENDED)](../../resources/nido-manip.md)
+	- [Optimal](../../resources/nido-manip.md) (HIGHLY RECOMMENDED)
 	- [1 A Press](https://youtu.be/qPzSWHyMuW8)
 - Mount Moon Manip:
-	- [Route 3 Moon Manip](https://pastebin.com/tggXpQRC) (Optimal for this route)
-	- [Entr's Moon Manip](https://pastebin.com/jnj9j47S) (Slightly less optimal, but still perfectly fine)
-	- Backups (in case you fail the full manip):
-		- [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy)
-		- [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
+	- [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy) (recommended for first runs)
+	- [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
+	- [Route 3 Moon Manip](https://pastebin.com/tggXpQRC)
+	- [Entr's Moon Manip](https://pastebin.com/jnj9j47S)
 - Surge Cans Manip:
 	- [Optimal](https://www.youtube.com/watch?v=8Pa2f2WxCe4)
 	- [Palette Cans](https://youtu.be/_tWhfBITf_g) (allows you to see through Rock Tunnel by changing the palette)
+	- [60/60 Cans](https://www.youtube.com/watch?v=T6pXrZ9_Vq0) (slightly slower, but great success chance)
 
 ### Good documents
 - [Defensive Damage Ranges](../../resources/defensive-ranges.md)
 - [Offensive Damage Ranges](../../resources/offensive-ranges.md)
-- Not recommended for this route, but worth reading: [Advanced HP Strats](../../resources/hp-strats.md)
+- [Safety-oriented HP Strats](../../resources/hp-strats-for-races.md)
 
 ### Glossary
 - Moves: HA = Horn Attack, MP = Mega Punch, BB = Bubblebeam, WG = Water Gun, TB = Thunderbolt, Blizz = Blizzard, PS = Poison Sting, HD = Horn Drill, RS = Rock Slide
@@ -50,18 +50,20 @@ Nidoran Manip:
 - [Optimal (HIGHLY RECOMMENDED)](../../resources/nido-manip.md)
 - [1 A Press](https://youtu.be/qPzSWHyMuW8)
 
+Get the [hidden Tree Potion](https://gunnermaniac.com/pokeworld?map=1#54/166)
+
 ## Viridian Forest
 
 - Walk [this path](http://gunnermaniac.com/pokeworld?map=51#17/47/UUUURURRRRRRRRUUUUUUUULUURRUUUUUUUUUUUULLUUUUUUUUAUUULLLLLLLLDDDDDDDLLLLUUUUUUUUUUUUULLLLLLDDDDDDDDDDDDDDDDDDDLLLLLLUUUA) in the forest and pick up the Antidote and the hidden Potion along the way
 
 **Weedle Guy:**
-- Tail Whip x2 + spam Tackle [Heal if HP < 7]
+- Tail Whip x2 + spam Tackle [1-6 Potion]
 - Check your leveled up stats after this fight, if you have 13 special you have bad special, if you have 14 or 15 you have good special
 
 If you were poisoned do the following:
 - Swap Nidoran and Squirtle (Nidoran should be the lead pokemon)
 - Antidote
-- Potion if HP < 16
+- 1-15 Potion
 
 ## Pewter City
 
@@ -70,13 +72,13 @@ Shopping:
 
 If you weren't poisoned do the following:
 - Swap Nidoran and Squirtle (Nidoran should be the lead pokemon)
-- Potion if HP < 16
+- 1-15 Potion and toss Antidote
 - [OPTIONAL SAVE IF YOU HAVE BAD SPECIAL]
 
 **Brock:**
-- Geodude [Heal if HP < 8]
+- Geodude [1-8 Potion]
 	- Swap to Squirtle, then spam Bubble
-- Onix [Heal if HP < 7]
+- Onix [1-12 Potion]
 	- Swap to Squirtle
 		- IF ONIX USES BIDE: Tail Whip x2
 	- Spam Bubble
@@ -91,24 +93,28 @@ Options: Battle Style to Set before leaving Brock's gym
 	- Leer + HA + Tackle if you got String Shot hit OR Tackle will always kill
 - Caterpie: Leer + HA + Tackle
 
-Menu: Potion if HP < 25
+Menu:
+- Potion to 28+
+- Toss Antidote if you still have it
 
 **Shorts Guy:**
-- Rat: [Heal if HP < 16]
+- Rat: [1-15 Potion]
 	- Leer + HA x2
-- Ekans: [Heal if HP < 6]
+- Ekans: [1-4 Potion, or 1-5 at -2 defense]
 	- Leer + HA x2
-		- Potion if you got Wrap and HP < 12
+		- Potion turn 1 of Wrap if you don't live 4 or 5 turn Wrap
 
 **Bug Catcher 2:**
 - Weedle:
 	- HA x2 (Tackle is a range to kill turn 2)
 - Kakuna:
 	- Spam HA, finish with Tackle
-- Caterpie: [Heal if HP < 6]
+- Caterpie: [1-5 Potion]
 	- HA x2 (Tackle turn 2 if Weedle hit 2 String Shots)
 - Metapod:
 	- HA x2 + Tackle
+
+1-5 Potion x2 before next fight
 
 **Bug Catcher 3:**
 - Caterpie:
@@ -122,20 +128,12 @@ Catch a flyer:
 
 ## Mount Moon
 
-**Mount Moon Manip:**
-
-Don't stress too much doing the longer manips, just learn Post Nerd Backup Paras and start working on a full Moon manip. If you fail the manip just keep going and do the backup Paras. There is also a 2nd floor backup you can learn.
-- [Route 3 Moon Manip](https://pastebin.com/tggXpQRC) (Optimal for this route)
-- [Entr's Moon Manip](https://pastebin.com/jnj9j47S) (Slightly less optimal, but still perfectly fine)
-- Backups (in case you fail the full manip):
-	- [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy)
-	- [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
-- Get TM12 (Water Gun), Rare Candy, Escape Rope, TM01 (Mega Punch), Moon Stone during Mount Moon manip
+- Do not learn a full Moon Manip for your first runs, start by learning [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy) and walking through the first floor normally ([movement map](https://i.imgur.com/xzgmNBk.jpeg)). You will choose later if you want to learn [Route 3 Moon](https://pastebin.com/tggXpQRC) (optimal for this route) or [Entr Moon](https://pastebin.com/jnj9j47S) (slightly less optimal, but still perfectly fine). There is also a [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md) you can learn.
+- Get [TM12 (Water Gun)](https://gunnermaniac.com/pokeworld?map=59#5/32), [Rare Candy](https://gunnermaniac.com/pokeworld?map=59#35/31), [Escape Rope](https://gunnermaniac.com/pokeworld?map=59#36/23), [TM01 (Mega Punch)](https://gunnermaniac.com/pokeworld?map=61#29/5) and [Moon Stone](https://gunnermaniac.com/pokeworld?map=59#2/2)
 
 Menu before walking in front of the Rocket:
 - Toss any remaining Poke Balls (ONLY IF YOU HAVE A PARAS)
-- Toss Antidote if you still have it
-- Potion if HP < 36
+- Potion to 36+
 - (Optional but recommended) Save
 
 **Rocket:**
@@ -156,7 +154,7 @@ Menu before walking in front of the Rocket:
 	- Rat: HA x2 (+ PS)
 	- Zubat: HA x3 (+ Tackle)
 
-Menu before Super Nerd:
+Menu after defeating Rocket:
 - Use Rare Candy
 - Teach TM12 (Water Gun) over Tackle (slot 2)
 - Use Moon Stone
@@ -168,6 +166,8 @@ Menu before Super Nerd:
 - Koffing: HA + MP if you have an HA, otherwise MP x2
 
 If you encounter a Paras or a Geodude, faint it for EXP (PS for Paras, WG for Geodude). This [Moon EXP](https://pastebin.com/8gP8HZY9) will improve some ranges.
+
+If you still need Paras: [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
 
 ## Nugget Bridge
 
@@ -203,16 +203,13 @@ If you encounter a Paras or a Geodude, faint it for EXP (PS for Paras, WG for Ge
 - HA x2
 
 **Mankey:** [Note: Mankey is 1/3 to Karate Chop and does 12-15, healing is an option but is slow because you lose IT]
-- 1-7 HP:
-	- MP (+ PS)
-- 8-27 HP:
-	- HA x2 [Note: PS can kill if you get a good HA roll, if so use PS over the second HA]
-- 28+ HP:
-	- MP (+ PS)
+- 1-7 MP (+ PS)
+- 8-27 HA x2 [Note: PS can kill if you get a good HA roll, if so use PS over the second HA]
+- 28+ MP (+ PS)
 
 **Rocket:**
-- Ekans: MP
-- Zubat: MP (HA if you fought the extra Moon encounter)
+- MP
+- MP (HA if you fought the extra Moon encounter)
 
 ## Route 25
 
@@ -241,7 +238,7 @@ Menu after Bill:
 
 ## Cerulean City
 
-- Center unless you have 55+ HP and at least 2 Mega Punches
+- Use the center
 - Get IT again
 
 **Dig Rocket:**
@@ -254,7 +251,7 @@ Menu after Bill:
 - Thrash
 	- If you are ever alive and confused swap to another poke (bird) and let it die
 
-If HP < 15 after Misty:
+If 1-15 after Misty (or 16-24 and you want to play safely):
 - Potion
 - Teach TM11 (Bubblebeam) over PS (slot 4)
 - Get IT again
@@ -267,24 +264,31 @@ If HP < 15 after Misty:
 **Jr Trainer M:**
 - Thrash
 
-If HP < 13 after this fight:
+If 1-12 after this fight:
 - Potion
-	- 13+ HP lives QA x2, Vine Whip + QA, and Vine Whip crit
 - Teach TM11 (Bubblebeam) over PS (slot 4)
 
 **Boat Rival:**
 - Pidgeotto:
-	- HA x2 (BB x2 if taught; Potion turn 2 if under 7 HP)
+	- HA x2 (BB x2 if taught; Potion turn 2 if 1-6)
 	- If you get Sand-Attacked swap to another pokemon and let it die
 - Rat:
-	- 1-6 HP: Potion
-	- 7-22 HP: MP [Note: Potion on 7-12 HP is extra safe]
-	- 23+ HP: HA + PS or BB x2
+	- 1-6 Potion
+	- 7-22 MP [Note: Potion on 7-12 is extra safe]
+	- 23+ HA + PS or BB x2
 - Kadabra:
-	- 1-6 HP: HA Kadabra & Potion turn 1 on Ivysaur, then Thrash
-	- 7+ HP: Thrash Kadabra
+	- 1-6 HA Kadabra & Potion turn 1 on Ivysaur, then Thrash
+	- 7+ Thrash Kadabra
 
-If you have less than 9 HP and IT, fight the Gentleman in [this room](https://gunnermaniac.com/pokeworld?map=96#21/11) with Thrash then pick up the Rare Candy
+Talk to the Captain to get HM01
+
+Depending of your HP, you may fight the Gentleman in [this room](https://gunnermaniac.com/pokeworld?map=96#21/11) with Thrash then pick up the Rare Candy
+
+| HP    | Strategy                                |
+| ----- | --------------------------------------- |
+| 1     | Skip Gentleman, use Potion in Cut Menu  |
+| 2-8   | Do Gentleman                            |
+| 9-24  | Do Gentleman if you want to play safely |
 
 Shopping:
 - Buy:
@@ -300,17 +304,19 @@ Menu before Cut bush:
 
 Surge Cans Manip:
 - [Optimal](https://www.youtube.com/watch?v=8Pa2f2WxCe4)
-- [Palette Cans](https://youtu.be/_tWhfBITf_g) (aka 'cheater' palette, allows you to see through Rock Tunnel)
+- [Palette Cans](https://youtu.be/_tWhfBITf_g) (allows you to see through Rock Tunnel by changing the palette)
+- [60/60 Cans](https://www.youtube.com/watch?v=T6pXrZ9_Vq0) (slightly slower, but great success chance)
 
 **Surge**
 - Voltorb:
-	- If HP < 21 Thrash
-	- Otherwise BB + HA
+	- 1-24 Thrash
+	- 25+ BB + HA
 - Pikachu:
 	- Thrash
 - Raichu:
-	- If you are confused on Raichu, consider swapping to bird/Squirtle if you are dead to hitting yourself
-- Get the Bike Voucher and use Dig on Paras
+	- If you are confused and dead to a self hit, swap to your bird or Squirtle
+
+Get the Bike Voucher and use Dig on Paras
 
 ## Cerulean City
 
@@ -333,7 +339,10 @@ Surge Cans Manip:
 
 ## Rock Tunnel
 
-Menu after taking 1 step down: Scroll down and use a Repel
+[Map of both floors](https://imgur.com/gallery/uoueIjq)
+
+Menu after taking 1 step down:
+- Scroll down and use a Repel
 
 **Pokemaniac 1:**
 - BB
@@ -342,13 +351,14 @@ Menu after taking 1 step down: Scroll down and use a Repel
 **Pokemaniac 2:**
 - TB
 
-[Optional Save if HP < 18 and you did not fight the Gentleman]
+[Optional Save if 1-17 and you did not fight the Gentleman]
 
 **Oddish Girl:**
 - If you fought the Gentleman, Thrash. The ranges are guaranteed
-- 18-22 HP: TB, then Thrash
+- 18-22 TB, then Thrash
 - Otherwise, just Thrash
-	- If you get paralyzed use a heal on it, if you get put to sleep heal if HP < 6
+	- If you get paralyzed use a heal on it
+	- If you get put to sleep Potion at 1-5
 
 After the fight:
 - Use one Repel [here](https://gunnermaniac.com/pokeworld?map=232#25/19)
@@ -367,7 +377,7 @@ Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
 
 **Gambler:**
 - Growlithe:
-	- If HP < 5 Potion
+	- 1-8 Potion
 	- BB
 - Vulpix: Thrash
 
@@ -411,10 +421,16 @@ Menu after getting Fly:
 Note: From this point on you have 2 Revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, Revive, let the swapped pokemon die and ANY AND ALL X ITEMS ARE GONE. This route has extras so you shouldn't run out of X items, and there will still be some saving since some deaths with Revives are still really slow to come back from if at all.
 
 **Rival:**
-- TB x2, BB, Thrash
+- TB
+- TB
+- BB
+- Thrash
+
+[Tower Movement Map](https://imgur.com/gallery/Yf2tY3u)
 
 **Channeler 1:**
 - RS x2
+
 - Get the Elixers [here](http://gunnermaniac.com/pokeworld?map=145#12/10) and [here](http://gunnermaniac.com/pokeworld?map=146#4/12)
 
 **Channeler 2:**
@@ -422,6 +438,8 @@ Note: From this point on you have 2 Revives which means deaths aren't as scary, 
 
 **Channeler 3:**
 - RS
+
+
 - Pick up the Rare Candy in your way
 - Teach TM07 (Horn Drill) over Rock Slide (slot 1)
 
@@ -433,11 +451,13 @@ Note: From this point on you have 2 Revives which means deaths aren't as scary, 
 - TB x3 (+ BB)
 
 **Rocket 2:**
-- X Acc, HD x2
+- X Acc + HD x2
 
 **Rocket 3:**
-- TB x2, Thrash
-- Get the Poke Flute and Fly to Celadon City
+- TB x2
+- Thrash
+
+Get the Poke Flute and Fly to Celadon City
 
 ## Celadon City
 
@@ -463,7 +483,7 @@ Get the Card Key
 
 Note: In this split we want to take a bit of damage to do a strat on Koga called Boom Strats
 
-If HP < 78, use an Elixer before the next fight
+If 1-77, use an Elixer before the next fight
 
 **Rocket 2:**
 - Cubone:
@@ -476,7 +496,10 @@ If HP < 78, use an Elixer before the next fight
 - Marowak: HD
 
 **Giovanni:**
-- X Acc, HD x2, BB, HD
+- X Acc + HD
+- HD
+- BB
+- HD
 
 Go back to the elevator and go to the 10th Floor to get [TM26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
 
@@ -504,6 +527,8 @@ Menu:
 - Teach TM26 (Earthquake) over Thrash (slot 2)
 - Use Bike
 
+[Safari Movement Map](https://imgur.com/gallery/h9KpU3I)
+
 In the Safari Zone:
 - Super Repel on the 2nd map around [this tile](https://gunnermaniac.com/pokeworld?map=217#13/24)
 - Pick up the [Teeth](https://gunnermaniac.com/pokeworld?map=219#19/7) and get Surf
@@ -513,8 +538,8 @@ In the Safari Zone:
 - EQ x4
 
 **Juggler 2:**
-- Drowzee: EQ
-- Hypno: EQ + TB
+- EQ
+- EQ + TB
 	- If TB gets disabled, finish with BB if it's in range, finish with EQ if not or you don't know the range
 
 **Koga:**
@@ -554,7 +579,9 @@ Bike to the gym
 - Blizz
 
 **Erika:**
-- EQ, Blizz, EQ
+- EQ
+- Blizz
+- EQ
 
 Fly back to Cinnabar
 
@@ -563,7 +590,7 @@ Fly back to Cinnabar
 Quiz answers: A B B B A B
 
 **Blaine:**
-- X Acc, EQ
+- X Acc + EQ
 - HD x3
 
 Dig out and Bike to Sabrina's gym
@@ -585,7 +612,9 @@ Walk back to the teleporter and Dig out and Fly to
 [OPTIONAL SAVE: This next fight has a decent chance to die, and reviving will lose red bar so saving is advised]
 
 **Blackbelt:**
-- X Acc, HD, Blizz, HD
+- X Acc + HD
+- Blizz
+- HD
 
 Leave the gym to reset the trainer
 
@@ -593,7 +622,8 @@ Menu after entering the gym again:
 - Elixer
 
 **Giovanni:**
-- EQ x4, Blizz (+ Blizz)
+- EQ x4
+- Blizz (+ Blizz)
 	- Note: Don't go below 2 Blizzards in this fight, use EQ to finish Rhydon if you need to
 
 Menu after leaving the gym:
@@ -601,14 +631,16 @@ Menu after leaving the gym:
 - Bike
 
 **Rival:**
-- X Acc, Blizz + TB
+- X Acc + Blizz + TB
 - HD x2
 - X Spec (on Growlithe)
 - HD x3
 	- Note: Only if you had 0 Potions in Celadon and bought 3 X Speeds do the following instead:
-	- X Acc, X Speed, Blizz (+ TB), HD x5
+	- X Acc + X Speed + Blizz (+ TB), HD x5
 
 ## Victory Road
+
+[Super Repel locations](https://imgur.com/gallery/laeW1PT) and [Victory Road map](https://imgur.com/gallery/vKQYRQZ)
 
 - Pick up the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=34#8/90) from the water
 - Use a Super Repel one step into the cave
@@ -634,21 +666,21 @@ Don't deposit extra pokes unless you have no more Revives
 Before Bruno use a Max Ether on HD
 
 **Bruno:**
-- X Acc, HD x5
+- X Acc + HD x5
 
 Menu before Agatha:
-- 1-18 HP Super Potion + Potion
-- 19+ HP Super Potion
+- 1-18 Super Potion + Potion
+- 19+ Super Potion
 	- If out of Potion, just Super Potion once
 - Rare Candy
 
 **Agatha:**
-- Gengar: X Spec, EQ
+- Gengar: X Spec + EQ
 	- If you get put to sleep use the Poke Flute, and if you get confused risk it since you would need to X Spec again if you swapped
 - Golbat: Blizz
 	- If you miss Blizz, and Golbat uses Haze, use
 		- 2x TB on Golbat
-		- Consider using a Super Potion on Arbok if you are between 25 and 60 HP (or use X Speed if you bought 3)
+		- Consider using a Super Potion on Arbok at 25-60 (or use X Speed if you bought 3)
 		- 25 HP and lower has red bar, and is usually worth taking the risk
 		- You are slower than the last Gengar, so it will have a turn to use a move on you
 	- If you miss Blizz, but Golbat doesn't use Haze, use Blizz again, or TB if out of Blizzards
@@ -674,17 +706,26 @@ If you don't have enough Potions, use the next healing option
 - Feel free to use your Full Restore if you picked it up and you want to play really safe
 
 **Lance:**
-- Gyarados: X Spec, TB
+- Gyarados: X Spec + TB
 - Dragonair 1: Blizz
-- Dragonair 2: X Spec, Blizz (use X Speed instead if you have one)
+- Dragonair 2: X Spec + Blizz (use X Speed instead if you have one)
 - Aero: TB
 - Dragonite: Blizz
 
 After Lance:
-- Heal if HP < 22
+- Heal to 22+
 - [OPTIONAL SAVE: Saving for Champ can be good if you don't have a spare X Accuracy + X Special + Revive]
 
-**Champ:**
-- X Spec, X Acc, HD x3, TB, HD x2
-	- If Pidgeot uses Sky Attack turn 1 ("Pidgeot is glowing!") do the following:
-	- Blizz, EQ, X Acc, HD x4
+**Champion:**
+- Pidgeot: X Spec
+	- If Pidgeot does NOT use Sky Attack turn 1:
+		- Pidgeot: X Acc + HD
+		- Alakazam: HD
+		- Rhydon: HD
+		- Gyarados: **TB**
+		- Arcanine: HD
+		- Venusaur: HD
+	- If Pidgeot begins to use Sky Attack turn 1 (*Pidgeot is glowing*):
+		- Pidgeot: **Blizz**
+		- Alakazam: **EQ**
+		- Rhydon: X Acc + HD x4

@@ -41,15 +41,16 @@ Do [Nido Manip](../resources/nido-manip.md)
 
 - Pick up the Antidote
 - Pick up the hidden Weedle Guy Potion
-> If Squirtle HP < 16, menu to Potion before the fight
+
+> 1-15 Potion before the fight
 
 Weedle Guy:
-- Tail Whip x2, spam Tackle [Heal if HP < 7]
+- Tail Whip x2, spam Tackle [1-6 Potion]
 - Check your leveled up stats after this fight, if you have 13 special you have bad special, if you have 14 or 15 you have good special
 
 Swap Squirtle and Nido at some point
-- Potion if HP < 16 & use/toss Antidote
-- If you have bad special and you failed Pidgey extend, do this manip:
+- 1-15 Potion and use/toss Antidote
+- If you have bad special and no Pidgey, do this manip:
 	- [Pidgey Backup](https://youtu.be/WLigwIbp2ps)
 
 Pewter Mart
@@ -59,9 +60,9 @@ Save before Brock if you have bad special and no Pidgey
 
 Brock:
 - Swap to Squirtle
-- Bubble x2-3 on Geodude [Heal if HP < 15]
+- Spam Bubble on Geodude [1-14 Potion]
 - Switch to Nido, then swap back to Squirtle
-- Bubble x2-3 on Onix [Heal if HP < 13]
+- Spam Bubble on Onix [1-12 Potion]
 	- If Onix uses Bide on the turn you Bubble, use Bubble again, then switch to Pidgey if it didn't kill
 
 ## ROUTE 3 SPLIT
@@ -73,12 +74,12 @@ Bug Catcher 1:
 - Weedle: Leer + HA + Tackle (or HA)
 - Caterpie: Leer + HA + Tackle (or HA)
 
-**Menu** if HP < 25: Use a Potion and toss Antidote
+**Menu** if 1-24: Potion and toss Antidote
 
 Shorts Guy:
-- Rat: [Heal if HP < 16]
-	- Leer + HA x2 (at 25-27 HP use HA x2 + Tackle)
-- Ekans: [Heal if HP < 5]
+- Rat: [1-15 Potion]
+	- Leer + HA x2 (at 25-27 use HA x2 + Tackle)
+- Ekans: [1-4 Potion]
 	- Leer + HA x2
 > Potion turn 1 of Wrap if you don't live 4 or 5 turn Wrap
 
@@ -87,7 +88,7 @@ Bug Catcher 2:
 	- HA + Tackle (or HA)
 - Kakuna:
 	- Spam HA, finish with Tackle
-- Caterpie: [Heal if HP < 6]
+- Caterpie: [1-5 Potion]
 	- HA x2 (Tackle turn 2 if Weedle hit 2 String Shots)
 - Metapod:
 	- HA x2 + Tackle (or HA if Metapod outsped you)
@@ -98,7 +99,7 @@ Here you need to decide if you want to do Lass or not
 - If you want to play 100% safe, always do Lass
 
 ### [LASS]
-Potion if HP < 21
+1-20 Potion
 
 Lass:
 - HA x4
@@ -115,7 +116,7 @@ Route 3 grass:
 - Kill one encounter in the grass with HA EXCEPT level 3 or level 7 Jigglypuffs to get Nidoran to level 15
 
 ### [LASS SKIP]
-Potion if HP < 6
+1-5 Potion
 
 Bug Catcher 3:
 - Caterpie:
@@ -152,7 +153,7 @@ Rocket:
 
 ### [LASS SKIP]
 **Menu** after Paras and before Rocket
-- Heal to 36+
+- Potion to 36+
 - **Save**
 
 Rocket:
@@ -216,7 +217,7 @@ Lass:
 - MP (+ PS)
 - HA x2
 
-Potion if HP < 8
+1-7 Potion before next fight
 
 Mankey:
 - 8-14: Potion
@@ -247,11 +248,11 @@ Hiker:
 	- [LASS] Teach Thrash over Tackle
 - WG
 - MP (+ PS/WG)
-	- HA + PS if 16-20 HP
+	- HA + PS at 16-20
 - WG
 
 Lass:
-> Potion on 1st Oddish if HP < 6
+> 1-6 Potion on 1st Oddish
 - [LASS] Thrash
 - [LASS SKIP] MP, HA, MP
 	- Teach Thrash over WG (slot 2)
@@ -281,7 +282,7 @@ Misty:
 If you still miss a cutter:
 - [Oddish Backup](../resources/oddish-backup)
 
-If HP < 12 do the following after the grass
+If 1-11 do the following after the grass
 - Potion
 - Teach TM11 (Bubblebeam) in slot 4
 
@@ -291,7 +292,7 @@ Jr Trainer F:
 Jr Trainer M:
 - Thrash
 
-If HP < 13
+If 1-12
 - Potion
 - Teach TM11 (Bubblebeam) in slot 4
 
@@ -306,7 +307,7 @@ Boat Rival:
 - Kadabra:
 	- Thrash
 
-If HP < 9, fight the Gentleman in [this room](https://gunnermaniac.com/pokeworld?map=96#21/11) with Thrash then pick up the Rare Candy
+1-8 Fight the Gentleman in [this room](https://gunnermaniac.com/pokeworld?map=96#21/11) with Thrash then pick up the Rare Candy
 
 Vermilion Mart
 - Buy 3 Repels and 4 Parlyz Heals
@@ -365,10 +366,10 @@ Pokemaniac 1:
 Pokemaniac 2:
 - Slowpoke: TB
 
-**Save** if HP < 18
+1-17 **Save**
 
 Oddish Girl: [Parlyz Heal immediately if Stun Spore hits]
-- Oddish: Thrash (or at 18-22 HP use: TB + Thrash, Potion if asleep below 6 HP)
+- Oddish: Thrash (or at 18-22 use: TB + Thrash, if asleep Potion at 1-5)
 - Bulba: Thrash
 
 Use 2 Repels at some point after this fight and before the next fight
@@ -381,7 +382,7 @@ Jr Trainer F:
 
 Pick up the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=1#336/97) outside of Tunnel
 
-Gambler: [Potion turn 1 if HP < 9]
+Gambler: [1-8 Potion turn 1]
 - Growlithe: BB (+ Thrash)
 - Vulpix: Thrash
 > Take note of your HP leaving Gambler
@@ -436,11 +437,11 @@ Get HM02 Fly
 
 Lavender Rival:
 - On Late Drill:
-	- TB x2, BB, Thrash (if HP < 9 on Growlithe use Potion, then BB)
+	- TB x2, BB, Thrash (1-8 on Growlithe use Potion, then BB)
 - On Early Drill:
 	- 1-8: Potion, X Acc, HD x5
 	- 16: TB x2, X Acc on Growlithe, HD x3
-	- 20+: X Acc, HD x5 (can Potion turn 2 if crit below 9 HP)
+	- 20+: X Acc, HD x5 (can Potion turn 2 if 1-8)
 
 Channeler 1: [Tower Map](https://imgur.com/gallery/Yf2tY3u)
 - RS x2 (don't forget Rock Slide will be in either slot 1 or slot 2)
@@ -483,7 +484,7 @@ Get the Poke Flute
 Go to floor 5 and pick up the hidden [Tree Elixer](https://gunnermaniac.com/pokeworld?map=210#12/3)
 
 Arbok Rocket:
-- On Late Drill: Thrash x2-3
+- On Late Drill: Thrash
 	- Do NOT use a Parlyz Heal in fight and enter the next fight still paralyzed
 - On Early Drill: X Acc + HD
 	- Use Parlyz Heal immediately if Glare hits
@@ -500,16 +501,15 @@ Silph Rival:
 - Alakazam: HD
 - Venusaur: HD
 
-**Menu** if HP < 78
-- If HP < 78, use **Max Ether** on Horn Drill BEFORE the next fight
-- If 78+ HP, Max Ether will be used in the next fight
+1-77 **Menu**:
+- Use **Max Ether** on Horn Drill BEFORE the next fight
+- If 78+, Max Ether will be used in the next fight
 
 Silph Rocket:
 - Cubone:
-	- Turn 1: X Acc
-	- Turn 2: If Cubone hit you below 78 HP, use **Max Ether**
-	- Turn 2: BB if Cubone did NOT damage you
-	- (Turn 3: BB)
+	- X Acc
+	- If Cubone hit you below 78, use **Max Ether**
+	- BB
 - Drowzee:
 	- If you have not used it yet, use **Max Ether**
 	- HD
@@ -519,7 +519,7 @@ Giovanni:
 - Nidorino: X Acc, HD
 - Kangaskhan: HD
 - Rhyhorn: BB
-	- Note: Only if you happen to be at **24-37 HP** on Rhyhorn, then use TB to stall for a hit into red bar, if hit by Tail Whip keep stalling if 31-37 HP; otherwise BB, and always BB after 2nd Tail Whip.
+	- Note: Only if you happen to be at **27-37** on Rhyhorn, then use TB to stall for red bar, but BB if you get Tail Whip. **24-26** can also stall with an X Special
 - Nidoqueen: HD
 
 Go back to the elevator and go to the 10th Floor to get [TM26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
@@ -667,7 +667,7 @@ Lorelei:
 
 **Menu**
 - Use Elixer
-- Only if HP < 20, Rare Candy now unless you need the jingle skip
+- Only if 1-19, Rare Candy now unless you need the jingle skip
 
 Bruno:
 - X Acc + Blizz, HD x2, Blizz, HD
@@ -675,14 +675,14 @@ Bruno:
 ## AGATHA SPLIT
 
 **Menu**
-- Use Super Potion (+ Potion if under 19 HP)
+- Use Super Potion (+ Potion if 1-18)
 - Rare Candy
 
 Agatha:
 - Gengar: X Spec + EQ
 - Golbat: Blizz
 - EQ x3
-> If Golbat used Haze, use TB x2 then X Speed on Arbok if you have 25-60 HP. Otherwise Super Potion or yolo.
+> If Golbat used Haze, use TB x2 then X Speed on Arbok if you have 25-60. Otherwise Super Potion or yolo.
 
 ## LANCE SPLIT
 
@@ -706,7 +706,7 @@ HP      | Strat
 Lance:
 - Gyarados: X Spec + TB
 - Dragonair: Blizz
-- Dragonair: X Speed + Blizz (or if 0 speeds, then X Spec)
+- Dragonair: X Speed + Blizz (or X Spec if 0 speeds)
 - Aerodactyl: TB
 - Dragonite: Blizz
 
@@ -722,10 +722,11 @@ HP     | Strat
 22+    | Don't heal
 Any HP | Heal to 45+ or higher if you don't need red bar
 
-Champion if Pidgeot does NOT use Sky Attack turn 1
-- X Spec + X Acc + HD x6
-
-Champion if Pidgeot begins to use Sky Attack turn 1 - *Pidgeot is glowing*
-- Pidgeot: X Spec + Blizz
-- Alakazam: EQ
-- Rhydon: X Acc, HD x4 (1/4 to use Fury Attack)
+Champion:
+- Pidgeot: X Spec
+	- If Pidgeot does NOT use Sky Attack turn 1:
+		- X Acc + HD x6
+	- If Pidgeot begins to use Sky Attack turn 1 - *Pidgeot is glowing*:
+		- Pidgeot: **Blizz**
+		- Alakazam: **EQ**
+		- Rhydon: X Acc + HD x4 (1/4 to use Fury Attack)

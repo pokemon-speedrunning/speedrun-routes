@@ -1,6 +1,6 @@
 # Pokemon Red Glitchless Beginner Guide
 
-**FAQ: Please read the [FAQ](https://pastebin.com/iYrcaEfS) before learning :)**
+**FAQ: [Please read the FAQ before learning :)](../../resources/faq.md)**
 
 ## Manip Quick Reference:
 - Nidoran Manip:
