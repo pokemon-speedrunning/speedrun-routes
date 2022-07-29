@@ -40,8 +40,7 @@ Tackle x5 | 94.5%     | 99.9%             | 99.9%     | 99.9%
 ### Route 3
 
 **Bug Catcher 1**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 | Caterpie                          | &nbsp; |
 | --------------------------------- | ------ |
@@ -65,14 +64,14 @@ Tackle x5 | 94.5%     | 99.9%             | 99.9%     | 99.9%
 
 </td></tr> </table>
 
-**Short Guy**
+**Shorts Guy**
 
 | Rattata       | &nbsp; |
 | ------------- | ------ |
 | <details><summary>Leer + Horn Attack + Tackle  </summary><br><img src="https://i.imgur.com/YsRYZxZ.png" width="250"></details> | 20.4% |
 | <details><summary>Leer + Horn Attack + Tackle* </summary><br><img src="https://i.imgur.com/fvhiH5F.png" width="250"></details> | 47.1% |
-| <details><summary>Leer + Horn Attack + Tackle**</summary><br><img src="https://i.imgur.com/gd0ruiU.png" width="250"></details> | 74.9% |
-
+| <details><summary>Leer + Horn Attack* + Tackle**</summary><br><img src="https://i.imgur.com/gd0ruiU.png" width="250"></details> | 88.8% |
+| Horn Attack x2 + Tackle | 96.9% |
 
 **Bug Catcher 2**
 
@@ -83,8 +82,7 @@ Tackle x5 | 94.5%     | 99.9%             | 99.9%     | 99.9%
 | <details><summary>Horn Attack + Tackle*</summary><br><img src="https://i.imgur.com/7i95Mxx.png" width="250"></details> | 89.1% |
 
 **Bug Catcher 3**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 | Caterpie       | &nbsp; |
 | -------------- | ------ |
@@ -101,8 +99,7 @@ Tackle x5 | 94.5%     | 99.9%             | 99.9%     | 99.9%
 ### Mt. Moon
 
 **Moon Rocket**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 | Rattata                     | &nbsp; |
 | --------------------------- | ------ |
@@ -125,8 +122,7 @@ Tackle x5 | 94.5%     | 99.9%             | 99.9%     | 99.9%
 ## FFEF Nidoking
 
 **Nerd**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 | Grimer                 | &nbsp; |
 | ---------------------- | ------ |
@@ -150,8 +146,7 @@ Tackle x5 | 94.5%     | 99.9%             | 99.9%     | 99.9%
 ### Nugget Bridge
 
 **Rival**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 | Pidgeotto                   | &nbsp; |
 | --------------------------- | ------ |
@@ -177,8 +172,7 @@ Tackle x5 | 94.5%     | 99.9%             | 99.9%     | 99.9%
 </td></tr> </table>
 
 **Bug Catcher**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Caterpie     | &nbsp;
 ------------ | ------
@@ -197,8 +191,7 @@ Horn Attack* | 100%         |
 </td></tr> </table>
 
 **Lass**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Pidgey       | &nbsp;
 ------------ | ------
@@ -213,8 +206,7 @@ Horn Attack# | 100%
 </td></tr> </table>
 
 **Youngster**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Rattata      | &nbsp;
 ------------ | ------
@@ -222,22 +214,23 @@ Horn Attack* | 100%
 
 </td><td>
 
-Ekans        | &nbsp;
------------- | ------
-Mega Punch   | 72.1%
-Mega Punch*  | 100%
+Ekans         | &nbsp;
+------------- | ------
+Mega Punch    | 72.1%
+Mega Punch*   | 100%
+Horn Attack** | 85.0%
 
 </td><td>
 
-Zubat        | &nbsp;
------------- | ------
-Horn Attack* | 70.0%
+Zubat         | &nbsp;
+------------- | ------
+Horn Attack*  | 70.0%
+Horn Attack** | 100%
 
 </td></tr> </table>
 
 **Lass**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Pidgey       | &nbsp;
 ------------ | ------
@@ -260,13 +253,13 @@ Mega Punch   | 76.4%
 | <details><summary>Horn Attack + Poison Sting</summary><br><img src="https://i.imgur.com/IfiyNIR.png" width="250"></details> | 94.9% |
 
 **Bridge Rocket**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
-Ekans        | &nbsp;
------------- | ------
-Mega Punch   | 100%
-Horn Attack* | 70.0%
+Ekans         | &nbsp;
+------------- | ------
+Mega Punch    | 100%
+Horn Attack*  | 70.0%
+Horn Attack** | 100%
 
 </td><td>
 
@@ -280,10 +273,22 @@ Horn Attack* | 100%
 ### Misty
 
 **Lass**
+<table class="t"> <tr><td>
+
+NidoranM      | &nbsp;
+------------- | ------
+Horn Attack*  | 65.7%
+Horn Attack** | 100%
+
+</td><td>
 
 NidoranF     | &nbsp;
 ------------ | ------
 Horn Attack# | 100%
+Mega Punch*  | 52.8%
+Mega Punch** | 100%
+
+</td></tr> </table>
 
 **Hiker**
 
@@ -299,8 +304,7 @@ Oddish       | &nbsp;
 Horn Attack  | 59.3%
 
 **Dig Rocket**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Machop       | &nbsp;
 ------------ | ------
@@ -324,8 +328,7 @@ Thrash       | 93.6%
 ### Surge
 
 **Boat Rival**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Pidgeotto    | &nbsp;
 ------------ | ------
@@ -356,8 +359,7 @@ Thrash + Thrash@-1 | 100%
 </td></tr> </table>
 
 **Surge**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 | Voltorb      | &nbsp; |
 | ------------ | ------ |
@@ -389,8 +391,7 @@ Thrash       | 85.0%
 Thunderbolt  | 61.4%
 
 **Oddish Girl**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Oddish       | &nbsp;
 ------------ | ------
@@ -406,8 +407,7 @@ after Parlyz Heal | 35.7%
 </td></tr> </table>
 
 **Gambler**
-<table class="t">
-<tr><td>
+<table class="t"> <tr><td>
 
 Growlithe    | &nbsp;
 ------------ | ------

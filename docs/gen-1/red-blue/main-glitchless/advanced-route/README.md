@@ -218,7 +218,7 @@ Use 2 Repels at some point after this fight and before the next fight
 Hiker:
 - BB all
 
-Lass:
+Jr Trainer F:
 - Thrash
 
 Pick up the Max Ether outside of Tunnel

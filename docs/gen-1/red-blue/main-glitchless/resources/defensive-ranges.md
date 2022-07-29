@@ -37,7 +37,7 @@ Onix [13.7%] | Tackle        | @-2     | @-4
 16 Defense   | 6-8 [11-13]   | 11-14   | 17-21
 17 Defense   | 5-7 [10-12]   | 11-14   | 17-21
 18 Defense   | 5-7 [10-12]   | 10-12   | 17-21
-19 Defense   | 5-7 [10-12]   | 10-12   | 15-18
+19 Defense   | 5-7 [9-11]    | 10-12   | 15-18
 
 </td></tr> </table>
 
@@ -65,7 +65,7 @@ Caterpie [8.6%] | Tackle
 
 </td></tr> </table>
 
-**Short Guy**
+**Shorts Guy**
 <table class="t"> <tr><td>
 
 Rattata [14.1%] | Tackle        | Quick Attack
@@ -436,7 +436,7 @@ Venonat [8.6%] | Tackle
 -------------- | ---------
 &nbsp;         | 4-5 [6-8]
 
-**PokeManiac**
+**Pokemaniac 1**
 <table class="t"> <tr><td>
 
 Cubone [6.6%] | Bone Club
@@ -451,7 +451,7 @@ Slowpoke [2.7%] | Confusion
 
 </td></tr> </table>
 
-**PokeManiac 2**
+**Pokemaniac 2**
 
 Slowpoke [2.7%] | Confusion
 --------------- | -------------
@@ -668,7 +668,13 @@ Vileplume [9.8%] | Petal Dance    | Mega Drain
 
 ### Giovanni
 
-**Karate King**
+**Cooltrainer**
+
+Rhyhorn [4.7%] | Stomp         | Fury Attack
+-------------- | ------------- | -----------
+&nbsp;         | 17-21 [36-43] | 5-6 [9-11]
+
+**Blackbelt**
 
 Machoke       | Karate Chop [68.8%] | Low Kick [8.6%]
 ------------- | ------------------- | ---------------
