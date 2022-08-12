@@ -79,9 +79,9 @@ you but can increase the chance of you dying.
 
 | HP    | Strategy         |
 | ----- | ---------------- |
-| 1-12  | MP               |
-| 13-17 | HA               |
-| 18+   | MP               |
+| 1-11  | MP               |
+| 12-16 | HA               |
+| 17+   | MP               |
 
 ### Misty Split
 

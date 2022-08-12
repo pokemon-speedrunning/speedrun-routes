@@ -180,7 +180,7 @@ Mankey:
 
 Rocket:
 - MP
-- MP (HA Zubat at 13-17)
+- MP (HA Zubat at 12-16)
 > Always HA Zubat if you got Moon Exp
 
 ## MISTY SPLIT

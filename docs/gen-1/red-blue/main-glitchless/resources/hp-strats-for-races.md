@@ -171,8 +171,8 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | ----- | ------- | --------------------------------------   |
 | Ekans |  1-3    | Potion before fight with Moon Exp        |
 | Ekans |  1-9    | Potion before fight without Moon Exp     |
-| Zubat |  1-9    | Potion turn 1 unless HA can KO           |
-| Zubat |  13-17  | Consider HA (+ PS) for chance at red bar |
+| Zubat |  1-9    | Potion turn 1 unless HA kills            |
+| Zubat |  12-16  | Consider HA (+ PS) for chance at red bar |
 | Zubat |  1-21   | Potion if confused                       |
 
 ### Misty Split
