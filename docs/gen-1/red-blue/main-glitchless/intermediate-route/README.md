@@ -40,22 +40,23 @@ Do [Nido Manip](../resources/nido-manip.md)
 
 - Pick up the Antidote
 - Pick up the hidden Weedle Guy Potion
-> If Squirtle HP < 16, menu to Potion before the fight
+
+> 1-15 Potion before the fight
 
 Weedle Guy:
-- Tail Whip x2, spam Tackle [Heal if HP < 5]
+- Tail Whip x2, spam Tackle [1-4 Potion]
 
 Swap Squirtle and Nido at some point
-- Potion if HP < 11 & use/toss Antidote
+- 1-10 Potion and use/toss Antidote
 
 Pewter Mart
 - Buy 8 Potions
 
 Brock:
 - Swap to Squirtle
-- Bubble x2-3 on Geodude [Heal if HP < 8]
+- Spam Bubble on Geodude [1-7 Potion]
 - Switch to Nido, then swap back to Squirtle
-- Bubble x2-3 on Onix [Heal if HP < 7]
+- Spam Bubble on Onix [1-6 Potion]
 
 ## ROUTE 3 SPLIT
 
@@ -66,12 +67,12 @@ Bug Catcher 1:
 - Weedle: Leer + HA + Tackle (or HA)
 - Caterpie: Leer + HA + Tackle (or HA)
 
-**Menu** if HP < 25: Use a Potion and toss Antidote
+**Menu** if 1-24: Potion and toss Antidote
 
 Shorts Guy:
-- Rat: [Heal if HP < 10, @-1 if HP < 16]
+- Rat: [1-9 Potion, or 1-15 at @-1]
 	- Leer + HA x2 (at 25-27 HP use HA x2 + Tackle)
-- Ekans: [Heal if HP < 4, @-1 if HP < 5, @-2 if HP < 6]
+- Ekans: [1-3 Potion, 1-4 at @-1, 1-5 at @-2]
 	- Leer + HA x2
 > Potion turn 1 of Wrap if you don't live 4 or 5 turn Wrap
 
@@ -80,12 +81,12 @@ Bug Catcher 2:
 	- HA + Tackle (or HA)
 - Kakuna:
 	- Spam HA, finish with Tackle
-- Caterpie: [Heal if HP < 4]
+- Caterpie: [1-3 Potion]
 	- HA x2 (Tackle turn 2 if Weedle hit 2 String Shots)
 - Metapod:
 	- HA x2 + Tackle (or HA if Metapod outsped you)
 
-> Potion x2 before next fight if HP < 4
+> 1-3 Potion x2 before next fight
 
 Bug Catcher 3:
 - Caterpie:
@@ -100,8 +101,8 @@ Catch a flyer:
 ## MT. MOON SPLIT
 
 **Moon Manip Save**
-- Heal to 36+
-- If in red bar HP < 9 & confident with yoloball, delay heal until after Paras catch
+- Potion to 36+
+- If in red bar and confident with yoloball, delay heal until after Paras catch
 
 Do [Route 3 Moon Manip](https://pastebin.com/tggXpQRC)
 
@@ -112,9 +113,9 @@ If you get an igt encounter or fail the manip before the last floor do the [Post
 Rocket: (strategy depends on HA count)
 
 - Heal on Zubat if
-	- @-0 HP < 8; or confused w/ HP < 17
-	- @-1 HP < 12; or confused w/ HP < 27
-	- @-2 HP < 14; if confused either yolo or consider swap if bird/Squirtle have low HP
+	- 1-7 at @-0; 1-16 if confused
+	- 1-11 at @-1; 1-26 if confused
+	- 1-13 at @-2; if confused either yolo or consider swap if bird/Squirtle have low HP
 - 2 HA:
 	- Rat: Leer + HA + Tackle (or PS)
 	- Zubat: Leer + Tackle + HA (+ Tackle)
@@ -179,7 +180,7 @@ Mankey:
 
 Rocket:
 - MP
-- MP (HA Zubat with 13-17 HP)
+- MP (HA Zubat at 12-16)
 > Always HA Zubat if you got Moon Exp
 
 ## MISTY SPLIT
@@ -195,11 +196,11 @@ Hiker:
 - WG
 - WG
 - MP (+ PS)
-	- HA + PS if 16-20 HP
+	- HA + PS at 16-20
 - WG
 
 Lass: Ideally save 2+ MP for after this fight
-> Potion on 1st Oddish if HP < 6
+> 1-5 Potion on 1st Oddish
 - Oddish: MP
 - Pidgey: HA
 - Oddish: MP
@@ -211,7 +212,7 @@ Lass: Ideally save 2+ MP for after this fight
 > Note: Can heal to just 48+ HP if low on Potions or on bad pace; or can take the center on any HP if pace is good enough to skip fly red bar
 
 **Bill Menu**
-- Slot 1 - Potion x0-3
+- Slot 1 - Potion
 	- **1-14:** 3 Potions or take the center after using Escape Rope
 	- **15-34:** 2 Potions
 	- **35-54:** 1 Potion
@@ -232,12 +233,9 @@ Misty:
 - Thrash
 
 Post-Misty
-- 1-6
-	- Potion + teach BB early over PS + get IT again
-- 7-10
-	- Don't heal + fight male Jr. Trainer first
-- 11+
-	- Don't heal + fight female Jr. trainer first
+- 1-6 Potion + teach BB early over PS + get IT again
+- 7-10 Don't heal + fight male Jr. Trainer first
+- 11+ Don't heal + fight female Jr. trainer first
 
 ## SURGE SPLIT
 
@@ -255,14 +253,14 @@ Boat Rival:
 		- If you get Sand-Attacked swap to bird and let it faint
 		- With high HP and 1 Sand-Attack consider a risky strategy: MP/HA Rat, HA Kadabra, HA x2 Ivy (never Thrash after Sand) swap if HP gets too low
 - Raticate:
-	- **1-6 HP:** Potion turn 1
-	- **7-22 HP:** MP or Thrash if only 1 MP is left
-	- **23+ HP:** HA + PS or BB x2
+	- 1-6: Potion turn 1
+	- 7-22: MP or Thrash if only 1 MP is left
+	- 23+: HA + PS or BB x2
 - Kadabra:
-	- **1-6 HP:** HA Kadabra & Potion turn 1 on Ivysaur, then Thrash
-	- **7+ HP:** Thrash Kadabra
+	- 1-6: HA Kadabra & Potion turn 1 on Ivysaur, then Thrash
+	- 7+: Thrash Kadabra
 - Ivysaur
-	- Thrash x2
+	- Thrash
 
 Get HM01 Cut from the captain.
 
@@ -283,6 +281,7 @@ Use Cut and do Cans Manip
 - Surge Cans Manip:
 	- [Optimal](https://www.youtube.com/watch?v=8Pa2f2WxCe4)
 	- [Palette Cans](https://youtu.be/_tWhfBITf_g)
+	- [60/60 Cans](https://www.youtube.com/watch?v=T6pXrZ9_Vq0)
 
 Surge:
 > If ever confused on Raichu swap to bird or Squirtle, unless you can live hit self
@@ -327,7 +326,7 @@ Get the Bike Voucher then Dig out and get the Bike.
 - Slot 6 Parlyz Heal
 - Slot 7 Potion
 
-> Optional: Thrash turn 1 on next two fights if 20+, 28+, or 39+ HP depending on need for red bar
+> Optional: Thrash turn 1 on next two fights if 20+, 28+, or 39+ depending on need for red bar
 
 4 Turn Thrash Girl:
 - Oddish: MP (or Thrash if 0 MPs are left)
@@ -349,7 +348,7 @@ Pokemaniac 2:
 - Slowpoke: TB
 
 Oddish Girl: [Parlyz Heal immediately if Stun Spore hits]
-- Oddish: Thrash (or at 18-22 HP use: TB + Thrash, Potion if asleep below 6 HP)
+- Oddish: Thrash (or at 18-22 use: TB + Thrash, if asleep Potion at 1-5)
 - Bulba: Thrash
 
 Use 2 Repels at some point after this fight and before the next fight
@@ -362,7 +361,7 @@ Jr Trainer F:
 
 Pick up the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=1#336/97) outside of Tunnel
 
-Gambler: [Potion turn 1 if HP < 5]
+Gambler: [1-4 Potion turn 1]
 - Growlithe: BB (+ Thrash)
 - Vulpix: Thrash
 > Take note of your HP leaving Gambler
@@ -418,11 +417,11 @@ Get HM02 Fly
 
 Lavender Rival:
 - On Late Drill:
-	- TB x2, BB, Thrash (if HP < 9 on Growlithe use Potion, then BB)
+	- TB x2, BB, Thrash (1-8 on Growlithe use Potion, then BB)
 - On Early Drill:
 	- 1-8: Turn 1 use slot 6 **Potion**, turn 2 scroll up 4 to use **X Acc**, HD x5
 	- 16: TB x2, X Acc on Growlithe, HD x3
-	- 20+: X Acc, HD x5 (can Potion turn 2 if crit below 9 HP)
+	- 20+: X Acc, HD x5 (can Potion turn 2 if 1-8)
 
 Channeler 1: ([Tower Map](https://imgur.com/gallery/Yf2tY3u))
 - RS x2 (don't forget Rock Slide will be in either slot 1 or slot 2)
@@ -467,7 +466,7 @@ Go to floor 5 and pick up the hidden [Tree Elixer](https://gunnermaniac.com/poke
 - How to play the next two fights depends on whether you did Early or Late Drill
 
 Arbok Rocket:
-- On Late Drill: Thrash x2-3
+- On Late Drill: Thrash
 	- Do NOT use a Parlyz Heal in fight and enter the next fight still paralyzed
 - On Early Drill: X Acc + HD
 	- Use Parlyz Heal immediately if Glare hits
@@ -479,16 +478,15 @@ Silph Rival:
 - Alakazam: HD
 - Venusaur: HD
 
-**Menu** if HP < 78
-- If HP < 78, use slot 8 **Elixer** BEFORE the next fight
-- If 78+ HP, Elixer will be used in the next fight
+1-77 **Menu**:
+- Use slot 8 **Elixer** BEFORE the next fight
+- If 78+, Elixer will be used in the next fight
 
 Silph Rocket:
 - Cubone:
-	- Turn 1: X Acc
-	- Turn 2: If Cubone hit you below 78 HP, scroll down 6 to use **Elixer**
-	- Turn 2: BB if Cubone did NOT damage you
-	- (Turn 3: BB)
+	- X Acc
+	- If Cubone hit you below 78, scroll down 6 to use **Elixer**
+	- BB
 - Drowzee:
 	- If you have not Elixered yet, scroll down 6 to use **Elixer**
 	- HD
@@ -498,7 +496,7 @@ Giovanni:
 - Nidorino: X Acc, HD
 - Kangaskhan: HD
 - Rhyhorn: BB
-	- Note: Only if you happen to be at **24-37 HP** on Rhyhorn, then use TB to stall for a hit into red bar, if hit by Tail Whip keep stalling if 31-37 HP; otherwise BB, and always BB after 2nd Tail Whip.
+	- Note: Only if you happen to be at **27-37** on Rhyhorn, then use TB to stall for red bar, but BB if you get Tail Whip. **24-26** can also stall with an X Special
 - Nidoqueen: HD
 
 Go back to the elevator and go to the 10th Floor to get [TM26 (Earthquake)](https://gunnermaniac.com/pokeworld?map=234#2/12) and the [Rare Candy](https://gunnermaniac.com/pokeworld?map=234#4/14)
@@ -653,7 +651,7 @@ Lorelei:
 
 **Menu**
 - Use Max Ether on Horn Drill
-- Only if HP < 20, Rare Candy now unless you need the jingle skip
+- Only if 1-19, Rare Candy now unless you need the jingle skip
 
 Bruno:
 - X Acc + HD x5
@@ -661,23 +659,23 @@ Bruno:
 ## AGATHA SPLIT
 
 **Menu**
-- Use Super Potion (+ Potion if under 19 HP)
+- Use Super Potion (+ Potion if 1-18)
 - Rare Candy
 
 Agatha:
 - Gengar: X Spec + EQ
 - Golbat: Blizz
 - EQ x3
-> If Golbat used Haze, use TB x2 then X Speed on Arbok if you have 25-60 HP and 3+ X Specs remaining. Otherwise Super Potion or yolo.
+> If Golbat used Haze, use TB x2 then X Speed on Arbok if you have 25-60 and 3+ X Specs remaining. Otherwise Super Potion or yolo.
 
 ## LANCE SPLIT
 
 **Menu** before Lance
-- Use **Elixer** and **heal to 127+ HP**
+- Use **Elixer** and **heal to 127+**
 
 > Note: If you need Lance and/or Champ red bar to PB, then be prepared to stall if Hydro Pump misses
-> - If 127-133 HP, then use X Speed turn 2 on Gyarados instead of on 2nd Dragonair
-> - If 133+ HP, then stall with EQ or X Acc *but only if you have 2 X Accs left*
+> - If 127-133, then use X Speed turn 2 on Gyarados instead of on 2nd Dragonair
+> - If 133+, then stall with EQ or X Acc *but only if you have 2 X Accs left*
 
 Lance:
 - Gyarados: X Spec + TB
@@ -701,15 +699,16 @@ HP     | Strat
 38-44  | Potion on insane pace; otherwise don't heal
 Any HP | Heal to 45+ or higher if far ahead of PB or you want to play safe
 
-Champion if Pidgeot does NOT use Sky Attack turn 1
-- Pidgeot: X Spec + X Acc + HD
-- Alakazam: HD
-- Rhydon: HD (if not in red bar Blizz Rhydon and HD Gyarados)
-- Gyarados: **TB**
-- Arcanine: HD
-- Venusaur: HD
-
-Champion if Pidgeot begins to use Sky Attack turn 1 - *Pidgeot is glowing*
-- Pidgeot: X Spec + **Blizz**
-- Alakazam: **EQ**
-- Rhydon: X Acc, HD x4 (1/4 to use Fury Attack)
+Champion:
+- Pidgeot: X Spec
+	- If Pidgeot does NOT use Sky Attack turn 1:
+		- Pidgeot: X Acc + HD
+		- Alakazam: HD
+		- Rhydon: HD (if not in red bar Blizz Rhydon and HD Gyarados)
+		- Gyarados: **TB**
+		- Arcanine: HD
+		- Venusaur: HD
+	- If Pidgeot begins to use Sky Attack turn 1 - *Pidgeot is glowing*:
+		- Pidgeot: **Blizz**
+		- Alakazam: **EQ**
+		- Rhydon: X Acc + HD x4 (1/4 to use Fury Attack)

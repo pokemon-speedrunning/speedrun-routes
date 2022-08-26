@@ -79,9 +79,9 @@ you but can increase the chance of you dying.
 
 | HP    | Strategy         |
 | ----- | ---------------- |
-| 1-12  | MP               |
-| 13-17 | HA               |
-| 18+   | MP               |
+| 1-11  | MP               |
+| 12-16 | HA               |
+| 17+   | MP               |
 
 ### Misty Split
 
@@ -203,8 +203,8 @@ you but can increase the chance of you dying.
 
 | HP    | Strategy                                                                                 |
 | ----- | ---------------------------------------------------------------------------------------- |
-| 1-7   | Heal turn 1, then use X Acc turn 2                                                       |
-| 8     | Heal turn 1, then use X Acc turn 2 if good pace, otherwise TB turn 1 and X Acc Growlithe |
+| 1-7   | Potion turn 1, then X Acc turn 2                                                         |
+| 8     | Potion turn 1, then X Acc turn 2 if good pace, otherwise TB turn 1 and X Acc Growlithe   |
 | 16    | TB turn 1, X Acc on Growlithe                                                            |
 | 20+   | X Acc turn 1                                                                             |
 
@@ -256,18 +256,17 @@ you but can increase the chance of you dying.
 | 38+   | BB               |
 
 ### Boom Strats
+- https://pastebin.com/BMQQYcEV
 
-| HP after SD on Koga | Strategy                                                          | If desperate                                  |
-| ------------------- | ----------------------------------------------------------------- | --------------------------------------------- |
-| 0-1                 | Normal strats                                                     |                                               |
-| 2                   | Normal strats (Out at L50)                                        | Elixer on Gio Rhyhorn and X Acc on VR Rhyhorn |
-| 3-4                 | Rhydon Elixer (Out at L50)                                        | Elixer on Gio Rhyhorn and X Acc on VR Rhyhorn |
-| 5-6                 | Rhyhorn Elixer (Out at L49), X Acc on VR Rhyhorn if not hit       |                                               |
-| 7-9                 | Nidoking X Special (Out at L48), Elixer if not hit, Elixer Rhydon (wait until bike menu if have 1 Blizz) |        |
-| 10-11               | Nidoking X Special (Out at L47), Elixer if not hit, Elixer Rhydon (wait until bike menu if have 1 Blizz) |        |
-| 12-14               | Nidoking Elixer (Out at L46), then X Special/TB until hit         |                                               |
-| 15-22               | Vileplume Poke Flute (Out at L43-L45)                             |                                               |
-| 23+                 | Victreebel Poke Flute (Out at L43-L45)                            |                                               |
+| HP after SD on Koga | Red Bar Lost on... | Strategy                                                                                                        | If desperate
+| ------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------
+| 0-1                 | Machamp            | Normal strats                                                                                                   |
+| 2-4                 | Lapras             | Normal strats                                                                                                   | Elixer(+Blizz) Gio Rhyhorn, X Acc VR Rhyhorn, PP item turn two on Bruno
+| 5-6                 | Cloyster           | Blizz Cooltrainer, Elixer(+Blizz) Gio Rhyhorn, X Acc(+TB) VR Rhyhorn                                            | PP item turn two on Bruno
+| 7-11                | Rhydon/Growlithe   | Blizz Cooltrainer+Gio, X Spec(+Elixer+Blizz) Nidoking, Elixer Rhydon (wait until bike menu if you have 1 Blizz) |
+| 12-14               | Machop             | Blizz Cooltrainer+Gio, Elixer(+X Spec+TB) Nidoking                                                              |
+| 15-22               | Rapidash/Venomoth  | Poké Flute Vileplume                                                                                            |
+| 23+                 | Exeggcute          | Poké Flute Victreebel                                                                                           |
 
 ### Agatha Split
 

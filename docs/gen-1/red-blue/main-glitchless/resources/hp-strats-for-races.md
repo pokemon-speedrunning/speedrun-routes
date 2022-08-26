@@ -87,6 +87,8 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | ---- | ----------------- |
 | 1-5  | Potion x2         |
 
+### Mt. Moon Split
+
 #### Before Moon Rocket (nolass)
 - Heal to 36+ hp and save the game
 
@@ -154,14 +156,12 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | NidoF  | 1-6     | Potion turn 1       |
 
 #### Mankey (5)
-- PS always KOs after HA into Leer hit
-
 | HP    | Strategy        |
 | ----- | --------------- |
 | 1-8   | Potion before   |
 | 8-15  | Potion turn 1   |
 | 15-27 | HA + HA/PS      |
-| 28+   | MP(+PS)         |
+| 28+   | MP (+ PS)       |
 
 #### Bridge Rocket
 - One badge boost → HA Zubat 100%
@@ -171,9 +171,11 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | ----- | ------- | --------------------------------------   |
 | Ekans |  1-3    | Potion before fight with Moon Exp        |
 | Ekans |  1-9    | Potion before fight without Moon Exp     |
-| Zubat |  1-9    | Potion turn 1 unless HA can KO           |
-| Zubat |  13-17  | Consider HA (+ PS) for chance at red bar |
+| Zubat |  1-9    | Potion turn 1 unless HA kills            |
+| Zubat |  12-16  | Consider HA (+ PS) for chance at red bar |
 | Zubat |  1-21   | Potion if confused                       |
+
+### Misty Split
 
 #### Lass
 - One badge boost → MP is 53% on NidoF
@@ -196,7 +198,7 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 #### Lass first Oddish
 | HP  | Strategy                                                 |
 | --- | -------------------------------------------------------- |
-| 1-5 | Potion turn 1                                            |
+| 1-6 | Potion turn 1                                            |
 | 16  | HA + PS if you got Moon Exp (except from a L7/8 Geodude) |
 
 #### Bill's House
@@ -208,6 +210,8 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 23-34    | 2 Potions or center                    |
 | 35-54    | 1 Potion (& Ether if needed) or center |
 | 55+      | Don't heal or center                   |
+
+### Surge Split
 
 #### Post Misty
 | HP    | Strategy               |
@@ -226,7 +230,7 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 25+   | BB if you have it, otherwise HA        |
 
 #### S.S. Anne Rival (Raticate)
-- note: one boost HA is 61.4% and Two boosts, HA is 100%
+- Note: One boost HA is 61.4% and two boosts HA is 100%
 
 | HP    | Standard Strategy    | Alternate Strategy        |
 | ----- | -------------------- | ------------------------- |
@@ -258,6 +262,8 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 21-24 | HA + BB or Thrash   |
 | 25+   | BB + HA/BB + Thrash |
 
+### Fly Split
+
 #### 4 Turn Thrash Girl (1st Oddish)
 
 | HP   | Strategy                                 |
@@ -273,9 +279,9 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 15-18, 20-21 | BB x4                       |
 | 19, 22+      | BB + Thrash                 |
 
-### Fly Split Red Bar (play normal if not going for red bar)
+#### Fly Split Red Bar (play normal if not going for red bar)
+- Note: Swap if confused by Slowpoke
 
-#### Pokemaniac 1 and 2 (swap if confused by Slowpoke)
 | HP @ L28 | Strategy                                         |
 | -------- | ------------------------------------------------ |
 | 1-19     | Normal                                           |
@@ -286,12 +292,12 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 44+      | TB Cubone and adapt if hit, still BB if not hit  |
 | 44-49    | 1st Slowpoke BB + TB & 2nd Slowpoke BB + TB      |
 
-#### HP Listed at L29 for Oddish Girl
-| HP    | Strategy                    |
-| ----- | --------------------------- |
-| 1-17  | Save & Thrash               |
-| 18-22 | TB + adapt or Save & Thrash |
-| 23+   | Thrash or Save & Thrash     |
+#### Oddish Girl
+| HP @ L29 | Strategy                    |
+| -------- | --------------------------- |
+| 1-17     | Save & Thrash               |
+| 18-22    | TB + adapt or Save & Thrash |
+| 23+      | Thrash or Save & Thrash     |
 
 #### After Hiker (delay Repel until after Hiker if healing)
 | HP    | Strategy                                 |
@@ -322,40 +328,45 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 #### Lavender Rival on Early Drill
 | HP    | Strategy                           |
 | ----- | ---------------------------------- |
-| 1-8   | Heal turn 1, then use X Acc turn 2 |
+| 1-8   | Potion turn 1, then X Acc turn 2   |
 | 16    | TB turn 1, X Acc on Growlithe      |
 | 20-27 | X Acc turn 1                       |
 
 ### Koga Split
-- If paralyzed leaving Arbok with 72+ HP, use Parlyz Heal turn 2 on Silph Rival's Pidgeot
-- If HP < 72, menu and Parlyz Heal before the fight
+
+#### If paralyzed after Arbok
+
+| HP   | Strategy                                    |
+| ---- | ------------------------------------------- |
+| 1-71 | Parlyz Heal turn 2 on Silph Rival's Pidgeot |
+| 72+  | Menu and Parlyz Heal before the fight       |
 
 #### Post-Silph Rival
 
-| HP   | Healing Strategy                                    |
+| HP   | Strategy                                            |
 | ---- | --------------------------------------------------- |
 | 1-77 | Use PP Item before Rocket                           |
 | 78+  | Use PP Item on Drowzee (or Cubone if it Bone Clubs) |
 
 #### Gio 1 Rhyhorn
 
-| HP    | Healing Strategy |
-| ----- | ---------------- |
-| 24-37 | TB until hit     |
+| HP    | Strategy               |
+| ----- | ---------------------- |
+| 24-26 | X Spec or skip red bar |
+| 27-37 | TB until hit           |
 
 ### Boom Strats
 - https://pastebin.com/BMQQYcEV
 
-| HP after SD on Koga | Red Bar Lost on... | Healing Strategy                               | If desperate                                                                   |
-| ------------------- | ------------------ | ---------------------------------------------- | ------------------------------------------------------------------------------ |
-| 0-1                 | Machamp            | Normal strats                                  |                                                                                |
-| 2                   | Lapras             | Normal strats                                  | Elixer on Gio Rhyhorn, X Speed on VR Rhyhorn, PP item turn two on Bruno's Onix |
-| 3-4                 | Lapras             | Rhydon Elixer                                  | Elixer on Gio Rhyhorn, X Speed on VR Rhyhorn, PP item turn two on Bruno's Onix |
-| 5-6                 | Cloyster           | Rhyhorn Elixer, X Spd on VR Rhyhorn if not hit | TB stall VR Rhyhorn, PP item turn two on Bruno's Onix                          |
-| 7-11                | VR Growlithe       | Nidoking X Special, Elixer if not hit, Elixer Rhydon (wait until bike menu if have 1 Blizz) |                                   |
-| 12-14               | Machop             | Nidoking Elixer, then X Special/TB until hit   |                                                                                |
-| 15-22               | Erika              | Vileplume Poke Flute (Out at L43-L45)          |                                                                                |
-| 23+                 | Erika              | Victreebel X Acc turn 1 if you have 2 extra, then Poke Flute stall until hit (can Blizz x3 after X Acc) |                       |
+| HP after SD on Koga | Red Bar Lost on... | Strategy                                                                                                        | If desperate
+| ------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------
+| 0-1                 | Machamp            | Normal strats                                                                                                   |
+| 2-4                 | Lapras             | Normal strats                                                                                                   | Elixer(+Blizz) Gio Rhyhorn, X Speed VR Rhyhorn, PP item turn two on Bruno
+| 5-6                 | Cloyster           | Blizz Cooltrainer, Elixer(+Blizz) Gio Rhyhorn, X Speed VR Rhyhorn                                               | TB VR Rhyhorn, PP item turn two on Bruno
+| 7-11                | Rhydon/Growlithe   | Blizz Cooltrainer+Gio, X Spec(+Elixer+Blizz) Nidoking, Elixer Rhydon (wait until bike menu if you have 1 Blizz) |
+| 12-14               | Machop             | Blizz Cooltrainer+Gio, Elixer(+X Spec+TB) Nidoking                                                              |
+| 15-22               | Rapidash/Venomoth  | Poké Flute Vileplume                                                                                            |
+| 23+                 | Exeggcute          | X Acc Victreebel if you have 2 extra, then Poké Flute until hit (can Blizz x3 after X Acc)                      |
 
 ### Lorelei Split
 
@@ -387,7 +398,7 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 
 #### Agatha Arbok (if not faster than second Gengar)
 
-| HP    | Healing Strategy |
+| HP    | Strategy         |
 | ----- | ---------------- |
 | 1-24  | EQ or Heal       |
 | 25-60 | X Speed          |
@@ -414,7 +425,7 @@ Can roughly be summarized as _heal to 126+ without overhealing too much_
 
 #### Lance Gyarados Turn 2 if Hydro Pump Misses
 
-| HP      | Healing Strategy                 |
+| HP      | Strategy                         |
 | ------- | -------------------------------- |
 | Any HP  | Play normal to skip red bar      |
 | 126-133 | X Speed                          |
@@ -423,7 +434,7 @@ Can roughly be summarized as _heal to 126+ without overhealing too much_
 ### Champ Split
 
 #### Before Champ
-- Heal if HP < 23 or if HP < 45 to play safe
+- Heal to 22+ or to 44+ to play safe
 - 20 second lead can Super Potion (36 sec if your opponent deposited and you did not)
 
 | HP    | Healing Strategy                                             |
