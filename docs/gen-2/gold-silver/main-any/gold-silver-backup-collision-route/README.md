@@ -73,7 +73,7 @@ If something isn't clear, you should watch [CasualPokePlayer's run](https://yout
 
 ## End
 - Go through Mr. Pokemon's cutscene again
-- Go [here](https://gunnermaniac.com/pokeworld2?map=6666#2/5)
+- Go [here](https://gunnermaniac.com/pokeworld2?map=2610#2/5)
 - Go to Key Items pocket
 - Swap Mystery Egg in slot 1 with Mystery Egg in slot 2
 - Go to Balls pocket
