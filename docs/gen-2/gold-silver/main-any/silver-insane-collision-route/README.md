@@ -16,7 +16,7 @@
 - IGT track \#1 for frame 2-59 (you can probably use livesplit for this?)
 
 ## Lab
-- Save [here](https://gunnermaniac.com/pokeworld2?map=6149#4/2/) facing right buffered
+- Save [here](https://gunnermaniac.com/pokeworld2?map=2405#4/2/) facing right buffered
 	- Just buffer start after closing last elm textbox
 	- Make sure to start a timer after hitting yes on save
 - Get cynda, no nickname
@@ -24,7 +24,7 @@
 	- Add ~35327 to timer
 	- If this is too hard to hit, you can wait another 59 frames (~36312 offset instead, also makes first igt have frames 1-59 work)
 - Save [here](https://i.imgur.com/GRIB3X7.png) facing down buffered
-	- [movement](https://gunnermaniac.com/pokeworld2?map=6149#5/3/LLLDS)
+	- [movement](https://gunnermaniac.com/pokeworld2?map=2405#5/3/LLLDS)
 - Reset while saving in (0x288D, 0x2891)
 	- Same timer as second igt
 	- GBI - add ~2500
