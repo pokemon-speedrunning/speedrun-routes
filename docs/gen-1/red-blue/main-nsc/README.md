@@ -34,6 +34,7 @@ Based on davidpoko's guide, which was based on krazyd4n's guide.
   - Don't mash through any text, but time them
   - As soon as the "Go! AA" text disappears, let go of the A button and quickly press Down or Up, then A
   - After getting Thundershock turn 1, you can save 4 steps in Route 2 by executing [this extended manipulation](https://pastebin.com/FYwz9mne)
+    - even more advanced extended manipulations can be done, these are extremly difficult to perform and you can find more explanation [here](https://pastebin.com/RJSVGU6H) 
 - If you didn't get the Thundershock turn 1, spam any move until you die
 
 ## Bug Catchers
