@@ -268,7 +268,7 @@ Rival:
 > If Early Drill, X Acc then HD x5
 
 Channeler 1:
-- RS x2
+- RS x2 (on late drill, swap RS to slot 1)
 
 Pick up the 2 Elixers
 
