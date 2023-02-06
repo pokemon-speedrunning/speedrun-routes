@@ -1,4 +1,4 @@
-# Pokemon Red Glitchless Advanced Guide
+# Pokemon Red Glitchless WR Route
 
 This guide assumes you know things about the game already.
 
