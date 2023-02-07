@@ -76,7 +76,7 @@ Rocket:
 - Zubat
 	- If you have 3+ HA, HA x3
 	- If you have 2 HA, Leer + HA x2
-	- Otherwise, Leer + HA + Tackle (+ Tackle)
+	- Otherwise, Leer + Tackle + HA (+ Tackle)
 
 Moon Menu:
 - Use Rare Candy
