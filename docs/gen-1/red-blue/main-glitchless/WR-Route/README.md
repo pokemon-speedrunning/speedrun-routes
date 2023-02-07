@@ -6,6 +6,8 @@ This guide assumes you know things about the game already.
 - [Offensive Damage Ranges](../resources/offensive-ranges.md)
 - Keep this document open at all times: [Advanced HP Strats](../resources/hp-strats.md)
 
+> Note: there is value in having 2-3 potions for the late game given that we will buy only 3 super potions
+
 ## NIDORAN SPLIT
 
 Rival 1:
@@ -31,7 +33,7 @@ Weedle Guy:
 Swap Squirtle and Nido at some point
 - Toss Antidote if you are healing Squirtle before Brock
 
-Pewter Mart
+Pewter Mart (Early)
 - Buy 8 Potions
 
 Brock:
@@ -42,7 +44,11 @@ Brock:
 
 ## ROUTE 3 SPLIT
 
-Change Options to Set before leaving the gym
+Change Options to Set before leaving the gym (if Early Mart)
+
+Pewter Mart (Late)
+- Change Options to Set one or two steps in
+- Buy 8 Potions
 
 BC1:
 - Leer + HA x2 (+ Tackle)
@@ -76,7 +82,7 @@ Rocket:
 - Zubat
 	- If you have 3+ HA, HA x3
 	- If you have 2 HA, Leer + HA x2
-	- Otherwise, Leer + HA + Tackle (+ Tackle)
+	- Otherwise, Leer + Tackle + HA (+ Tackle)
 
 Moon Menu:
 - Use Rare Candy
@@ -175,9 +181,9 @@ Vermillion Mart:
 - Buy 3 Repels and 3 Parlyz Heals
 
 Cut Menu:
+- Teach TM11 (Bubblebeam) to Nidoking in slot 4
 - Swap Slot 1 with Repel
 - Teach HM01 (Cut) to Paras
-- Teach TM11 (Bubblebeam) to Nidoking in slot 4
 - Teach TM28 (Dig) to Paras
 
 Do Cans Manip
@@ -371,12 +377,16 @@ Koga:
 
 Get Strength then Fly to Pallet Town and walk to the bottom of the water
 
+> note that cursor is on bird and the beginning of this menu can be changed according to preference
+
 Pallet Menu:
 - Use Super Repel
-- Rare Candy x3, toggle up 1 to Nido
+- Rare Candy x3
 - Swap slot 4 for X Speed
 - Teach HM03 to Squirtle
 - Surf
+
+> Alternative: Rare Candy x3, Super Repel, Swap Helix for X-Speed, teach HM03 
 
 Mansion
 - Get Blizzard then menu
@@ -491,5 +501,7 @@ Champion:
 - X Acc + X Speed + HDx6
 
 > WA does 21-25, unless X Speed turn 1, then WA does 20-24
+
 > Sky Attack does 82-97, unless X Speed turn 1 (Sky Attack does 74-87)
-> If Sky Attack turn 1: Drill Pidgeot, X-Speed Alakazam (1/2 to live), HDx5
+
+- If Sky Attack turn 1: Drill Pidgeot, X-Speed Alakazam (1/2 to live), HDx5
