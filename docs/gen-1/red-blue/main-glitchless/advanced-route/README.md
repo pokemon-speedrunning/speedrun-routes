@@ -67,7 +67,7 @@ BC3:
 
 ## MT. MOON SPLIT
 
-Do Route 3 Moon Manip https://pastebin.com/tggXpQRC
+Do [Route 3 Moon Manip](https://pastebin.com/tggXpQRC) and be familiar with [F36/F37 Backups](../resources/rt3moon-f36-f37-backups.md)
 
 Rocket:
 - Rattata
@@ -89,12 +89,14 @@ Nerd:
 - MP (PS)
 - MP x2 (lead with HA if you have one. WG if you crit HA, otherwise MP to finish)
 
+> [Moon Exp](https://pastebin.com/8gP8HZY9): Faint a Geodude (use WG) or Paras (use PS) if you happen to encounter one after the Nerd fight
+
 ## BRIDGE SPLIT
 
 Take the center then get Instant Text then get the hidden Rare Candy
 
 Rival 2:
-- HA x3
+- HA x2 + HA or MP (Lead MP if you got moon exp)
 - HA
 - MP
 - MP + HA
@@ -122,7 +124,7 @@ Rocket:
 ## MISTY SPLIT
 
 Hiker:
-- WG
+- swap WG to slot 1 and use WG
 
 Lass:
 - MP
@@ -137,7 +139,7 @@ Hiker:
 Lass:
 - MP
 - HA
-- MP (teach Thrash in slot 2)
+- MP (teach Thrash in slot 1)
 
 Skip hidden Ether
 
@@ -215,6 +217,8 @@ Oddish Girl:
 
 Use 2 Repels at some point after this fight and before the next fight
 
+> use the 3rd repel on [this](https://gunnermaniac.com/pokeworld?map=82#12/14/S) for it to run out one tile before the exit
+
 Hiker:
 - BB all
 
@@ -253,11 +257,11 @@ Get HM02 Fly
 Fly Menu:
 - Swap slot 2 for TM07
 - Use Super Repel
-- Teach TM48 (Rock Slide) in slot 1
+- Teach TM48 (Rock Slide) in slot 2
 - Swap slot 3 for X Accuracy
 - Teach HM02 (Fly)
 - Fly to Lavender
-> If Early Drill then swap slot 2 for TM07, use Super Repel, teach TM48, teach TM07, swap slot 2 for X Acc then teach Fly
+> If Early Drill then swap slot 2 for TM07, use Super Repel, teach TM48 in slot 2, teach TM07 in slot 1, swap slot 2 for X Acc then teach Fly
 
 Rival:
 - TB
@@ -267,7 +271,7 @@ Rival:
 > If Early Drill, X Acc then HD x5
 
 Channeler 1:
-- RS x2
+- RS x2 (on late drill, swap RS to slot 1)
 
 Pick up the 2 Elixers
 
