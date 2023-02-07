@@ -19,9 +19,8 @@
 Rival 1:
 - Tail Whip + spam Tackle
 
-> Check stats on level up after Rival 1
+> Optional: check stats on level up after Rival 1
 > - 10 ATK - Tail Whip x3 on Weedle Guy in forest
-> - 12 ATK - Tail Whip + Tackle x2 on L3 Rat encounter only
 > - 12 DEF is bad defense, expect Geodude & Onix to do more damage (see Defensive Ranges)
 > - 11 SPC is likely bad special (3 hit on Geodude and/or Onix)
 > - 12 SPC is guaranteed good special (2 hit on Geodude & Onix)
@@ -41,7 +40,7 @@ Do [Nido Manip](../resources/nido-manip.md)
 - Pick up the Antidote
 - Pick up the hidden Weedle Guy Potion
 
-> 1-15 Potion before the fight
+> 1-12 Potion before the fight
 
 Weedle Guy:
 - Tail Whip x2, spam Tackle [1-4 Potion]
@@ -151,7 +150,7 @@ If you still need to catch Paras:
 Take the center then get Instant Text then get the hidden Rare Candy
 
 Bridge Rival: Swapping is a lot of timeloss; only consider swap if 2+ Sand-Attacks & you are far ahead of PB
-- Pidgeotto: HA x2 + HA or MP
+- Pidgeotto: HA x2 + HA or MP (Lead MP if you got moon exp)
 - Abra: HA
 - Rat: MP
 - Bulba: MP + HA (finish with MP if Growl)
@@ -247,6 +246,8 @@ Jr Trainer F:
 Jr Trainer M:
 - Thrash
 
+> If 1-6 hp, either potion before boat rival and teach TM11 or potion turn 1 on pidgeotto. Also Note: if you are good pace or simply prefer to get the gentleman candy, you can enter the 4th door from the left while you still have red bar and IT before menuing to potion and teach TM11.
+
 Boat Rival:
 - Pidgeotto:
 	- HA x2 (BB x2 if you have it)
@@ -286,11 +287,11 @@ Use Cut and do Cans Manip
 Surge:
 > If ever confused on Raichu swap to bird or Squirtle, unless you can live hit self
 - Voltorb:
-	- 1-20: Thrash
+	- 1-20: Thrash x1-2
 	- 21-24: HA + BB
 	- 25+: BB x2
 - Pikachu: Thrash
-- Raichu: Thrash
+- Raichu: Thrash x2
 	- Hit self damage:
 		- 14 damage
 		- 9 damage w/ Growl
@@ -347,11 +348,13 @@ Pokemaniac 1:
 Pokemaniac 2:
 - Slowpoke: TB
 
-Oddish Girl: [Parlyz Heal immediately if Stun Spore hits]
-- Oddish: Thrash (or at 18-22 use: TB + Thrash, if asleep Potion at 1-5)
+Oddish Girl:
+- Oddish: Thrash (or at 18-22 use: TB + Thrash, if asleep Potion at 1-5, if stun spore still use Thrash)
 - Bulba: Thrash
 
 Use 2 Repels at some point after this fight and before the next fight
+
+> Use Para Heal in the last repel menu if needed
 
 Hiker:
 - BB x3
@@ -364,7 +367,7 @@ Pick up the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=1#336/97) 
 Gambler: [1-4 Potion turn 1]
 - Growlithe: BB (+ Thrash)
 - Vulpix: Thrash
-> Take note of your HP leaving Gambler
+> Take note of your HP leaving Gambler and note extra money if we did gentleman
 
 HP    | Strategy
 ----- | --------------
@@ -390,7 +393,7 @@ Get the [Underground Elixer](https://gunnermaniac.com/pokeworld?map=121#21/5)
 - 2nd Floor
 	- Buy TM07
 	- Buy 7 Super Repels
-	- Buy 4 Super Potions (**3 on Early Drill**)
+	- Buy 4 Super Potions (**3 on Early Drill** - still 4 if gentleman)
 - 4th Floor
 	- Buy 1 Poke Doll
 - Roof
@@ -399,7 +402,7 @@ Get the [Underground Elixer](https://gunnermaniac.com/pokeworld?map=121#21/5)
 	- Buy a Fresh Water
 - 5th Floor
 	- Buy 11 X Accuracy (**12 on Early Drill**)
-	- Buy 5 X Specials (**4 on Early Drill**)
+	- Buy 5 X Specials (**4 on Early Drill** - still 5 if gentleman)
 	- Buy 3 X Speeds
 
 Get HM02 Fly
@@ -528,7 +531,7 @@ Use your Bike and go west to Snorlax
 
 In the Safari Zone:
 - If needed see [Safari Movement](https://imgur.com/gallery/h9KpU3I)
-- Menu in the 2nd Zone around [this tile](https://gunnermaniac.com/pokeworld?map=217#17/24) to use slot 2 Super Repel (cursor is on items)
+- Menu in the 2nd Zone around [this tile](https://gunnermaniac.com/pokeworld?map=217#17/24) to use slot 3 Super Repel (cursor is on items)
 - If you have zero Potions, pick up [TM40](https://gunnermaniac.com/pokeworld?map=218#19/7) for bag space
 - Pick up the [Teeth](https://gunnermaniac.com/pokeworld?map=219#19/7) and get HM03
 - Exit the Surf house, Dig out of the safari, and Fly back to Fuschia City
