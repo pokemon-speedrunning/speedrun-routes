@@ -3,7 +3,7 @@
 * [Beginner Route](beginner-route/)
 * [Intermediate Route](intermediate-route/)
 * [Advanced Route](advanced-route/)
-* [WR Route](WR-Route)
+* [WR Route](WR-Route/)
 * [Race Route](race-route/)
 
 ## What route do I choose?
