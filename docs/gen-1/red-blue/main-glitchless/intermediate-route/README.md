@@ -274,8 +274,8 @@ Vermilion Mart
 
 **Cut Menu**
 - Slot 5 - Teach TM11 (Bubblebeam) in slot 4 over Poison Sting
-- (only if you fought the Gentleman use slot 7 - Rare Candy)
-- Slot 6 - Teach HM01 (Cut) to Paras
+- (only if you fought the Gentleman use slot 6 - Rare Candy)
+- Slot 5 - Teach HM01 (Cut) to Paras
 - Up 1 - Teach TM28 (Dig) to Paras
 
 Use Cut and do Cans Manip
