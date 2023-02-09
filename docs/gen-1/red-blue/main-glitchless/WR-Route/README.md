@@ -5,6 +5,7 @@ This guide assumes you know things about the game already.
 - [Defensive Damage Ranges](../resources/defensive-ranges.md)
 - [Offensive Damage Ranges](../resources/offensive-ranges.md)
 - Keep this document open at all times: [Advanced HP Strats](../resources/hp-strats.md)
+- A flexible variation of this route is available [here](https://pastebin.com/6zSqaRts) that has the option to pick up mansion candy for 144-146 attempts
 
 > Note: there is value in having 2-3 potions for the late game given that we will buy only 3 super potions
 
