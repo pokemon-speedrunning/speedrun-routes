@@ -505,4 +505,4 @@ Champion:
 
 > Sky Attack does 82-97, unless X Speed turn 1 (Sky Attack does 74-87)
 
-- If Sky Attack turn 1: Drill Pidgeot, X-Speed Alakazam (1/2 to live), HDx5
+- If Sky Attack turn 1: Drill Pidgeot, X-Speed Alakazam (~1/3 to live), HDx5
