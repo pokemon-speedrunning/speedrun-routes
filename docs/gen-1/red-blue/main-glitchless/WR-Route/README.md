@@ -96,6 +96,8 @@ Nerd:
 - MP (PS)
 - MP x2 (lead with HA if you have one. WG if you crit HA, otherwise MP to finish)
 
+> [Moon Exp](https://pastebin.com/8gP8HZY9): Faint a Geodude (use WG) or Paras (use PS) if you happen to encounter one after the Nerd fight
+
 ## BRIDGE SPLIT
 
 Take the center then get Instant Text then get the hidden Rare Candy
