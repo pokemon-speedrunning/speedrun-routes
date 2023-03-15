@@ -20,18 +20,17 @@ If below 3 SPD DV, you should strongly consider resetting early
 
 If you choose to run with 4 speed there is a slow alternative to play safely:
 - Safari Carbos, Mansion Carbos, and the extra hidden candy in mansion
-- Timeloss from this is about +27-30s
+- Timeloss from this is about +30s
 
 If you choose to run with 3 speed there is again a slow alternative to play safely:
 - Silph Carbos, Safari Carbos, Mansion Carbos, and the extra hidden candy in mansion
-- Timeloss from this is +32-35s
+- Timeloss from this is +35s
 
 If you have 11-12 speed you may choose to get 2 Carbos to skip X Speed on Agatha
-- This loses ~10 seconds, but ups the winrate on Agatha
+- This loses ~10+ seconds, but ups the winrate on Agatha
 
-**The new strategy any time we usen 2 Carbos is to get Safari and Mansion Carbos**
-- Use all candies right away at the start of EQ menu
-- Delay using Safari Carbos until inside mansion  
+The new strategy for Carbos:
+- Safari Carbos is slightly faster than Silph Carbos
 
 Getting the PPUP is presented as the standard strategy in this route.
 - With 14+ ATK DV skipping the PPUP saves ~1.1 seconds (assuming you menu optimally)
