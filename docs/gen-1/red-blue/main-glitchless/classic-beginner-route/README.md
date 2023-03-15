@@ -713,19 +713,20 @@ Get the hidden PPUP. You can bike straight down after getting PPUP, the next tra
 <img src="https://i.imgur.com/RXgwTA9.jpeg">
 
 Menu immediately after exiting the guard’s house after Cycling Road:
-- Use Slot 4 Rare Candy (use all 5 candies on Nido)
 - Use slot 3 Super Repel
+- Down 1 use 4 rare candies on Nido (1 is left over)
 - Down 1 swap HM01 down 14 with TM26
 - Down 1 to use PP UP on slot 1 Horn Drill
-- Teach slot 4 TM26 Earthquake over slot 2 Rock Slide
+- Teach slot 5 TM26 Earthquake over slot 2 Rock Slide
 - Get on the bike and cut both trees to enter the Safari Zone
 
 <img src="https://i.imgur.com/wHad35M.jpeg">
 
 Safari Zone
 - Get on your bike
+- NOTE: CURSOR IS ON CUT USER
 - Get the Carbos in zone 2
-- Super Repel at the start of zone 3
+- In Zone 3, menu to use Super Repel and use the Carbos carefully on Nido
 - Optional: pick up the extra [hidden Revive](https://gunnermaniac.com/pokeworld?map=219#6/5) in the statue
 - Pick up the Gold Teeth and get HM03 Surf from the man in the house
 
@@ -759,6 +760,7 @@ Koga:
 ## MANSION
 
 Walk out of the gym and menu:
+- Use Slot 4 Rare Candy on Nido
 - Bike east (hopping the ledge) to the Warden's house
 
 Talk to the Warden trading Gold Teeth for HM04.
@@ -790,7 +792,7 @@ Avoid the scientist and get the Carbos next to the trees:
 
 Menu after picking up this Carbos:
 - Down 1 teach HM04 Strength to Squirtle over Tackle
-- Up 2 use both Carbos on Nidoking
+- Down 1 use Carbos on Nidoking
 - Slot 3 use the Super Repel
 - Scroll to the bottom of the bag (leave the cursor on Cancel)
 
