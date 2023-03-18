@@ -4,8 +4,6 @@
 	- TOOLS: Download "Red Classic Helper"
 	- SAVES: Download "Any% Glitchless (Classic)"
 
-## PREFACE
-
 Carbos Strategies for this route:
 
 | How to outspeed | Dugtrio/Jynx | Sabrina's Zam | Agatha's 1st Gengar |
@@ -14,44 +12,7 @@ Carbos Strategies for this route:
 | Safari Carbos   |       1      |      5-7      |       (11-12)       |
 | Mansion Carbos  |      0-1     |      5-8      |     (11-12) + 13    |
 
-If below 3 SPD DV, you should strongly consider resetting early
-- The fastest strategy if you take 3-4 speed or lower is to X Speed Sabrina's Mr. Mime
-- According to simulations by Grogir, the winrate is only about 55.6% and the avg win time is +5.6 or more time lossed
-
-If you choose to run with 4 speed there is a slow alternative to play safely:
-- Safari Carbos, Mansion Carbos, and the extra hidden candy in mansion
-- Timeloss from this is about +30s
-
-If you choose to run with 3 speed there is again a slow alternative to play safely:
-- Silph Carbos, Safari Carbos, Mansion Carbos, and the extra hidden candy in mansion
-- Timeloss from this is +35s
-
-If you have 11-12 speed you may choose to get 2 Carbos to skip X Speed on Agatha
-- This loses ~10+ seconds, but ups the winrate on Agatha
-
-The new strategy for Carbos:
-- Safari Carbos is slightly faster than Silph Carbos
-
-Getting the PPUP is presented as the standard strategy in this route.
-- With 14+ ATK DV skipping the PPUP saves ~1.1 seconds (assuming you menu optimally)
-- With 14+ ATK and 5 SPD, skipping PPUP allows us to easily use all three carbos inside mansion, which saves more time over the alternative.   
-
-In general reset under 5 ATK DV on Brock, unless you have a good start and good SPD DV.
-
-> Note that if your goal time is between 1:59 and 2:05 you can skip high risk strategies and be more inclined to fight the hiker, center for Misty, heal out of red bar on fly split, and skip high risk strategies like silph red bar. You may also choose to fight the optional gentleman and use the rare candy at the start of cut menu for an easier Surge and Fly Split.
-
-Race Route modification: 
-- Buy +1 Pokeball
-- Sell TM34 early if you need extra Potions
-- Buy +2 Para Heal
-- Either sell Full Restore or get both Nuggets and sell
-- Buy 2 Revives, +2 X-Acc, +2 X-Speed
-- Modify Fly menu to swap Potion for Srepel and teach TM48 at the start (making room for TM07 in hideout)
-- Para Heals need to be tossed some time after Silph Rival and before getting EQ
-	- One idea is to menu after silph rival (use max ether if proper HP) and then swap para heal with rare candy and toss para heal
-	- Then skip swap in Snorlax Menu, but EQ Menu will stay the same and our inventory is similar to regular route
-- The exception to the previous point is if we have [0-2 SPD in races](https://pastebin.com/txSmZKw4) because Rare Candy will already be lower in our bag. In this case simply toss Para Heal without swapping after silph rival.
-
+See the following pastebin for more information: https://pastebin.com/sEWrd0v8
 
 ### Glossary
 
