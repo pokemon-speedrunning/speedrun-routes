@@ -554,21 +554,14 @@ Menu:
 
 Get Rare Candy and PPUP.
 
-EQ Menu:
-<table>
-<tr><th>
-If 0, 5-7, (11-12) SPD DV
-</th><th>
-Otherwise
-</th></tr>
-<tr><td>
+> Optional strat if you know and are okay with the pros and cons:  
+> If 0, 5-7, (11-12) SPD DV, then candy x4, srepel, swap HM01 w/ TM26, PPUP, TM26 and delay safari carbos to mansion   
+> Also may choose to use 0 to 4 candies in this menu for a variety of reasons discussed [here around line 40](https://pastebin.com/sEWrd0v8)
 
-- Use slot 4 Rare Candy x4
-- Use slot 3 Super Repel
-</td><td>
+EQ Menu
 
 - Use slot 3 Super Repel
-- Down 1 use Rare Candy x3
+- Down 1 use Rare Candy x2 (candy x3 in red bar if you still keep red bar)
 - Down 1 swap HM01 down 14 with TM26
 - Down 1 to use PP UP on slot 1 Horn Drill
 - Teach slot 5 TM26 Earthquake over slot 2 Rock Slide
@@ -612,7 +605,7 @@ Koga:
 ## MANSION
 
 Exit Koga's gym.
-- If you need Carbos AND have a Rare Candy, then use slot 4 Rare Candy now
+- If you need Carbos AND have one or more Rare Candies, then use all slot 4 Rare Candies now
 
 Bike to the Warden's house to get HM04.
 - Exit house
