@@ -76,10 +76,6 @@ Brock:
 	- If Bide: TW x2
 - Spam Bubble on Onix	
 
-> Consider resetting with under 5 ATK DV (unless very good Brock time)  
-
-> Consider resetting with under 4 SPD DV   
-
 ## ROUTE 3 SPLIT
 
 Pewter Mart
