@@ -73,6 +73,7 @@ Brock:
 - Swap to Squirtle
 - Spam Bubble on Geodude
 - Switch to Nido, then swap back to Squirtle
+	- If Bide: TW x2
 - Spam Bubble on Onix	
 
 ## ROUTE 3 SPLIT
