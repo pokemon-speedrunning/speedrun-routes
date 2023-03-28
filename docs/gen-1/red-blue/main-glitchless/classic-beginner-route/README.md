@@ -90,6 +90,7 @@ Brock:
 - Swap to Squirtle
 - Spam Bubble on Geodude [1-7 Potion]
 - Switch to Nido, then swap back to Squirtle
+	- IF ONIX USES BIDE: Tail Whip x2
 - Spam Bubble on Onix [1-11 Potion]
 
 ## ROUTE 3 SPLIT
