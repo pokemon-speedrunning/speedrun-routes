@@ -24,9 +24,12 @@
 
 Rival 1:
 - Tail Whip + spam Tackle
+	- If Growled turn 1, Tail Whip a second time before using Tackle
 
 Route 1
 - Spam Tackle to faint one encounter that is L2 or L3
+
+> Optional: Do [Route 1 Manip](https://pastebin.com/MUwp28CU)
 
 Viridian Mart
 - Buy 4 or 5 Poke Balls
@@ -136,7 +139,9 @@ Catch a flyer:
 	- [R3 Moon Manip](https://pastebin.com/tggXpQRC)
 		- this is slightly better but you can only use it if you skip Lass
 	- Backups (in case you fail the full manip):
-		- [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy)
+		- [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy) ([older version](https://pastebin.com/7kcZu3g4))
+		- [Post Geodude IGT Backup](https://pastebin.com/mVzLN0BS)
+		- [Post Zubat IGT Backup](https://pastebin.com/5rKmACtf)
 		- [Post Nerd Backup Paras](../resources/postnerd-backup-paras)
 		- [Oddish Backup](../resources/oddish-backup)
 
@@ -298,7 +303,7 @@ If 1-12
 
 Boat Rival:
 - Pidgeotto:
-	- HA x2 (BB x2 if you have it)
+	- HA x2 (HA + BB if you have it)
 		- If you get Sand-Attacked swap to bird and let it faint
 - Raticate:
 	- 1-12: Potion
@@ -368,11 +373,13 @@ Pokemaniac 2:
 
 1-17 **Save**
 
-Oddish Girl: [Parlyz Heal immediately if Stun Spore hits]
-- Oddish: Thrash (or at 18-22 use: TB + Thrash, if asleep Potion at 1-5)
+Oddish Girl:
+- Oddish: Thrash (or at 18-22 use: TB + Thrash, if asleep Potion at 1-5, if paralyzed still use Thrash)
 - Bulba: Thrash
 
 Use 2 Repels at some point after this fight and before the next fight
+
+> If you were paralyzed, use a Parlyz Heal in the second Repel menu
 
 Hiker:
 - BB x3

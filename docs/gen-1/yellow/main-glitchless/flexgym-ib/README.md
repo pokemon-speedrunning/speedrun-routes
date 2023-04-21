@@ -283,7 +283,7 @@
 - ### 4 Turn Thrash Girl
   - Oddish: Thrash
   - (HA on Bellsprout if you get 3 turn)
-- ### Jr. Trainer:
+- ### Bug Catcher:
   - Caterpie: BB
   - Weedle: Thrash
   > Thrash on turn 1 if you don't mind taking damage
@@ -299,8 +299,8 @@
   - Slowpoke: TB
 - ### Jr. Trainer:
   - Thrash (and pray)
-- Use Full Restore if paralyzed (this is really bad)
-- Repel twice before the next fight
+- Use Full Restore if paralyzed
+- Use 2 Repels at some point after this fight and before the next fight
 - ### Hiker:
   - Geodude: BB
   - Geodude: BB

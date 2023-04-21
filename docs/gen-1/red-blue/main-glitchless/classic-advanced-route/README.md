@@ -32,6 +32,8 @@ See the following pastebin for more information: https://pastebin.com/sEWrd0v8
 
 ## NIDORAN SPLIT
 
+Optional: Pick up the PC Potion.
+
 Rival 1:
 - Tail Whip + spam Tackle
 
@@ -294,6 +296,8 @@ Boat Rival:
 - Ivysaur: Thrash x2
 
 Get HM01 from the captain.
+
+Optional safety: Fight the Gentleman in [this room](https://gunnermaniac.com/pokeworld?map=96#21/11) with Thrash and get the Candy.
 
 Exit the boat and head towards Surge's gym.
 

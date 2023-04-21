@@ -107,7 +107,7 @@ Do [Route 3 Moon Manip](https://pastebin.com/tggXpQRC)
 
 > Lass seen on screen before entering Moon during manip should be stuck facing up; however, the Lass has a tell on Frame 36 & 37 by walking right or facing left, respectively. If you'd like to learn the alternative movement used to manipulate Mt. Moon on these frames check [F36/F37 Backups](../resources/rt3moon-f36-f37-backups.md)
 
-If you get an igt encounter or fail the manip before the last floor do the [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy)
+If you get an IGT encounter or fail the manip before the last floor do the [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy) (or the [older version](https://pastebin.com/7kcZu3g4))
 
 Rocket: (strategy depends on HA count)
 
@@ -250,7 +250,7 @@ Jr Trainer M:
 
 Boat Rival:
 - Pidgeotto:
-	- HA x2 (BB x2 if you have it)
+	- HA x2 (HA + BB if you have it)
 		- If you get Sand-Attacked swap to bird and let it faint
 		- With high HP and 1 Sand-Attack consider a risky strategy: MP/HA Rat, HA Kadabra, HA x2 Ivy (never Thrash after Sand) swap if HP gets too low
 - Raticate:
@@ -349,12 +349,12 @@ Pokemaniac 2:
 - Slowpoke: TB
 
 Oddish Girl:
-- Oddish: Thrash (or at 18-22 use: TB + Thrash, if asleep Potion at 1-5, if stun spore still use Thrash)
+- Oddish: Thrash (or at 18-22 use: TB + Thrash, if asleep Potion at 1-5, if paralyzed still use Thrash)
 - Bulba: Thrash
 
 Use 2 Repels at some point after this fight and before the next fight
 
-> Use Para Heal in the last repel menu if needed
+> If you were paralyzed, use a Parlyz Heal in the second Repel menu
 
 Hiker:
 - BB x3
@@ -561,7 +561,7 @@ Get HM04 and Fly to Pallet Town
 **Pallet Surf Menu**
 - Use slot 3 **Super Repel**
 - Scroll down 5 to swap **Helix Fossil** down by 5 for **X Speed**
-- Scroll down 5 to teach **HM03** to Squirtle (cusor is on bird)
+- Scroll down 5 to teach **HM03** to Squirtle (cursor is on bird)
 - Use Surf
 
 Mansion

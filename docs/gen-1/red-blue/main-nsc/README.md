@@ -17,7 +17,7 @@ Based on davidpoko's guide, which was based on krazyd4n's guide.
   - Press UP 2 times to go into option and set them to Fast/Off
 
 ## Route 1  + Viridian
-- Pick Charmander
+- Pick Charmander, do not nickname
 - Spam Scratch, losing is faster than winning
 - Get the parcel and the Pokedex, run from any Route 1 encounter
 - Buy 1 Pokeball from the Viridian Mart

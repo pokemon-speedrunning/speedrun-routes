@@ -61,6 +61,8 @@ Optional - Save the game before searching for Nidoran.
 	- L4 Nido: just throw Poke Balls
 	- L5 Spearow: just throw Poke Balls, since it outspeeds us
 
+> Next are tables you can use if you are familiar with DSUM. For your first runs you can just search randomly in the grass until you get a Nido. For more explanations on DSUM, see the [video tutorial by Shenanagans](https://www.youtube.com/watch?v=SqC8cfI5XSs) and the [video tutorial by Gunnermaniac](https://www.youtube.com/watch?v=NxhT2H0GTwA).
+
 | Time-Based DSUM                                         | Step-Based DSUM                                         |
 | ------------------------------------------------------- | ------------------------------------------------------- |
 | <img src="https://i.imgur.com/RBD6c2T.jpg" width="650"> | <img src="https://i.imgur.com/LSGYzXO.png" width="220"> |
