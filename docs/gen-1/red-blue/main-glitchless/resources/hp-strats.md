@@ -195,7 +195,8 @@ you but can increase the chance of you dying.
 | 16    | Early Drill, Late Drill if Gentleman Candy  |
 | 17-18 | Late Drill                                  |
 | 19    | Late Drill, Early Drill if you got Moon Exp |
-| 20+   | Early Drill                                 |
+| 20-27 | Early Drill                                 |
+| 28+   | Late Drill                                  |
 
 ### Flute Split
 
@@ -206,7 +207,7 @@ you but can increase the chance of you dying.
 | 1-7   | Potion turn 1, then X Acc turn 2                                                         |
 | 8     | Potion turn 1, then X Acc turn 2 if good pace, otherwise TB turn 1 and X Acc Growlithe   |
 | 16    | TB turn 1, X Acc on Growlithe                                                            |
-| 20+   | X Acc turn 1                                                                             |
+| 20-27 | X Acc turn 1                                                                             |
 
 ### Koga Split
 

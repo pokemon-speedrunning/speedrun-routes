@@ -8,6 +8,7 @@
 	- [1 A Press](https://youtu.be/qPzSWHyMuW8)
 - Mount Moon Manip:
 	- [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy) (recommended for first runs)
+		- [Older version](https://pastebin.com/7kcZu3g4) (easier path, but select yoloball)
 	- [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
 	- [Entr's Moon Manip](https://pastebin.com/jnj9j47S)
 - Surge Cans Manip:
@@ -131,8 +132,9 @@ Route 3 grass:
 
 ## Mount Moon
 
-- Do not learn a full Moon Manip for your first runs, start by learning [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy) and walking through the first floor normally ([movement map](https://i.imgur.com/xzgmNBk.jpeg)). You will choose later if you want to learn [Entr Moon](https://pastebin.com/jnj9j47S) (works with Lass) or [Route 3 Moon](https://pastebin.com/tggXpQRC) (slightly better, but does not work with Lass strats). There is also a [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md) you can learn.
+- Do not learn a full Moon Manip for your first runs, start by learning [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy) (or the [older version](https://pastebin.com/7kcZu3g4)) and walk through the first floor normally ([movement map](https://i.imgur.com/xzgmNBk.jpeg)). You will choose later if you want to learn [Entr Moon](https://pastebin.com/jnj9j47S) (works with Lass) or [Route 3 Moon](https://pastebin.com/tggXpQRC) (slightly better, but does not work with Lass strats). There is also a [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md) you can learn.
 - Get [TM12 (Water Gun)](https://gunnermaniac.com/pokeworld?map=59#5/32), [Rare Candy](https://gunnermaniac.com/pokeworld?map=59#35/31), [Escape Rope](https://gunnermaniac.com/pokeworld?map=59#36/23), [TM01 (Mega Punch)](https://gunnermaniac.com/pokeworld?map=61#29/5) and [Moon Stone](https://gunnermaniac.com/pokeworld?map=59#2/2)
+- Avoid catching wild Paras as the catch is not guaranteed even at low HP, catch the manipped one instead
 
 Menu before walking in front of the Rocket:
 - Toss any remaining Poke Balls (ONLY IF YOU HAVE A PARAS)
@@ -144,6 +146,8 @@ Menu before walking in front of the Rocket:
 **Rocket:**
 - Rat: MP
 - Zubat: MP + PS (HA if Zubat used Leech Life, MP if Leech Life also crit)
+
+Talk to the Nerd
 
 **Super Nerd:** (if you are out of HA just MP instead)
 - Grimer: MP + HA [Note: Water Gun can kill if you get a good MP roll, if so use WG over MP or HA]
@@ -252,7 +256,7 @@ If 1-12 after this fight:
 
 **Boat Rival:**
 - Pidgeotto:
-	- HA x2 (BB x2 if taught; Potion turn 2 if 1-6)
+	- HA x2 (HA + BB if taught; Potion turn 2 if 1-6)
 	- If you get Sand-Attacked swap to another pokemon and let it die
 - Rat:
 	- 1-6 Potion
@@ -339,12 +343,13 @@ Menu after taking 1 step down:
 - If you fought the Gentleman, Thrash. The ranges are guaranteed
 - 18-22 TB, then Thrash
 - Otherwise, just Thrash
-	- If you get paralyzed use a heal on it
-	- If you get put to sleep Potion at 1-5
+	- If you get put to sleep, Potion at 1-5
+	- If paralyzed, keep using Thrash
 
 After the fight:
 - Use one Repel [here](https://gunnermaniac.com/pokeworld?map=232#25/19)
 - Use another Repel [here](https://gunnermaniac.com/pokeworld?map=232#8/17)
+	- If you were paralyzed, use a Parlyz Heal now
 	- You can delay these 2 Repels up to ~10 tiles
 
 **Hiker:**
@@ -403,7 +408,9 @@ Menu after getting Fly:
 Note: From this point on you have 2 Revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, Revive, let the swapped pokemon die and ANY AND ALL X ITEMS ARE GONE. This route has extras so you shouldn't run out of X items, and there will still be some saving since some deaths with Revives are still really slow to come back from if at all.
 
 **Rival:**
-- TB
+- Pidgeotto:
+	- 1-8 Potion (X Acc if you get Sand-Attacked)
+	- TB
 - TB
 - BB
 - Thrash

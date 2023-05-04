@@ -194,7 +194,7 @@ Item PC:
 
 - Withdraw all of slot 1, twice
 - Withdraw all-but-2 of slot 1
-- Swap slot 1 with slot 2; this achieves PC underflow
+- Swap slot 1 with slot 2, twice; this achieves PC underflow
 
 * Withdraw 1 from coins (the slot above the first nonzero j. quantity)
 * Withdraw 36 Full Restores

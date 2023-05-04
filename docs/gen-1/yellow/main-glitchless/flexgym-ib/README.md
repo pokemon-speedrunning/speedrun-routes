@@ -40,6 +40,8 @@
 - Perform [Nido manip](../resources/nido-manip.md)
 - Nickname Nido one character
 
+> Optional: Do [extended manipulation](https://pastebin.com/2wnyyXpQ) (high-level runners only, this only saves two seconds and is very difficult)
+
 ## Viridian Forest
 - Swap Pikachu and Nidoran one step after entering the forest house
 - Take note of how much HP Nido has
@@ -283,7 +285,7 @@
 - ### 4 Turn Thrash Girl
   - Oddish: Thrash
   - (HA on Bellsprout if you get 3 turn)
-- ### Jr. Trainer:
+- ### Bug Catcher:
   - Caterpie: BB
   - Weedle: Thrash
   > Thrash on turn 1 if you don't mind taking damage
@@ -299,8 +301,8 @@
   - Slowpoke: TB
 - ### Jr. Trainer:
   - Thrash (and pray)
-- Use Full Restore if paralyzed (this is really bad)
-- Repel twice before the next fight
+- Use Full Restore if paralyzed
+- Use 2 Repels at some point after this fight and before the next fight
 - ### Hiker:
   - Geodude: BB
   - Geodude: BB

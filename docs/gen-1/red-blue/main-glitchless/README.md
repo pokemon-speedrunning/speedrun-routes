@@ -17,6 +17,5 @@
 
 * [Classic Beginner Route](classic-beginner-route/)
 * [Classic Advanced Route](classic-advanced-route/)
-
-  - Red Classic is the manipless category of gen 1
+  - Red Classic is the manipless category of gen 1.
   - Classic bans RNG manips, instant text, and the poke doll skip.

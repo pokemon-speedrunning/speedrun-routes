@@ -38,6 +38,8 @@
 - Perform [Nido manip](../resources/nido-manip.md)
 - Nickname Nido one character
 
+> Optional: Do [extended manipulation](https://pastebin.com/2wnyyXpQ) (high-level runners only, this only saves two seconds and is very difficult)
+
 ## Viridian Forest
 - Swap Pikachu and Nidoran one step after entering the forest house
 - Take note of how much HP Nido has
@@ -291,7 +293,7 @@
   - Oddish: Thrash
   - (HA on Bellsprout if you get 3 turn)
 
-- ### Jr. Trainer:
+- ### Bug Catcher:
   - Caterpie: BB
   - Weedle: Thrash
   > Thrash on turn 1 if you don't mind taking damage
@@ -313,8 +315,8 @@
 - ### Jr. Trainer:
   - Thrash (and pray)
 
-- Use Full Restore if paralyzed (this is really bad)
-- Repel twice before the next fight
+- Use Full Restore if paralyzed
+- Use 2 Repels at some point after this fight and before the next fight
 
 - ### Hiker:
   - Geodude: BB
@@ -327,7 +329,7 @@
 - Bike down to Lavender, then left towards Celadon
 
 - ### Gambler:
-  - Growlithe: Swap BB with Thrash, then BB (+ Thrash)
+  - Growlithe: Swap Thrash with BB, then BB (+ Thrash)
   - Vulpix: Thrash
 
 - Pick up the [Underground Elixer](https://gunnermaniac.com/pokeworld?map=121#21/5)
@@ -397,11 +399,12 @@
 - ### Rocket:
   - Machoke: X Acc + HD
 
-- Pick up TM26 and Rare Candy, then Carbos in that order
-- EQ Menu:
+- Pick up TM26 and Rare Candy, then Carbos
+- Take the stairs down then menu:
   - Swap slot 4 with TM26
   - Use Carbos
   - Teach TM26 (EQ) over Rock Slide (slot 1)
+- Take the [teleport tile](https://gunnermaniac.com/pokeworld?map=233#17/15)
 
 - ### Rocket:
   - Arbok: EQ
