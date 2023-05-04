@@ -4,15 +4,28 @@
 	- TOOLS: Download "Red Classic Helper"
 	- SAVES: Download "Any% Glitchless (Classic)"
 
-Carbos Strategies for this route:
+<details><summary>Carbos Strategies for this route <i>(click to unfold)</i></summary>
 
-| How to outspeed | Dugtrio/Jynx | Sabrina's Zam | Agatha's 1st Gengar |
-| --------------- | ------------ | ------------- | ------------------- |
-| Silph Carbos    |      ...     |       5       |        ...          |
-| Safari Carbos   |       1      |      5-7      |       (11-12)       |
-| Mansion Carbos  |      0-1     |      5-8      |     (11-12) + 13    |
+Speed DV | Strategy used              | Alternate strategies |   |  
+-------- | -------------------------- | -------------------- | - | -
+0        | 2 Carbos + X Speed Sabrina | 2 Candies + 3 Carbos
+1        | 1 Carbos + X Speed Sabrina | 2 Candies + 3 Carbos
+2        | X Speed Sabrina            | 2 Candies + 2 Carbos
+3        | X Speed Sabrina            | 1 Candy + 3 Carbos   | 2 Candies + 2 Carbos
+4        | X Speed Sabrina            | 1 Candy + 2 Carbos   | 2 Candies + 1 Carbos
+5        | 3 Carbos                   | X Speed Sabrina      | 1 Candy + 2 Carbos | 2 Candies
+6        | 2 Carbos                   | 1 Candy + 1 Carbos   | 2 Candies
+7        | 2 Carbos                   | 1 Candy
+8        | 1 Carbos                   | 1 Candy
+9-10     | -
+11       | -   (or 2 Carbos)          | 1 Candy + 1 Carbos
+12       | -   (or 2 Carbos)          | 1 Candy
+13       | 1 Carbos                   | -                    | 1 Candy
+14-15    | -
 
-See the following pastebin for more information: https://pastebin.com/sEWrd0v8
+</details>
+
+This guide uses fairly aggressive Carbos strategies. If not going for a top leaderboard time it is suggested to use one of the safer strats involving extra candies instead of X Speed Sabrina strats. See [this pastebin explanation](https://pastebin.com/sEWrd0v8) and the [complete speed chart](https://imgur.com/MpKBIb1) for more information.
 
 ### Glossary
 
@@ -339,6 +352,7 @@ Menu:
 - Oddish: Thrash
 - Bellsprout: HA (if Thrash ends)
 	- Swap and swap back if you can't hit yourself
+	- HA + TB Oddish is generally better than swapping if you can take Absorb
 
 Bug Catcher (at 16-19 HP: TB x2 and BB x2):
 - Caterpie: TB (or BB if it kills)
@@ -534,9 +548,9 @@ HP   | Strat
 80+  | Use Max Ether turn 2 on Cubone or turn 1 on Drowzee
 
 Silph Rocket #2:
-- Cubone: X Acc + (Max Ether if hit under 80) + IB
+- Cubone: X Acc + (Max Ether if hit under 80) + HD
 - Drowzee: (Max Ether) HD
-- Marowak: HD
+- Marowak: IB
 
 Giovanni:
 - Nidorino: X Acc + HD
@@ -574,7 +588,7 @@ EQ Menu
 Get on the bike and cut both trees to enter the Safari Zone.
 
 SAFARI ZONE
-- Get the Carbos if 0, 5-7, (11-12) SPD DV
+- Get the Carbos if 0, 5-7 SPD DV (and 11-12 to outspeed Gengar)
 - Super Repel at the start of zone 3 (and use the carbos ON NIDO if you have it)
 - Get the Gold Teeth
 - Get HM03 and exit the house
@@ -610,7 +624,7 @@ Koga:
 ## MANSION
 
 Exit Koga's gym.
-- If you need Carbos AND have one or more Rare Candies, then use all slot 4 Rare Candies now
+- If you need the Mansion Carbos AND have one or more Rare Candies, then use all slot 4 Rare Candies now
 
 Bike to the Warden's house to get HM04.
 - Exit house
@@ -621,7 +635,7 @@ Surf Menu:
 - Teach HM03 Surf to Squirtle (over slot 2 Tail Whip if Squirtle already knows Dig)
 - Surf to Mansion
 
-> Get the Carbos if 0-1, 5-8, (11-12), 13 SPD DV
+> Get the Carbos if 0-1, 5-8, 13 SPD DV (and 11-12 to outspeed Gengar)
 
 <table>
 <tr><td>

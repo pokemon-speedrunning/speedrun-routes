@@ -678,9 +678,9 @@ HP   | Strat
 80+  | Use Max Ether turn 2 on Cubone or turn 1 on Drowzee
 
 Silph Rocket #2: (talk to him from the left side)
-- Cubone: X Acc + (Max Ether) + IB
+- Cubone: X Acc + (Max Ether) + HD
 - Drowzee: (Max Ether +) HD
-- Marowak: HD
+- Marowak: IB
 
 Giovanni:
 - Nidorino: X Acc + HD

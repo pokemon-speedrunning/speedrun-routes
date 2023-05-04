@@ -40,6 +40,8 @@
 - Perform [Nido manip](../resources/nido-manip.md)
 - Nickname Nido one character
 
+> Optional: Do [extended manipulation](https://pastebin.com/2wnyyXpQ) (high-level runners only, this only saves two seconds and is very difficult)
+
 ## Viridian Forest
 - Swap Pikachu and Nidoran one step after entering the forest house
 - Take note of how much HP Nido has
