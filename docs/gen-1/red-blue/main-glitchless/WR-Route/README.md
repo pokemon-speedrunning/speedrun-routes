@@ -7,7 +7,7 @@ This guide assumes you know things about the game already.
 - Keep this document open at all times: [Advanced HP Strats](../resources/hp-strats.md)
 - A flexible variation of this route is available [here](https://pastebin.com/6zSqaRts) that has the option to pick up mansion candy for 144-146 attempts
 
-> Note: there is value in having 2-3 potions for the late game given that we will buy only 3 super potions
+> Note: there is value in having 2-3 Potions for the late game given that we will buy only 3 Super Potions
 
 ## NIDORAN SPLIT
 
@@ -74,7 +74,7 @@ BC3:
 
 ## MT. MOON SPLIT
 
-Do Route 3 Moon Manip https://pastebin.com/tggXpQRC
+Do [Route 3 Moon Manip](https://pastebin.com/tggXpQRC)
 
 Rocket:
 - Rattata
@@ -374,7 +374,7 @@ Juggler 2:
 Koga:
 - EQ x3
 - Use slot 7 Elixer
-> X Special if X Attack and have an extra, otherwise x-speed if you have an extra
+> X Special if X Attack and have an extra, otherwise X Speed if you have an extra
 
 ## ERIKA SPLIT
 
@@ -389,7 +389,7 @@ Pallet Menu:
 - Teach HM03 to Squirtle
 - Surf
 
-> Alternative: Rare Candy x3, Super Repel, Swap Helix for X-Speed, teach HM03 
+> Alternative: Rare Candy x3, Super Repel, Swap Helix for X Speed, teach HM03 
 
 Mansion
 - Get Blizzard then menu
@@ -418,7 +418,7 @@ Erika:
 Fly to Cinnabar
 
 Blaine:
-- X Acc + EQ or Drill if turn 1 super pot
+- X Acc + EQ or HD if turn 1 Super Pot
 - HD x3
 
 ## SABRINA SPLIT
@@ -442,12 +442,9 @@ Blackbelt:
 
 Leave the gym, re-enter and use Elixer 1 step in
 
-Note: You need to save at least 1 Blizzard for Agatha's Golbat so play accordingly
-
 Giovanni:
 - EQ x4
 - Blizz Rhydon until you have 2 Blizzard left (EQ after that)
-	- If early Elixer EQ Rhydon once if miss Blizz range
 
 ## LORELEI SPLIT
 
@@ -457,17 +454,19 @@ Rival:
 - X Acc + X Speed + Blizz (+ TB)
 - Blizz
 - TB
-- EQx2
+- EQ x2
 - HD
 
+> Do not pick Max Ether and do not use any PP item
+
 Deposit Squirtle and Paras
-> If desperate, also deposit bird to save about 18 seconds.
+> If desperate, also deposit bird to save about 18 seconds
 
 Lorelei: 
 - Swap to bird turn 1
 - Swap to Nidoking
 - X Acc + HD x5
-- Note: Option to swap Nidoking and bird pre-fight if you want to save 0-0.5s at the cost of being difficult
+- Note: Option to swap Nidoking and bird pre-fight if you want to save up to 0.5s at the cost of being difficult
 
 ## BRUNO SPLIT
 
@@ -479,13 +478,14 @@ Bruno:
 ## AGATHA SPLIT
 
 Use Super Potion
-> If 32 hp or below, can skip heal to save 14 seconds
+> Elixer now if you have 0 Blizz or less than 4 EQ  
+> If 32 HP or below, can skip heal to save 14 seconds
 
 Agatha:
 - X Speed + EQ
 - Blizz + TB
 - EQ x3
-> if hazed and still have an extra x-item, X Speed or X-Special on Arbok with 25-60 HP or yolo
+> If Hazed and still have an extra X item, X Speed or X Special on Arbok with 25-60 HP or yolo
 
 ## LANCE SPLIT
 
@@ -501,10 +501,9 @@ Lance:
 ## CHAMP SPLIT
 
 Champion:
-- X Acc + X Speed + HDx6
+- X Acc + X Speed + HD x6
 
-> WA does 21-25, unless X Speed turn 1, then WA does 20-24
+> WA does 21-25, unless X Speed turn 1, then WA does 20-24  
+> Sky Attack does 82-97, unless X Speed turn 1, then Sky Attack does 74-87
 
-> Sky Attack does 82-97, unless X Speed turn 1 (Sky Attack does 74-87)
-
-- If Sky Attack turn 1: Drill Pidgeot, X-Speed Alakazam (~1/3 to live), HDx5
+- If Sky Attack turn 1: HD Pidgeot, X Speed Alakazam (~1/3 to live), HD x5
