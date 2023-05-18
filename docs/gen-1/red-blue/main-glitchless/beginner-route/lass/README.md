@@ -5,7 +5,7 @@
 ### Manip quick reference
 - Nidoran Manip:
 	- [Optimal](../../resources/nido-manip.md) (HIGHLY RECOMMENDED)
-	- [1 A Press](https://youtu.be/qPzSWHyMuW8)
+	- [1 A Press](https://youtu.be/2bwQZ6jPxRE)
 - Mount Moon Manip:
 	- [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy) (recommended for first runs)
 		- [Older version](https://pastebin.com/7kcZu3g4) (easier path, but select yoloball)
