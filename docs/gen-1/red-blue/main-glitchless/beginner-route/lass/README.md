@@ -626,6 +626,7 @@ Menu after leaving the gym:
 - HD x3
 	- Note: Only if you had 0 Potions in Celadon and bought 3 X Speeds do the following instead:
 	- X Acc + X Speed + Blizz (+ TB), HD x5
+	- Otherwise, the badge boost from the X Spec on Growlithe allows us to outspeed Alakazam.
 
 ## Victory Road
 
