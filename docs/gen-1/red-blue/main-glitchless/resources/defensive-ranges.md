@@ -408,8 +408,8 @@ Raichu            | Self Hit
 ----------------- | --------
 &nbsp;            | 14
 w/Growl           | 9
-w/Screech         | 28
-w/Growl & Screech | 21
+w/Screech         | 29
+w/Screech & Growl | 17
 
 </td></tr> </table>
 
