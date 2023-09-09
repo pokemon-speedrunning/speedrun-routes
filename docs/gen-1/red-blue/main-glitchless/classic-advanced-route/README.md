@@ -772,8 +772,8 @@ Bruno:
 ## AGATHA SPLIT
 
 Menu before Agatha:
-- Use Elixer
 - Super Potion twice to play safe, otherwise heal according to the chart
+- Use Elixer
 
 HP DV | Max HP that keeps redbar after Night Shade | Max HP to yolo
 ----- | ------------------------------------------ | --------------
