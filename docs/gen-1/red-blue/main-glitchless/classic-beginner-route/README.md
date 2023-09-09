@@ -754,7 +754,7 @@ Koga:
 - Koffing: EQ
 - Muk: EQ
 - Koffing: EQ
-- Weezing: use slot 5 Elixer, then stall with slot 17 Poke Flute until it uses Self Destruct
+- Weezing: use slot 6 Elixer, then stall with slot 17 Poke Flute until it uses Self Destruct
 
 ## GYM RUSH
 
@@ -828,15 +828,14 @@ Bike east to Sabrina’s gym by walking through the guard house.
 
 Teleporter Puzzle: Diagonal, Diagonal, Down (bottom left)
 
-**Save before talking to Sabrina** if you have 0-1 speed DV or you don't know your DVs.
+**Save before talking to Sabrina** if you have 0 speed DV or you don't know your DVs.
 
-> Alakazam may outspeed Nido at 0-1 SPD  
-> If you don't know your DVs, just yolo and if you are KO'd soft reset with A + B + Start + Select  
-> If you know you have 0-1 SPD, then on Mr. Mime: X Speed + EQ (+TB) (1/3 to use Confusion)
+> Alakazam may speedtie Nido at 0 SPD  
+> If you are KO'd soft reset with A + B + Start + Select and retry
 
 Sabrina:
 - Kadabra: EQ
-- Mr. Mime: EQ (or X Speed + EQ (+ TB) if slower than Alakazam)
+- Mr. Mime: EQ
 - Venomoth: EQ
 - Alakazam: EQ (+ EQ again if Reflect is used)
 
