@@ -247,7 +247,7 @@
     - 6 repels
 - Boat Menu:
   - (Heal)
-  - Teach TM11 (Bubblebeam) in slot 3
+  - Teach TM11 (Bubblebeam) over Leer (slot 3)
 - ### Boat Rival:
   - Spearow: HA (DO NOT THRASH)
   - Rattata: BB
@@ -279,7 +279,7 @@
 - Get Bike
 - Bike menu:
   - Swap slot 1 with Bicycle
-  - Teach TM24 (Thunderbolt) in Slot 3
+  - Teach TM24 (Thunderbolt) over Double Kick (slot 3)
   - Get on the bike
 - Cut bush, bike to the right
 - ### 4 Turn Thrash Girl
@@ -325,11 +325,11 @@
 ## Poke Flute
 - Fly menu:
   - Swap slot 2 with Super Repel
-  - Teach TM07 (Horn Drill) in slot 2
+  - Teach TM07 (Horn Drill) over Horn Attack (slot 2)
   - Use Super Repel
   - Swap slot 3 with X Acc
   - Teach HM02 (Fly) to Pidgey
-  - Teach TM48 (Rock Slide) in slot 1
+  - Teach TM48 (Rock Slide) over Thrash (slot 1)
   - Fly to Lavender Town
 - Walk to Pokemon Tower
 - ### Lavender Rival:
@@ -408,7 +408,7 @@
     - Use a Repel
     - Elixer
     - 1-2 HP Potion 3-34 HP Early Erika then Sabrina (check Pastebin), 35-75 Super Potion, 76+ Dont Heal
-    - Teach TM13 (IB) in slot 4
+    - Teach TM13 (IB) over Bubblebeam (slot 4)
     - Bike
 - Use another Super Repel after a few steps in the second map
 - Get the [Full Restore](https://gunnermaniac.com/pokeworld?map=217#21/10)
