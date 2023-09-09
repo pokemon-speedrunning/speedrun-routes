@@ -90,7 +90,7 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 ### Mt. Moon Split
 
 #### Before Moon Rocket (nolass)
-- Heal to 36+ hp and save the game
+- Heal to 36+ HP and save the game
 
 #### Moon Rocket Rat (nolass)
 | HP   | Strategy |
@@ -225,20 +225,19 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 
 | HP   | Strategy                                |
 | ---- | --------------------------------------- |
-| 1-12  | Potion before the fight and teach TM11 |
-| 13-24 | HA, Potion turn 2 if hit below 13 hp   |
-| 25+   | BB if you have it, otherwise HA        |
+| 1-12 | Potion before the fight and teach TM11  |
+| 13+  | HA, Potion turn 2 if hit below 13 HP    |
 
 #### S.S. Anne Rival (Raticate)
 - Note: One boost HA is 61.4% and two boosts HA is 100%
 
 | HP    | Standard Strategy    | Alternate Strategy        |
 | ----- | -------------------- | ------------------------- |
-| 1-12  | Potion               | MP on 7-12 hp (risk)      |
+| 1-12  | Potion               | MP on 7-12 HP (risk)      |
 | 13-17 | MP                   | Potion (safe)             |
 | 18-21 | MP                   | Thrash (safe)             |
 | 22    | MP                   |                           |
-| 23+   | HA (+ PS) or BB x2   | Thrash (at very high hp)  |
+| 23+   | HA (+ PS) or BB x2   | Thrash (at very high HP)  |
 
 #### S.S. Anne Rival (Kadabra)
 | HP    | Strategy                                                                |
@@ -437,12 +436,11 @@ Can roughly be summarized as _heal to 126+ without overhealing too much_
 - Heal to 22+ or to 44+ to play safe
 - 20 second lead can Super Potion (36 sec if your opponent deposited and you did not)
 
-| HP    | Healing Strategy                                             |
-| ----- | ------------------------------------------------------------ |
-| 1     | Super Potion, Potion if you need red bar                     |
-| 2-17  | Potion                                                       |
-| 18-21 | Don't heal if you need red bar, otherwise Super Potion       |
-| 22    | Super Potion if god pace, otherwise don't heal               |
-| 23-37 | Don't heal                                                   |
-| 38-44 | Potion if god pace, otherwise don't heal                     |
-| 45+   | Don't heal                                                   |
+| HP    | Healing Strategy                                                      |
+| ----- | --------------------------------------------------------------------- |
+| 5-14  | Potion                                                                |
+| 15-17 | Potion if you can afford to level out mid-fight, otherwise don't heal |
+| 18-21 | Don't heal if you need red bar, otherwise Super Potion                |
+| 22-37 | Super Potion if you don't want redbar, otherwise don't heal           |
+| 38-44 | Potion if you don't want redbar, otherwise don't heal                 |
+| 45+   | Don't heal                                                            |

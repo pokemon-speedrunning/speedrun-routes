@@ -124,8 +124,7 @@ you but can increase the chance of you dying.
 | HP   | Strategy                        |
 | ---- | ------------------------------- |
 | 1-6  | Potion turn 1                   |
-| 7-12 | HA                              |
-| 13+  | BB if you have it, otherwise HA |
+| 7+   | HA + BB/HA                      |
 
 #### S.S. Anne Rival (Raticate)
 
@@ -316,12 +315,11 @@ Can roughly be summarized as _heal to 126+ without overhealing too much_
 
 #### Before Champ
 
-| HP    | Healing Strategy                                             |
-| ----- | ------------------------------------------------------------ |
-| 1     | Super Potion, Potion if you need red bar to PB               |
-| 2-17  | Potion                                                       |
-| 18-21 | Don't heal if you need red bar to PB, otherwise Super Potion |
-| 22    | Super Potion if god pace, otherwise don't heal               |
-| 23-37 | Don't heal                                                   |
-| 38-44 | Potion if god pace, otherwise don't heal                     |
-| 45+   | Don't heal                                                   |
+| HP    | Healing Strategy                                                      |
+| ----- | --------------------------------------------------------------------- |
+| 5-14  | Potion                                                                |
+| 15-17 | Potion if you can afford to level out mid-fight, otherwise don't heal |
+| 18-21 | Don't heal if you need red bar to PB, otherwise Super Potion          |
+| 22-37 | Super Potion if god pace, otherwise don't heal                        |
+| 38-44 | Potion if god pace, otherwise don't heal                              |
+| 45+   | Don't heal                                                            |
