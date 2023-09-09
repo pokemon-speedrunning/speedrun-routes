@@ -247,7 +247,7 @@
 
 - Boat Menu:
   - (Heal)
-  - Teach TM11 (Bubblebeam) in slot 3
+  - Teach TM11 (Bubblebeam) over Leer (slot 3)
   - Teach TM28 (Dig) to Charmander
 
 
@@ -284,7 +284,7 @@
 - Get Bike
 - Bike menu:
   - Swap slot 2 with Bicycle
-  - Teach TM24 (Thunderbolt) in slot 3
+  - Teach TM24 (Thunderbolt) over Double Kick (slot 3)
   - Get on the bike
 - Cut bush, bike to the right
 
@@ -346,8 +346,8 @@
 - Fly menu:
   - Swap slot 2 with TM07
   - Use Super Repel
-  - Teach TM48 (Rock Slide) over BB (slot 1)
-  - Teach TM07 (Horn Drill) over HA (slot 2)
+  - Teach TM48 (Rock Slide) over Bubblebeam (slot 1)
+  - Teach TM07 (Horn Drill) over Horn Attack (slot 2)
   - Swap slot 3 with X Acc
   - Teach HM02 (Fly)
   - Fly to Lavender Town (down 3)
