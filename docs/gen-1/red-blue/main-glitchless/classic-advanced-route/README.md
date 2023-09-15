@@ -745,6 +745,8 @@ Last Boulder Menu:
 - Use Super Repel
 - Bike
 
+Optional: Pick up the hidden [Full Restore](http://gunnermaniac.com/pokeworld?map=194#26/7) 
+
 Indigo Plateau
 - Deposit Squirtle and Oddish/Paras unless you have Dux
 
