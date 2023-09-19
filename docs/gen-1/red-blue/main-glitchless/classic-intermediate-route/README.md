@@ -31,10 +31,10 @@ Speed DV | Strategy used                         | Alternate strategies         
 </details>
 
 - This guide will always offer Carbos + extra candy strategies to avoid being outsped by Sabrina's Zam (which forces us to set up a very risky X-Speed on Mr. Mime who is 1/3 to use confuision 1/3 to use barrier).
-  - Carbos strategies that are optional have the Speed DVs in () the DVs that have optional carbos pickups are (3-4) and (11-12).
-  - 3 SPD --> 3 Carbos + extra candy in mansion
-  - 4 SPD --> 2 Carbos + extra candy in mansion
-  - 11-12 SPD --> 2 Carbos to outspeed Agath's 1st Gengar this timeloss gives us a less risky Agatha fight (we still heal, but only risk her 2nd Gengar that knows fewer scary moves)
+  - Carbos strategies that are optional have the Speed DVs in ( ) the DVs that have optional carbos pickups are (3-4) and (11-12).
+  - 3 SPD plays safe with 3 Carbos + extra candy in mansion
+  - 4 SPD plays safe with 2 Carbos + extra candy in mansion
+  - 11-12 SPD plays safe with 2 Carbos to outspeed Agath's 1st Gengar this timeloss gives us a less risky Agatha fight (we still heal, but only risk her 2nd Gengar that knows fewer scary moves)
 
 - This guide avoids higher risk red bar strategies by default, but they are available for runs that fall too far behind. Note that Flute-to-End times under 44 minutes are achievable in classic with solid execution and sub 11:00 Fly split is achievable without fly red bar.
 
