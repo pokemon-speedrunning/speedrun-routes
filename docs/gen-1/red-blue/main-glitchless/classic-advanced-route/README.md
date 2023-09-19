@@ -537,14 +537,14 @@ Silph Rocket #1:
 
 Get the Card Key.
 
-  SPC  |  HP Pidg Turn 3  | Gyarados (+1 Spec and +1 Speed)
------- | ---------------- | ----------------------------------------
-   0   |       107        |  <details><summary>0 SPC</summary><br><img src="https://i.imgur.com/WwVrfuc.png" width="250"></details> 
-  1-3  |       105        |  <details><summary>1-3 SPC</summary><br><img src="https://i.imgur.com/arC0Kuk.png" width="250"></details> 
-  4-6  |       101        |  <details><summary>4-6 SPC</summary><br><img src="https://i.imgur.com/8XjJLpp.png" width="250"></details> 
-  7-8  |        99        |  <details><summary>7-8 SPC</summary><br><img src="https://i.imgur.com/TRXiqr7.png" width="250"></details> 
-  9-12 |        95        |  <details><summary>9-12 SPC</summary><br><img src="https://i.imgur.com/sCrrhh6.png" width="250"></details> 
- 13-15 |        93        |  <details><summary>13-15 SPC</summary><br><img src="https://i.imgur.com/gp5MWiD.png" width="250"></details> 
+  SPC  |    Gyarados (+1 Spec and +1 Speed)
+------ |  ----------------------------------------
+   0   |   <details><summary>0 SPC</summary><br><img src="https://i.imgur.com/WwVrfuc.png" width="250"></details> 
+  1-3  |   <details><summary>1-3 SPC</summary><br><img src="https://i.imgur.com/arC0Kuk.png" width="250"></details> 
+  4-6  |   <details><summary>4-6 SPC</summary><br><img src="https://i.imgur.com/8XjJLpp.png" width="250"></details> 
+  7-8  |   <details><summary>7-8 SPC</summary><br><img src="https://i.imgur.com/TRXiqr7.png" width="250"></details> 
+  9-12 |   <details><summary>9-12 SPC</summary><br><img src="https://i.imgur.com/sCrrhh6.png" width="250"></details> 
+ 13-15 |   <details><summary>13-15 SPC</summary><br><img src="https://i.imgur.com/gp5MWiD.png" width="250"></details> 
 
 Silph Rival:
 - Pidgeot: X Acc + X Speed (+ X Special) + HD
