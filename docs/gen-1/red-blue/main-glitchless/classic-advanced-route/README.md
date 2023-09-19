@@ -106,7 +106,7 @@ Menu:
 - Potion to full HP
 - Toss Antidote if you haven't already
 
-Shorts Guy: [1-17 Potion on Rat]
+Shorts Guy: 
 - Rat:
 	- Leer + HA x2
 - Ekans:
@@ -300,7 +300,8 @@ Vermilion Mart
 - Buy 3 Repels
 - Buy 3+ Parlyz Heals
 
-Enter the S.S. Anne.
+Boat Menu:
+- Slot 4 - teach TM11 over slot 4 PS or slot 2 Tackle
 
 Boat Rival:
 - Pidgeotto: HA + HA/BB
@@ -317,7 +318,6 @@ Exit the boat and head towards Surge's gym.
 Trade for Dux in [this house](https://gunnermaniac.com/pokeworld?map=1#235/193) if you still need something to learn Cut.
 
 Cut Menu:
-- Slot 4 - teach TM11 over slot 4 PS or slot 2 Tackle
 - Swap Potion down 4 with Repels
 - Down 2 - teach HM01 to Paras/Oddish/Dux
 - Up 3 - Teach TM28 to Paras or Squirtle
@@ -364,6 +364,8 @@ Bug Catcher (at 16-19 HP: TB x2 and BB x2):
 | 13-15  | 24 - 30                      | 31 - 37         |  38 - 51                |
 | 6-12   | 26 - 32                      | 33 - 40         |  41 - 51                |
 | 0-5    | 2nd Slowpoke: BB + TB @27-35 |                 |                         |
+
+> if desperate for red bar utilize the red helper defensive ranges to set up red bar as needed
 
 Repel one step into Rock Tunnel.
 
@@ -449,7 +451,7 @@ Grunt Menu:
 - Down 4 teach TM07 Horn Drill over slot 1 Thrash
 
 Right Grunt:
-> X Acc on Sandshrew if you can take a Slash crit, otherwise on Ekans
+> X Acc on Sandshrew is faster, but judge risk based on defensive ranges
 - Ekans: (X Acc) IB
 - Sandshrew: (X Acc) IB
 - Arbok: HD
@@ -459,7 +461,7 @@ Left Grunt:
 - Ekans: IB
 - Sandslash: IB
 
-Heal to ~11+ HP for Giovanni if needed.
+Heal before Giovanni if needed.
 
 Giovanni:
 > X Acc Rhyhorn if ~21+ HP
@@ -535,9 +537,18 @@ Silph Rocket #1:
 
 Get the Card Key.
 
+  SPC  |  HP Pidg Turn 3  | Gyarados (+1 Spec and +1 Speed)
+------ | ---------------- | ----------------------------------------
+   0   |       107        |  <details><summary>0 SPC</summary><br><img src="https://i.imgur.com/WwVrfuc.png" width="250"></details> 
+  1-3  |       105        |  <details><summary>1-3 SPC</summary><br><img src="https://i.imgur.com/arC0Kuk.png" width="250"></details> 
+  4-6  |       101        |  <details><summary>4-6 SPC</summary><br><img src="https://i.imgur.com/8XjJLpp.png" width="250"></details> 
+  7-8  |        99        |  <details><summary>7-8 SPC</summary><br><img src="https://i.imgur.com/TRXiqr7.png" width="250"></details> 
+  9-12 |        95        |  <details><summary>9-12 SPC</summary><br><img src="https://i.imgur.com/sCrrhh6.png" width="250"></details> 
+ 13-15 |        93        |  <details><summary>13-15 SPC</summary><br><img src="https://i.imgur.com/gp5MWiD.png" width="250"></details> 
+
 Silph Rival:
 - Pidgeot: X Acc + X Speed (+ X Special) + HD
-- Gyarados: (X Special) HD
+- Gyarados: (X Special) HD (or TB if it KOs and HD the rest)
 - Growlithe: RS
 - Alakazam: HD
 - Venusaur: HD
