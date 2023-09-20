@@ -1,7 +1,6 @@
 # Pokemon Red Glitchless Classic Intermediate Guide 
 - This route is a natural next step for runners who have completed a run or two with the beginner route 
 - This route also aims to be the introductory route for runners of red glitchless and runners interested in learning optimal strats right away.
-- For movement and menus watch any recent leaderboard time.
 
 > Note: This route plays safely by default with 3-4 Speed DV by getting the extra 
 
