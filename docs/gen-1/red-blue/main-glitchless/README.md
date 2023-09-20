@@ -16,6 +16,10 @@
 # Red Any% Glitchless (Classic) Routes
 
 * [Classic Beginner Route](classic-beginner-route/)
+* [Classic Intermediate Route](classic-intermediate-route/)
 * [Classic Advanced Route](classic-advanced-route/)
   - Red Classic is the manipless category of gen 1.
   - Classic bans RNG manips, instant text, and the poke doll skip.
+  - The beginner route is best if you are brand new to Red Speedruns.
+  - The intermediate route is best to use as your introductory route if you are now familiar with red speedruns either because you completed a few runs with the beginner classic route or if you have already ran glitchless. Either way you will need to check stats of your nido and utilize the red helper program to flex a few different strategies to play safely and optimally.
+  - The advanced route is mainly focused toward goal times of 1:56/1:57 or better, where you are likely to have to consistently go for more risky red bar strategies.
