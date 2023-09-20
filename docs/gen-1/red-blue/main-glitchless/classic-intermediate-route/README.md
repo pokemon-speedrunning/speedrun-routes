@@ -1,4 +1,11 @@
-# Pokemon Red Glitchless Classic Guide
+# Pokemon Red Glitchless Classic Intermediate Guide 
+- This route is a natural next step for runners who have completed a run or two with the beginner route 
+- This route also aims to be the introductory route for runners of red glitchless and runners interested in learning optimal strats right away.
+
+> Note: This route plays safely by default with 3-4 Speed DV by getting the extra
+>
+> Note for runners moving here from the beginner route:
+> This route has the option to skip TM12 Water Gun with good atk (but you can choose to always get it) and the standard strategy is to skip fighting the gentleman guarding the rare candy on the boat, and we also skip buying revives in favor of buying Super Potions - super potions help us fine tune HP in E4 to consistently get safe red bar for after Lance's Gyarados
 
 - [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources)
 	- TOOLS: Download "Red Classic Helper"
@@ -6,26 +13,35 @@
 
 <details><summary>Carbos Strategies for this route <i>(click to unfold)</i></summary>
 
-Speed DV | Strategy used              | Alternate strategies |   |  
--------- | -------------------------- | -------------------- | - | -
-0        | 2 Carbos + X Speed Sabrina | 2 Candies + 3 Carbos
-1        | 1 Carbos + X Speed Sabrina | 2 Candies + 3 Carbos
-2        | X Speed Sabrina            | 2 Candies + 2 Carbos
-3        | X Speed Sabrina            | 1 Candy + 3 Carbos   | 2 Candies + 2 Carbos
-4        | X Speed Sabrina            | 1 Candy + 2 Carbos   | 2 Candies + 1 Carbos
-5        | 3 Carbos                   | X Speed Sabrina      | 1 Candy + 2 Carbos | 2 Candies
-6        | 2 Carbos                   | 1 Candy + 1 Carbos   | 2 Candies
-7        | 2 Carbos                   | 1 Candy
-8        | 1 Carbos                   | 1 Candy
+Speed DV | Strategy used                         | Alternate strategies         |   |  
+-------- | ------------------------------------- | ---------------------------- | - | -
+0        | 2 Carbos + X Speed Sabrina's Mr. Mime | 2 Candies + 3 Carbos
+1        | 1 Carbos + X Speed Sabrina's Mr. Mime | 2 Candies + 3 Carbos
+2        | X Speed Sabrina's Mr. Mime            | 2 Candies + 2 Carbos
+3        | (1 Candy + 3 Carbos)                  | X Speed Sabrina's Mr. Mime   | 2 Candies + 2 Carbos
+4        | (1 Candy + 2 Carbos)                  | X Speed Sabrina's Mr. Mime   | 2 Candies + 1 Carbos
+5        | 3 Carbos                              | X Speed Sabrina's Mr. Mime   | 1 Candy + 2 Carbos | 2 Candies
+6        | 2 Carbos                              | 1 Candy + 1 Carbos           | 2 Candies
+7        | 2 Carbos                              | 1 Candy
+8        | 1 Carbos                              | 1 Candy
 9-10     | -
-11       | -   (or 2 Carbos)          | 1 Candy + 1 Carbos
-12       | -   (or 2 Carbos)          | 1 Candy
-13       | 1 Carbos                   | -                    | 1 Candy
+11       | (2 Carbos)                            | -                            | 1 Candy + 1 Carbos
+12       | (2 Carbos)                            | -                            | 1 Candy
+13       | 1 Carbos                              | -                            | 1 Candy
 14-15    | -
 
 </details>
 
-This guide uses fairly aggressive Carbos strategies. If not going for a top leaderboard time it is suggested to use one of the safer strats involving extra candies instead of X Speed Sabrina strats. See [this pastebin explanation](https://pastebin.com/sEWrd0v8) and the [complete speed chart](https://imgur.com/MpKBIb1) for more information.
+- This guide will always offer Carbos + extra candy strategies to avoid being outsped by Sabrina's Zam (which forces us to set up a very risky X-Speed on Mr. Mime who is 1/3 to use confuision 1/3 to use barrier).
+  - Carbos strategies that are optional have the Speed DVs in ( ) the DVs that have optional carbos pickups are (3-4) and (11-12).
+  - 3 SPD plays safe with 3 Carbos + extra candy in mansion
+  - 4 SPD plays safe with 2 Carbos + extra candy in mansion
+  - 11-12 SPD plays safe with 2 Carbos to outspeed Agath's 1st Gengar this timeloss gives us a less risky Agatha fight (we still heal, but only risk her 2nd Gengar that knows fewer scary moves)
+
+- This guide avoids higher risk red bar strategies by default, but they are available for runs that fall too far behind. Note that Flute-to-End times under 44 minutes are achievable in classic with solid execution and sub 11:00 Fly split is achievable without fly red bar.
+
+- If not going for a top leaderboard time it is suggested to use one of the safer strats involving extra candies instead of X Speed Sabrina strats.
+- See [this pastebin explanation](https://pastebin.com/sEWrd0v8) and the [complete speed chart](https://imgur.com/MpKBIb1) for more information.
 
 ### Glossary
 
@@ -67,8 +83,6 @@ Viridian Mart
 
 ## BROCK SPLIT
 
-> Skip one of the Potions on bad pace
-
 - Get the hidden Tree Potion.
 - Get the Antidote.
 - Get the hidden Potion.
@@ -81,7 +95,7 @@ Swap Squirtle and Nido at some point.
 | HP   | Healing Strategy          |
 | ---- | ------------------------- |
 | 1-7  | Potion                    |
-| 8-10 | Potion if you have a menu |
+| 8-10 | Potion if PSN             |
 | 11+  | Don't Heal                |
 
 Brock:
@@ -106,10 +120,18 @@ Menu:
 - Potion to full HP
 - Toss Antidote if you haven't already
 
+> Ignoring 1/39 rolls below, note that Rat QA crit is about the same as QA @-1 and we should heal to live Rat QA
+
+| DEF DV   | Rat QA    |
+| -------- | --------- |
+|   0-2    |  11 [17]  |
+|   3-12   |  10 [16]  |
+|  13-15   |   8 [14]  |
+
 Shorts Guy: 
-- Rat:
+- Rat: 
 	- Leer + HA x2
-- Ekans:
+- Ekans: 
 	- Leer
 	- Swap HA to slot 1 + HA x2
 
@@ -135,6 +157,8 @@ Use the Pokemon Center to heal before entering Mt. Moon.
 ## MT. MOON SPLIT
 
 Enter Mt. Moon.
+
+> Note: Follow the alternate strategy of getting TM12 Water Gun and fighting the hiker is easier if you are using this as an introductory route.
 
 <img src="https://i.imgur.com/qR93hZO.png">
 
@@ -247,19 +271,21 @@ Lass:
 - Pidgey: Thrash
 - Oddish: Thrash
 
-Enter Bill's House.
+Enter Bill's House and NOTE: 
 - Get S.S. Ticket from Bill
-- | SPD DV | Healing Strategy              |
-  | ------ | ----------------------------- |
-  | 0-10   | Potion to near full or Center |
-  | 11-12  | Potion to ~70+ HP or Center   |
-  | 13+    | Potion to ~60+ HP             |
+- | SPD DV | Healing Strategy                  |
+  | ------ | --------------------------------- |
+  | 0-10   | Center                            |
+  | 11-12  | Center or Potion to near full hp  |
+  | 13+    | Potion to ~70+ HP or Center       |
 - Use Escape Rope
 
 Enter Misty's gym.
 
 Jr. Trainer♀:
 - Goldeen: Thrash x2
+
+> Menu and potion again if needed (+ Optional Save)
 
 Misty:
 - Staryu: Thrash x1
@@ -271,7 +297,7 @@ Dig Rocket:
 - Machop: Thrash x1-2
 - Drowzee: Thrash x1
 
-Get TM28 Dig from the Rocket.
+Get TM28 Dig from the Rocket. And optionally pick up the hidden full restore to sell in Vermillion.
 
 > If you fought hiker, faint one encounter if you see it.
 
@@ -298,20 +324,27 @@ Vermilion Mart
 - Sell TM34
 - Sell Nugget
 - Buy 3 Repels
-- Buy 3+ Parlyz Heals
+- Buy 4+ Parlyz Heals
 
-Boat Menu:
+Menu before or after entering the S.S. Anne:
 - Slot 4 - teach TM11 over slot 4 PS or slot 2 Tackle
+- Potion if Pidgeotto can KO you with QA.
 
-Boat Rival:
-- Pidgeotto: HA + HA/BB
-- Raticate: HA + PS or BB x2
-- Kadabra: Thrash x1
+Boat Rival: 
+- Pidgeotto: HA + BB (Swap on bird after sand if it can KO you - use a turn to potion while HM-user is out)
+- Raticate: BB x2 (Potion if needed; swap if sand attacked and KO'd bird)
+- Kadabra: Thrash x1 (or HA Kadabra and Potion turn 1 on Ivy if vine whip KOs)
 - Ivysaur: Thrash x2
 
 Get HM01 from the captain.
 
 Optional safety: Fight the Gentleman in [this room](https://gunnermaniac.com/pokeworld?map=96#21/11) with Thrash and get the Candy.
+
+> The Optional Candy may be used in either cut menu or delayed to EQ Menu.
+> 
+> Using the candy in cut menu is beneficial for low HP and/or low ATK (for Voltorb Thrash range) and/or 0-5 SPC (for 2nd slowpoke TB range).
+> 
+> Very slow safe strat - delaying the candy to EQ Menu is beneficial for below 3 SPD to open up strategies to outspeed Sabrina's Zam without needing to X-Speed Mr. Mime, but this strategy is not standard in this route and changes the position of rare candy in your menus.
 
 Exit the boat and head towards Surge's gym.
 
@@ -347,25 +380,26 @@ Menu:
 - Slot 2 - Get on the bike, cut both trees to head east into Route 9
 
 4-Turn Thrash Girl:
-- Oddish: Thrash or HA + TB
+- Oddish: Thrash or HA + TB 
 - Bellsprout: Thrash
 - Oddish: Thrash
 - Bellsprout: HA (if Thrash ends)
 	- Swap and swap back if you can't hit yourself
 	- HA + TB Oddish is generally better than swapping if you can take Absorb
 
-Bug Catcher (at 16-19 HP: TB x2 and BB x2):
-- Caterpie: TB (or BB if it kills)
+Bug Catcher (at ~16-19 HP: TB x2 and BB x2):
+- Caterpie: TB (or BB if it KOs)
 - Weedle: Thrash
 - Venonat: Thrash x1-2
+
+Ignore the following unless in need of ~45 seconds of timesave 
+- please note that a well executed fly split can be done in 10:45 or better with no red bar
 
 | SPC DV | 1st Slowpoke BB + TB         | Cubone: TB + BB | 1st Slowpoke BB x2 + TB |
 | ------ | ---------------------------- | --------------- | ----------------------- |
 | 13-15  | 24 - 30                      | 31 - 37         |  38 - 51                |
 | 6-12   | 26 - 32                      | 33 - 40         |  41 - 51                |
 | 0-5    | 2nd Slowpoke: BB + TB @27-35 |                 |                         |
-
-> if desperate for red bar utilize the red helper defensive ranges to set up red bar as needed
 
 Repel one step into Rock Tunnel.
 
@@ -388,7 +422,7 @@ Hiker:
 - Geodude: BB
 - Graveler: BB
 
-> Heal if you die to QA and pace allows it
+> Heal if QA KOs you and pace allows it
 
 Jr. Trainer♀:
 - Meowth: Thrash
@@ -397,7 +431,7 @@ Jr. Trainer♀:
 
 Pick up the hidden Max Ether.
 
-Gambler (Potion turn 1 if you're likely to die):
+Gambler (Potion turn 1 if you're likely to be KO'd):
 - Growlithe: BB + Thrash or Thrash
 - Vulpix: Thrash
 
@@ -405,9 +439,13 @@ Underground: pick up the hidden Elixer.
 
 **Celadon Mart**
 
+> Note that we would buy 3 X-Specials for Silph Bar, but this guide does not reccomend silph bar;
+>
+> proper shopping for silph bar would be displayed in the Red Helper by checking off "buy X Specs" in Options.
+
 2F - Clerk on the left hand side
 - Buy 10 Super Repels
-- Buy 3-4 Super Potions
+- Buy 4 Super Potions
 
 6F - Rooftop Vending Machine
 - Buy 1 Soda Pop
@@ -416,8 +454,8 @@ Underground: pick up the hidden Elixer.
 
 5F - Clerk on the left hand side
 - Buy 13 X Accuracy
-- Buy 1-3 X Special
-- Buy 5-6 X Speed
+- Buy 1 X Special  
+- Buy 6+ X Speed
 
 Take the elevator to the first floor.
 
@@ -427,6 +465,7 @@ Fly Menu:
 - Up 4 to place cursor on TM13
 - Fly to Celadon (down 1)
 - Teach TM13 Ice Beam to Nidoking over slot 4
+- (Use slot 3 potion) only if QA from Rat KOs (under ~10 hp)
 - Bike to the Game Corner
 
 ## HIDEOUT SPLIT
@@ -451,7 +490,7 @@ Grunt Menu:
 - Down 4 teach TM07 Horn Drill over slot 1 Thrash
 
 Right Grunt:
-> X Acc on Sandshrew is faster, but judge risk based on defensive ranges
+> X Acc on Sandshrew if you can take a Slash crit, otherwise on Ekans
 - Ekans: (X Acc) IB
 - Sandshrew: (X Acc) IB
 - Arbok: HD
@@ -461,7 +500,7 @@ Left Grunt:
 - Ekans: IB
 - Sandslash: IB
 
-Heal before Giovanni if needed.
+Heal to ~11+ HP for Giovanni if needed.
 
 Giovanni:
 > X Acc Rhyhorn if ~21+ HP
@@ -537,18 +576,9 @@ Silph Rocket #1:
 
 Get the Card Key.
 
-  SPC  |    Gyarados (+1 Spec and +1 Speed)
------- |  ----------------------------------------
-   0   |   <details><summary>0 SPC</summary><br><img src="https://i.imgur.com/WwVrfuc.png" width="250"></details> 
-  1-3  |   <details><summary>1-3 SPC</summary><br><img src="https://i.imgur.com/arC0Kuk.png" width="250"></details> 
-  4-6  |   <details><summary>4-6 SPC</summary><br><img src="https://i.imgur.com/8XjJLpp.png" width="250"></details> 
-  7-8  |   <details><summary>7-8 SPC</summary><br><img src="https://i.imgur.com/TRXiqr7.png" width="250"></details> 
-  9-12 |   <details><summary>9-12 SPC</summary><br><img src="https://i.imgur.com/sCrrhh6.png" width="250"></details> 
- 13-15 |   <details><summary>13-15 SPC</summary><br><img src="https://i.imgur.com/gp5MWiD.png" width="250"></details> 
-
 Silph Rival:
-- Pidgeot: X Acc + X Speed (+ X Special) + HD
-- Gyarados: (X Special) HD (or TB if it KOs and HD the rest)
+- Pidgeot: X Acc + X Speed + HD
+- Gyarados: HD
 - Growlithe: RS
 - Alakazam: HD
 - Venusaur: HD
@@ -566,12 +596,12 @@ Silph Rocket #2:
 Giovanni:
 - Nidorino: X Acc + HD
 - Kangaskhan: HD
-- Rhyhorn: IB (TB stall at 25-3X to get red bar)
+- Rhyhorn: IB 
 - Nidoqueen: HD
 
 Take the elevator to 10F.
 
-> 5 SPD DV: get the Silph Carbos and use it on Nido on the bike menu (cursor will be on your digger)
+> 3, 5 SPD DV: get the Silph Carbos and use it on Nido on the bike menu (cursor will be on your Dig-User)
 
 Get TM26 and Rare Candy and Dig out.
 
@@ -584,14 +614,10 @@ Menu:
 
 Get Rare Candy and PPUP.
 
-> Optional strat if you know and are okay with the pros and cons:  
-> If 0, 5-7, (11-12) SPD DV, then candy x4, srepel, swap HM01 w/ TM26, PPUP, TM26 and delay safari carbos to mansion   
-> Also may choose to use 0 to 4 candies in this menu for a variety of reasons discussed [here around line 40](https://pastebin.com/sEWrd0v8)
-
 EQ Menu
 
 - Use slot 3 Super Repel
-- Down 1 use Rare Candy x2 (candy x3 in red bar if you still keep red bar)
+- Down 1 use Rare Candy x2 (2 are still left)
 - Down 1 swap HM01 down 14 with TM26
 - Down 1 to use PP UP on slot 1 Horn Drill
 - Teach slot 5 TM26 Earthquake over slot 2 Rock Slide
@@ -599,8 +625,8 @@ EQ Menu
 Get on the bike and cut both trees to enter the Safari Zone.
 
 SAFARI ZONE
-- Get the Carbos if 0, 5-7 SPD DV (and 11-12 to outspeed Gengar)
-- Super Repel at the start of zone 3 (and use the carbos ON NIDO if you have it)
+- Get the Carbos if 0, (3-4), 5-7, or (11-12) SPD DV 
+- Super Repel at the start of zone 3 (and use the carbos ON NIDO if you have it, cursor is on Cut-User)
 - Get the Gold Teeth
 - Get HM03 and exit the house
 - Use Dig
@@ -614,6 +640,8 @@ Juggler #1:
 - Kadabra: EQ
 - Drowzee: EQ
 
+> If low on hp, optional Potion to live confusion from Hypno.
+
 Juggler #2:
 - Drowzee: EQ
 - Hypno: EQ (+ TB)
@@ -622,7 +650,7 @@ Koga:
 - Koffing: EQ
 - Muk: EQ
 - Koffing: EQ
-- Weezing: use slot 5/6 Elixer, then stall with Poke Flute or X Speed until Self Destruct
+- Weezing: use slot 6 Elixer, then stall with Poke Flute or X Speed until Self Destruct
 
 > Ideally Nidoking has 0-5 HP, which guarantees red bar now to Bruno  
 > If HP is high enough consider early Erika to stall for a hit
@@ -635,7 +663,7 @@ Koga:
 ## MANSION
 
 Exit Koga's gym.
-- If you need the Mansion Carbos AND have one or more Rare Candies, then use all slot 4 Rare Candies now
+- If you have 0-1, (3-4), 5-8, (11-12), 13 SPD DV then **use all slot 4 Rare Candies now** to make room for the Mansion Carbos.
 
 Bike to the Warden's house to get HM04.
 - Exit house
@@ -646,7 +674,7 @@ Surf Menu:
 - Teach HM03 Surf to Squirtle (over slot 2 Tail Whip if Squirtle already knows Dig)
 - Surf to Mansion
 
-> Get the Carbos if 0-1, 5-8, 13 SPD DV (and 11-12 to outspeed Gengar)
+> Get the Carbos if 0-1, (3-4), 5-8, (11-12), 13 SPD DV
 
 <table>
 <tr><td>
@@ -667,8 +695,9 @@ If getting the Carbos, pick it up then:
 </td></tr>
 </table>
 
-Get the visible Rare Candy.
-- Use all remaining Rare Candies on Nidoking
+- Get the visible Rare Candy.
+- Only if 3-4 SPD DV get the hidden rare candy (unless you skipped the carbos and plan to X-Speed Mime).
+- Carefully use all remaining Rare Candies **on Nidoking**
 - Pick up the Secret Key and Dig out
 
 ## BLAINE
@@ -678,7 +707,7 @@ Fly to Cinnabar Island (down 2).
 - Blaine’s gym puzzle: A B B B A B
 
 Blaine:
-- Growlithe: X Acc + EQ (HD if turn 1 super pot)
+- Growlithe: X Acc + EQ (HD if turn 1 super pot and remember to EQ Viridian Rival's Zam)
 - Ponyta: HD
 - Rapidash: HD
 - Arcanine: HD
@@ -747,7 +776,7 @@ Viridian Rival:
 - Rhyhorn: IB
 - Gyarados: TB
 - Growlithe: HD (EQ if early Elixer)
-- Alakazam: HD (EQ if early Elixer or only 1 HD left)
+- Alakazam: HD (**EQ** if early Elixer or only 1 HD left from turn 1 super pot on Blaine)
 - Venusaur: HD
 
 Last Boulder Menu:
@@ -821,7 +850,7 @@ Lance:
 
 ## CHAMPION SPLIT
 
-Heal to 26+ before Champ or to 50+ to play safely (see Red Helper for more specific damage ranges).
+Heal to ~26+ before Champ or to ~50+ to play safely (see Red Helper for more specific damage ranges).
 
 Champion:
 - Pidgeot: X Acc + X Speed + HD
