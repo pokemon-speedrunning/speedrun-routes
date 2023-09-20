@@ -2,7 +2,10 @@
 - This route is a natural next step for runners who have completed a run or two with the beginner route 
 - This route also aims to be the introductory route for runners of red glitchless and runners interested in learning optimal strats right away.
 
-> Note: This route plays safely by default with 3-4 Speed DV by getting the extra 
+> Note: This route plays safely by default with 3-4 Speed DV by getting the extra
+>
+> Note for runners moving here from the beginner route:
+> This route has the option to skip TM12 Water Gun with good atk (but you can choose to always get it) and the standard strategy is to skip fighting the gentleman guarding the rare candy on the boat, and we also skip buying revives in favor of buying Super Potions - super potions help us fine tune HP in E4 to consistently get safe red bar for after Lance's Gyarados
 
 - [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources)
 	- TOOLS: Download "Red Classic Helper"
