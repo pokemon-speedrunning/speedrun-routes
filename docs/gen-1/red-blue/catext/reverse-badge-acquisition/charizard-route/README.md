@@ -1,9 +1,7 @@
 # Pokemon Blue Reverse Badge Acquisition aka Reverse Badge Order
 **CLEAR SAVE DATA FOR EACH ATTEMPT OR YOUR RUN IS INVALID**
 
-If something isn't clear,you should watch:
-  - **[1024 Charmander]** [stocchi's run (with input display)](https://youtu.be/jm6ZpCosUrY)
-  - **[PP/Pidgey Strat]** [Araya's run](https://youtu.be/X9TnclhdQRg)
+If something isn't clear, you should watch [Araya's run](https://youtu.be/X9TncIhdQRg)
 
 ## Intro
 
@@ -17,27 +15,17 @@ If something isn't clear,you should watch:
 The first glitch we will perform is called Brock Through Walls.
 [A detailed guide on what strategy could be best for you and how to execute it can be found here](../resources/Brock-Through-Walls-Guide.md)
 
-- **[1024 Charmander]** [Route 1 to weedle manip](https://www.youtube.com/watch?v=ZbAv0m19v9g)
-- **[PP/Pidgey Strat]** Viridian shop: buy
+- Viridian shop: buy
   - 7 Pokeballs
+- [Pidgey manip](https://youtu.be/Ua0ZyWffYpU)
 - Pick up forest antidote
 - Optional: Pick up forest potion
 - Fight Weedle Guy
-- **[1024 Charmander]** If poisoned after Weedle fight, let the poison tickle into red bar and after using the antidote place the cursor on SAVE already
-- **[PP/Pidgey Strat]** shop: buy
+- Pewter shop: buy
   - 1 potion
   - 1 burn heal
   - 1 escape rope
   - 1 awakening
-  - 1 paralyze
-- **[1024 Charmander]** shopping: buy
-  - 7 balls
-  - 1 rope
-  - 1 antidote
-    - skip if you didn't use it
-  - 1 potion
-  - 1 awakening
-  - 1 burn heal
   - 1 paralyz heal
 - Brock through walls as explained in the guide linked above
 
@@ -45,10 +33,7 @@ The first glitch we will perform is called Brock Through Walls.
 
 - Your goal is to reach Mewtwo Cave, the fastest path is shown [here](https://youtu.be/7jT0nZStQNU)
   - Take this path carefully: you are walking out of bounds, one false step can crash the game
-- **[1024 Charmander]** ditto manip:
-  - [redbar](https://www.youtube.com/watch?v=zofvpQK4dFQ)
-  - [non redbar](https://www.youtube.com/watch?v=aIE01IgqhFw&list=PLFAPrbMDJZ2LS1c8W46jPxlMB5QQpyKMv&index=4)
-- **[PP/Pidgey Strat]** [ditto manip](https://youtu.be/aIE01IgqhFw)
+- [Ditto manip](https://youtu.be/aIE01IgqhFw)
 - Swap ditto to front, use escape rope
 - Get CoolTrainer glitch:
   - encounter any Rattata or a lv5 Pidgey
