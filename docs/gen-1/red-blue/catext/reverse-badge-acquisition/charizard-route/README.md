@@ -8,14 +8,14 @@ If something isn't clear,you should watch:
 ## Intro
 
 - [Manip TID b307 (45831)](https://youtu.be/iH0kW5fd6XA)
-- Name player AKKAA
+- Name player uuAAA
 - Name rival RRRGpg-
 - Set options to Fast/Off/Set
 
 ## Brock Through Walls
 
 The first glitch we will perform is called Brock Through Walls.
-[A detailed guide on what strategy could be best for you and how to execute it can be found here](resources/Brock-Through-Walls-Guide.md)
+[A detailed guide on what strategy could be best for you and how to execute it can be found here](../resources/Brock-Through-Walls-Guide.md)
 
 - **[1024 Charmander]** [Route 1 to weedle manip](https://www.youtube.com/watch?v=ZbAv0m19v9g)
 - **[PP/Pidgey Strat]** Viridian shop: buy
@@ -73,7 +73,7 @@ The first glitch we will perform is called Brock Through Walls.
   3. Swap slot 1 with slot2 twice
 - Swap slot 2 with ID balls (scroll down until you see jx[3], jx[0, **Masterball**])
 - Toss 1 from options 2 above
-- Catch Kingler:
+- Catch Charizard:
   1. Open the Pokedex [here](https://www.gunnermaniac.com/pokeworld?map=1#65/221)
   2. Look for an encounter
   3. Enter the fight menu, scroll down until the move's type changes
@@ -81,7 +81,7 @@ The first glitch we will perform is called Brock Through Walls.
   5. Enter the fight menu, scroll down until the move's type changes
   6. Throw a masterball
 - Walk to bottom row of grass, 2nd tile from left
-- Swap Kingler to front
+- Swap Charizard to front
 - Toss top item
 - Toss 2nd item 6 times (do not throw masterballs)
 - Swap 3rd para heal with top CANCEL
@@ -93,22 +93,21 @@ The first glitch we will perform is called Brock Through Walls.
 - Swap j with hp up
 - Toss 8 j
 - Step up, face down and fight Giovanni
-- Crabhammer, Stomp x3, Crabhammer
+- Swap Flamethrower to slot 1, Flamethrower x5
 
 ## Blaine
 
 - Swap slot2 with Elixir/Max Elixir in money,
 - Swap GARY with brightness balls (under ????? item), then j 255
 - Swap TM37 with TM27
-- Swap Ultra Ball x0 below with jx2
 - Close menu, talk to Giovanni (after the defeat he decided to give up his criminal career and become a PC)
-- Deposit all but Kingler
+- Deposit all but Charizard
 - Open menu, swap para heal stack above CANCEL with HM05
 - Walk down then up
 - Toss all but 3 from TM01
 - Swap TM47 below with brightness balls
 - Fight Blaine
-- Stomp x4
+- Flamethrower x3, Slash
 
 ## Sabrina
 
@@ -120,13 +119,13 @@ The first glitch we will perform is called Brock Through Walls.
 - Swap TM32 for []G[], toss all but 4
 - Swap moon stone below for j, toss all but 7
 - Walk up 2, down 1, face up to fight sabrina
-- Stomp x4
+- Flamethrower x4
 
 ## Koga
 
 - Hold down to exit Sabrina's gym, then walk to Koga's gym
 - Use Elixir/Max Elixir, CANCEL to koga, fight from the bottom
-- Stomp x4
+- Flamethrower x4
 
 ## Erika
 
@@ -137,7 +136,7 @@ The first glitch we will perform is called Brock Through Walls.
 - Swap antidote with poke ball
 - Toss all but 4 Antidote
 - Close menu, fight Erika
-- Stomp x3
+- Flamethrower x3
 
 ## Surge
 
@@ -151,14 +150,14 @@ The first glitch we will perform is called Brock Through Walls.
 - Toss pokeball to 3
 - Toss 2 j.
 - Walk down, face right for surge
-- Stomp x3
+- Flamethrower x3
 
 ## Misty
 
 - Walk down, right 1 tile, then down until you leave the gym
 - Enter gym and do this movement <https://imgur.com/a/rSwhLV1>
 - CANCEL on the green tile, move left 3 tile, up 1 and talk to Misty without exiting cancel
-- Stomp x2
+- Flamethrower x2 (Rage Starmie with 2 or less Flamethrower PP)
 
 ## Brock + Hall of Fame warp
 
@@ -172,6 +171,6 @@ The first glitch we will perform is called Brock Through Walls.
 - Swap Potion x7 with HM05, toss 6 potions
 - Scroll up 1, toss all but 1
 - Walk 2 left, talk to Brock
-- Stomp x2
+- Flamethrower x2
 - Walk straight down to exit the Gym to the Hall of Fame.
 - Timing stops on the fade to white after you receive your in game time.
