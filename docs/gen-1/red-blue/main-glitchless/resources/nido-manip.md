@@ -3,7 +3,7 @@
 
 [NPC Troll Backup Video](https://youtu.be/Fsc7gnTa7qQ)
 
-[Map with path and A presses](https://gunnermaniac.com/pokeworld?map=1#47/180/LLLULLUAULALDLDLLDADDADDLALLALUUAU)
+[Map with path and A presses](https://gunnermaniac.com/pokeworld?map=1#47/180/LLLAUUULLDLALLALLDDDDADDLALLALUAUU)
 
 ## IGT60 (including yoloball frames): 57/60
 
