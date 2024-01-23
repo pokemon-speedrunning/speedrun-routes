@@ -1,12 +1,15 @@
 # Pokemon Red L4 Nidoran Male RNG Manipulation
-[Execution Video](https://www.youtube.com/watch?v=6iOx592-xhU)  
-[NPC Troll Backup Video](https://www.youtube.com/watch?v=DltqMiueHEA)
+[Execution Video](https://youtu.be/4zpl3gu1zy0)
+
+[NPC Troll Backup Video](https://youtu.be/Fsc7gnTa7qQ)
 
 [Map with path and A presses](https://gunnermaniac.com/pokeworld?map=1#47/180/LLLULLUAULALDLDLLDADDADDLALLALUUAU)
 
 ## IGT60 (including yoloball frames): 57/60
 
 ```
+Path:     L L L A U U U L L D L A L L A L L D D D D A D D L A L L A L U A U U
+
 [ 0] Encounter at [33#33,11]: NidoranM lv4 DVs FFEF rng 13442-255 encrng 697-3-158-161, defaultYbf: [*]
 [ 1] Encounter at [33#33,11]: NidoranM lv4 DVs FFEF rng 13442-255 encrng 697-3-158-161, defaultYbf: [*]
 [ 2] Encounter at [33#33,11]: NidoranM lv4 DVs FFEF rng 13442-255 encrng 697-3-158-161, defaultYbf: [*]
@@ -77,14 +80,12 @@
     S59 F59: Encounter at [33#33,11]: NidoranM lv4 DVs 00F0 (17 HP) -- rng 13442-0 encrng 697-4-158-162, defaultYbf: [*]
 ```
 
-## Alternate Paths (all are 57/60; "pal" indicates palette selection in BIOS)
+## Alternate Paths (all are 57/60)
 ```
-          L L L U L L L L A U D A U L L L A D L A D D D A D L A L L U A U U
-          L L L U L L L A U L A D U L L L A D L L D A D D A D L A L U A U U
-          L L L U L L L A U L A D U L L L A D L A D D D A D L A L L U U A U
-          L L L U L U L L L A R L A L L L A D L D A L D A D L A D L U U A U
-   [pal]  L D U A L L U L L L L A U L L L L L A D D A D D L A D L A U U A U   (note: can't use Start+A on Continue screen)
-   [pal]  L D U A L L U L L L L A U L L L L D A D D A D L L A D L A U U A U   (note: can't use Start+A on Continue screen)
+          https://gunnermaniac.com/pokeworld?map=1#47/180/LLLULLUAULALDLDLLDADDADDLALLALUUAU
+          https://gunnermaniac.com/pokeworld?map=1#47/180/LLLAUUULLDLLALLALDDDDADDLALLALUAUU
+          https://gunnermaniac.com/pokeworld?map=1#47/180/LLLAUUAULLDLLLLLADDDDADDLALLALUAUU
+          https://gunnermaniac.com/pokeworld?map=1#47/180/LLLAUUAULLDLLLLLDDADDADDLALLALUUAU
 ```
 
 **IMPORTANT NOTE: Minor alterations to the manip, such as the timing of A presses or removing "turns" in the path(s), can result in getting false god Nidos (00F0, FEEE, etc).**
