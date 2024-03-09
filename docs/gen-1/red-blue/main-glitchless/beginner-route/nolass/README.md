@@ -2,13 +2,20 @@
 
 **FAQ: [Please read the FAQ before learning :)](../../resources/faq.md)**
 
+### Resources
+- [How To Speedrun Pokemon on Emulator](https://youtu.be/nf51DyXg-OY)
+- Watch the [RBY Manip Guide](https://youtu.be/QirPrbub21g?si=ec8acTpec_vi7moy)
+- [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources)
+	- SAVES: Download "Any% Glitchless (Beginner Route)"
+ 	- RBY Savestate Patcher can be used to make your own practice ROM
+
 ### Manip quick reference
 - Nidoran Manip:
 	- [Optimal](../../resources/nido-manip.md) (HIGHLY RECOMMENDED)
-	- [1 A Press](https://youtu.be/2bwQZ6jPxRE)
+	- [Easy - 1 A Press](https://youtu.be/2bwQZ6jPxRE)
 - Mount Moon Manip:
-	- [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy) (recommended for first runs)
-		- [Older version](https://pastebin.com/7kcZu3g4) (easier path, but select yoloball)
+	- [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy) (recommended)
+		- [Easy - Older version](https://pastebin.com/7kcZu3g4) (easier path, but select yoloball)
 	- [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
 	- [Route 3 Moon Manip](https://pastebin.com/tggXpQRC)
 	- [Entr's Moon Manip](https://pastebin.com/jnj9j47S)
@@ -21,6 +28,7 @@
 - [Defensive Damage Ranges](../../resources/defensive-ranges.md)
 - [Offensive Damage Ranges](../../resources/offensive-ranges.md)
 - [Safety-oriented HP Strats](../../resources/hp-strats-for-races.md)
+
 
 ### Glossary
 - Moves: HA = Horn Attack, MP = Mega Punch, BB = Bubblebeam, WG = Water Gun, TB = Thunderbolt, Blizz = Blizzard, PS = Poison Sting, HD = Horn Drill, RS = Rock Slide
@@ -49,7 +57,7 @@ Shopping:
 
 Nidoran Manip:
 - [Optimal (HIGHLY RECOMMENDED)](../../resources/nido-manip.md)
-- [1 A Press](https://youtu.be/qPzSWHyMuW8)
+- [Easy - 1 A Press](https://youtu.be/qPzSWHyMuW8)
 
 Get the [hidden Tree Potion](https://gunnermaniac.com/pokeworld?map=1#54/166)
 
@@ -98,6 +106,8 @@ Menu:
 - Potion to 28+
 - Toss Antidote if you still have it
 
+<img src="https://i.imgur.com/recEFU5.png" height=125>
+
 **Shorts Guy:**
 - Rat: [1-15 Potion]
 	- Leer + HA x2
@@ -129,7 +139,7 @@ Catch a flyer:
 
 ## Mount Moon
 
-- Do not learn a full Moon Manip for your first runs, start by learning [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy) (or the [older version](https://pastebin.com/7kcZu3g4)) and walk through the first floor normally ([movement map](https://i.imgur.com/xzgmNBk.jpeg)). You will choose later if you want to learn [Route 3 Moon](https://pastebin.com/tggXpQRC) (optimal for this route) or [Entr Moon](https://pastebin.com/jnj9j47S) (slightly less optimal, but still perfectly fine). There is also a [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md) you can learn.
+- Do not learn a full Moon Manip for your first runs, start by learning [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy) (or the easier [older version](https://pastebin.com/7kcZu3g4)) and walk through the first floor normally ([movement map](https://i.imgur.com/xzgmNBk.jpeg)). You will choose later if you want to learn [Route 3 Moon](https://pastebin.com/tggXpQRC) (optimal for this route) or [Entr Moon](https://pastebin.com/jnj9j47S) (slightly less optimal, but still perfectly fine). There is also a very easy [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md) you can learn to manip a Paras just before exiting Mt. Moon.
 - Get [TM12 (Water Gun)](https://gunnermaniac.com/pokeworld?map=59#5/32), [Rare Candy](https://gunnermaniac.com/pokeworld?map=59#35/31), [Escape Rope](https://gunnermaniac.com/pokeworld?map=59#36/23), [TM01 (Mega Punch)](https://gunnermaniac.com/pokeworld?map=61#29/5) and [Moon Stone](https://gunnermaniac.com/pokeworld?map=59#2/2)
 - Avoid catching wild Paras as the catch is not guaranteed even at low HP, catch the manipped one instead
 
@@ -217,6 +227,8 @@ If you still need Paras: [Post Nerd Backup Paras](../../resources/postnerd-backu
 
 ## Route 25
 
+<img src="https://i.imgur.com/DwLHG3g.png" height=125>
+
 **Bottom Hiker:**
 - WG
 
@@ -294,6 +306,8 @@ Depending of your HP, you may fight the Gentleman in [this room](https://gunnerm
 | 2-8   | Do Gentleman                            |
 | 9-24  | Do Gentleman if you want to play safely |
 
+> Important note for shopping right now in Vermillion and later in Celadon: **always buy items in the order that they are listed in this guide**. Doing so is both the fastest way to buy the items and sets up our inventory in the correct order.
+
 Shopping:
 - Buy:
 	- 6 Repels
@@ -320,7 +334,7 @@ Surge Cans Manip:
 - Raichu:
 	- If you are confused and dead to a self hit, swap to your bird or Squirtle
 
-Get the Bike Voucher and use Dig on Paras
+Go to the [fan club](https://gunnermaniac.com/pokeworld?map=1#229/194), get the Bike Voucher, and immediately menu to use Dig.
 
 ## Cerulean City
 
@@ -328,7 +342,7 @@ Get the Bike Voucher and use Dig on Paras
 - Menu:
 	- Swap (using select) slot 1 with the Bike
 	- Teach TM24 (Thunderbolt) over HA (slot 3)
-	- Use the Bike
+	- Use the Bike, cut both trees to head east into Route 9
 
 ## Route 9
 
@@ -337,16 +351,18 @@ Get the Bike Voucher and use Dig on Paras
 - Thrash
 	- If you run out of MP just Thrash, you will be 25% to hit yourself on the last poke
 
-**Bug Catcher:**
+[**Bug Catcher:**](https://gunnermaniac.com/pokeworld?map=1#300/52)
 - BB (Thrash if you fought the Gentleman)
 - Thrash
 
 ## Rock Tunnel
 
-[Map of both floors](https://imgur.com/gallery/uoueIjq)
-
 Menu after taking 1 step down:
 - Scroll down and use a Repel
+
+| Tunnel 1F                                   | Tunnel B1F                                  |
+| ------------------------------------------- | ------------------------------------------- |
+| <img src="https://i.imgur.com/LllktGo.png"> | <img src="https://i.imgur.com/cS4hPoI.png"> |
 
 **Pokemaniac 1:**
 - BB
@@ -365,8 +381,8 @@ Menu after taking 1 step down:
 	- If paralyzed, keep using Thrash
 
 After the fight:
-- Use one Repel [here](https://gunnermaniac.com/pokeworld?map=232#25/19)
-- Use another Repel [here](https://gunnermaniac.com/pokeworld?map=232#8/17)
+- Use one Repel around [here](https://gunnermaniac.com/pokeworld?map=232#25/19/S)
+- Use another Repel around [here](https://gunnermaniac.com/pokeworld?map=232#8/17/S)
 	- If you were paralyzed, use a Parlyz Heal now
 	- You can delay these 2 Repels up to ~10 tiles
 
@@ -376,9 +392,15 @@ After the fight:
 **Jr Trainer F:**
 - Thrash
 
-Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
+<img src="https://i.imgur.com/0WpaVOx.png">
+
+Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53) and bike straight down into Lavender to avoid the optional trainer.
 
 ## Route 8
+
+Bike west and fight the Gambler.
+
+<img src="https://i.imgur.com/1EHC3r4.png">
 
 **Gambler:**
 - Growlithe:
@@ -388,8 +410,13 @@ Get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53)
 
 ## Underground
 
-- Get the [hidden Elixer](http://gunnermaniac.com/pokeworld?map=121#21/5)
-- Get the [hidden Nugget](http://gunnermaniac.com/pokeworld?map=121#12/2)
+Be careful not to hit optionals. Take the underground path to Celadon City.
+
+<img src="https://i.imgur.com/3TbEDS8.png">
+
+Pick up the [hidden Elixer](http://gunnermaniac.com/pokeworld?map=121#21/5) and the [hidden Nugget](http://gunnermaniac.com/pokeworld?map=121#12/2) marked below:
+
+<img src="https://i.imgur.com/Jh9E0Cd.jpeg">
 
 ## Celadon City
 
@@ -411,19 +438,19 @@ Shopping:
 	- Buy 9 X Specs (7 if you have 0 Potions at this point)
 	- Buy 1 X Speeds (3 if you have 0 Potions at this point)
 
-Take the elevator and get HM02 (Fly)
+Take the elevator out and bike West to get HM02 (Fly)
 
-Menu after getting Fly:
+Exit the Fly House and Menu:
 - Swap slot 2 with TM07
 - Use a Super Repel
 - Teach TM48 (Rock Slide) over Mega Punch (slot 1)
 - Swap slot 3 with X Accs
 - Teach HM02 to the bird
-- Use Fly to go to Lavender
+- Use Fly to go to Lavender (toggle down 3)
 
 ## Lavender Town
 
-Note: From this point on you have 2 Revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, Revive, let the swapped pokemon die and ANY AND ALL X ITEMS ARE GONE. This route has extras so you shouldn't run out of X items, and there will still be some saving since some deaths with Revives are still really slow to come back from if at all.
+> Note: From this point on you have 2 Revives which means deaths aren't as scary. If you die remember to swap to another pokemon, Revive Nido, let the swapped pokemon get KO'd and know that ANY AND ALL X ITEMS USED ARE NO LONGER ACTIVE. This route has plenty of extras so you shouldn't run out of X items. There will still be some saving since some deaths with Revives are still really slow to come back from if at all.
 
 **Rival:**
 - Pidgeotto:
@@ -468,18 +495,22 @@ Get the Poke Flute and Fly to Celadon City
 
 ## Celadon City
 
-- Use the center
-- Bike to Saffron City
+- MUST Take the center in Celadon. Replenishes PP & sets Celadon as the warp point.
+- Bike East to Saffron City, trading Fresh Water for passage, and enter Silph Co.
 
 ## Saffron City
 
-- Enter Silph Co and take the stairs to floor 5
-- Get the [hidden Elixer](http://gunnermaniac.com/pokeworld?map=210#12/3)
+<img align="right" src="https://i.imgur.com/WAid12E.jpeg" height=200>
 
-**Rocket 1:**
-- Thrash
+- Enter Silph Co and take the stairs to floor 5
+- Walk left and get the [hidden Elixer](http://gunnermaniac.com/pokeworld?map=210#12/3) in the plant, then walk down and talk to the Rocket next to the teleport pad.
+
+**Rocket 1: Silph Arbok**
+- Thrash x2-3
 
 Get the Card Key
+
+<img align="right" src="https://i.imgur.com/MEpyFTQ.png" height=175>
 
 **Rival:**
 - Pidgeot:
@@ -488,7 +519,7 @@ Get the Card Key
 	- X Speed
 - HD x5
 
-Note: In this split we want to take a bit of damage to do a strat on Koga called Boom Strats
+> Note: In this split we want to take a bit of damage to do a strat on Koga called Boom Strats. We intentionally allow Koga's Weezing to KO Nido and we use our rare candies after exiting Koga's gym. The end result is that Nido holds safe red bar through the last 4 gym leaders and first two E4 members for several minutes of timesave.
 
 If 1-77, use an Elixer before the next fight
 
@@ -525,6 +556,8 @@ Menu before Snorlax:
 
 - Note: You can hold B to stop automatically moving down on Cycling Road
 - Get the [hidden Rare Candy](http://gunnermaniac.com/pokeworld?map=1#125/148)
+
+<img src="https://i.imgur.com/klM3YDH.jpeg">
 
 ## Fuschia City
 
