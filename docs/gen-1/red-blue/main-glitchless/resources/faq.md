@@ -3,12 +3,12 @@
 ## What should I do if I want to run this game?
 
 Here are the first things you should do:
-- Play through the game casually so you know the basics of a Pokémon game.
+- Play through the game casually so you know the basics of a Pokémon game. [Strategy Wiki](https://strategywiki.org/wiki/Pok%C3%A9mon_Red_and_Blue#Table_of_Contents) is an excellent casual guide.
 - Join the [Gen 1-3 Pokémon Speedrunning Discord](https://www.speedrun.com/pokemon/thread/r7a65)
 - Watch [this run (as it uses the updated route)](https://www.youtube.com/watch?v=GR9HKr61HJY) to learn more about the speedrun
 - Decide what category you want to run and get a guide here (we recommend the beginner guides with revives):
 	- [Glitchless](../)
-	- [Classic](https://www.speedrun.com/pkmnredblue/guide/zuzgp)
+	- [Classic](../)
 - Start learning the game and have fun!
 
 ## What route should I use?
@@ -48,7 +48,7 @@ You can manipulate RNG in Pokémon Red, which is all done by hard resetting the 
 
 No actually! Only one simple RNG manipulation is needed to run this category, [Nidoran manip](nido-manip.md), and you can ignore all other manips until you know the route more (but Surge cans manip is also very simple).
 
-There is another category with no RNG manipulation: [Any% Glitchless (Classic)](https://www.speedrun.com/pkmnredblue/full_game#Any_Glitchless_Classic).
+There is another category with no RNG manipulation: [Any% Glitchless (Classic)](https://www.speedrun.com/pkmnredblue/guides/zuzgp).
 
 ## Why is my manip failing?
 
