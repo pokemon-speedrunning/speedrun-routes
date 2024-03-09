@@ -631,7 +631,7 @@ Avoid the scientist, skip the item ball, and take the stairs.
 
 ## Celadon City
 
-Bike to the gym
+Bike to [Erika's Gym](https://gunnermaniac.com/pokeworld?map=1#162/136) and follow [this path](https://i.imgur.com/fWP9bAh.png) inside the gym.
 
 **Beauty:**
 - Blizz
@@ -641,7 +641,7 @@ Bike to the gym
 - Blizz
 - EQ
 
-Fly back to Cinnabar
+Exit the gym and fly back to Cinnabar (toggle down 2)
 
 ## Cinnabar Island
 
@@ -651,7 +651,7 @@ Quiz answers: A B B B A B
 - X Acc + EQ
 - HD x3
 
-Dig out and Bike to Sabrina's gym
+Dig out and Bike East to [Sabrina’s gym](https://gunnermaniac.com/pokeworld?map=1#254/112/S) by walking through the guard house.
 
 ## Saffron City
 
@@ -660,9 +660,11 @@ Teleporter puzzle: Top left, Bottom left, Bottom left
 **Sabrina:**
 - EQ x4
 
-Walk back to the teleporter and Dig out and Fly to
+Walk back to the teleporter and Dig out and Fly to Viridian (toggle up 1)
 
 ## Viridian City
+
+Bike to Giovanni's Gym and follow [this path](https://i.imgur.com/vWBah5K.png) inside the gym to save before the Blackbelt.
 
 **Cooltrainer:**
 - EQ
@@ -707,8 +709,8 @@ Menu after leaving the gym:
 - Use the 2nd Super Repel on [this tile](https://gunnermaniac.com/pokeworld?map=194#5/14) before using Strength
 - After dropping before the last boulder on [this tile](https://gunnermaniac.com/pokeworld?map=194#24/16):
 	- Use Strength
-	- Use a Max Ether on HD
-	- Super Repel
+	- Down to use a Max Ether on HD
+	- Up to use last Super Repel
 	- Bike
 - Optional Safety: Pick up the [Full Restore](http://gunnermaniac.com/pokeworld?map=194#26/7)
 
@@ -776,9 +778,9 @@ After Lance:
 - [OPTIONAL SAVE: Saving for Champ can be good if you don't have a spare X Accuracy + X Special + Revive]
 
 **Champion:**
-- Pidgeot: X Spec
-	- If Pidgeot does NOT use Sky Attack turn 1:
-		- Pidgeot: X Acc + HD
+Pidgeot: **Turn 1: USE X SPECIAL**, then adapt:
+	- If Pidgeot does NOT use Sky Attack on turn 1:
+		- Pidgeot: use X Acc on turn 2, HD
 		- Alakazam: HD
 		- Rhydon: HD
 		- Gyarados: **TB**
