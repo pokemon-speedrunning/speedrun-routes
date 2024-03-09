@@ -3,10 +3,11 @@
 ### Good Documents and Resources
 
 - [How To Speedrun Pokemon on Emulator](https://youtu.be/nf51DyXg-OY)
-- [Red Glitchless FAQ](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/faq)
+- [Red Glitchless and Red Classic FAQ](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/faq)
 - [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources)
 	- Optional: Download "Red Classic Helper" and see [here](https://imgur.com/gallery/d9LGAo8) for beginner settings
 	- SAVES: Download "Any% Glitchless (Classic)"
+ 	- RBY Savestate Patcher can be used to make your own practice ROM
 
 ### Glossary
 
@@ -22,7 +23,7 @@
 
 - Clear any existing save file by pressing **Up + B + Select** on the game title screen
 - Hard Reset (set palette with Up + B - optional to give full visibility in Rock Tunnel), **hard resetting is required before each attempt on emulator**
-- Set your options to fast text and animations OFF
+- Set your options to Fast Text and Animations OFF
 
 ## NIDORAN SPLIT
 
@@ -587,7 +588,7 @@ Giovanni:
 
 Pick up Silph Scope, then open the menu:
 - 1-19 Potion (but do not use your last Potion, instead center after you dig out)
-- Dig out, fly to Lavender Town
+- Dig out, fly to Lavender Town (toggle down 3)
 
 ## FLUTE SPLIT
 
@@ -643,11 +644,11 @@ Get the Poke Flute from Mr. Fuji.
 
 ## KOGA SPLIT
 
-Walk out of his house, then Fly to Celadon.
+Walk out of his house, then Fly to Celadon (toggle down 1)
 
 Celadon City
 
-- MUST Take the center in Celadon. Replenishes PP & sets Celadon as the warp point.
+- MUST Take the center now in Celadon. Replenishes PP & sets Celadon as the warp point.
 - Bike East to Saffron City, trading Fresh Water for passage, and enter Silph Co.
 - Take the stairs up to 5F.
 - Walk left and take the hidden Elixer in the plant, then walk down and talk to the Rocket next to the teleport pad.
@@ -735,7 +736,7 @@ Safari Zone
 
 <img src="https://i.imgur.com/A8Qwy4y.png">
 
-Exit the house, dig out of the safari, fly back to Fuschia city, and walk to Koga’s gym.
+Exit the house, dig out of the safari, fly back to Fuschia city (toggle down 2), and walk to Koga’s gym.
 
 <img align="right" src="https://i.imgur.com/inIR2Ri.jpeg">
 
@@ -810,7 +811,7 @@ Take the stairs to the next room.
 
 ## BLAINE
 
-Fly to Cinnabar Island (down 2).
+Fly to Cinnabar Island (toggle down 2).
 
 - Blaine’s gym puzzle: A B B B A B (A=yes; B=no)
 
@@ -824,7 +825,7 @@ Dig out of Blaine’s gym.
 
 ## SABRINA
 
-Bike east to Sabrina’s gym by walking through the guard house.
+Bike East to [Sabrina’s gym](https://gunnermaniac.com/pokeworld?map=1#254/112/S) by walking through the guard house.
 
 Teleporter Puzzle: Diagonal, Diagonal, Down (bottom left)
 
@@ -843,7 +844,7 @@ Take the teleporter pad and then use Dig (causes animation to be faster).
 
 ## ERIKA
 
-Bike to Erika’s gym, avoid optionals inside by hugging the left wall and cut the top left tree.
+Bike to [Erika's Gym](https://gunnermaniac.com/pokeworld?map=1#162/136) and follow [this path](https://i.imgur.com/fWP9bAh.png) inside the gym to avoid optionals by hugging the left wall and cutting the top left tree.
 
 Beauty:
 - Exeggcute: IB
@@ -859,7 +860,7 @@ Exit Erika's gym by cutting the middle tree.
 
 ## GIOVANNI SPLIT
 
-Fly to Viridian City (up 1) and bike to Giovanni's gym.
+Fly to Viridian City (toggle up 1) and bike to Giovanni's gym.
 
 <img align="right" src="https://i.imgur.com/3JcpNQh.jpeg">
 
