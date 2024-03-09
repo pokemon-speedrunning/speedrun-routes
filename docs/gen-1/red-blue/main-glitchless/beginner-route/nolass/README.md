@@ -557,22 +557,27 @@ Menu before Snorlax:
 - Note: You can hold B to stop automatically moving down on Cycling Road
 - Get the [hidden Rare Candy](http://gunnermaniac.com/pokeworld?map=1#125/148)
 
-<img src="https://i.imgur.com/klM3YDH.jpeg">
+<img src="https://i.imgur.com/klM3YDH.jpeg" height=350>
 
 ## Fuschia City
 
-Menu:
+Get back on the bike and cut both trees to enter the Safari Zone
+
+[Safari Movement Map](https://imgur.com/gallery/h9KpU3I)
+
+Menu after entering Safari Zone:
 - Use a Repel
 - Swap slot 6 (Potion) with X Spec (if 0 Potions, then swap Helix Fossil with X Spec instead)
 - Teach TM26 (Earthquake) over Thrash (slot 2)
 - Use Bike
 
-[Safari Movement Map](https://imgur.com/gallery/h9KpU3I)
+In Zone 2:
+- Super Repel on the 2nd map around [this tile](https://gunnermaniac.com/pokeworld?map=217#20/24/S)
+- Pick up the [Teeth](https://gunnermaniac.com/pokeworld?map=219#19/7) and enter the house to get HM03 Surf
+- Exit the house and menu to use Dig out of the safari and Fly back to Fuschia City (toggle down 2)
+- Walk West into Koga's gym.
 
-In the Safari Zone:
-- Super Repel on the 2nd map around [this tile](https://gunnermaniac.com/pokeworld?map=217#13/24)
-- Pick up the [Teeth](https://gunnermaniac.com/pokeworld?map=219#19/7) and get Surf
-- After getting Surf, Dig out of the safari and Fly back to Fuschia City
+<img align="right" src="https://i.imgur.com/NmNe7CB.png" height=175>
 
 **Juggler 1:**
 - EQ x4
@@ -590,7 +595,8 @@ In the Safari Zone:
 
 Menu after Koga:
 - Use all Rare Candies
-- Bike to get Strength
+- Bike East (hopping the ledge) to the Warden's house
+- Get HM04 Strength
 - Fly to Pallet Town
 
 ## Pallet Town
@@ -600,7 +606,19 @@ Menu at the bottom of the water:
 - Teach HM03 (Surf) to Squirtle
 - Surf
 
+> Go straight down, just side step one tile left to not bonk fisherman
+
 ## Cinnabar Island
+
+Inside Mansion:
+- Take the stairs up
+- Walk up around/above to the next stairs.
+
+<img align="right" src="https://i.imgur.com/VQu8itp.png" height=350>
+
+Hit the switch and fall through the hole:
+
+Avoid the scientist, skip the item ball, and take the stairs.
 
 - Pick up TM14 (Blizzard)
 - Menu:
