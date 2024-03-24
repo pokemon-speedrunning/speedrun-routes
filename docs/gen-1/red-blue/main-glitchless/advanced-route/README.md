@@ -345,14 +345,17 @@ Snorlax Menu:
 Cycling Road
 - Get the Rare Candy
 
-Post Cycling Road Menu:
+Post Cycling Road:
+- Bike to cut the bushes to get to Safari Zone
+
+**EQ Menu**
 - Use Repel
 - Swap slot 6 for X Special
 - Teach TM26
 - Bike
 
-Cut the bushes to get to Safari Zone
-- Super Repel in Zone 2
+Zone 2
+- Super Repel
 
 Dig out after getting Surf then Fly to Fuschia and Bike to the gym
 
