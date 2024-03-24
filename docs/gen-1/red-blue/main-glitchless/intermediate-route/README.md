@@ -4,6 +4,7 @@
 - [Defensive Damage Ranges](../resources/defensive-ranges.md)
 - [Offensive Damage Ranges](../resources/offensive-ranges.md)
 - Not recommended for this route, but worth reading: [Advanced HP Strats](../resources/hp-strats.md)
+- This guide is still the 2 Max Ether Route, but it will likely be modified soon in favor of getting 1 Ether and 1 Max Ether. Feel free to make the following adjustments to more conistently have an extra blizzard for Agatha: https://pastebin.com/C0mesB6B
 
 ### Glossary
 - Moves: HA = Horn Attack, MP = Mega Punch, BB = Bubblebeam, WG = Water Gun, TB = Thunderbolt, Blizz = Blizzard, PS = Poison Sting, HD = Horn Drill, RS = Rock Slide
@@ -523,7 +524,10 @@ Use your Bike and go west to Snorlax
 > - In the 3rd Zone of the Safari - pick up [TM40](https://gunnermaniac.com/pokeworld?map=218#19/7) for bag space
 > - In the Surf menu - swap HM01 with X Speed
 
-**Menu**
+Menu:
+- Use Bike and cut both trees to enter Safari Zone
+
+**EQ Menu**
 - Use slot 4 **Repel**
 - Down 2 to swap **Potion** with **X Special** (3 below HM01)
 - Down 6 to teach **TM26** Earthquake in move slot 2 (over Thrash or RS)
