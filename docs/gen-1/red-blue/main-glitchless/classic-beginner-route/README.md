@@ -349,6 +349,8 @@ Jr. Trainer♂:
 
 Enter the Mart.
 
+> Important note for shopping right now in Vermillion and later in Celadon: **always buy items in the order that they are listed in this guide**. Doing so is both the fastest way to buy the items and sets up our inventory in the correct order.
+
 Vermilion Mart
 - Sell all Poke Balls
 - Buy 3 Repels
