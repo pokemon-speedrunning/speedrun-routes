@@ -5,6 +5,7 @@ This guide assumes you know things about the game already
 - [Defensive Damage Ranges](../resources/defensive-ranges.md)
 - [Offensive Damage Ranges](../resources/offensive-ranges.md)
 - Keep this document open at all times: [Advanced HP Strats](../resources/hp-strats.md)
+- This guide is still the 2 Max Ether Route, but it will likely be modified soon in favor of getting 1 Ether and 1 Max Ether. Feel free to make the following adjustments to more conistently have an extra blizzard for Agatha: https://pastebin.com/C0mesB6B
 
 ## NIDORAN SPLIT
 
