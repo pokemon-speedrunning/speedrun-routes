@@ -4,6 +4,7 @@
 - [Defensive Damage Ranges](../resources/defensive-ranges.md)
 - [Offensive Damage Ranges](../resources/offensive-ranges.md)
 - Not recommended for this route, but worth reading: [Advanced HP Strats](../resources/hp-strats.md)
+- This guide is still the 2 Max Ether Route, but it will likely be modified soon in favor of getting 1 Ether and 1 Max Ether. Feel free to make the following adjustments to more conistently have an extra blizzard for Agatha: https://pastebin.com/C0mesB6B
 
 ### Glossary
 - Moves: HA = Horn Attack, MP = Mega Punch, BB = Bubblebeam, WG = Water Gun, TB = Thunderbolt, Blizz = Blizzard, PS = Poison Sting, HD = Horn Drill, RS = Rock Slide
@@ -523,7 +524,10 @@ Use your Bike and go west to Snorlax
 > - In the 3rd Zone of the Safari - pick up [TM40](https://gunnermaniac.com/pokeworld?map=218#19/7) for bag space
 > - In the Surf menu - swap HM01 with X Speed
 
-**Menu**
+Menu:
+- Use Bike and cut both trees to enter Safari Zone
+
+**EQ Menu**
 - Use slot 4 **Repel**
 - Down 2 to swap **Potion** with **X Special** (3 below HM01)
 - Down 6 to teach **TM26** Earthquake in move slot 2 (over Thrash or RS)
@@ -550,6 +554,17 @@ Koga:
 
 - If you didn't die from Koga you can still try to get red bar by following the [backups](https://pastebin.com/BMQQYcEV)
 
+| HP after SD on Koga | Red Bar Lost on... | Overview of Strategy                                                                                                       
+| ------------------- | ------------------ | -----------------------------------------------
+| 0-1                 | Machamp            | Normal Strats                                                                                                   
+| 2-4                 | Lapras             | Normal until Bruno; Use PP Item turn 2 on Bruno                                                   
+| *5-14               | ...                | Normal until Gio;  Blizz on Cooltrainer's Rhyhorn         
+| 5-6                 | Cloyster           | Elixer on Gio's Rhyhorn
+| 7-11                | Rhydon/Grolithe    | X-Spec on Gio's Nidoking
+| 12-14               | Machop             | Elixer on Gio's Nidoking
+| 15-22               | Rapidash/Venomoth  | Poké Flute on Vileplume                                                                                       
+| 23+                 | Exeggcute          | Poké Flute on Victreebel    
+
 ## ERIKA SPLIT
 
 Exit Koga's gym and **menu right away**
@@ -575,6 +590,11 @@ Mansion
 Pick up the Rare Candy and Secret Key then Dig out
 
 Bike to Erika's gym
+
+| HP On Exeggcute     | Overview of Strategy                                                                                                       
+| ------------------- | --------------------------------------                                            
+| 25-32               | Poké Flute on Vileplume until hit                                                                          
+| 33+                 | Poké Flute on Victreebel until hit   
 
 Beauty:
 - Blizz
@@ -606,25 +626,47 @@ Sabrina:
 Take the pad before Digging out, Fly to Viridian City, and Bike to the gym
 
 Cooltrainer:
-- EQ
+- EQ  or Blizz if you lived Weezing SD on 5-14
 
 Blackbelt:
 - X Acc + HD
 - Blizz
 - HD
 
+> Take note of your HP and your Blizzard count.
+
 Leave the gym and re-enter.
 
-**Menu** one step back into the gym
+Normally just **Menu** one step back into the gym
 - Use slot 6 - Elixer
 
-Note: You need to save at least 1 Blizzard for Agatha's Golbat so play accordingly
+> *Still use Elixer before Giovanni at 27-31 hp if 0 Blizz are left.
+
+## Giovanni
+
+| HP After Blackbelt | Overview of Strategy                                                                                                       
+| ------------------- | --------------------------------------    
+| 1-24               | Play Normal.
+| 25-26              | Rhyhorn: Elixer + Blizz or EQ, then play normal.
+| 27-31*             | Rhyhorn: Blizz (+EQ); Nidoking: X-Spec Turn 1 (+Elixer) (+TB), **EQ at any time if hit** (Elix on Rhydon if you haven't already)
+| 32+		     | Rhyhorn: Blizz / EQ;  Nidoking: Elixer Turn 1, (+X-Spec) (+TB), **EQ at any time if hit**
+
+> With 27+ HP after Blackbelt, be prepared to know what to do if you miss Blizzard on Gio's Rhyhorn.   
+> (1) If Rhyhorn **hits you or lands a tail whip**, always Elixer right away (if you didn't already before the fight).
+> (2) Otherwise, EQx3 and Elixer turn 1 on Nidoking even if this risks being KO'd by thrash.   
 
 Giovanni:
 - EQ x4
 - Blizz Rhydon until you have 2 Blizzard left (switch to EQ after that)
 
+> Note: You need to save at least 1 Blizzard for Agatha's Golbat so play accordingly
+
 ## LORELEI SPLIT
+
+| HP After Giovanni | Overview of Strategy                                                                                                       
+| ------------------- | --------------------------------------    
+| 1-27                | Play Normal.
+| 28+                 | modify Viridian Rival. Pidg: X-Acc, Blizz + TB, Rhyhorn: X-Speed + Horn Drill
 
 Super Repel + Bike as soon as you exit the gym
 
@@ -649,6 +691,8 @@ Lorelei:
 - Swap to Nidoking
 - X Acc + HD x5
 - Note: Option to swap Nidoking and bird pre-fight if you want to save 0-0.5s at the cost of being difficult
+
+> if you lost red bar on Lorelei, then delay using your PP Item until turn 2 on Onix
 
 ## BRUNO SPLIT
 

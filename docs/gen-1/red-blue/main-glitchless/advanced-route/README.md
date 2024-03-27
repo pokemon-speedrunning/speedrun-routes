@@ -5,6 +5,7 @@ This guide assumes you know things about the game already
 - [Defensive Damage Ranges](../resources/defensive-ranges.md)
 - [Offensive Damage Ranges](../resources/offensive-ranges.md)
 - Keep this document open at all times: [Advanced HP Strats](../resources/hp-strats.md)
+- This guide is still the 2 Max Ether Route, but it will likely be modified soon in favor of getting 1 Ether and 1 Max Ether. Feel free to make the following adjustments to more conistently have an extra blizzard for Agatha: https://pastebin.com/C0mesB6B
 
 ## NIDORAN SPLIT
 
@@ -344,14 +345,17 @@ Snorlax Menu:
 Cycling Road
 - Get the Rare Candy
 
-Post Cycling Road Menu:
+Post Cycling Road:
+- Bike to cut the bushes to get to Safari Zone
+
+**EQ Menu**
 - Use Repel
 - Swap slot 6 for X Special
 - Teach TM26
 - Bike
 
-Cut the bushes to get to Safari Zone
-- Super Repel in Zone 2
+Zone 2
+- Super Repel
 
 Dig out after getting Surf then Fly to Fuschia and Bike to the gym
 
