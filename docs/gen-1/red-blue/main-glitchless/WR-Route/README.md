@@ -352,15 +352,21 @@ Cycling Road
 - Get the PPUP
 
 Post Cycling Road Menu:
-- Use Super Repel (skip repeling if we only bought 9)
-- Swap slot 4 for TM26
-- Use PPUP on Horn Drill
-- Use slot 4 TM26 teaching EQ over slot 2
 - Bike
 
 Cut the bushes to get to Safari Zone
-- If we bought 9 Super Repels, then Super Repel at the start of safari and yolo two tiles at the end by following [this](https://imgur.com/gallery/JeycmGG) path
-- Otherwise, Super Repel in Zone 3
+
+Menu inside Safari Zone:
+- Use Super Repel 
+- Swap slot 4 for TM26
+- Use PPUP on Horn Drill
+- Bike
+
+> If we bought 9 Super Repels, then teach EQ in the menu above before getting on bike and skip the 2nd Super Repel in Safari. Yolo two tiles at the end by following [this](https://gunnermaniac.com/pokeworld?map=218#39/31/ULLLLLLLLLLLLLLLLLUUUUUUUULLLLLLDDDDDDLLLUUUUUUUUUUUUUUUUUUUUUURRRRRRRRRRRRRRRUUUALLLLUULLLLLLLLLLLLLLLLLLLDDSDDDDDSDDDDDLLDDDDDDDDDDDDDDDDDDDDDD) path.
+
+Menu in Zone 3:
+- Super Repel
+- Teach Slot 4 TM26 to Nido
 
 Dig out after getting Surf then Fly to Fuschia and Bike to the gym
 
