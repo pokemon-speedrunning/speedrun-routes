@@ -701,11 +701,15 @@ Menu after leaving the gym:
 
 ## Victory Road
 
-[Super Repel locations](https://imgur.com/gallery/laeW1PT) and [Victory Road map](https://imgur.com/gallery/vKQYRQZ)
+- After the first badge check, get on the bike.
+
+[Next two Super Repel locations](https://imgur.com/gallery/laeW1PT) and [Victory Road map](https://imgur.com/gallery/vKQYRQZ)
 
 - Pick up the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=34#8/90) from the water
-- Use a Super Repel one step into the cave
-- Watch a top leaderboard run for how to do the Strength boulder puzzles
+- Exit water, super repel, and get on the bike.
+
+> Watch [former world record commentary](https://youtu.be/GR9HKr61HJY?si=bR5OYLIxhdo4q0Ag&t=6576) for Victory Road movement
+
 - Use the 2nd Super Repel on [this tile](https://gunnermaniac.com/pokeworld?map=194#5/14) before using Strength
 - After dropping before the last boulder on [this tile](https://gunnermaniac.com/pokeworld?map=194#24/16):
 	- Use Strength
