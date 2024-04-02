@@ -351,10 +351,7 @@ Cycling Road
 - Get the Rare Candy
 - Get the PPUP
 
-Post Cycling Road Menu:
-- Bike
-
-Cut the bushes to get to Safari Zone
+Bike to cut the bushes to get to Safari Zone
 
 Menu inside Safari Zone:
 - Use Super Repel 
