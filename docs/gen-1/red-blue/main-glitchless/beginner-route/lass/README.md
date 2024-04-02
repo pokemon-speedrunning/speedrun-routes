@@ -1,7 +1,5 @@
 # Pokemon Red Glitchless Beginner Guide, Lass Version
 
-# Pokemon Red Glitchless Beginner Guide, No-Lass Version
-
 **FAQ: [Please read the FAQ before learning :)](../../resources/faq.md)**
 
 ### Resources
@@ -19,7 +17,6 @@
 	- [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy) (recommended)
 		- [Easy - Older version](https://pastebin.com/7kcZu3g4) (easier path, but select yoloball)
 	- [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
-	- [Route 3 Moon Manip](https://pastebin.com/tggXpQRC)
 	- [Entr's Moon Manip](https://pastebin.com/jnj9j47S)
 - Surge Cans Manip:
 	- [Optimal](https://www.youtube.com/watch?v=8Pa2f2WxCe4)
@@ -102,7 +99,7 @@ Options: Battle Style to Set before leaving Brock's gym
 - Caterpie: Leer + HA x2 (+ Tackle)
 - Weedle: Leer + HA x2
 	- Leer + HA + Tackle if you got String Shot hit OR Tackle will always kill
-- Caterpie: Leer + HA + Tackle
+- Caterpie: Leer + HA + Tackle or HA x2 + Tackle
 
 Menu:
 - Potion to 28+
@@ -145,7 +142,7 @@ Route 3 grass:
 
 ## Mount Moon
 
-- Do not learn a full Moon Manip for your first runs, start by learning [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy) (or the easier [older version](https://pastebin.com/7kcZu3g4)) and walk through the first floor normally ([movement map](https://i.imgur.com/xzgmNBk.jpeg)). You will choose later if you want to learn [Entr Moon](https://pastebin.com/jnj9j47S) (works with Lass) or [Route 3 Moon](https://pastebin.com/tggXpQRC) (slightly better, but does not work with Lass strats). There is also a [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md) you can learn.
+- Do not learn a full Moon Manip for your first runs, start by learning [Post Hiker Backup Paras](https://pastebin.com/j5gtY4cy) (or the easier [older version](https://pastebin.com/7kcZu3g4)) and walk through the first floor normally ([movement map](https://i.imgur.com/xzgmNBk.jpeg)). You will choose later if you want to learn [Entr Moon](https://pastebin.com/jnj9j47S) (works with Lass) or [Route 3 Moon](https://pastebin.com/tggXpQRC) (slightly better, but does not work with Lass strats). There is also a very easy [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md) you can learn to manip a Paras just before exiting Mt. Moon.
 - Get [TM12 (Water Gun)](https://gunnermaniac.com/pokeworld?map=59#5/32), [Rare Candy](https://gunnermaniac.com/pokeworld?map=59#35/31), [Escape Rope](https://gunnermaniac.com/pokeworld?map=59#36/23), [TM01 (Mega Punch)](https://gunnermaniac.com/pokeworld?map=61#29/5) and [Moon Stone](https://gunnermaniac.com/pokeworld?map=59#2/2)
 - Avoid catching wild Paras as the catch is not guaranteed even at low HP, catch the manipped one instead
 
@@ -480,8 +477,8 @@ Get the Poke Flute and Fly to Celadon City
 
 ## Celadon City
 
-- MUST Take the center in Celadon. Replenishes PP & sets Celadon as the warp point.
-- Bike East to Saffron City, trading Fresh Water for passage, and enter Silph Co.
+- MUST take the center in Celadon. Replenishes PP & sets Celadon as the warp point.
+- Bike East to Saffron City, trading the Fresh Water for passage.
 
 ## Saffron City
 
@@ -691,7 +688,7 @@ Menu after leaving the gym:
 [Next two Super Repel locations](https://imgur.com/gallery/laeW1PT) and [Victory Road map](https://imgur.com/gallery/vKQYRQZ)
 
 - Pick up the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=34#8/90) from the water
-- Exit water, super repel, and get on the bike.
+- Exit water, Super Repel, and get on the bike.
 
 > Watch [former world record commentary](https://youtu.be/GR9HKr61HJY?si=bR5OYLIxhdo4q0Ag&t=6576) for Victory Road movement
 
@@ -767,9 +764,9 @@ After Lance:
 - [OPTIONAL SAVE: Saving for Champ can be good if you don't have a spare X Accuracy + X Special + Revive]
 
 **Champion:**
-Pidgeot: **Turn 1: USE X SPECIAL**, then adapt:
-	- If Pidgeot does NOT use Sky Attack on turn 1:
-		- Pidgeot: use X Acc on turn 2, HD
+- Pidgeot: X Spec
+	- If Pidgeot does NOT use Sky Attack turn 1:
+		- Pidgeot: X Acc + HD
 		- Alakazam: HD
 		- Rhydon: HD
 		- Gyarados: **TB**
