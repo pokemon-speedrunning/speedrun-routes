@@ -4,7 +4,7 @@
 - [Defensive Damage Ranges](../resources/defensive-ranges.md)
 - [Offensive Damage Ranges](../resources/offensive-ranges.md)
 - Not recommended for this route, but worth reading: [Advanced HP Strats](../resources/hp-strats.md)
-- This guide is still the 2 Max Ether Route, but it will likely be modified soon in favor of getting 1 Ether and 1 Max Ether. Feel free to make the following adjustments to more conistently have an extra blizzard for Agatha: https://pastebin.com/C0mesB6B
+- This guide is still the 2 Max Ether Route, but it will likely be modified soon in favor of getting 1 Ether and 1 Max Ether. Feel free to make the following adjustments to more consistently have an extra blizzard for Agatha: https://pastebin.com/C0mesB6B
 
 ### Glossary
 - Moves: HA = Horn Attack, MP = Mega Punch, BB = Bubblebeam, WG = Water Gun, TB = Thunderbolt, Blizz = Blizzard, PS = Poison Sting, HD = Horn Drill, RS = Rock Slide
