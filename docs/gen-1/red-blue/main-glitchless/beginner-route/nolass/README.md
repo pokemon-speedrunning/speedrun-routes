@@ -782,9 +782,9 @@ After Lance:
 - [OPTIONAL SAVE: Saving for Champ can be good if you don't have a spare X Accuracy + X Special + Revive]
 
 **Champion:**
-Pidgeot: **Turn 1: USE X SPECIAL**, then adapt:
-	- If Pidgeot does NOT use Sky Attack on turn 1:
-		- Pidgeot: use X Acc on turn 2, HD
+- Pidgeot: X Spec
+	- If Pidgeot does NOT use Sky Attack turn 1:
+		- Pidgeot: X Acc + HD
 		- Alakazam: HD
 		- Rhydon: HD
 		- Gyarados: **TB**
