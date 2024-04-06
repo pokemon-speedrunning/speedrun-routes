@@ -640,7 +640,7 @@ Leave the gym and re-enter.
 Normally just **Menu** one step back into the gym
 - Use slot 6 - Elixer
 
-> *Still use Elixer before Giovanni at 27-31 hp if 0 Blizz are left.
+> Delay Elixer if 25+ HP, except still use Elixer before Giovanni at 27-31 hp if 0 Blizz are left.
 
 ## Giovanni
 
