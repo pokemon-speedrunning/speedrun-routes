@@ -546,7 +546,10 @@ Use your Bike and go west to Snorlax
 - Get the [hidden PP Up](https://gunnermaniac.com/pokeworld?map=1#127/206)
 
 ### Fuschia City
-**Menu**
+
+Bike to cut the bushes to get to Safari Zone
+
+**Menu** inside Safari Zone
 - Use **Super Repel**
 - Swap slot 8 **Potion** with **X Speed**
 - Teach TM26 (Earthquake) over slot 2 Thrash
