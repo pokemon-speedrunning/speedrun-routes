@@ -367,6 +367,36 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | 15-22               | Rapidash/Venomoth  | Poké Flute Vileplume                                                                                            |
 | 23+                 | Exeggcute          | X Acc Victreebel if you have 2 extra, then Poké Flute until hit (can Blizz x3 after X Acc)                      |
 
+### Erika Split
+
+| HP On Exeggcute     | Overview of Strategy 
+| ------------------- | --------------------------------------                                            
+| 25-32               | Poké Flute on Vileplume until hit 
+| 33+                 | Poké Flute on Victreebel until hit
+
+### Giovanni Split
+
+If you lived on 5-14 HP from Weezing's SD, then 
+- Blizz Cooltrainer's Rhyhorn.
+- HD Machop if you have an extra HD and still need damage (to save a Blizzard).
+
+Before Giovanni
+- At 1-24 HP, always Elixer before the fight.
+- At 25+ HP, delay Elixer.
+> Except if 27-31 HP and 0 Blizz left, then Elixer before the fight.
+ 
+
+| HP After Blackbelt | Overview of Strategy  
+| ------------------- | --------------------------------------    
+| 1-24               | Play Normal.
+| 25-26              | Rhyhorn: Elixer + Blizz or EQ, then play normal.
+| 27-31*             | Rhyhorn: Blizz (+EQ); Nidoking: X-Spec Turn 1 (+Elixer) (+TB), **EQ at any time if hit**, Elixer Rhydon  (wait until bike menu if you have 1 Blizz)
+| 32+		     | Rhyhorn: Blizz / EQ;  Nidoking: Elixer Turn 1, (+X-Spec) (+TB), **EQ at any time if hit**
+
+> With 27+ HP after Blackbelt, be prepared to know what to do if you miss Blizzard on Gio's Rhyhorn.    
+> (1) If Rhyhorn **hits you or lands a tail whip**, always Elixer right away (if you didn't already before the fight).    
+> (2) Otherwise, EQx3 and Elixer turn 1 on Nidoking even if this risks being KO'd by thrash.    
+
 ### Lorelei Split
 
 #### Lorelei backup for Revive used post-Koga
@@ -383,7 +413,8 @@ Note that 1/39 rolls are selectively ignored in spots where healing has its own 
 | HP   | Strategy                                       |
 | ---- | ---------------------------------------------- |
 | 1-19 | Rare Candy now unless you need the jingle skip |
-| 20+  | Normal strats                                  |
+| 20-34  | Normal strats                                |
+| 35+ | delay PP item to turn 2 in fight, if desparate |
 
 ### Agatha Split
 
