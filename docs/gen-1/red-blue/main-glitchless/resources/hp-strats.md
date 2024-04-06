@@ -263,7 +263,7 @@ you but can increase the chance of you dying.
 | 0-1                 | Machamp            | Normal strats                                                                                                   |
 | 2-4                 | Lapras             | Normal strats                                                                                                   | Elixer(+Blizz) Gio Rhyhorn, X Acc VR Rhyhorn, PP item turn two on Bruno
 | 5-6                 | Cloyster           | Blizz Cooltrainer, Elixer(+Blizz) Gio Rhyhorn, X Acc(+TB) VR Rhyhorn                                            | PP item turn two on Bruno
-| 7-11                | Rhydon/Growlithe   | Blizz Cooltrainer+Gio, X Spec(+Elixer + EQ or Blizz) Nidoking, Elixer Rhydon |
+| 7-11                | Rhydon/Growlithe   | Blizz Cooltrainer+Gio, X Spec(+Elixer + EQ or Blizz) Nidoking, Elixer Rhydon (wait until bike menu if you have 1 Blizz) |
 | 12-14               | Machop             | Blizz Cooltrainer+Gio, Elixer(+X Spec+TB) Nidoking                                                              |
 | 15-22               | Rapidash/Venomoth  | Poké Flute Vileplume                                                                                            |
 | 23+                 | Exeggcute          | Poké Flute Victreebel                                                                                           |
