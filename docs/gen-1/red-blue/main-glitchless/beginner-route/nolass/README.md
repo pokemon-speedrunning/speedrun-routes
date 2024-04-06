@@ -706,7 +706,7 @@ Menu after leaving the gym:
 [Next two Super Repel locations](https://imgur.com/gallery/laeW1PT) and [Victory Road map](https://imgur.com/gallery/vKQYRQZ)
 
 - Pick up the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=34#8/90) from the water
-- Exit water, super repel, and get on the bike.
+- Exit water, Super Repel, and get on the bike.
 
 > Watch [former world record commentary](https://youtu.be/GR9HKr61HJY?si=bR5OYLIxhdo4q0Ag&t=6576) for Victory Road movement
 
