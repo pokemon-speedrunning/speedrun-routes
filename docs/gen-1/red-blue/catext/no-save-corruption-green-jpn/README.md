@@ -58,5 +58,6 @@ Once you finished the battle, go to the shop for getting Oak's Parcel. If you co
 
 - This run is very based on RNG(Rival fight and random encounters can be very annoying, i know), so **don't be frustrated if you don't have good RNG**. The only thing to do is to restart your run.
 - Names doesn't matters on this run, so if you miss the down buffer for the names and go to the "personalized" ones, don't worry, it's ok.
+- - Tutorial video made by Rosstafari [here](https://www.youtube.com/watch?v=6dbtLOd13Zo)
 
 ## **GOOD RUN !**
