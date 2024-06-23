@@ -1,63 +1,96 @@
-# Pokémon Green Any% No Save corruption
+# Pokémon Green (JPN) Any% No Save Corruption
+
 **CLEAR SAVE DATA FOR EACH ATTEMPT OR YOUR RUN IS INVALID**
 
 ## Before Starting
 
-Make sure that you have **Release 1.0** of the game. The glitch that we are going to do works on 1.1 too, but it's slower because the manip to activate it is different.
+- Note that there are two versions of Pokémon Green (JPN): 1.0 and 1.1.
+- **Release 1.0** is the optimal version for this category. 
+> If you are using release 1.1, please note that in order to activate the Select Glitch you must open your menu in route 1 navigate to items, slot 2 and press select on Oak's Parcel. After this you play normal, besides skipping this first step upon getting an encounter. Ignore this note if you are able to run on Release 1.0. 
 
 ## Before doing a new run
 
-- On the New Game screen, go down and press A to go in the Options menu
-- Then, change the first settings to the left and the second to the right
-- The first settings is the text speed, which we set to fast, and the second settings is the battle animations, which we are toggling off.
+- Clear the save data by pressing Up + Select + B on the title screen and then toggling Down to say Yes. 
+- If playing on Emulator, either Hard Reset before each individual attempt or capture the entire emulator border in order for the run to be valid.
+- On the New Game screen press Down and A to enter the Options menu.
+- Toggle the first setting to the left and the second setting to the right.
+> This sets Options to Fast Text Speed and Battle Animations Off, respectively. 
 
 ## Intro
 
-Name yourself and your rival with the **first two names** by pressing down then A.
+Name both yourself and your rival the **first default name** by clearing the preceding text box with B and buffering Down and A.
 
 ## Before Rival fight
 
-- Go to your pc on the top-left corner of your room and press A 3-4 times, and then press B twice.
-	- By doing that, we are getting a potion who will help us all the time, for a glitch call [Dokokashira Door Glitch](https://bulbapedia.bulbagarden.net/wiki/Dokokashira_door_glitch), and we need two objects for make it working.
-- Then, go outside in the grass like as usual. After finishing the dialogues, choose Bulbusaur. The main reason is that the rival moves slowly, and taking Bulbasaur makes him travel less. The second reason is that we have to lose during the rival's fight, and Bublbasaur is the most "bad" of the three starters
+- Get the PC Potion. 
+> This can be done quickly buffering a B press immediately after talking to the PC to clear the first instant text box, then mash A until the Potion is being withdrawn, and lastly mash B (and hold right) to exit the PC.
+- This Potion is required to set up [Dokokashira Door Glitch](https://bulbapedia.bulbagarden.net/wiki/Dokokashira_door_glitch). 
+- Exit the house and walk into Route 1 to trigger the cut scene.
+- Choose the third ball to obtain Bulbasaur and do not nickname it. 
+> Buffer dex entry with B, press A (confirm choice), mash B (no nickname)
 
 ## Rival Fight
 
-Just **spam A**, and pray that you have good RNG and lose because it's faster.(Spamming A spams Tackle)
+- Spam Tackle, which is the first move.
+> Losing the fight is the fastest outcome, but winning is also okay to continue. 
 
 ## Oak's Parcel
 
-Once you finished the battle, go to the shop for getting Oak's Parcel. If you come across a pokémon, run away(Bottom right option).
+- Exit Oak's Lab, travel up Route 1, and enter the Viridian City Mart to obtain Oak's Parcel.
+> Run away from all encounters on the way up. Run is the option in the bottom right corner of the in-fight menu. 
+- Exit the mart, enter Route 1, and continue back towards Pallet Town.
 
-## Glitch Activation
+## Glitch Setup
 
-- Try to get into a battle on one of this two tiles before entering Pallet Town : [Tiles](https://gunnermaniac.com/pokeworld?map=1#60/231/U)
-- Once in the fight, press right then A: it's the bag.
-	- Press down once, and then press select.
-	- Press B and press left, then down, then A and A again. (Quick explanation : We exchange our second item with our first Pokémon.)
-	- If there are glitched characters on the screen, the glitch is activate. Press B, then Up, then A, and finally B. Run away.
-- If there is the Prof Oak out of is lab, it's also that the glitch worked.
+- While walking down Route 1 either walk the [optimal path](https://gunnermaniac.com/pokeworld?map=1#60/198/DDDLLDDDDDDDRDDDDDDDDDDDDRRRDDLDDDDDDDDDDDUD) that yolos 3 tiles of grass or take the [safer path](https://gunnermaniac.com/pokeworld?map=1#60/198/DDDLLDDDDDDDRDDDDDDDDDDRRRRRRRDDDDDDLLDDLLLDDDDDDDUD) that hops the ledge to avoid any extra grass.
+- When you get an encounter, take note of which tile it was on and immediately follow the steps listed below. 
+> Always walk down the right side of the grass into Pallet Town and, if necessary, stall for an encounter up and down between these [two tiles](https://gunnermaniac.com/pokeworld?map=1#61/233/U).    
 
-## Hall Of Fame Warp
+## Encounter & Glitch Activation
+> For step 1 below after entering items you can play more safely by carefully toggling down onto the second item (Oak's Parcel), then pressing Select, and then pressing B. This avoids the chance of accidentally double inputting (landing you on Cancel) or accidentally selecting the first item (the Potion). 
 
-- Follow this path [1](https://gunnermaniac.com/pokeworld?map=1#60/232/DDDDDDDDRRRRRRRR) [2](https://gunnermaniac.com/pokeworld?map=1#68/240/LLLLLLLLLLLLLLLLL) [3](https://gunnermaniac.com/pokeworld?map=1#51/240/rrrrrrrrrrrrrr) [4](https://gunnermaniac.com/pokeworld?map=1#65/240/llu) [5](https://gunnermaniac.com/pokeworld?map=1#116/119/RRRD) [6](https://gunnermaniac.com/pokeworld?map=186#1/3/RRURRRR) [7](https://gunnermaniac.com/pokeworld?map=1#134/120/RRRDDDRRRRRRDDDRRRRRRRRRUUUURRRRRRRRU)
-	- For 5, YES we walk into the back of the house, and for 7, we can walk into the bush because there is no collisions here.
-- You should be send in a weird place with glitched caracters everywhere. Text box should appears : it's Oak's dialogue at the Hall Of Fame. Just spam B and A.
+- Buffer Right, hit A into Items, hit both Down and Select, buffer B to backout.
+- Buffer Down and Left, hit A into Pokémon, press A on Bulbasaur, buffer B to backout.
+- Buffer Up, hit A into fight, buffer B to backout.
+- Buffer Down and Right, hit A to run away.    
+
+## First Warp
+
+> Note that if you got your encounter on the **1st Yolo Tile** then we must [take 2 extra steps](https://gunnermaniac.com/pokeworld?map=1#62/220/DDLLDDDDRDDDDDDDDD) before going down the right side grass to Pallet Town. 
+
+- In Pallet Town walk [past Oak and to the right wall](https://gunnermaniac.com/pokeworld?map=1#61/236/DDLDDRRRRRRRR), walk [to the left wall](https://gunnermaniac.com/pokeworld?map=1#68/240/LLLLLLLLLLLLLLLLL), and walk [towards the entrance to Rival's House](https://gunnermaniac.com/pokeworld?map=1#51/240/RRRRRRRRRRR).
+- Then based off of which tile you had your encounter on either enter Rival's House (1) [immediately](https://gunnermaniac.com/pokeworld?map=1#62/240/RU), (2) after walking [one tile to the right of the door](https://gunnermaniac.com/pokeworld?map=1#62/240/RRLU), or (3) after walking to the [rightmost tile of the house](https://gunnermaniac.com/pokeworld?map=1#62/240/RRRLLU). 
+
+  - [1st Yolo](https://gunnermaniac.com/pokeworld?map=1#62/220/S)   : immediately
+  - [2nd Yolo](https://gunnermaniac.com/pokeworld?map=1#62/221/S)   : rightmost tile of the house
+  - [3rd Yolo](https://gunnermaniac.com/pokeworld?map=1#62/222/S)   : immediately
+  - [1st Normal](https://gunnermaniac.com/pokeworld?map=1#61/230/S) : rightmost tile of the house
+  - [2nd normal](https://gunnermaniac.com/pokeworld?map=1#61/231/S) : immediately
+  - [3rd normal](https://gunnermaniac.com/pokeworld?map=1#61/232/S) : one tile to the right of the door
+  - [4th normal](https://gunnermaniac.com/pokeworld?map=1#61/233/S) : one tile to the right of the door
+
+## Hall of Fame Warps
+
+- Go right then down [into the top-right corner of the house](https://gunnermaniac.com/pokeworld?map=1#116/119/RRRD).
+- Exit the guard house by walking [right](https://gunnermaniac.com/pokeworld?map=186#1/3/RRURRRR).
+- Continue to the right following [this path](https://gunnermaniac.com/pokeworld?map=1#134/120/RRRDDRRRRRRDDDDRRRRRRRRRUUUURRRRRRRRU).
+  - Right, down then right bordering the grass, down and directly through the first double hedge, right to Celadon.
+  - Upon entering Celadon walk up right away, walk right when in line with the front of Celadon Mart, enter the Right door. 
+- This warps you to a glitched-looking Hall of Fame Room and timing ends on the fadeout after the last text box is cleared. 
 
 ## Troubleshoot
 
-- [Dokokashira Door Glitch](https://bulbapedia.bulbagarden.net/wiki/Dokokashira_door_glitch)
-	- If there is no glitched characters in the pokémon menu in the fight, make sur that you have select the **second item** in your bag and press B, not A.
-	- If the game crashes or freeze when you run away from the battle, it's that you haven't enter and exit the battle menu.
-  	- If Prof Oak is not out of his lab, you did the glitch wrong Try it again.
-  	- If you doesn't teleport to Route 7 when entering Blue's house, you took too many or fewer steps. The warp location changes every 4 steps, so be sure to **follow the path above in Pallet Town**.
-  	- If you have others issues, try asking for help in the [PSR Gen1-3 Pokémon Speedruning Discord Server](https://discord.com/invite/5qqmmAk), on the [gen-1 japanese channel](https://discord.gg/W5XfS8HB).
-  	- (It's also helpfull for others run if you wants more explanations or tutorials, there are very nice over there :) )
+- After pressing A on Bulbasaur there should be some glitched characters on the screen.
+- If the game crashes or freezes when you run away from the battle, you must check that every step was followed.
+- If you get a second encounter after activating the select glitch, then this is unlucky and th game will be soft-locked. In this case you must restart.
+- If the glitch was activated properly, then upon entering Pallet Town you will see Oak's sprite next to your house.
+- If you are warped to the wrong place after entering the Rival's house, then you may have taken too many or too few steps. 
+- If you continue to have trouble, the best way to get help is to ask a question in the PSR Gen1-3 Discord Server [linked in this SRC Forum Post](https://www.speedrun.com/pkmnredblue/forums/se2sp). Posting a video of your attempt with an input viewer is the best way to get help and this category is typically discussed in the #gen1-Japanese channel. 
 
 ## Notes
 
-- This run is very based on RNG(Rival fight and random encounters can be very annoying, i know), so **don't be frustrated if you don't have good RNG**. The only thing to do is to restart your run.
-- Names doesn't matters on this run, so if you miss the down buffer for the names and go to the "personalized" ones, don't worry, it's ok.
-- - Tutorial video made by Rosstafari [here](https://www.youtube.com/watch?v=6dbtLOd13Zo)
+- You can use the runs on the leaderboard for reference [here](https://www.speedrun.com/pkmnrbext?h=Any_No_Save_Corruption_RedGreen_JPN&x=rklv88rd). 
+- Beginners may find this [tutorial](https://www.youtube.com/watch?v=6dbtLOd13Zo) by Rosstafari helpful. Note that there are some small differences between the tutorial and these notes, but this is okay. There are several alternate paths to take to make the warps work that are not covered in this guide.
+- This guide is largely based on Enderborn's [Pokemon Any% NSC (Green, JPN) notes](https://pastebin.com/p4kW6M0M).
 
 ## **GOOD RUN !**
