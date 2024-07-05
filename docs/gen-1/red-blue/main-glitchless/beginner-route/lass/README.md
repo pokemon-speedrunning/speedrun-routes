@@ -276,6 +276,8 @@ Depending of your HP, you may fight the Gentleman in [this room](https://gunnerm
 | 2-8   | Do Gentleman                            |
 | 9-24  | Do Gentleman if you want to play safely |
 
+> Important note for shopping: **always buy items in the order that they are listed in this guide**. Doing so is both the fastest way to buy the items and sets up our inventory in the correct order.  
+
 Shopping:
 - Buy:
 	- 6 Repels
