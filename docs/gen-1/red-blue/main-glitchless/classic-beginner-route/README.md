@@ -344,7 +344,9 @@ Jr. Trainer♂:
 - Spearow: Thrash
 - Raticate: Thrash
 
-> 1-30 HP: Full Restore now
+> 1-30 HP: Full Restore now    
+
+> Important note for shopping: **always buy items in the order that they are listed in this guide**. Doing so is both the fastest way to buy the items and sets up our inventory in the correct order.   
 
 Enter the Mart.
 
