@@ -567,7 +567,7 @@ Juggler 2:
 
 Koga:
 - EQ x3
-- Turn 1 on Weezing use slot 8 **Elixer** (3 below Rare Candy)
+- Turn 1 on Weezing use slot 6 **Elixer** (2 below Rare Candy)
 > If Koga uses X Attack, use X Spec until you die
 
 - If you didn't die from Koga you can still try to get red bar by following the [backups](https://pastebin.com/BMQQYcEV)
