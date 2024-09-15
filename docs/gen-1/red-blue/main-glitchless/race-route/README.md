@@ -54,7 +54,7 @@ Weedle Guy:
 Swap Squirtle and Nido at some point
 - 1-15 Potion and use/toss Antidote
 - If you have bad special and no Pidgey, do this manip:
-	- [Pidgey Backup](https://youtu.be/WLigwIbp2ps)
+	- [Pidgey Backup](https://youtu.be/Luerq_GPKi8)
 
 Pewter Mart
 - Buy 8 Potions
