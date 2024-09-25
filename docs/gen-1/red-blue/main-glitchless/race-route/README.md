@@ -1,6 +1,6 @@
 # Pokemon Red Glitchless Race Route (NO IT-FlexLass-3Repels-PPUp)
 
-**This is one of the many race routes people use and most of them are as good. I decided to document this because it was used by all 3 finalists at the 2020 Red Tournament.**  
+**This is one of the many race routes people use and most of them are as good. I decided to document this because it was used by all 3 finalists at the 2020 Red Tournament.**
 **You can find the VOD of the Finals [here](https://youtu.be/owoeSjzdqL0), it's a good example of this route in action.**
 
 ### Good documents
@@ -53,8 +53,8 @@ Weedle Guy:
 
 Swap Squirtle and Nido at some point
 - 1-15 Potion and use/toss Antidote
-- If you have bad special and no Pidgey, do this manip:
-	- [Pidgey Backup](https://youtu.be/WLigwIbp2ps)
+- If you have bad special and no Pidgey, swap Nido to the front of your party and do this manip:
+	- [Pidgey Backup](https://youtu.be/Luerq_GPKi8)
 
 Pewter Mart
 - Buy 8 Potions
