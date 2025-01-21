@@ -126,11 +126,11 @@ The detail of the strat we're going to use is also written [here](https://pokemo
 
 - Walk into Lorelei's room.
 
-> We are now going tu use the Cooltrainer Glicth to skip all the battles;
+> We are now going to use the Cooltrainer Glicth to skip all the battles;
 
 - Start the fight by speaking to her.
   - Go into the fight menu : you should see a move with the type "Cooltrainer♀" with 0 out of 13 PP.
-    - Mash down until the screen starts showing glitch things, then mash A.
+    - Mash Down until the screen starts showing glitch things, then mash A.
 - Voilà ! You instantly won the fight ! Now repeat this process for every other fight, and mash throughs text boxes to end the run.
 - Timing stops on the fade to white after you receive your in game time.
 
