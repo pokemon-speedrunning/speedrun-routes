@@ -25,5 +25,30 @@ Name yourself a **5-letters** name(5 As is the fastest) and your rival the **fir
 
 - You **must** win this fight to level up to Lvl 6. if you loose, then reset.
 - Spam Tackle(Mash A)
-  - If you are at 6hp or lower and you know you won't kill him next turn, potion.
-  > This is because Charmander can Crit
+
+  - If you are at **6hp or lower and you know you won't kill him next turn**, heal with potion.
+
+    > This is because Charmander can Crit on Scratch and deal you 6 HP.
+- **WHEN LEVELING UP, DON'T SKIP THE STATS SCREEN : CHECK FOR SPECIAL** :
+
+  - If you have 12 special (Bad) : Reset. Or if you really want, try the backup [PP Strats](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/catext/reverse-badge-acquisition/resources/Brock-Through-Walls-Guide?id=pp-strat).
+  - If you have 13 special(Great) : We'll need to do an extra battle in Route 1, Lvl 2/3 Rats and Lvl 2 Pidgeys are prefered.
+    - Run away if Lvl 3 pidgey.
+  - If you have 14 special(Perfect) : No need to do an extra battle, play normally.
+ 
+ ## Oak's Parcel
+- Exit Oak's Lab, travel up Route 1, and enter the Viridian City Mart to obtain Oak's Parcel.
+> If you don't get an encounter here that's ok, you stil have 2 opportunities left(back to Pallet Town, Back to Viridian)
+- Exit the mart, enter Route 1, and head back to the lab.
+- Talk to Oak from the left, it saves time because our rival has less steps to do.
+
+## Brock Throughs Walls(BTW)
+
+The first glitch we will perform is called Brock Through Walls.
+The detail of the strat we're going to use is also written [here](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/catext/reverse-badge-acquisition/resources/Brock-Through-Walls-Guide?id=without-bulbasaur-manipulation)
+> When selecting the manip if you follow the strat from the page above, choose the **5 characters players name** or just follow the guide here.
+
+- Head to Viridian Mart : buy
+  - 2 Pokeballs
+ > Note : You can buy extras balls if you are afraid to fail the **yoloball*, but later in the run you will **NEED** to know how to do a yoloball, so it's up to you.
+- [Pidgey manip](https://youtu.be/Ua0ZyWffYpU)
