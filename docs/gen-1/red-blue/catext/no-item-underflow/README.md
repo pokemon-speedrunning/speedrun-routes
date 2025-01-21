@@ -95,7 +95,7 @@ The detail of the strat we're going to use is also written [here](https://pokemo
 - So the Goal is to reach Cerulean Cave, and here is the [fastest path](https://www.youtube.com/watch?v=7jT0nZStQNU)
   - Take this path carefully: you are walking out of bounds, one false step can crash the game
  
-## CERULEAN CAVE, COOLTRAINER GLITCH AND SECOND BTW
+## CERULEAN CAVE  AND COOLTRAINER GlITCH
 
 - Now, we will manip a Lvl 55 Ditto : this is why you need to get consistent at yoloballs ; you can't catch a Lvl 55 Ditto in one ball like that normally.
 - Once you entered the cave, do the **[Ditto Manip](https://www.youtube.com/watch?v=aIE01IgqhFw)**
@@ -113,4 +113,9 @@ The detail of the strat we're going to use is also written [here](https://pokemo
 - Then, **run away** and use the **escape rope**. 
 
 ### **Second BTW**
-  - O
+  - When you teleport back to Pewter city, there will be a text box
+  > The game still thinks we're in the cutscene, so it will freezes for 2 seconds after clearin the text box. That's why we go into the house before doing BTW.
+  - Go into the house at the right of the map, and exit out immediately.
+  - Do Brock Skip a second time(explanations above)
+  - Now, the path we will take will be different, just remember to **hold B during the whole process**
+    
