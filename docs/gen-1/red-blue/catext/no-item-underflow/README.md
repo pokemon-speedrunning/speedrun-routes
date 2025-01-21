@@ -91,11 +91,11 @@ The detail of the strat we're going to use is also written [here](https://pokemo
 
 **FROM NOW YOU MUST NEVER RELEASE B UNTIL WE ENTER CERULEAN CAVE**
 
-### Path to Cerulean Cave
-- So the Goal is to reach Cerulean Cave, and here is the [fastest path](https://www.youtube.com/watch?v=7jT0nZStQNU)
+ ### Path to Cerulean Cave
+  - So the Goal is to reach Cerulean Cave, and here is the [fastest path](https://www.youtube.com/watch?v=7jT0nZStQNU)
   - Take this path carefully: you are walking out of bounds, one false step can crash the game
  
-## CERULEAN CAVE  AND COOLTRAINER GlITCH
+## Cerulan cave and cooltainer glitch
 
 - Now, we will manip a Lvl 55 Ditto : this is why you need to get consistent at yoloballs ; you can't catch a Lvl 55 Ditto in one ball like that normally.
 - Once you entered the cave, do the **[Ditto Manip](https://www.youtube.com/watch?v=aIE01IgqhFw)**
@@ -112,10 +112,13 @@ The detail of the strat we're going to use is also written [here](https://pokemo
 - Once in the battle, use transform and **swap the top 2 moves**.
 - Then, **run away** and use the **escape rope**. 
 
-### **Second BTW**
+## Second BTW
   - When you teleport back to Pewter city, there will be a text box
   > The game still thinks we're in the cutscene, so it will freezes for 2 seconds after clearin the text box. That's why we go into the house before doing BTW.
   - Go into the house at the right of the map, and exit out immediately.
   - Do Brock Skip a second time(explanations above)
   - Now, the path we will take will be different, just remember to **hold B during the whole process**
+  - Follow this [path](https://gunnermaniac.com/pokeworld?map=1#76/70/LLLLLLLLLLLLDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDLLDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDS), on the blue tile, quickly press Start.
+  - Go into your Pokémon menu and close it. Then close the start menu by pressing and holding B.
+  - Now follow this [path](
     
