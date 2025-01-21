@@ -120,5 +120,6 @@ The detail of the strat we're going to use is also written [here](https://pokemo
   - Now, the path we will take will be different, just remember to **hold B during the whole process**
   - Follow this [path](https://gunnermaniac.com/pokeworld?map=1#76/70/LLLLLLLLLLLLDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDLLDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDS), on the blue tile, quickly press Start.
   - Go into your Pokémon menu and close it. Then close the start menu by pressing and holding B.
-  - Now follow this [path](
+  - Now follow this [path](https://gunnermaniac.com/pokeworld?map=1#62/199/UUUUUUUUUUUUUUUUUUULLLLLLLLLLLLLLUUUUUUULLLLLLLLLUUUUUUUUUUUUUUUUUUUUUUUUUUUUULLLLUUUUUUUUUUUUUUUUUUU). On the map it looks like we're walking in the void but we're actually walking into a bugged Indigo plateau. Watch Rosstafari's Tutorial from [here](https://www.youtube.com/watch?v=dmIru_VnLgI&t=3487s) for a more clear understanting of the path.
+  - 
     
