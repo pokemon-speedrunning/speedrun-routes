@@ -95,7 +95,7 @@ The detail of the strat we're going to use is also written [here](https://pokemo
   - So the Goal is to reach Cerulean Cave, and here is the [fastest path](https://www.youtube.com/watch?v=7jT0nZStQNU)
   - Take this path carefully: you are walking out of bounds, one false step can crash the game
  
-## Cerulan cave and cooltainer glitch
+## Cerulan cave and Cooltrainer glitch
 
 - Now, we will manip a Lvl 55 Ditto : this is why you need to get consistent at yoloballs ; you can't catch a Lvl 55 Ditto in one ball like that normally.
 - Once you entered the cave, do the **[Ditto Manip](https://www.youtube.com/watch?v=aIE01IgqhFw)**
@@ -121,5 +121,10 @@ The detail of the strat we're going to use is also written [here](https://pokemo
   - Follow this [path](https://gunnermaniac.com/pokeworld?map=1#76/70/LLLLLLLLLLLLDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDLLDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDS), on the blue tile, quickly press Start.
   - Go into your Pokémon menu and close it. Then close the start menu by pressing and holding B.
   - Now follow this [path](https://gunnermaniac.com/pokeworld?map=1#62/199/UUUUUUUUUUUUUUUUUUULLLLLLLLLLLLLLUUUUUUULLLLLLLLLUUUUUUUUUUUUUUUUUUUUUUUUUUUUULLLLUUUUUUUUUUUUUUUUUUU). On the map it looks like we're walking in the void but we're actually walking into a bugged Indigo plateau. Watch Rosstafari's Tutorial from [here](https://www.youtube.com/watch?v=dmIru_VnLgI&t=3487s) for a more clear understanting of the path.
-  - 
+
+## ELITE 4
+
+- Walk into Olga's room.
+> We are now going tu use the Cooltrainer Glicth to skip all the battles;
+- Start
     
