@@ -874,15 +874,16 @@ Bruno:
 ## AGATHA SPLIT
 
 Menu before Agatha:
-- Super Potion twice to play safe, otherwise heal according to the chart
 - Use Elixer
+- Super Potion x2 to play safe
+- otherwise heal according to the chart as close to the given number without going over
 
-HP DV | Max HP that keeps redbar after Night Shade | Max HP to yolo
------ | ------------------------------------------ | --------------
-0-3   | 87                                         | 31
-4-7   | 88                                         | 32
-8-12  | 89                                         | 33
-13-15 | 90                                         | 34
+HP DV | Max HP that keeps redbar after Night Shade 
+----- | ------------------------------------------
+0-3   | 87                                         
+4-7   | 88                                        
+8-12  | 89                                         
+13-15 | 90                                        
 
 Agatha:
 - Gengar: (X Speed), EQ
@@ -900,6 +901,8 @@ Menu before Lance:
   0-3    | 144+
   4-10   | 134+
   11-15  | 127+
+
+> Optional Save before Lance.
 
 Lance:
 - Gyarados: X Special + TB
