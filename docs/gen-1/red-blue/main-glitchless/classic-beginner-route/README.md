@@ -701,9 +701,9 @@ HP   | Strat
 80+  | Use Max Ether in the next fight
 
 Silph Rocket #2:
-- Cubone: X Acc + (Max Ether now if under 80 hp) + HD
+- Cubone: X Acc + (Max Ether on HD now if under 80 hp) + IB
 - Drowzee: (Max Ether if you haven't alreaedy +) HD
-- Marowak: IB
+- Marowak: HD
 
 Giovanni:
 - Nidorino: X Acc + HD
