@@ -286,9 +286,11 @@ Dig Rocket:
 - Machop: Thrash x1-2
 - Drowzee: Thrash x1
 
-Get TM28 Dig from the Rocket.
+Get TM28 Dig from the Rocket.     
 
-> If you fought moon hiker or if you split exp on top hiker, KO one encounter with Thrash if you happen to get one.
+Note: 
+- If you fought moon hiker or if you split exp on top hiker, KO one use-less encounter with Thrash if you happen to get one.
+- If you ran out of potions, then pick up the hidden Full Restore in the underground. Sell the Full Restore in Vermillion and keep either Pokeballs or TM34 to take the place of Potions in the bag for the rest of the run. 
 
 Oddish DSUM
 - Ignore this if you already have a Paras
