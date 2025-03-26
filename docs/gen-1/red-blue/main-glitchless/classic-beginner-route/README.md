@@ -702,7 +702,7 @@ HP   | Strat
 
 Silph Rocket #2:
 - Cubone: X Acc + (Max Ether on HD now if under 80 hp) + IB
-- Drowzee: (Max Ether if you haven't alreaedy +) HD
+- Drowzee: (Max Ether if you haven't already +) HD
 - Marowak: HD
 
 Giovanni:
