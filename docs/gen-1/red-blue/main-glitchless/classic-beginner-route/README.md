@@ -75,7 +75,7 @@ Get the hidden Tree Potion.
 <img src="/docs/gen-1/images/classic/TreePotion.png">
 
 Follow this path in the forest picking up the Antidote and hidden Weedle Guy Potion.
-> Many grass tiles in the forest do not genrate encounters so it is important to follow this path exactly. 
+> Many grass tiles in the forest do not give encounters so it is important to follow this path exactly. 
 
 <img src="/docs/gen-1/images/classic/Forest.png" height=500>
 
@@ -372,7 +372,7 @@ Boat Rival:
 
 Get HM01 from the captain.
 
-Enter the 3rd Cabin from the left.
+Enter the 3rd Cabin from the right.
 
 <img src="/docs/gen-1/images/classic/GentlemanCandy1.png">
 
@@ -386,7 +386,7 @@ Get the Rare Candy.
 
 Exit the boat and head towards Surge's gym.
 
-Trade for Dux in [this house](https://gunnermaniac.com/pokeworld?map=1#235/193) if you still need something to learn Cut.
+Trade for Dux in the house directly above the cut tree guarding the gym if you still need something to learn Cut.
 
 Walk up to the tree guarding Surge's gym.
 
@@ -489,7 +489,9 @@ Be careful not to hit optionals. Take the underground path to Celadon City.
 
 <img src="/docs/gen-1/images/classic/Route8.png">
 
-Pick up the hidden Elixer and the hidden Nugget marked below:
+After going down stairs get on the bike.    
+    
+Pick up the hidden Elixer and the hidden Nugget marked below:     
 
 <img src="/docs/gen-1/images/classic/Underground.png">
 
@@ -506,18 +508,20 @@ Pick up the hidden Elixer and the hidden Nugget marked below:
 - Give the Soda Pop to the girl first in exchange for TM48 Rock Slide and then one Fresh Water for TM13 Ice Beam
 
 5F - Clerk on the left hand side
-- Buy 16 X Accuracy
-- Buy 2 X Special (do NOT buy guard spec, must be X Special)
-- Buy 9 X Speed
+- Buy 16 X Accuracy 
+- Buy 2 X Special 
+- Buy 9 X Speed 
 
-Take the elevator to the first floor.
-
-Bike west to the Cut bush before the Snorlax, and continue heading west to get HM02 from the girl in the house above Cycling Road.
-
-Exit the house, open the menu and do the following:
-
-> Warning: we will be teaching Ice Beam in this menu to Nidoking, do NOT teach it to Squirtle.
-
+Take the elevator to the first floor.   
+  
+Bike west to the cut bush before the Snorlax, use cut, and go through the top entrance of the guard house.   
+  
+Exit the guard house an walk into the house above Cycling Road to get HM02 from the NPC.   
+  
+Exit the house, open the menu, and do the following:   
+   
+> Warning: we will be teaching Ice Beam in this menu to Nidoking, do NOT teach it to Squirtle.    
+   
 Fly Menu:
 - Swap slot 2 S.S. Ticket, down 13 with X Accuracy
 - Down 3 teach HM02 Fly to bird
@@ -526,7 +530,9 @@ Fly Menu:
 - Teach TM13 Ice Beam to Nidoking over Slot 4 Bubblebeam
 - Bike to the Game Corner
 
-> NOTE: From this point on you have 2 Revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, Revive, let the swapped pokemon die and ANY X ITEMS THAT WERE USED IN THE FIGHT NEED TO BE REUSED ON THE REVIVED NIDO. This route has extras so you shouldn't run out of x items, and there will still be some saving since some deaths with Revives are still really slow to come back from if at all.
+> NOTE: From this point on you have 2 Revives which means deaths aren't as scary, so if you die remember to swap to a pokemon, Revive nido, let the swapped pokemon be KO'd.
+> Then know that ANY X ITEMS THAT WERE USED IN THE FIGHT NEED TO BE REUSED ON THE REVIVED NIDO.
+> This route has extras so you shouldn't run out of x items. Certain deaths with Revives are still really slow to come back from, if at all, so still save the game if the guide says to. 
 
 ## HIDEOUT SPLIT
 
@@ -558,7 +564,7 @@ Lift Key Rocket:
 - Koffing: Thrash x2 or IB + TB
 - Zubat: Thrash or TB    
    
-- Retalk to the Rocket, pick up the Lift Key and take the stairs you came from back to B3F.   
+- Retalk to the Rocket, pick up the Lift Key, and take the stairs you came from back to B3F.   
 
 <img src="/docs/gen-1/images/classic/GC5.png">
 
@@ -601,8 +607,8 @@ Giovanni:
 - Kangaskhan: HD
 
 Pick up Silph Scope, then open the menu:
-- 1-19 Potion (but do not use your last Potion, instead center after you dig out)
-- Dig out, fly to Lavender Town
+- 1-19 Potion (but do not use your last Potion)
+- Dig out, fly to Lavender Town (D3)
 
 ## FLUTE SPLIT
 
@@ -666,14 +672,15 @@ Get the Poke Flute from Mr. Fuji.
 
 ## KOGA SPLIT
 
-Walk out of his house, then Fly to Celadon.
+Walk out of his house, then Fly to Celadon (D1).
 
 Celadon City
 
 - MUST Take the center in Celadon. Replenishes PP & sets Celadon as the warp point.
 - Bike East to Saffron City, trading Fresh Water for passage, and enter Silph Co.
 - Take the stairs up to 5F.
-- Walk left and take the hidden Elixer in the plant, then walk down and talk to the Rocket next to the teleport pad.
+- Walk left, get the hidden Elixer in the plant.
+- Then walk down and talk to the Rocket next to the teleport pad.
 
 <img src="/docs/gen-1/images/classic/SilphCo1.png">
 
@@ -700,8 +707,10 @@ HP   | Strat
 1-79 | Use slot 7 Max Ether on Horn Drill before the next fight
 80+  | Use Max Ether in the next fight
 
+> Usually you will still have high HP here which means we will X-Acc + IB the Cubone & then Max Ether HD turn 1 on the Drowzee.   
+
 Silph Rocket #2:
-- Cubone: X Acc + (Max Ether on HD now if under 80 hp) + IB
+- Cubone: X Acc + (Max Ether on HD now if hit under 80 HP by bone club) + IB
 - Drowzee: (Max Ether if you haven't already +) HD
 - Marowak: HD
 
@@ -730,7 +739,7 @@ Cycling Road
 
 > NOTE: You can hold B (or A) to stop moving down on Cycling Road. These optional trainers cost a lot of time if hit so be careful.
 
-Pick up the hidden Rare Candy then hug the right wall biking down.
+Pick up the hidden Rare Candy, then hug the right wall biking down.
 
 <img src="/docs/gen-1/images/classic/CyclingRoad.png" height=400>
 
@@ -758,7 +767,7 @@ Safari Zone
 
 <img src="/docs/gen-1/images/classic/ClassicSafari.png" height=550>
 
-Exit the house, dig out of the safari, fly back to Fuschia city, and walk to Koga’s gym.
+Exit the house, dig out of the safari, fly back to Fuschia city (D2), and walk to Koga’s gym.
 
 <img align="right" src="/docs/gen-1/images/classic/Koga.png">
 
@@ -889,7 +898,7 @@ Fly to Viridian City (up 1) and bike to Giovanni's gym.
 Cooltrainer♂:
 - Rhyhorn: IB
 
-Save before the next fight on the blue tile.
+If 1-31 HP, then save before the next fight on the blue tile.
 
 Blackbelt:
 - Machoke: EQ (+ TB) → typically 74-95% range
@@ -929,7 +938,7 @@ Use a Super Repel when you reach the other side of the lake [here](https://gunne
 
 > The best way to learn Victory Road movement is to watch a video and replicate it. The image below will help you complete VR on the fly if you need the resource.
 
-> If a Repel happens to run out early from extra steps, always use the next Super Repel right away.
+> If a Super Repel happens to run out early from extra steps, always use the next Super Repel right away.
 
 <img src="/docs/gen-1/images/classic/VictoryRoad.png" height=600>
 
@@ -950,7 +959,7 @@ Lorelei:
 
 Menu before Bruno:
 - Use an Elixer
-- Only save the game if 0 Revives are left
+- Only save the game if 0 Revives are left and you are under 46 HP.
 
 Bruno:
 > Slam crit → Revive and setup another X Acc
