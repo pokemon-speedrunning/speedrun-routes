@@ -885,8 +885,8 @@ Turn 1 Sky Attack Basics:
 
 Further explanation regarding when to consider X Speed turn 1:
 - Using X Speed first is a good option if...
-  1. it allows you to live one non-crit Wing Attack that otherwise would have KO'd without a defense badge boost 
-  2. if it allows you to respond to turn 1 Sky Attack with Super Potion resulting in red bar off of any non-crit. 
+  - (1) it allows you to live one non-crit Wing Attack that otherwise would have KO'd without a defense badge boost 
+  - (1) if it allows you to respond to turn 1 Sky Attack with Super Potion resulting in red bar off of any non-crit. 
 - As an example, consider a Nido w/ 7 Defense DV.
   - (1) with ~23-26 HP we might X Speed turn 1 to guard against wing attack.
   - (2) with ~41-5X HP we might X Speed turn 1 to allow us to respond to sky attack with Super Potion. 
