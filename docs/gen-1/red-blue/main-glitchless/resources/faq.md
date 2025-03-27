@@ -39,8 +39,8 @@ Instant Text is a natural oversight in the game where talking to the bike sales 
 
 ## Why did the Glitchless WR video save and reset / What is RNG manipulation? / RNG Manipulation seems daunting, should I learn it right away?
 
-- A1. You can manipulate RNG in Pokémon Red/Blue and again it is explained in the [RBY Manip Guide](https://www.youtube.com/watch?v=QirPrbub21g) (yes this is the third time we've linked this video, watch it) which is all done by hard resetting the console (save and reset). With that you can get the perfect Nidoran, get no random encounters in Mount Moon, and solve the Surge cans puzzle first try. 
-- A2. For Glitchless, yes you must perform just one simple rng manip to get a nidoran with perfect stats. There is a medium difficulty version and a super easy version of the manip. 
+- A1. RNG (or randomness) can be manipulated in Pokémon Red/Blue (+ Yellow). The essential information needed to perfrom RNG Manips in gen 1 is explained in this video: [RBY Manip Guide](https://www.youtube.com/watch?v=QirPrbub21g). By hard resetting the console (saving and resetting) and proceeding to play "perfectly" you can encounter a Nidoran Male with near perfect stats, get no random encounters in Mount Moon, and solve the Surge cans puzzle first try. 
+- A2. For Glitchless, YES you must perform at least one simple rng manip to get a nidoran with near perfect stats. There is a medium difficulty version and a super easy version of the manip. 
 - A3. For Classic, rng manips are actually just banned so you can get going right away. 
 - A4. For Blue NSC, rng manips are essential - completeing a run of Blue NSC is actually a great way to learn rng manips and become less worried by them. 
 
@@ -48,13 +48,13 @@ Instant Text is a natural oversight in the game where talking to the bike sales 
 ## Why is my manip failing?
 
 It's most likely you are doing something wrong:
-1) A Presses - You have a 17 frame window to press A and you don't just want to lightly tap it make sure it's pressed! [Picture of A Press window](https://cdn.discordapp.com/attachments/425297133382533122/741663432633221161/image0.png) Hold A longer-than-is-intuitive.
+1) **A Presses** - You have a 17 frame window to press A and you don't just want to lightly tap it make sure it's pressed! Our best suggestion is to hold A longer-than-is-intuitive. An example of when one might begin holding A and then release A is shown in this image: <img src="/docs/gen-1/images/glitchless/apresswindow.png" width=176 height=144>
 2) Intro - Everything from the the hard reset needs to match. EVERYTHING. The intro included. If the video shows an input you have to do it the same.
 3) Movement - You want to do the movement 100% correctly so double check. Also make sure you are holding the first direction as the game loads. You are basically buffering the first movement.
-4) IGT (In Game Time) - There is a small chance your manip will fail and we call it an IGT failure. If you get the same failure every time you try or, you suddenly get failures after learning a manip it might be IGT.
+4) IGT (In Game Time) - There is a small chance your manip will fail and we call it an IGT failure. If you get the same failure every time you try or you suddenly get failures after learning a manip, then it might be an IGT.
 5) MISC. - There could be 100 things going wrong, but you can ask in the #red-blue-glitchless channel in the PSR discord. We recommend recording yourself doing the manip with an input viewer.
 
-Make sure to watch the [RNG manipulation tutorial video](https://www.speedrun.com/pkmnredblue/guide/9oea2)!
+Again, if you have not already - make sure to watch the [RNG manipulation tutorial video](https://www.speedrun.com/pkmnredblue/guide/9oea2)!
 
 ## What is triple extended manip?
 
