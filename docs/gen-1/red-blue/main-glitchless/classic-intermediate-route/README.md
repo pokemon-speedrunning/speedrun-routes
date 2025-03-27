@@ -277,8 +277,7 @@ Misty:
 If under 16 HP after Misty, then we will want to heal - do one of the following:
 1. **Potion**; if it's not your last potion.
 2. **Center**; if low on potions and bad ATK DV (Dig Rocket Machop is a range).
-3. **Full Resotre**; if low on potions with good ATK DV, then we can fight Dig Rocket in Red Bar and then pickup the hidden full restore in the underground. Use the full restore after the grass before fighting the Jr. Trainers. You can full restore before the grass if you need Oddish and want to use DSUM. 
-   - If you already have a Cut User or are trading for DUX, then after healing teach TM11 BB over Slot 4 PS. 
+3. **Full Restore**; if low on potions with good ATK DV, then we can fight Dig Rocket in Red Bar and then pickup the hidden full restore in the underground. Use the full restore after the grass before fighting the Jr. Trainers. You can full restore before the grass if you need Oddish and want to use DSUM. 
 
 ## SURGE SPLIT
 
@@ -319,7 +318,7 @@ Vermilion Mart
 
 Enter the S.S. Anne.
 
-- Potion before Boat Rival if you can be KO'd by QA.
+- Potion before Boat Rival if you can be KO'd by QA and teach TM11 BB over slot 4 PS or slot 2 Tackle.
 - If hit by Sand Attack, swap to another poke and let it be KO'd.
   - With high enough HP, it is better to finish Pidgeotto and swap to another poke on Raticate to let the other poke be KO'd faster.  
 
@@ -340,11 +339,11 @@ Get HM01 from the captain.
 
 Exit the boat and head towards Surge's gym.
 
-Trade for Dux in [this house](https://gunnermaniac.com/pokeworld?map=1#235/193) if you still need something to learn Cut.
+Trade for Dux in [the house above the cut tree](https://gunnermaniac.com/pokeworld?map=1#235/193) if you still need something to learn Cut.
 
 Cut Menu:
 - Slot 4 - teach TM11 over slot 4 PS or slot 2 Tackle (if you haven't already)
-- (gentleman candy if you fought him with the plan to candy in cut menu)
+- (use gentleman candy if you fought him)
 - Swap Potion down 4 with Repels
 - Down 2 - teach HM01 to Paras/Oddish/Dux
 - Up 3 - Teach TM28 to Paras or Squirtle
@@ -358,7 +357,7 @@ Surge Trash Cans Puzzle
 - All other cans are 50/50, so if you don’t get the the second switch first try, then you soft reset and know the second switch is in the top left can (can #5)
 
 Surge:
-- Voltorb: Thrash or BB + BB/HA
+- Voltorb: BB + BB/HA or Thrash turn 1 if under 21 HP
 - Pikachu: Thrash
 - Raichu: Thrash x2
 
@@ -533,7 +532,7 @@ Giovanni:
 **Pick up Silph Scope**
 - Get the hidden super potion in the wall above the silph scope if you need it
 - Dig out
-- Fly to Lavender Town (if you centered in Lavender then you are already there)
+- Fly (D3) to Lavender Town (if you centered in Lavender then you are already there)
 - Walk into the tower. 
 
 ## FLUTE SPLIT
@@ -590,7 +589,7 @@ Get the Poke Flute from Mr. Fuji.
 
 ## KOGA SPLIT
 
-Walk out of his house, then Fly to Celadon.
+Walk out of his house, then Fly (D1) to Celadon.
 
 Take the center.
 
@@ -644,7 +643,7 @@ Get Rare Candy and PPUP.
 
 <img src="/docs/gen-1/images/classic/PPUP.png" height=350>
 
-EQ Menu
+EQ Menu when you exit the guard house:
 
 - Use slot 3 Super Repel
 - Down 1 use Rare Candy x2
@@ -927,7 +926,8 @@ Champion:
 - Arcanine: HD
 - Venusaur: HD
 
-> If desparate for Champ Red Bar to PB only Potion if you can keep red bar and consider the advanced notes for Champ copied below:
+> If desparate for Champ Red Bar to PB only Potion if you can keep red bar and consider the advanced notes for Champ copied below where we typically use X Acc turn 1:   
+> If you are playing champ safely, you can ignore the notes below.   
 
 Turn 1 Sky Attack Basics:
 - Yolo Strat after using X Acc turn 1 is to HD Pidgeot, X Speed on Zam (~⅓ to live), and HD all. 
@@ -941,8 +941,8 @@ Turn 1 Sky Attack Basics:
 
 Further explanation regarding when to consider X Speed turn 1:
 - Using X Speed first is a good option if...
-  1. it allows you to live one non-crit Wing Attack that otherwise would have KO'd without a defense badge boost 
-  2. if it allows you to respond to turn 1 Sky Attack with Super Potion resulting in red bar off of any non-crit. 
+  - (1) it allows you to live one non-crit Wing Attack that otherwise would have KO'd without a defense badge boost 
+  - (2) if it allows you to respond to turn 1 Sky Attack with Super Potion resulting in red bar off of any non-crit. 
 - As an example, consider a Nido w/ 7 Defense DV.
   - (1) with ~23-26 HP we might X Speed turn 1 to guard against wing attack.
   - (2) with ~41-5X HP we might X Speed turn 1 to allow us to respond to sky attack with Super Potion. 
