@@ -545,7 +545,7 @@ Silph Rocket #1:
 
 Get the Card Key.
 
-<img src="/docs/gen-1/images/classic/SilphBarHPStrats.png"> 
+<img src="/docs/gen-1/images/classic/ClassicSilphBarSetup.png"> 
 
 > Use Red Helper Ranges to assist you in deciding how to stall for Silph Bar    
 > Generally use Super Pot or X Special instead of using your last Potion   
