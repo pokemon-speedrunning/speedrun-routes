@@ -234,7 +234,7 @@ Lass:
 - Nidoran♂: Thrash
 - Nidoran♀: Thrash    
    
-<img src="/docs/gen-1/images/classic/Rt25Movement.png" height=165>    
+<img src="gen-1/images/classic/Rt25Movement.png" height=165>    
     
 Jr. Trainer♂:
 - Rattata: Thrash
@@ -282,7 +282,7 @@ Oddish DSUM
 
 | Time-based (repeat last two columns of the given row) | Step-based                                  |
 | ----------------------------------------------------- | ------------------------------------------- |
-| <img src="/docs/gen-1/images/classic/TimeBasedOddish.png">            | <img src="/docs/gen-1/images/classic/StepBasedOddish.png"> |
+| <img src="gen-1/images/classic/TimeBasedOddish.png">            | <img src="gen-1/images/classic/StepBasedOddish.png"> |
 
 Jr. Trainer♀:
 - Pidgey x3: Thrash
@@ -327,7 +327,7 @@ Cut Menu:
 
 Surge Trash Cans Puzzle
 
-<img src="/docs/gen-1/images/classic/Cans.png">
+<img src="gen-1/images/classic/Cans.png">
 
 - Save the game after finding the first can (unless the first switch is can #2 or #4, then simply take a 1/4 guess and move onto the next can)
 - All other cans are 50/50, so if you don’t get the the second switch first try, then you soft reset and know the second switch is in the top left can (can #5)
@@ -545,7 +545,7 @@ Silph Rocket #1:
 
 Get the Card Key.
 
-<img src="/docs/gen-1/images/classic/ClassicSilphBarSetup.png"> 
+<img src="gen-1/images/classic/ClassicSilphBarSetup.png"> 
 
 > Use Red Helper Ranges to assist you in deciding how to stall for Silph Bar    
 > Generally use Super Pot or X Special instead of using your last Potion   
@@ -570,7 +570,7 @@ Silph Rocket #2:
 - Drowzee: HD
 - Marowak: IB
 
-<img src="/docs/gen-1/images/classic/EQMenuCandyGuide.png">         
+<img src="gen-1/images/classic/EQMenuCandyGuide.png">         
 
 	
 - Use the chart to determine how many rare candies you can later use.

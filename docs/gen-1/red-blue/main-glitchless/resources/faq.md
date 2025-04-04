@@ -48,7 +48,7 @@ Instant Text is a natural oversight in the game where talking to the bike sales 
 ## Why is my manip failing?
 
 It's most likely you are doing something wrong:
-1) **A Presses** - You have a 17 frame window to press A and you don't just want to lightly tap it make sure it's pressed! Our best suggestion is to hold A longer-than-is-intuitive. An example of when one might begin holding A and then release A is shown in this image: <img src="/docs/gen-1/images/glitchless/apresswindow.png" width=176 height=144>
+1) **A Presses** - You have a 17 frame window to press A and you don't just want to lightly tap it make sure it's pressed! Our best suggestion is to hold A longer-than-is-intuitive. An example of when one might begin holding A and then release A is shown in this image: <img src="gen-1/images/glitchless/apresswindow.png" width=176 height=144>
 2) Intro - Everything from the the hard reset needs to match. EVERYTHING. The intro included. If the video shows an input you have to do it the same.
 3) Movement - You want to do the movement 100% correctly so double check. Also make sure you are holding the first direction as the game loads. You are basically buffering the first movement.
 4) IGT (In Game Time) - There is a small chance your manip will fail and we call it an IGT failure. If you get the same failure every time you try or you suddenly get failures after learning a manip, then it might be an IGT.
