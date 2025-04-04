@@ -64,7 +64,7 @@ Viridian Mart
 
 | Time-Based DSUM                                         | Step-Based DSUM                                         |
 | ------------------------------------------------------- | ------------------------------------------------------- |
-| <img src="/docs/gen-1/images/classic/NidoTimeBasedDSUM.png" width="650"> | <img src="/docs/gen-1/images/classic/NidoStepBasedDSUM.png" width="220"> |
+| <img src="gen-1/images/classic/NidoTimeBasedDSUM.png" width="650"> | <img src="gen-1/images/classic/NidoStepBasedDSUM.png" width="220"> |
 
 ## BROCK SPLIT
 
@@ -139,7 +139,7 @@ Enter Mt. Moon.
 > Though slower on average, Moon Hiker gives a lot more exp than simply KOing encounters allowing you to learn thrash early on bridge.
       
 
-<img src="/docs/gen-1/images/classic/MoonStrats.png">
+<img src="gen-1/images/classic/MoonStrats.png">
 
 Get TM12 if on Hiker Strats.
 
@@ -245,7 +245,7 @@ Lass:
 - Nidoran♂: Thrash
 - Nidoran♀: Thrash
 
-<img src="/docs/gen-1/images/classic/Rt25Movement.png" height=165>
+<img src="gen-1/images/classic/Rt25Movement.png" height=165>
 
 Jr. Trainer♂ (do not fight the two-tile vision Hiker):
 - Rattata: Thrash
@@ -298,7 +298,7 @@ Oddish DSUM
 
 | Time-based (repeat last two columns of the given row) | Step-based                                  |
 | ----------------------------------------------------- | ------------------------------------------- |
-| <img src="/docs/gen-1/images/classic/TimeBasedOddish.png">           | <img src="/docs/gen-1/images/classic/StepBasedOddish.png"> |
+| <img src="gen-1/images/classic/TimeBasedOddish.png">           | <img src="gen-1/images/classic/StepBasedOddish.png"> |
 
 Jr. Trainer♀:
 - Pidgey x3: Thrash
@@ -351,7 +351,7 @@ Cut Menu:
 
 Surge Trash Cans Puzzle
 
-<img src="/docs/gen-1/images/classic/Cans.png">
+<img src="gen-1/images/classic/Cans.png">
 
 - Save the game after finding the first can (unless the first switch is can #2 or #4, then simply take a 1/4 guess and move onto the next can)
 - All other cans are 50/50, so if you don’t get the the second switch first try, then you soft reset and know the second switch is in the top left can (can #5)
@@ -473,15 +473,15 @@ Poster Grunt:
      
 - Take the stairs again to B2F   
 
-<img src="/docs/gen-1/images/classic/GC2.png">
+<img src="gen-1/images/classic/GC2.png">
 
 - Take the stairs again to B3F  
 
-<img src="/docs/gen-1/images/classic/GC3.png">
+<img src="gen-1/images/classic/GC3.png">
 
 - Follow the map below to solve the spin pad puzzle and take the stairs to B4F 
 
-<img src="/docs/gen-1/images/classic/GC4.png" height=500>
+<img src="gen-1/images/classic/GC4.png" height=500>
 
 - Walk up toward the Rocket in the top left and fight him.
 
@@ -491,15 +491,15 @@ Lift Key Rocket:
    
 Retalk to the Rocket, pick up the Lift Key and take the stairs you came from back to B3F.   
 
-<img src="/docs/gen-1/images/classic/GC5.png">
+<img src="gen-1/images/classic/GC5.png">
 
 - Pick up the Rare Candy and take the stairs up to B2F.   
 
-<img src="/docs/gen-1/images/classic/GC6.png">
+<img src="gen-1/images/classic/GC6.png">
 
 - Follow the map below to solve the spin pad puzzle picking up TM07 Horn Drill along the way. 
 
-<img src="/docs/gen-1/images/classic/GC7.png">   
+<img src="gen-1/images/classic/GC7.png">   
 
 Take the elevator to B4F and then menu two steps into the next room before the grunts. 
 
@@ -628,7 +628,7 @@ Take the elevator to 10F.
 
 > 3 or 5 SPD DV: get the Silph Carbos and use it on Nido on the bike menu (cursor will be on your dig user)
 
-<img src="/docs/gen-1/images/classic/SilphCarbos.png">
+<img src="gen-1/images/classic/SilphCarbos.png">
 
 Get TM26 and Rare Candy and Dig out.
 
@@ -641,7 +641,7 @@ Menu:
 
 Get Rare Candy and PPUP.
 
-<img src="/docs/gen-1/images/classic/PPUP.png" height=350>
+<img src="gen-1/images/classic/PPUP.png" height=350>
 
 EQ Menu when you exit the guard house:
 
@@ -656,7 +656,7 @@ Get on the bike and cut both trees to enter the Safari Zone.
 SAFARI ZONE
 - Get the Carbos if 0, 3-7 SPD DV (and 11-12 SPD DV to outspeed 1st Gengar without an x-speed)
 
-<img src="/docs/gen-1/images/classic/Safari Carbos.png">
+<img src="gen-1/images/classic/Safari Carbos.png">
 
 - Super Repel at the start of zone 3 (and use the carbos ON NIDO if you have it)
 - Get the Gold Teeth
@@ -715,7 +715,7 @@ Surf Menu:
 > Get the Carbos if 0-1, 5-8, (11-12), or 13 SPD DV       
 > The next menu can take place one step past the Carbos whether or not you picked it up in the room after you fall through the hole.
 
-<img src="/docs/gen-1/images/classic/Mansion Carbos.png">
+<img src="gen-1/images/classic/Mansion Carbos.png">
 
 <table>
 <tr><td>
@@ -742,7 +742,7 @@ Hit both switches and get the Rare Candy.
 
 If you have 3 or 4 Speed DV, then also get the hidden rare candy.   
 
-<img src="/docs/gen-1/images/classic/HiddenMansionCandy.png" height=250>
+<img src="gen-1/images/classic/HiddenMansionCandy.png" height=250>
 
 - Use all remaining Rare Candies on Nidoking     
     
