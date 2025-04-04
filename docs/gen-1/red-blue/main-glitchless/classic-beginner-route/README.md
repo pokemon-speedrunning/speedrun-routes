@@ -6,7 +6,7 @@
 - [Red Glitchless FAQ](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/faq)
 - [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources)
 	- Optional: Download "Red Classic Helper"
-        - <details><summary>Click here for beginner settings for Red Helper 1.08 </summary><img src="/docs/gen-1/images/classic/Options1.png" alt="New User Setting 1" /><img src="/docs/gen-1/images/classic/Options2.png" alt="New User Setting 2" /><img src="/docs/gen-1/images/classic/Options3.png" alt="New User Setting 3" /></details>
+        - <details><summary>Click here for beginner settings for Red Helper 1.08 </summary><img src="gen-1/images/classic/Options1.png" alt="New User Setting 1" /><img src="gen-1/images/classic/Options2.png" alt="New User Setting 2" /><img src="gen-1/images/classic/Options3.png" alt="New User Setting 3" /></details>
 	- SAVES: Download "Any% Glitchless (Classic)"
 
 ### Glossary
@@ -66,18 +66,18 @@ Optional - Save the game before searching for Nidoran.
 
 | Time-Based DSUM                                         | Step-Based DSUM                                         |
 | ------------------------------------------------------- | ------------------------------------------------------- |
-| <img src="/docs/gen-1/images/classic/NidoTimeBasedDSUM.png" width="650"> | <img src="/docs/gen-1/images/classic/NidoStepBasedDSUM.png" width="220"> |
+| <img src="gen-1/images/classic/NidoTimeBasedDSUM.png" width="650"> | <img src="gen-1/images/classic/NidoStepBasedDSUM.png" width="220"> |
 
 ## BROCK SPLIT
 
 Get the hidden Tree Potion.
 
-<img src="/docs/gen-1/images/classic/TreePotion.png">
+<img src="gen-1/images/classic/TreePotion.png">
 
 Follow this path in the forest picking up the Antidote and hidden Weedle Guy Potion.
 > Many grass tiles in the forest do not give encounters so it is important to follow this path exactly. 
 
-<img src="/docs/gen-1/images/classic/Forest.png" height=500>
+<img src="gen-1/images/classic/Forest.png" height=500>
 
 > If 1-12 HP: Potion before the fight
 
@@ -113,7 +113,7 @@ Menu on the blue tile:
 - Potion to full HP
 - Save the game
 
-<img src="/docs/gen-1/images/classic/Route3.png">
+<img src="gen-1/images/classic/Route3.png">
 
 Shorts Guy: [1-17 Potion on Rat, and if Ekans hits Wrap use a Potion right away]
 - Rat:
@@ -151,7 +151,7 @@ If you see Paras, then weaken it and throw Poke Balls. Run from all other encoun
 
 Enter Mt. Moon.
 
-<img align="right" src="/docs/gen-1/images/classic/F1Moon.png" width=550>
+<img align="right" src="gen-1/images/classic/F1Moon.png" width=550>
 
 - Turn left to pick up **TM12 Water Gun**, then follow the path
 
@@ -174,7 +174,7 @@ Fight the Hiker:
 
 Get the **Moon Stone**, and take the ladder.
 
-<br/><img align="right" src="/docs/gen-1/images/classic/F3Moon.png" width=550>
+<br/><img align="right" src="gen-1/images/classic/F3Moon.png" width=550>
 
 Continue down and right to the next ladder, then follow the path.
 
@@ -200,7 +200,7 @@ Take the Pokemon Center to heal and to set a warp point for your Escape Rope fro
 
 Pick up the hidden Rare Candy.
 
-<img src="/docs/gen-1/images/classic/HouseRareCandy.png" height=200>
+<img src="gen-1/images/classic/HouseRareCandy.png" height=200>
 
 Then walk up Nugget Bridge on the right to meet your Rival.
 
@@ -256,7 +256,7 @@ Bridge Rocket:
 
 ## MISTY SPLIT
 
-<img src="/docs/gen-1/images/classic/Route25.png" height=100>
+<img src="gen-1/images/classic/Route25.png" height=100>
 
 Bottom Hiker:
 - Onix: WG
@@ -323,7 +323,7 @@ Get TM28 Dig from the Rocket.
 
 Pick up the hidden Full Restore in the underground path (feel free to use it any time, otherwise we'll use it before Surge for a safe Fly Split).
 
-<img src="/docs/gen-1/images/classic/HiddenFR.png">
+<img src="gen-1/images/classic/HiddenFR.png">
 
 Oddish DSUM
 - Ignore this if you already have a Paras
@@ -332,9 +332,9 @@ Oddish DSUM
 
 | Time-based (repeat last two columns of the given row) | Step-based                                  |
 | ----------------------------------------------------- | ------------------------------------------- |
-| <img src="/docs/gen-1/images/classic/TimeBasedOddish.png">           | <img src="/docs/gen-1/images/classic/StepBasedOddish.png"> |
+| <img src="gen-1/images/classic/TimeBasedOddish.png">           | <img src="gen-1/images/classic/StepBasedOddish.png"> |
 
-<img src="/docs/gen-1/images/classic/Route6.png">
+<img src="gen-1/images/classic/Route6.png">
 
 Jr. Trainer♀:
 - Pidgey x3: Thrash
@@ -374,9 +374,9 @@ Get HM01 from the captain.
 
 Enter the 3rd Cabin from the right.
 
-<img src="/docs/gen-1/images/classic/GentlemanCandy1.png">
+<img src="gen-1/images/classic/GentlemanCandy1.png">
 
-<img src="/docs/gen-1/images/classic/GentlemanCandy2.png">
+<img src="gen-1/images/classic/GentlemanCandy2.png">
 
 Fight the Gentleman:
 - Growlithe: Thrash
@@ -399,7 +399,7 @@ Cut Menu:
 
 Surge Trash Cans Puzzle
 
-<img src="/docs/gen-1/images/classic/Cans.png">
+<img src="gen-1/images/classic/Cans.png">
 
 - Save the game after finding the first can (unless the first switch is can #2 or #4, then simply take a 1/4 guess and move onto the next can)
 - All other cans are 50/50, so if you don’t get the the second switch first try, then you soft reset and know the second switch is in the top left can (can #5)
@@ -420,7 +420,7 @@ Menu (outside of the bike shop):
 - Up 1 - Teach TM24 Thunderbolt over slot 3 Water Gun
 - Slot 2 - Get on the bike, cut both trees to head east into Route 9
 
-<img src="/docs/gen-1/images/classic/Bike4TTG.png">
+<img src="gen-1/images/classic/Bike4TTG.png">
 
 Jr. Trainer♀ ("4-Turn Thrash Girl"):
 - Oddish: HA + TB
@@ -438,7 +438,7 @@ Repel one step into Rock Tunnel.
 
 | Tunnel 1F                                   | Tunnel B1F                                  |
 | ------------------------------------------- | ------------------------------------------- |
-| <img src="/docs/gen-1/images/classic/Tunnel1.png"> | <img src="/docs/gen-1/images/classic/Tunnel2.png"> |
+| <img src="gen-1/images/classic/Tunnel1.png"> | <img src="gen-1/images/classic/Tunnel2.png"> |
 
 Pokemaniac #1:
 - Cubone: BB
@@ -471,7 +471,7 @@ Exit Rock Tunnel.
 
 Pick up the hidden Max Ether in the bush from the left side.
 
-<img src="/docs/gen-1/images/classic/MaxEther.png">
+<img src="gen-1/images/classic/MaxEther.png">
 
 Bike straight down into Lavender Town.
 
@@ -479,7 +479,7 @@ Bike straight down into Lavender Town.
 
 Bike west and fight the Gambler.
 
-<img src="/docs/gen-1/images/classic/Gambler.png">
+<img src="gen-1/images/classic/Gambler.png">
 
 Gambler:
 - Growlithe: BB (+ Thrash)
@@ -487,13 +487,13 @@ Gambler:
 
 Be careful not to hit optionals. Take the underground path to Celadon City.
 
-<img src="/docs/gen-1/images/classic/Route8.png">
+<img src="gen-1/images/classic/Route8.png">
 
 After going down stairs get on the bike.    
     
 Pick up the hidden Elixer and the hidden Nugget marked below:     
 
-<img src="/docs/gen-1/images/classic/Underground.png">
+<img src="gen-1/images/classic/Underground.png">
 
 **Celadon Mart**
 
@@ -544,19 +544,19 @@ Poster Grunt:
 
 - Talk to the poster and take the stairs to B1F
 
-<img src="/docs/gen-1/images/classic/GC1.png">
+<img src="gen-1/images/classic/GC1.png">
 
 - Take the stairs again to B2F   
 
-<img src="/docs/gen-1/images/classic/GC2.png">
+<img src="gen-1/images/classic/GC2.png">
 
 - Take the stairs again to B3F  
 
-<img src="/docs/gen-1/images/classic/GC3.png">
+<img src="gen-1/images/classic/GC3.png">
 
 - Follow the map below to solve the spin pad puzzle and take the stairs to B4F 
 
-<img src="/docs/gen-1/images/classic/GC4.png" height=500>
+<img src="gen-1/images/classic/GC4.png" height=500>
 
 - Walk up toward the Rocket in the top left and fight him.
 
@@ -566,19 +566,19 @@ Lift Key Rocket:
    
 - Retalk to the Rocket, pick up the Lift Key, and take the stairs you came from back to B3F.   
 
-<img src="/docs/gen-1/images/classic/GC5.png">
+<img src="gen-1/images/classic/GC5.png">
 
 - Pick up the Rare Candy and take the stairs up to B2F.   
 
-<img src="/docs/gen-1/images/classic/GC6.png">
+<img src="gen-1/images/classic/GC6.png">
 
 - Follow the map below to solve the spin pad puzzle picking up TM07 Horn Drill along the way. 
 
-<img src="/docs/gen-1/images/classic/GC7.png">   
+<img src="gen-1/images/classic/GC7.png">   
 
 - Take the elevator to B4F and Menu on the blue tile two steps into the next room before entering any fight.    
 
-<img align="right" src="/docs/gen-1/images/classic/GC8.png"> 
+<img align="right" src="gen-1/images/classic/GC8.png"> 
 
 Grunt Menu:
 - Swap slot 3 Potion, down 7 with Super Repel
@@ -614,9 +614,9 @@ Pick up Silph Scope, then open the menu:
 
 Walk east into the Pokemon Tower to meet your Rival.
 
-<img src="/docs/gen-1/images/classic/Tower1.png" height=200>  
+<img src="gen-1/images/classic/Tower1.png" height=200>  
 
-<img src="/docs/gen-1/images/classic/Tower2.png" height=200>  
+<img src="gen-1/images/classic/Tower2.png" height=200>  
 
 Lavender Rival:
 - Pidgeotto: X Acc + IB
@@ -625,9 +625,9 @@ Lavender Rival:
 - Kadabra: HD
 - Ivysaur: HD
 
-<img src="/docs/gen-1/images/classic/Tower3.png" height=250>
+<img src="gen-1/images/classic/Tower3.png" height=250>
 
-<img src="/docs/gen-1/images/classic/Tower4.png" height=250>
+<img src="gen-1/images/classic/Tower4.png" height=250>
 
 Talk to Channeler #1:
 - Gastly: RS
@@ -636,11 +636,11 @@ Talk to Channeler #1:
 
 Get the Elixer.
 
-<img src="/docs/gen-1/images/classic/Tower5.png" height=175>
+<img src="gen-1/images/classic/Tower5.png" height=175>
 
 Get the hidden Elixer and take the heal-pad.
 
-<img src="/docs/gen-1/images/classic/Tower6.png" height=250>
+<img src="gen-1/images/classic/Tower6.png" height=250>
 
 Channeler #2:
 - Gastly: RS
@@ -682,7 +682,7 @@ Celadon City
 - Walk left, get the hidden Elixer in the plant.
 - Then walk down and talk to the Rocket next to the teleport pad.
 
-<img src="/docs/gen-1/images/classic/SilphCo1.png">
+<img src="gen-1/images/classic/SilphCo1.png">
 
 > NOTE: In this split we ideally want to take a bit of damage to do a strat on Koga called Boom strats  
 > We intentionally are KO’d by Koga’s Weezing to set up red bar for the gym rush up through Bruno
@@ -693,7 +693,7 @@ Silph Rocket #1:
 
 Get the Card Key.
 
-<img src="/docs/gen-1/images/classic/SilphCo3.png" height=250>
+<img src="gen-1/images/classic/SilphCo3.png" height=250>
 
 Silph Rival:
 - Pidgeot: X Acc + X Speed + HD
@@ -724,7 +724,7 @@ Take the elevator to 10F.
 
 Walk left and pick up the rightmost item first (Carbos), then the two others (TM26 and Rare Candy).
 
-<img src="/docs/gen-1/images/classic/SilphCo4.png">
+<img src="gen-1/images/classic/SilphCo4.png">
 
 Dig out.
 - Use the Carbos on Nido (**Cursor is not on Nido**)
@@ -741,11 +741,11 @@ Cycling Road
 
 Pick up the hidden Rare Candy, then hug the right wall biking down.
 
-<img src="/docs/gen-1/images/classic/CyclingRoad.png" height=400>
+<img src="gen-1/images/classic/CyclingRoad.png" height=400>
 
 Get the hidden PPUP. You can bike straight down after getting PPUP, the next trainer has short two-tile vision and does not see you.
 
-<img src="/docs/gen-1/images/classic/PPUP.png" height=400>
+<img src="gen-1/images/classic/PPUP.png" height=400>
 
 Menu immediately after exiting the guard’s house after Cycling Road:
 - Use slot 3 Super Repel
@@ -755,7 +755,7 @@ Menu immediately after exiting the guard’s house after Cycling Road:
 - Teach slot 5 TM26 Earthquake over slot 2 Rock Slide
 - Get on the bike and cut both trees to enter the Safari Zone
 
-<img src="/docs/gen-1/images/classic/CutBothTrees.png" height=250>
+<img src="gen-1/images/classic/CutBothTrees.png" height=250>
 
 Safari Zone
 - Get on your bike
@@ -765,11 +765,11 @@ Safari Zone
 - Optional: pick up the extra [hidden Revive](https://gunnermaniac.com/pokeworld?map=219#6/5) in the statue
 - Pick up the Gold Teeth and get HM03 Surf from the man in the house
 
-<img src="/docs/gen-1/images/classic/ClassicSafari.png" height=550>
+<img src="gen-1/images/classic/ClassicSafari.png" height=550>
 
 Exit the house, dig out of the safari, fly back to Fuschia city (D2), and walk to Koga’s gym.
 
-<img align="right" src="/docs/gen-1/images/classic/Koga.png">
+<img align="right" src="gen-1/images/classic/Koga.png">
 
 Juggler #1:
 - Drowzee: EQ
@@ -817,11 +817,11 @@ Inside Mansion:
 
 Hit the switch and fall through the hole:
 
-<img src="/docs/gen-1/images/classic/Mansion1.png">
+<img src="gen-1/images/classic/Mansion1.png">
 
 Avoid the scientist and get the Carbos next to the trees:
 
-<img src="/docs/gen-1/images/classic/Mansion2.png">
+<img src="gen-1/images/classic/Mansion2.png">
 
 > Note that your cursor is ON SQUIRTLE
 
@@ -835,7 +835,7 @@ Take the stairs to the next room.
 - Hit the switches
 - Get two candies as seen below
 
-<img src="/docs/gen-1/images/classic/Mansion3.png" height=400>
+<img src="gen-1/images/classic/Mansion3.png" height=400>
 
 - Use the two Rare Candies on Nidoking
 - Pick up the Secret Key and Dig out
@@ -893,7 +893,7 @@ Exit Erika's gym by cutting the middle tree.
 
 Fly to Viridian City (up 1) and bike to Giovanni's gym.
 
-<img align="right" src="/docs/gen-1/images/classic/Blackbelt.png">
+<img align="right" src="gen-1/images/classic/Blackbelt.png">
 
 Cooltrainer♂:
 - Rhyhorn: IB
@@ -940,7 +940,7 @@ Use a Super Repel when you reach the other side of the lake [here](https://gunne
 
 > If a Super Repel happens to run out early from extra steps, always use the next Super Repel right away.
 
-<img src="/docs/gen-1/images/classic/VictoryRoad.png" height=600>
+<img src="gen-1/images/classic/VictoryRoad.png" height=600>
 
 Indigo Plateau
 - Buy 5 Full Restores on the left before entering Elite Four
