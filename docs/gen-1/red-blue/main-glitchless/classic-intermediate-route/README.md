@@ -4,6 +4,7 @@
 	- TOOLS: Download "Red Classic Helper"
 	- SAVES: Download "Any% Glitchless (Classic)"
  - For more explanation on DSUM, read [this pastebin on how to do time-based dsum](https://pastebin.com/tV6xfzsP), see the [video tutorial by Shenanagans](https://www.youtube.com/watch?v=SqC8cfI5XSs), and the [video tutorial by Gunnermaniac](https://www.youtube.com/watch?v=NxhT2H0GTwA).
+ - Red [Classic FAQ](https://pastebin.com/GMwW9Pxh)
 
 <details><summary>Carbos Strategies for this route <i>(click to unfold)</i></summary>
 
@@ -281,6 +282,8 @@ If under 16 HP after Misty, then we will want to heal - do one of the following:
 
 ## SURGE SPLIT
 
+> With 0-4 ATK, you may choose to pick up and sell the hidden Full Restore (+1500) to afford an extra X-Accuracy later for Blackbelt.
+
 Dig Rocket:
 - Machop: Thrash x1-2
 - Drowzee: Thrash x1
@@ -446,7 +449,7 @@ Underground: pick up the hidden Elixer.
 - Give the Soda Pop to the girl first in exchange for TM48 Rock Slide and then one Fresh Water for TM13 Ice Beam
 
 5F - Clerk on the left hand side
-- Buy 13 X Accuracy
+- Buy 13 X Accuracy  (14 w/ 0-4 ATK if you can afford it)
 - Buy 1 X Special
 - Buy 5-6 X Speed
 
