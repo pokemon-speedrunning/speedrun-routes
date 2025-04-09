@@ -809,7 +809,7 @@ Cooltrainer♂:
 - Rhyhorn: IB
 
 Blackbelt:
-> 0-4 ATK: X Acc + HD if you have an extra X Acc
+> 0-4 ATK: X Acc + HD, EQ, HD if you have an extra X Acc
 - Machoke: EQ (+ TB)
 - Machop: EQ (TB if Leer w/5+ SPC)
 - Machoke: EQ (+ TB)
