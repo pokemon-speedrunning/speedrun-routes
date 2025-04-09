@@ -838,8 +838,8 @@ Viridian Rival:
 - Pidgeot: X Acc + X Speed + TB x2 (IB x2 if early Elixer)
 - Rhyhorn: IB
 - Gyarados: TB
-- Growlithe: HD (EQ if early Elixer or got turn 1 spot on Blaine)
-- Alakazam: HD (EQ if early Elixer or if only 1 HD is left)
+- Growlithe: HD (EQ if early Elixer or if X-Acc'd on Blackbelt)
+- Alakazam: HD (EQ if only 1 HD is left)
 - Venusaur: HD
 
 Last Boulder Menu:
