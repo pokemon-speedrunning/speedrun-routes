@@ -3,7 +3,8 @@
 ### Good Documents and Resources
 
 - [How To Speedrun Pokemon on Emulator](https://youtu.be/nf51DyXg-OY)
-- [Red Glitchless FAQ](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/faq)
+- [Red/Blue FAQ](https://pokemon-speedrunning.github.io/speedrun-routes/#/gen-1/red-blue/main-glitchless/resources/faq)
+- [Red Classic FAQ](https://docs.google.com/document/d/1vUEFqLjl20FsY3j7LESRhIstvah4CZLe0GDUnD59P-E/edit?usp=sharing)
 - [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources)
 	- Optional: Download "Red Classic Helper"
         - <details><summary>Click here for beginner settings for Red Helper 1.08 </summary><img src="gen-1/images/classic/Options1.png" alt="New User Setting 1" /><img src="gen-1/images/classic/Options2.png" alt="New User Setting 2" /><img src="gen-1/images/classic/Options3.png" alt="New User Setting 3" /></details>
@@ -62,7 +63,7 @@ Optional - Save the game before searching for Nidoran.
 	- L4 Nido: just throw Poke Balls
 	- L5 Spearow: just throw Poke Balls, since it outspeeds us
 
-> Next are tables you can use if you are familiar with DSUM. For your first runs you can just search randomly in the grass until you get a Nido. For more explanation on DSUM, read [this pastebin](https://pastebin.com/tV6xfzsP), see the [video tutorial by Shenanagans](https://www.youtube.com/watch?v=SqC8cfI5XSs), and the [video tutorial by Gunnermaniac](https://www.youtube.com/watch?v=NxhT2H0GTwA).
+> Next are tables you can use if you are familiar with DSUM. For your first runs you can just search randomly in the grass until you get a Nido. For more explanation on DSUM, read [this document](https://docs.google.com/document/d/1GUlTod-dcULvm3PGgqia6WakroUkZewiZ-msvQDCBS0/edit?usp=sharing), see the [video tutorial by Shenanagans](https://www.youtube.com/watch?v=SqC8cfI5XSs), and the [video tutorial by Gunnermaniac](https://www.youtube.com/watch?v=NxhT2H0GTwA).
 
 | Time-Based DSUM                                         | Step-Based DSUM                                         |
 | ------------------------------------------------------- | ------------------------------------------------------- |
