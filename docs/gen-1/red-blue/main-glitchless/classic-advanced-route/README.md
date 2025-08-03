@@ -25,8 +25,8 @@ Speed DV | Strategy used              | Alternate strategies |   |  
 
 </details>
 
-This guide uses fairly aggressive Carbos strategies. If not going for a top leaderboard time it is suggested to use one of the safer strats involving extra candies instead of X Speed Sabrina strats. See [this pastebin explanation](https://pastebin.com/sEWrd0v8) and the [complete speed chart](https://imgur.com/MpKBIb1) for more information.   
-This route additionally makes use of stacking carbos (using them all at once inside mansion rather than one at time to reduce the time spent scrolling). See [Red Classic Optimal Carbos Stacking](https://pastebin.com/djuHjgRU) for more detailed information including an inventory spreadsheet for all late game menus.  
+This guide uses fairly aggressive Carbos strategies. If not going for a top leaderboard time it is suggested to use one of the safer strats involving extra candies instead of X Speed Sabrina strats. See this [carbos strategies document](https://docs.google.com/document/d/1AaLiYjPanRiGSnToYBXKrEx47xVX7LlWNw5C81cBVN0/edit?usp=sharing) and the [complete speed chart](https://imgur.com/MpKBIb1) for more information. Also see the [Red Classic FAQ](https://docs.google.com/document/d/1vUEFqLjl20FsY3j7LESRhIstvah4CZLe0GDUnD59P-E/edit?usp=sharing) for more information.  
+This route additionally makes use of stacking carbos (using them all at once inside mansion rather than one at time to reduce the time spent scrolling). See the [Red Classic Optimal Carbos Stacking pastebin](https://pastebin.com/djuHjgRU) for more detailed information and review the [inventory spreadsheet](https://docs.google.com/spreadsheets/d/19Qg4cbjQ8FacZhHdKiqVqMIB7eSOU0_frzE3HAVIrBY/edit?usp=sharing) for all the different late game menus.  
 
 ### Glossary
 
@@ -105,19 +105,22 @@ Menu:
 - Potion to near full HP
 - Toss Antidote if you haven't already
 
-Shorts Guy: [1-17 Potion on Rat]
-- Rat:
-	- Leer + HA x2
-- Ekans:
-	- Leer + HA x2
- 
+> Swap HA to slot 1 either after Leer on Rat or after Leer on Ekans    
+> Alternatively swap HA to slot 1 turn 1 on BC2 (slightly slower)    
+
+Shorts Guy:
+- Rat: Leer + HA x2 (potion if under 18 HP)
+- Ekans: Leer + HA x2
+
 Bug Catcher 2:
-- Weedle: Swap HA to slot 1 + HA + HA (or Tackle)
+- Caterpie: HA + HA or Tackle
 - Kakuna: HA x2-3 + Tackle x1-2
 - Caterpie: HA x2
 - Metapod: HA x2-3 + Tackle x1-2
 
-Bug Catcher 3: (if <4 HAs, save an HA on the Caterpie even if it takes an extra turn)
+> If under 4 HAs, save an HA on the Caterpie even if it takes an extra turn.  
+
+Bug Catcher 3:
 - Caterpie: HA x2
 - Metapod: HA x3-5 + Tackle spam
 
@@ -232,9 +235,8 @@ Bottom Hiker:
 
 Lass:
 - Nidoran♂: Thrash
-- Nidoran♀: Thrash    
-   
-<img src="gen-1/images/classic/Rt25Movement.png" height=165>    
+- Nidoran♀: Thrash
+- <img src="gen-1/images/classic/Rt25Movement.png" height=165>    
     
 Jr. Trainer♂:
 - Rattata: Thrash
@@ -557,8 +559,8 @@ Silph Rival:
   - U2 Super Potion
   -    X Special
   - D6 Poke Flute (4 below HM02)
-- Gyarados: HD
-- Growlithe: RS
+- Gyarados: HD (or TB @+1 SPC w/ 1+ SPC DV) (always TB @+2 SPC)
+- Growlithe: RS (or HD if TB'd Gyara)
 - Alakazam: HD
 - Venusaur: HD
 
@@ -574,7 +576,7 @@ Silph Rocket #2:
 
 	
 - Use the chart to determine how many rare candies you can later use.
-  - Standard strats will just use the max # possible between 1-3 in Safari Menu
+  - In Silph Red Bar use the max # possible between 1-3 in Safari Menu
 - If stacking Carbos you must note if you have "Good HP" or "Bad HP"
   - Good HP means that we can Candy x3
   - Bad HP means that we can only Candy x1-2, which means we must toss Parlyz Heal
@@ -588,66 +590,67 @@ Silph Giovanni:
 
 Take the elevator to 10F.       
       
-Get the Silph Carbos if you have 5 Speed DV.     
+> Get the Silph Carbos if you have 5 Speed DV.     
        
 Get TM26 and Rare Candy and Dig out.    
    
 Bike west to Snorlax.    
-     
-*Stacking Carbos* Snorlax Menu w/ 0, 5-7, or (11-12) Speed DV:
-- *skip using super repel* and *skip the cycling road rare candy*
-- Good HP Menu:
-   - Swap Slot 4 Parlyz Heal down 11 w/ Rare Candy, down 2 Poke Flute
-   - *only if 5 Speed DV* menu again in the house to use all 3 rare candies
-- Bad HP Menu:
-   - Toss Slot 4 Parlyz Heal
-   - Swap Slot 4 HM01 down 10 w/ Rare Candy, down 2 Poke Flute
-        
-Snorlax Menu (standard): 
+
+Snorlax Menu (0 or 1 Carbos)
 - Use slot 3 Super Repel
 - Down 1 swap Parlyz Heal down 11 with Rare Candy
 - Go down 2 use Poke Flute
-   - Run from Snorlax and Get the hidden Rare Candy.       
+- Run from Snorlax
+- Get the hidden Rare Candy.
      
+Snorlax Menu (2 or 3 Carbos)
+- *skip using super repel* and *skip the cycling road rare candy*
+- Good HP: Swap Slot 4 Parlyz Heal down 11 w/ Rare Candy, down 2 Poke Flute
+- Bad HP: Toss Slot 4 Parlyz Heal, Swap Slot 4 HM01 down 10 w/ Rare Candy, down 2 Poke Flute
+- *only if 3 Carbos and good hp* menu again in the house to use all 3 rare candies    
+
 Get the PPUP.     
     
 Get on the bike and cut both trees to enter the Safari Zone.   
+  
+> Safari Menu Candy Guidelines:     
+> If 0 or 1 Carbos, then use 1-3 out of 4 candies,     
+> but if you skipped silph red bar, then use 2 candies in Safari Menu.      
+> If Good HP & 2 Carbos, then use all 3 out of 3 Rare Candies in Safari Menu.     
+> If Bad HP & 2 Carbos (tossed Parlyz Heal), then use 1-2 out of 3 candies.      
 
-> If 0, 6-7, or (11-12) SPD DV, then typically we want to use all 3 out of 3 Rare Candies in Safari Menu to stack Carbos if you keep red bar.   
-> If on TOSS strats, then we are using either 1 or 2 out of 3 candies and swapping Potion w/ TM26.   
-   
-*Stacking Carbos* Safari / EQ Menu w/0, 5-7, or (11-12) Speed DV:
-- Good HP Menu:
-  - Slot 4 use all rare candies (if you haven't already)
-  - Slot 3 Super Repel
-  - Down 1 Swap HM01 down w/ TM26
-  - Down 1 PPUP
-  - Bike
-- Bad HP Menu:
-  - Slot 3 Super Repel
-  - Down 1 rare candy x1-2
-  - Down 3 swap Potion w/ TM26
-  - Down 1 PPUP
-  - Bike
-
-Safari / EQ Menu (standard):   
+Safari Menu (0 or 1 Carbos):   
 - Use slot 3 Super Repel
 - Down 1 use Rare Candy x1-3
 - Down 1 swap HM01 down 14 with TM26
 - Down 1 to use PP UP on slot 1 Horn Drill
-- Bike         
-          
-Get the Carbos if 0, 5-7, or (11-12) SPD DV      
+- Bike        
+   
+Safari Menu (2-3 Carbos + good HP):
+- Slot 4 use all Rare Candies (if you haven't already)
+- Slot 3 Super Repel
+- Down 1 Swap HM01 down w/ TM26
+- Down 1 PPUP
+- Bike
+
+Safari Menu (2 Carbos + bad HP / already tossed Parlyz Heal)
+- Slot 3 Super Repel
+- Down 1 Rare Candy x1-2
+- Down 3 swap Potion w/ TM26
+- Down 1 PPUP
+- Bike   
+
+> Get the Safari Carbos if 0, 5-7, or (11-12) Speed DV      
      
 Menu in Zone 3
-- Slot 3 Super Repel 
-- Down 2 TM26 Earthquake over slot 2 Rock Slide    
-      
+- Slot 3 Super Repel
+- Down 2 TM26 Earthquake over slot 2 Rock Slide
+
 Get the Gold Teeth, get HM03, and exit the house.
 - Use Dig.
-- Fly back to Fuschia City (down 2).ij
-- Bike to Koga's gym.   
-   
+- Fly back to Fuschia City (down 2)
+- Bike to Koga's gym
+
 Juggler #1:
 - Drowzee: EQ
 - Drowzee: EQ
@@ -684,26 +687,23 @@ Surf Menu:
 - Teach HM03 Surf to Squirtle (over slot 2 Tail Whip if Squirtle already knows Dig)
 - Surf to Mansion
 
-> Get the Carbos if 0-1, 5-8, (11-12), or 13 SPD DV        
+> Get the Mansion Carbos if 0-1, 5-8, (11-12), or 13 Speed DV        
 
 Mansion Menu (0 Carbos):
-- Down 1 teach HM04 Strength to Squirtle over Tackle
-- Scroll up to use Super Repel
-- (note: Rare Candies are 1 below Super Repel)     
-    
+ - Down 1 teach HM04 Strength to Squirtle over Tackle
+ - Scroll up to use Super Repel
+
 Mansion Menu (1-3 Carbos):
-- Teach HM04 Strength to Squirtle over Tackle
-- Use Carbos **on Nidoking** x1-3  (U3 for 3, U2 for 2, D1 for 1) 
-- Use Slot 3 Super Repel
-- (no action required if Rare Candies are still 1 below Super Repel)
-- Otherwise, scroll to the bottom of the bag (leave the cursor on Cancel)     
-     
-Skip TM14 *unless you tossed Parlyz Heal to stack Carbos*, then we need it for bag space.   
-   
-Get the visible Rare Candy.    
-   
-Get the hidden Rare Candy if you have 0, 5-7, or (11-12) Speed DV *and stacked Carbos*    
-   
+ - Teach HM04 Strength to Squirtle over Tackle
+ - Use Carbos **on Nidoking** x1-3  (U3 for 3, U2 for 2, D1 for 1)
+ - Use Slot 3 Super Repel
+
+> Skip TM14 *unless you tossed Parlyz Heal to stack Carbos*, then we need to get TM14 for bag space.   
+
+Get the item ball Rare Candy.
+
+> Get the hidden Rare Candy if you skipped the cycling road Rare Candy 
+
 - Use all remaining Rare Candies on Nidoking
 - Pick up the Secret Key 
 - Dig out
