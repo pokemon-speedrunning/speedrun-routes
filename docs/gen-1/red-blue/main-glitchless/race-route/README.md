@@ -570,7 +570,7 @@ Koga:
 - Turn 1 on Weezing use slot 6 **Elixer** (2 below Rare Candy)
 > If Koga uses X Attack, use X Spec until you die
 
-- If you didn't die from Koga you can still try to get red bar by following the [backups](https://pastebin.com/BMQQYcEV)
+- If you didn't die from Koga you can still try to get red bar by following the [backup boom strats](https://docs.google.com/document/d/1_q5ddsyYnIKN48_UlokZw4mPmlMZLnTXDPihN_UQFwY/edit?usp=sharing)
 
 ## ERIKA SPLIT
 

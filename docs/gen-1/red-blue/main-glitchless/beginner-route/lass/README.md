@@ -537,7 +537,7 @@ In the Safari Zone:
 - EQ x3
 - Elixer on Weezing
 	- If Koga used X Attack, scroll up 2 and use X Spec until you die
-	- If you didn't die from Koga you can still try to get red bar by following the [intermediate backups](https://pastebin.com/BMQQYcEV). Note that this can be risky
+	- If you didn't die from Koga you can still try to get red bar by following the [intermediate backups](https://docs.google.com/document/d/1_q5ddsyYnIKN48_UlokZw4mPmlMZLnTXDPihN_UQFwY/edit?usp=sharing). Note that this can be risky
 
 Menu after Koga:
 - Use all Rare Candies

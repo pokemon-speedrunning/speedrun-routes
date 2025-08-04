@@ -2,7 +2,7 @@
 
 ## What should I do if I want to run this game?
 
-- Play through the game casually so you know the basics of a Pokémon game. [Strategy Wiki](https://strategywiki.org/wiki/Pok%C3%A9mon_Red_and_Blue) is excellent for new players. 
+- Play through the game casually so you know the basics of a Pokémon game. [Strategy Wiki](https://strategywiki.org/wiki/Pok%C3%A9mon_Red_and_Blue) is excellent for new players (pick Squirtle and catch a male Nidoran to mirror the speedrun). 
 - Join the [Gen 1-3 Pokémon Speedrunning Discord](https://www.speedrun.com/pokemon/thread/r7a65)
 - Decide what category you want to speedrun.
 	- [Red Glitchless](/docs/gen-1/red-blue/main-glitchless/beginner-route/) and be sure to watch [this run](https://www.youtube.com/watch?v=GR9HKr61HJY) and the [RBY Manip Guide](https://www.youtube.com/watch?v=QirPrbub21g)
@@ -48,11 +48,12 @@ Instant Text is a natural oversight in the game where talking to the bike sales 
 ## Why is my manip failing?
 
 It's most likely you are doing something wrong:
-1) **A Presses** - You have a 17 frame window to press A and you don't just want to lightly tap it make sure it's pressed! Our best suggestion is to hold A longer-than-is-intuitive. An example of when one might begin holding A and then release A is shown in this image: <img src="gen-1/images/glitchless/apresswindow.png" width=176 height=144>
-2) Intro - Everything from the the hard reset needs to match. EVERYTHING. The intro included. If the video shows an input you have to do it the same.
-3) Movement - You want to do the movement 100% correctly so double check. Also make sure you are holding the first direction as the game loads. You are basically buffering the first movement.
-4) IGT (In Game Time) - There is a small chance your manip will fail and we call it an IGT failure. If you get the same failure every time you try or you suddenly get failures after learning a manip, then it might be an IGT.
-5) MISC. - There could be 100 things going wrong, but you can ask in the #red-blue-glitchless channel in the PSR discord. We recommend recording yourself doing the manip with an input viewer.
+1) **A Presses** - You have a 17 frame window to press A and you don't just want to lightly tap it make sure it's pressed! Our best suggestion is to hold A longer-than-is-intuitive. An example of when one might begin holding A and then release A is shown in this image:
+<img src="gen-1/images/glitchless/apresswindow.png" width=176 height=144>
+3) Intro - Everything from the the hard reset needs to match. EVERYTHING. The intro included. If the video shows an input you have to do it the same.
+4) Movement - You want to do the movement 100% correctly so double check. Also make sure you are holding the first direction as the game loads. You are basically buffering the first movement.
+5) IGT (In Game Time) - There is a small chance your manip will fail and we call it an IGT failure. If you get the same failure every time you try or you suddenly get failures after learning a manip, then it might be an IGT.
+6) MISC. - There could be 100 things going wrong, but you can ask in the #red-blue-glitchless channel in the PSR discord. We recommend recording yourself doing the manip with an input viewer.
 
 Again, if you have not already - make sure to watch the [RNG manipulation tutorial video](https://www.speedrun.com/pkmnredblue/guide/9oea2)!
 
@@ -68,7 +69,7 @@ WARNING: This manip only saves about 20 seconds and can be extremely hard to lea
 ## I'm learning Glitchless, but in which order should I learn things? When should I drop the beginner route?
 
 This page is a good roadmap of what to learn depending of your current time:
-- [Red Glitchless: Begin to Advanced](https://pastebin.com/UUpT5n27)
+- [Red Glitchless: Begin to Advanced](https://docs.google.com/document/d/1kZ26WWpMIMsUO2JXa7RxwcknnLGRCBl7QVF9usteXD8/edit?usp=sharing)
 
 ## When should I reset my runs?
 
@@ -112,4 +113,3 @@ Yes! When starting out saving is a great idea. Here is a list of good saving poi
 - Before Agatha (if zero revives)
 - Before Lance
 - Before Champ Fight
-

@@ -206,8 +206,6 @@ Lass: Ideally save 2+ MP for after this fight
 > HA the 2nd Oddish if you leveled early from Moon Exp
 - Teach Thrash in slot 2 over WG
 
-> If you happen to have 35+ HP and 0 Mega Punches, pick up the [hidden Ether](https://gunnermaniac.com/pokeworld?map=1#288/3) and use it on Mega Punch before using Escape Rope in Bill Menu.
-
 > Note: Can heal to just 48+ HP if low on Potions or on bad pace; or can take the center on any HP if pace is good enough to skip fly red bar
 
 **Bill Menu**
@@ -548,7 +546,16 @@ Koga:
 - Turn 1 on Weezing use slot 8 **Elixer** (3 below Rare Candy)
 > If Koga used X Attack, scroll up 2 and use X Spec, but do not go below 3 X Specs (use BB in that case)
 
-- If you didn't die from Koga you can still try to get red bar by following the [backups](https://pastebin.com/BMQQYcEV)
+| HP after SD on Koga | Red Bar Lost on... | Overview of Strategy                                                                                                       
+| ------------------- | ------------------ | -----------------------------------------------
+| 0-1                 | Machamp            | Normal Strats                                                                                                   
+| 2-4                 | Lapras             | Normal until Bruno; Use PP Item turn 2 on Onix                                                   
+| *5-14               | ...                | Normal until Gio;  Blizz on Cooltrainer's Rhyhorn         
+| 5-6                 | Cloyster           | Elixer on Gio's Rhyhorn
+| 7-11                | Rhydon/Growlithe   | X-Spec on Gio's Nidoking
+| 12-14               | Machop             | Elixer on Gio's Nidoking
+| 15-22               | Rapidash/Venomoth  | Poké Flute on Vileplume                                                                                       
+| 23+                 | Exeggcute          | Poké Flute on Victreebel             
 
 ## ERIKA SPLIT
 
@@ -579,10 +586,16 @@ Bike to Erika's gym
 Beauty:
 - Blizz
 
+| HP after Exeggcute  | Overview of Strategy for Erika                                                                                                       
+| ------------------- | --------------------------------------                                            
+| 1-24                | Normal Strats: EQ, Blizz, EQ
+| 25-32               | Poké Flute on Vileplume until hit                                                                          
+| 33+                 | Poké Flute on Victreebel until hit   
+
 Erika:
-- EQ
-- Blizz
-- EQ
+- Victreebel: EQ
+- Tangela: Blizz
+- Vileplume: EQ
 
 ## BLAINE SPLIT
 
@@ -601,22 +614,44 @@ Dig out and Bike east to Sabrina's gym in Saffron
 Sabrina:
 - EQ x4
 
+> Backup Boom Strats note:    
+> if 21-30 HP, use Blizz on Cooltrainer's Rhyhorn   
+
 ## GIOVANNI SPLIT
 
 Take the pad before Digging out, Fly to Viridian City, and Bike to the gym
 
-Cooltrainer:
+Cooltrainer's Rhyhorn:
 - EQ
 
 Blackbelt:
 - X Acc + HD
-- Blizz
+- Blizz (or EQ if 0 Blizz left)
 - HD
+> Take note of HP and Blizz count.
 
-Leave the gym and re-enter.
+Leave the gym and re-enter.   
+    
+**Menu** one step back into the gym (*unless you have 25+ HP, then see below first)   
+- Use slot 6 - Elixer   
 
-**Menu** one step back into the gym
-- Use slot 6 - Elixer
+<details><summary>If you still have 25+ HP, click here for Backup Boom Strats </summary>      
+     
+> If 25+ HP, delay using Elixer       
+> If 0 Blizz w/27-31 HP, then still must use Slot 6 - Elixer before Giovanni      
+
+| HP before Gio | **Giovanni** Strategy                                                                                                       
+| ------- | -----------------------------------------------------    
+| 25-26   | **Rhyhorn**: Elixer + Blizz or EQ, then play normal.
+| 27-31*  | **Rhyhorn**: Blizz (+EQ);  **Nidoking**: X-Spec Turn 1 (+Elixer) (+TB), **EQ at any time if hit**;  **Rhydon**: (Elixer) + Blizz
+| 32+     | **Rhyhorn**: Blizz / EQ;  Nidoking: Elixer Turn 1, (+X-Spec) (+TB), **EQ at any time if hit**
+     
+> If you delay Elixer at 27+ HP and miss Blizz turn 1 on Gio's Rhyhorn then:      
+>   (1) If Gio's Rhyhorn **hits you** or **lands a Tail Whip**, always Elixer + EQ right away.      
+>   (2) Otherwise, EQx3 and Elixer turn 1 on Nidoking (even if this risks being KO'd by thrash).      
+
+</details>
+
 
 Note: You need to save at least 1 Blizzard for Agatha's Golbat so play accordingly
 
@@ -627,6 +662,17 @@ Giovanni:
 ## LORELEI SPLIT
 
 Super Repel + Bike as soon as you exit the gym
+
+<details><summary>If you still have 28+ HP (or 25-27 and desparate for timesave), click here for Backup Boom Strats </summary>    
+
+ 
+| HP after Gio | **Viridian Rival** Strategy        
+| ------ | --------------------------------------    
+| 1-24   | **Pidg**: X-Acc, X-Speed, Blizz(+TB), **Rhyhorn**: HD x5
+| 25-27  | play normal on good pace; otherwise follow strat below
+| 28+    | **Pidg**: X-Acc, Blizz + TB, **Rhyhorn**: X-Speed + HD x5
+
+</details>
 
 Rival:
 - X Acc + X Speed + Blizz (+ TB)
@@ -651,6 +697,8 @@ Lorelei:
 - Note: Option to swap Nidoking and bird pre-fight if you want to save 0-0.5s at the cost of being difficult
 
 ## BRUNO SPLIT
+
+> skip menuing before Bruno if you lost red bar on Lorelei and use Max Ether turn 2 on Onix
 
 **Menu**
 - Use Max Ether on Horn Drill

@@ -3,8 +3,8 @@
 - [Resources - Pokémon Red/Blue](https://www.speedrun.com/pkmnredblue/resources)
 	- TOOLS: Download "Red Classic Helper"
 	- SAVES: Download "Any% Glitchless (Classic)"
- - For more explanation on DSUM, read [this pastebin on how to do time-based dsum](https://pastebin.com/tV6xfzsP), see the [video tutorial by Shenanagans](https://www.youtube.com/watch?v=SqC8cfI5XSs), and the [video tutorial by Gunnermaniac](https://www.youtube.com/watch?v=NxhT2H0GTwA).
- - Red [Classic FAQ](https://pastebin.com/GMwW9Pxh)
+ - For more explanation on DSUM, read [this document on how to do dsum](https://docs.google.com/document/d/1GUlTod-dcULvm3PGgqia6WakroUkZewiZ-msvQDCBS0/edit?usp=sharing), see the [video tutorial by Shenanagans](https://www.youtube.com/watch?v=SqC8cfI5XSs), and the [video tutorial by Gunnermaniac](https://www.youtube.com/watch?v=NxhT2H0GTwA).
+ - Red [Classic FAQ](https://docs.google.com/document/d/1vUEFqLjl20FsY3j7LESRhIstvah4CZLe0GDUnD59P-E/edit?usp=sharing)
 
 <details><summary>Carbos Strategies for this route <i>(click to unfold)</i></summary>
 
@@ -27,7 +27,7 @@ Speed DV | Strategy used              | Alternate strategies |   |  
 
 </details>
 
-This guide suggests using safer strats involving carbos and/or rare candies instead of X Speed Sabrina strats with 3+ Speed DV. See [this pastebin explanation](https://pastebin.com/sEWrd0v8) and the [complete speed chart](https://imgur.com/MpKBIb1) for more information.
+This guide suggests using safer strats involving carbos and/or rare candies instead of X Speed Sabrina strats with 3+ Speed DV. See [this document explanation](https://docs.google.com/document/d/1AaLiYjPanRiGSnToYBXKrEx47xVX7LlWNw5C81cBVN0/edit?usp=sharing) and the [complete speed chart](https://imgur.com/MpKBIb1) for more information.
 
 ### Glossary
 
@@ -687,11 +687,13 @@ Koga:
 - Koffing: EQ
 - Weezing: use slot 6 Elixer, then stall with Poke Flute until Self Destruct
 
-HP after Weezing:
-- 9+ HP (6+ if getting extra Mansion Candy) **do Erika first immediately after digging out of Mansion**. 
+HP after Weezing assuming average HP DV:
+- With about 15+ HP (12+ if need extra Mansion Candy): **do Erika first immediately after digging out of Mansion**
    - We will stall with pokeflute on either Victreebel or Vileplume until hit (see ranges in the red helper to decide which)
-   - With ~9-14 HP, you may not live a hit from Vileplume. In this case, potion turn 1 on Victreebel and then stall with pokeflute until hit if needed. 
-   - Alternatively w/ any HP under ~15 and a multi-minute lead on your target, just play normal. 
+- With about 9-14 HP (6-11 if getting extra Mansion Candy): **do normal gym order**. 
+   - Consider stalling on Erika if you can live a hit from Vileplume.
+   - Consider using X-Speed turn 1 on Giovanni's Nidoking (+TB) + EQ once you are hit (see defensive ranges drop down in this guide at Gio)
+- Alternatively, with under about 20 HP and a multi-minute lead on your target, just play normal. 
 
 ## GYM RUSH
 
@@ -817,7 +819,28 @@ Blackbelt:
 Exit and re-enter the gym.
 
 > If you somehow used extra EQs or IBs, Elixer now     
-> If you somehow lost red bar and are desparate, then see defensive ranges to consider a stall on Nidoking.     
+> If you somehow lost red bar and are desparate, then see defensive ranges to consider a stall on Nidoking.
+
+<details><summary>Click here for more Nidoking Defensive Ranges if you lived Self Destruct from Weezing </summary>
+
+Giovanni's Nidoking Defensive Ranges after X-Speed - ignoring 1/39 rolls, ignoring crits
+
+|      0 DEF     |      3 DEF     |  6 DEF  
+| -------------- | -------------- | -------------  
+| Tackle  11-12  | Tackle  11-12  | Tackle  10-11  
+| HA      19-22  | HA      18-21  | HA      18-21  
+| Thrash  27-31  | Thrash  27-31  | Thrash  25-29  
+
+
+|      9 DEF     |     12 DEF     |   15 DEF  
+| -------------- | -------------- | -------------  
+| Tackle  10-11  | Tackle  10-11  | Tackle  10-11  
+| HA      17-20  | HA      17-20  | HA      17-19  
+| Thrash  24-28  | Thrash  23-27  | Thrash  22-26    
+
+> If you need damage: X-Speed (or X-Special if you have an extra) turn 1 on Nidoking (+TB if not hit) + EQ 
+
+ </details>
 
 Giovanni:
 - Rhyhorn: IB
