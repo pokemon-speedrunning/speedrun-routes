@@ -602,7 +602,7 @@ Snorlax Menu (0 or 1 Carbos)
 - Go down 2 use Poke Flute
 - Run from Snorlax
 - Get the hidden Rare Candy.
-     
+
 Snorlax Menu (2 or 3 Carbos)
 - *skip using super repel* and *skip the cycling road rare candy*
 - Good HP: Swap Slot 4 Parlyz Heal down 11 w/ Rare Candy, down 2 Poke Flute
@@ -624,8 +624,8 @@ Safari Menu (0 or 1 Carbos):
 - Down 1 use Rare Candy x1-3
 - Down 1 swap HM01 down 14 with TM26
 - Down 1 to use PP UP on slot 1 Horn Drill
-- Bike        
-   
+- Bike
+
 Safari Menu (2-3 Carbos + good HP):
 - Slot 4 use all Rare Candies (if you haven't already)
 - Slot 3 Super Repel
