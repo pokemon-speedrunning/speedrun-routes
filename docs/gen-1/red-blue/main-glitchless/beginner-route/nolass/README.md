@@ -33,9 +33,9 @@
 	- (+ MOVE): A situational move used to finish off a pokemon when a damage range is missed
 - IT = Instant Text
 
-### Important Note
+### Important Notes
 - When learning a new move you cannot hit up to make the cursor wrap around to the bottom slot like you can in battle. For example, to teach over Slot 4, you must press down three times. Don't accidentally delete the wrong move.
-- Victory Road can be tricky. While there will be an image embedded showing the optimal strategy, we recommended watching this [easier version of Victory Road / Lorelei Segment Movement](https://youtu.be/AbekvWHeX50). In the description there are timestamps and a link to a video of the optimal movement (~5 seconds faster). 
+- Practice the Lorelei split/segment (Victory Road movement, in particular) - watch and replicate either the [optimal Super Repel locations](https://youtu.be/Dq05fXW7k-4) or this [easier version of Victory Road / Lorelei Segment](https://youtu.be/AbekvWHeX50) (~5 seconds slower).
      - This guide assumes that you will use the optimal strategy in Victory Road, going slower/safer is optional. Note that the slower strategy still works if you accidentally wasted a Super Repel earlier, so it is worth knowing as a backup. 
 
 ### Before you start
@@ -474,7 +474,7 @@ Walk into the bike shop, get the Bike, and exit the shop.
 - MP (Thrash if 0 MP are left)
 - Thrash x3
      - if confused, typically just use Thrash to yolo 
-     - if confused + fought the Gentleman on boat, then you can swap + swap back to split exp with another poke
+     - or you can swap to another poke + swap back right away (splitting EXP here is fine)
 
 **Bug Catcher:**
 - BB (Thrash if you fought the Gentleman)
@@ -492,7 +492,7 @@ Walk into the bike shop, get the Bike, and exit the shop.
 - **Pokemaniac 1**: BB, TB
 - **Pokemaniac 2**: TB
 
-> Save before Oddish Girl if **under 43 HP**.      
+> Optional - Save before Oddish Girl if **under 43 HP**.      
 > Gentleman --> Always skip save & Thrash turn 1.       
 
 #### Oddish Girl
@@ -505,7 +505,6 @@ Walk into the bike shop, get the Bike, and exit the shop.
 After the fight:
 - Use a Repel around [this tile](gunnermaniac.com/pokeworld?map=232#32/16)
 - Use another Repel before the Hiker.
-	- If you were paralyzed, use a Parlyz Heal in one of the Repel Menus.
 	- You can Repel on different tiles if you prefer, we have a lot of extra steps.
 
 **Hiker:**
@@ -514,7 +513,10 @@ After the fight:
 **Jr Trainer F:**
 - Thrash
 
-Exit tunnel and get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53) in the bush to the right and bike straight down after hopping the ledge and avoiding the trainer's line of sight. 
+Exit tunnel and get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?map=21#16/53) in the bush to the right.
+- Bike straight down after getting the item.
+- Hop the ledge and avoid the trainer's line of sight by biking behind them as you enter Lavender Town.
+- Immediately exit Lavender to the West.  
 
 ## Route 8
 
@@ -558,14 +560,14 @@ Exit tunnel and get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?ma
 
 #### End of Shopping:
 - Take the elevator to 1F + exit the mart.
-- Bike West + cut the tree. 
+- Bike West + [cut the tree](https://www.extratricky.com/pokeworld/rb/1#144,125). 
 - Bike into the guard house and walk through it. 
-- Walk into the House and talk to the NPC.
-- Get HM02 (Fly) + exit the house.
+- Walk into the [Fly House](https://www.extratricky.com/pokeworld/rb/1#117,121) and talk to the NPC.
+- Get HM02 (Fly) + exit the Fly House.
 
 #### Fly Menu
 - Swap slot 2 Helix Fossil w/ TM07
-- d1 Use a Super Repel
+- d1 Use Super Repel
 - d3 Teach TM48 (Rock Slide) over Mega Punch (slot 1)
 - Swap slot 3 S.S. Ticket w/ X Accuracy
 - d3 Teach HM02 to Bird
@@ -603,7 +605,7 @@ Exit tunnel and get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?ma
 - RS x2
 
 #### Get both Elixers
-- First is a [visible item ball here](http://gunnermaniac.com/pokeworld?map=145#12/10) and [the other is hidden here](http://gunnermaniac.com/pokeworld?map=146#4/12)
+- First is a [visible item ball here](http://gunnermaniac.com/pokeworld?map=145#12/10) and [the other is hidden here](http://gunnermaniac.com/pokeworld?map=146#4/12) on the next floor.
 - Take the heal pad
 
 **Channeler 2:**
@@ -644,9 +646,9 @@ Talk to Mr. Fuji twice to get the Poke Flute
 
 ## Saffron City
 
-- Bike into Silph Co. and take the stairs to Floor 5.
+- Bike into [Silph Co.](https://www.extratricky.com/pokeworld/rb/1#238,130) and take the stairs to Floor 5.
 - Get the [hidden tree Elixer](http://gunnermaniac.com/pokeworld?map=210#12/3)
-- <img src="https://pokemon-speedrunning.github.io/speedrun-routes/gen-1/images/classic/SilphCo1.png">
+- <img src="https://pokemon-speedrunning.github.io/speedrun-routes/gen-1/images/classic/SilphCo1.png" width="325">
 
 **Rocket w/ Arbok:**
 - Thrash x2-3
@@ -722,7 +724,8 @@ Dig out.
 - Teach TM26 (Earthquake) over Thrash (slot 2)
 - Use Bike
 
-> If zero potions left, then swap Helix Fossil with X Special instead. 
+> If zero potions left, then swap Helix Fossil with X Special instead.            
+> Only if zero potions, pick up an item in safari for bag space - such as this [Full Restore](https://www.extratricky.com/pokeworld/rb/217#21,10)            
 
 - Cut both trees to enter Safari Zone
 - <img src="https://pokemon-speedrunning.github.io/speedrun-routes/gen-1/images/classic/CutBothTrees.png" width="350">
@@ -760,7 +763,7 @@ In the Safari Zone:
      - (+ u2 X Special, if Koga uses X-Attack)
      - until Weezing uses Self Destruct
 
-> Do not revive Nido! Do not heal Nido!         
+> Do not revive/heal Nido!       
 > We have purposely allowed Nido to be KO'd (or hit to low health)           
 > so that we can use Rare Candies to bring Nido into red bar for the Gym Rush.          
 
