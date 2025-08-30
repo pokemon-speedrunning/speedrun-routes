@@ -272,7 +272,7 @@ If you still need Paras: [Post Nerd Backup Paras](../../resources/postnerd-backu
 - Bulba
      - MP + HA (or MP turn 2 if hit by Growl)
 
-> If under ~20 HP after Boat Rival, then either         
+> If under ~20 HP after Bridge Rival, then either         
 > (1) use a Potion (if you have at least 3 left) and go back to get IT again       
 > (2) use the Center again and go back to get IT again       
 
