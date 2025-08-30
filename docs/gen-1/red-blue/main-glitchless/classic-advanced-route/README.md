@@ -572,7 +572,7 @@ Silph Rocket #2:
 - Drowzee: HD
 - Marowak: IB
 
-<img src="gen-1/images/classic/EQMenuCandyGuide.png">         
+<img src="https://i.imgur.com/HibE7M2.png">         
 
 	
 - Use the chart to determine how many rare candies you can later use.
@@ -633,7 +633,7 @@ Safari Menu (2-3 Carbos + good HP):
 - Down 1 PPUP
 - Bike
 
-Safari Menu (2 Carbos + bad HP / already tossed Parlyz Heal)
+Safari Menu (if Parlyz Heal was Tossed)
 - Slot 3 Super Repel
 - Down 1 Rare Candy x1-2
 - Down 3 swap Potion w/ TM26
@@ -644,7 +644,8 @@ Safari Menu (2 Carbos + bad HP / already tossed Parlyz Heal)
      
 Menu in Zone 3
 - Slot 3 Super Repel
-- Down 2 TM26 Earthquake over slot 2 Rock Slide
+- Down X, teach TM26 Earthquake over slot 2 Rock Slide
+     - D1, D2, or D4, depending on TM26 item location
 
 Get the Gold Teeth, get HM03, and exit the house.
 - Use Dig.
