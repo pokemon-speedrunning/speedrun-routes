@@ -138,7 +138,7 @@ If you were not poisoned, then menu one step into Brock's Gym:
     - Leer + HA x2 (+ Tackle)
 - Weedle: [1-9 Potion]
     - Leer + HA x2
-    - (Tackle turn 3 if you hit by String Shot)
+    - (Tackle turn 3 if hit by String Shot)
 - Caterpie:
     - Leer + Tackle + HA (+ Tackle)
 
