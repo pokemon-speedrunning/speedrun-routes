@@ -221,7 +221,7 @@ If you were not poisoned, then menu one step into Brock's Gym:
 - Use Moon Stone
 - Teach TM01 (Mega Punch) over Leer (slot 1)
 
-#### Moon Rocket (HA Count Remaining --> Strategy):
+#### Moon Rocket:
 - Rattata
      - MP
 - Zubat
