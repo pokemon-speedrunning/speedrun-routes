@@ -378,7 +378,8 @@ If 1-12 after this fight (or 13-22 to be extra safe):
 > Note: never Thrash Kadabra after being hit by Sand Attack.      
 > Due to a bug, the accuracy drop would re-apply each turn of Thrash.     
 > If you somehow end up on Kadabra with a Sand Attack still active, then     
-> you must **HA the Kadabra** and **HA + HA (or MP or Thrash to finish) the Ivysaur**.     
+> you should **HA the Kadabra** and either **HA spam to finish the Ivysaur** or     
+> **swap** to Squirtle on Ivy, let it be KO'd, swap back to Nido and use Thrash.      
 
 #### Boat Rival
 - Pidgeotto
