@@ -9,7 +9,7 @@
 	- [1A Press - Easy](https://youtu.be/2bwQZ6jPxRE)
 - Mount Moon Manip:
 	- [Route 3 Moon Manip](https://pastebin.com/tggXpQRC) (Highly recommended, use any of the backups below if you fail it)
-	- [Post Hiker Backup Paras v1](https://pastebin.com/7kcZu3g4) ([2A Press Path](https://i.imgur.com/jp61CLR.png), [video w/ Select yoloball inputs](https://youtu.be/atQiH670ENs))
+	- [Post Hiker Backup Paras v1](https://pastebin.com/7kcZu3g4) ([2A Press Path](https://github.com/pokemon-speedrunning/speedrun-routes/blob/main/docs/gen-1/images/glitchless/06PoY1.png), [video w/ Select yoloball inputs](https://youtu.be/atQiH670ENs))
 	- [Post Hiker Backup Paras v2](https://pastebin.com/j5gtY4cy) (7A press, normal yoloball)
 	- Grogir's [Post Zubat Backup Paras](https://pastebin.com/5rKmACtf) 
 	- [Post Nerd Backup Paras](../../resources/postnerd-backup-paras.md)
@@ -79,14 +79,14 @@ Nidoran Manip:
 
 Get the [hidden Tree Potion](https://gunnermaniac.com/pokeworld?map=1#54/166)
 
-<img src="https://i.imgur.com/H8JVzPL.png" height="100" >
+<img src="gen-1/images/glitchless/01treepot.png" height="100">
 
 ## Viridian Forest
 
 - Walk the path below in the forest to decrease the chance of getting wild encounters.
 - Pick up the Antidote and the hidden Forest Potion (in front of Weedle Guy).
 
-<img src="https://i.imgur.com/9wWTgkB.png"> 
+<img src="gen-1/images/glitchless/02ViridianForest.png"> 
 
 > Note that only the tiles marked in red on the map can generate encounters. 
 
@@ -131,7 +131,7 @@ If you were not poisoned, then menu one step into Brock's Gym:
 
 ## Route 3
 
-<img src="https://i.imgur.com/2xwVbXv.png">
+<img src="gen-1/images/glitchless/03Rt3nolass.png">
 
 **Bug Catcher 1:**
 - Caterpie:
@@ -156,7 +156,7 @@ If you were not poisoned, then menu one step into Brock's Gym:
 
 > Bug Catcher 2 Weedle      
 > Tackle turn 2 if you see this HA high roll into a string shot hit     
-> <img src="https://i.imgur.com/ic8Y6a9.png" width="150">        
+> <img src="gen-1/images/glitchless/04BC2Weedle.png" width="150">        
 > Always Tackle turn 2 if the HP bar is lower than this          
 
 #### Bug Catcher 2
@@ -178,7 +178,7 @@ If you were not poisoned, then menu one step into Brock's Gym:
     - HA x3-4 + Tackle x1-2 (switch to spamming Tackle if only 3 HAs are left) 
 
 #### Catch a flyer
-- <img src="https://i.imgur.com/FQbywuv.png" width="225"> 
+- <img src="gen-1/images/glitchless/05Rt3Bird.png" width="225"> 
 - Step Up/Down (or Left/Right), but do NOT step over the imaginary line in the image above.
 - This would load the Jigglypuff Lass' Sprite on screen (which would prevent Route 3 Moon Manip from working).
 - **L8 Pidgey**:
@@ -190,22 +190,23 @@ If you were not poisoned, then menu one step into Brock's Gym:
 
 #### Menu on the Route 3 Save Tile
 - Potion to 22+ HP (or 36+ HP if confident with yolo ball)
+- Save the game
 
-#### Save & Do [Route 3 Moon Manip](https://pastebin.com/tggXpQRC)
+#### [Route 3 Moon Manip](https://pastebin.com/tggXpQRC)
 - Hold a palette selection through bios immediately after Hard Reset
 - Get [TM12 (Water Gun)](https://gunnermaniac.com/pokeworld?map=59#5/32), [Rare Candy](https://gunnermaniac.com/pokeworld?map=59#35/31), [Escape Rope](https://gunnermaniac.com/pokeworld?map=59#36/23), [TM01 (Mega Punch)](https://gunnermaniac.com/pokeworld?map=61#29/5) and [Moon Stone](https://gunnermaniac.com/pokeworld?map=59#2/2)
 - Performing a full Moon Manip is not required when starting out, but it doesn't hurt to attempt it and see how far you get.
 - If you fail the manip at some point (or get an IGT failure), then just run from the extra encounters until you get to one of the backup manip locations below.
 - Avoid trying to catch a random wild Paras since the catch is not guaranteed even at low HP, catch a manipped one instead.
 
-#### _PoY's [Post Hiker Backup Paras v1](https://pastebin.com/7kcZu3g4)
+#### [_PoY's Post Hiker Backup Paras v1](https://pastebin.com/7kcZu3g4)
 - If Route 3 Manip has failed, then save immediately after going through the ladder after Moon Stone
 - 2A Presses, [Select Yoloball - click here for a video of the inputs](https://youtu.be/atQiH670ENs)
-- <img src="https://i.imgur.com/2OPBuoM.png" width = "200"> <img src="https://i.imgur.com/Z7KX0B8.png" width = "250">
+- <img src="gen-1/images/glitchless/06PoY1.png" width = "200"> <img src="gen-1/images/glitchless/06PoY2.png" width = "250">
 
-#### Grogir's [Post Zubat Backup Paras](https://pastebin.com/5rKmACtf) 
+#### [Grogir's Post Zubat Backup Paras](https://pastebin.com/5rKmACtf) 
 - **Hold A on the Bios Screen** immediately after Hard Reset
-- <img src="https://i.imgur.com/dk5eT3x.png" width = "300">
+- <img src="gen-1/images/glitchless/07grogirzubat.png" width = "300">
 
 #### Menu before walking in front of the Rocket:
 - Toss any remaining Poke Balls (ONLY IF YOU HAVE A PARAS)
@@ -256,7 +257,7 @@ If you still need Paras: [Post Nerd Backup Paras](../../resources/postnerd-backu
 - Hold a palette selection through bios immediately after Hard Reset
 - 2A Presses
 
-<img src="https://i.imgur.com/rRnoayt.png" width="225"> <img src="https://i.imgur.com/MFBagiA.png" width="125">
+<img src="gen-1/images/glitchless/08PostNerd1.png" width="225"> <img src="gen-1/images/glitchless/08PostNerd2.png" width="125">
 
 ## Nugget Bridge
 
@@ -383,6 +384,11 @@ If 1-12 after this fight (or 13-22 to be extra safe):
 - Potion
 - Teach TM11 (Bubblebeam) over PS (slot 4 - D3)
 
+> Note: never Thrash Kadabra after being hit by Sand Attack.      
+> Due to a bug, the accuracy drop would re-apply each turn of Thrash.     
+> If you somehow end up on Kadabra with a Sand Attack still active, then     
+> you must **HA the Kadabra** and **HA + HA (or MP or Thrash to finish) the Ivysaur**.     
+
 #### Boat Rival
 - Pidgeotto
 	- HA x2 (HA + BB if taught; Potion turn 2 if 1-6)
@@ -482,7 +488,9 @@ Walk into the bike shop, get the Bike, and exit the shop.
 
 ## Rock Tunnel
 
-<img src="https://i.imgur.com/gs5N4V5.png">
+| Tunnel 1F                                   | Tunnel B1F                                  |
+| ------------------------------------------- | ------------------------------------------- |
+| <img src="https://pokemon-speedrunning.github.io/speedrun-routes/gen-1/images/classic/Tunnel1.png"> | <img src="https://pokemon-speedrunning.github.io/speedrun-routes/gen-1/images/classic/Tunnel2.png"> |
 
 > Quick Reference     
 > Slot 7: Repel      
@@ -503,7 +511,7 @@ Walk into the bike shop, get the Bike, and exit the shop.
      - Do not Para Heal in fight, use it in the next Repel Menu instead.
 
 After the fight:
-- Use a Repel around [this tile](gunnermaniac.com/pokeworld?map=232#32/16)
+- Use a Repel around [this tile](https://gunnermaniac.com/pokeworld?map=232#32/16)
 - Use another Repel before the Hiker.
 	- You can Repel on different tiles if you prefer, we have a lot of extra steps.
 
@@ -526,7 +534,7 @@ Exit tunnel and get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?ma
 	- BB
 - Vulpix: Thrash
 
-> Carefully [avoid optional trainers](https://i.imgur.com/3TbEDS8.png) and enter the underground. 
+> Carefully [avoid optional trainers](https://pokemon-speedrunning.github.io/speedrun-routes/gen-1/images/classic/Route8.png) and enter the underground. 
 
 ## Underground
 
@@ -551,7 +559,7 @@ Exit tunnel and get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?ma
 	- Buy 1 Poke Doll
 - Roof:
 	- Buy a **Soda Pop**
-             - trade it to the girl for TM48 (RS)
+	- Trade it to the girl for TM48 (RS)
 	- Walk back to the vending machine and buy a **Fresh Water**
 - Floor 5:
 	- Buy 12 X Accuracy
@@ -576,7 +584,7 @@ Exit tunnel and get the [hidden Max Ether](https://gunnermaniac.com/pokeworld?ma
 
 ## Lavender Tower
 
-- [Click here for Lavender Tower Movement Maps](https://imgur.com/a/J5e6jKB)
+- [Click here for Lavender Tower Movement Maps](https://docs.google.com/document/d/1bOtvfFODSa20-Rw9Ei0HjnSGVnezTbiyJouPqU-k1Tw/edit?usp=sharing)
 
 > You now have 2 Revives which means you can recover if Nido is KO'd.      
 > In general, if Nido is KO'd, then (1) swap to another pokemon, (2) use a revive on Nido       
@@ -686,7 +694,7 @@ Take the teleporter twice, get the Card Key, take the teleporter twice again.
 	- If you haven't used **Elixer** yet, use it now.
 	- **HD**
 - Marowak
-        - **HD**
+	- **HD**
 
 #### Silph Giovanni:
 - Nidorino: **X Accuracy** + HD
@@ -710,6 +718,7 @@ Dig out.
 ## Cycling Road
 
 - Note: You can hold B (or A) to stop on Cycling Road (otherwise you move down automatically)
+- Also Note: While holding B, you can still use any directional input to slowly navigate without being automatically taken down hill. 
 - Get the [hidden Rare Candy](http://gunnermaniac.com/pokeworld?map=1#125/148)
 - <img src="https://pokemon-speedrunning.github.io/speedrun-routes/gen-1/images/classic/CyclingRoad.png" width="300">
 
@@ -729,8 +738,7 @@ Dig out.
 
 - Cut both trees to enter Safari Zone
 - <img src="https://pokemon-speedrunning.github.io/speedrun-routes/gen-1/images/classic/CutBothTrees.png" width="350">
-
-[Safari Movement Map](https://imgur.com/gallery/h9KpU3I)
+- <img src="gen-1/images/glitchless/12Safari.png">
 
 In the Safari Zone:
 - Super Repel in Zone 2 around [this tile](https://gunnermaniac.com/pokeworld?map=217#13/24)
@@ -742,7 +750,7 @@ In the Safari Zone:
 - Use Dig
 - Fly (D2) back to Fuschia City
 - Walk West and enter Koga's Gym
-- <img src="https://i.imgur.com/pN22DR8.png" width="125">
+- <img src="gen-1/images/glitchless/13Koga.png" width="125">
 
 #### Juggler 1:
 - EQ x4
@@ -783,7 +791,7 @@ In the Safari Zone:
 > An NPC will walk in a random direction as you Fly in, possibly blocking your path. 
 
 Walk down + left to face the water in the bottom left of Pallet Town:
-- <img src="https://i.imgur.com/xEpkSOT.png" width="125">
+- <img src="gen-1/images/glitchless/14SurfMenu.png" width="125">
 
 #### Surf Menu
 - Super Repel 
@@ -791,7 +799,7 @@ Walk down + left to face the water in the bottom left of Pallet Town:
 - Surf
      - Surf straight down, move one tile left, continue straight down.
      - The fisherman has zero vision, he won't see you. 
-- <img src="https://i.imgur.com/yiq3lzt.png">
+- <img src="gen-1/images/glitchless/15SurftoMansion.png">
 
 
 #### Inside Mansion:
@@ -800,13 +808,13 @@ Walk down + left to face the water in the bottom left of Pallet Town:
      - Walk straight up + take the stairs.
 - 2F: 
      - Walk right, up and around to the stairs in the room above you.
-     - <img src="https://i.imgur.com/Lprfchj.png">
+     - <img src="gen-1/images/glitchless/16Mansion2F.png">
 - 3F:
      - Hit the switch and fall through the hole.
-     - <img src="https://i.imgur.com/6Ygm5Jr.png" width="200">
+     - <img src="gen-1/images/glitchless/17Mansion3F.png" width="200">
 - After falling (1F)
      - Avoid the scientist, skip the item, take the stairs.
-     - <img src="https://i.imgur.com/jd5OoGs.png">
+     - <img src="gen-1/images/glitchless/18Mansion1Fagain.png">
 - Last Floor (B1F):
      - Pick up [TM14](https://www.extratricky.com/pokeworld/rb/216#19,25) (Blizzard) + **Menu immediately**
      - (see map below the blizzard menu notes for item locations)
@@ -817,7 +825,7 @@ Walk down + left to face the water in the bottom left of Pallet Town:
 - Use **Repel** - Slot 4 (this is the last **REPEL**, do NOT Super Repel)
 
 #### Last floor (B1F) Movement:
-- <img src="https://i.imgur.com/QrcOYpP.png">
+- <img src="gen-1/images/glitchless/19Lastfloor.png">
 - Hit the switch after Blizzard Menu
 - Hit the next switch.
 - Pick up the [Rare Candy](http://gunnermaniac.com/pokeworld?map=216#10/2)
@@ -826,9 +834,9 @@ Walk down + left to face the water in the bottom left of Pallet Town:
 
 ## Celadon City
 
-Bike down to cut the tree blocking [the path to Erika's Gym](https://i.imgur.com/oJtdXdj.png). 
+Bike down to cut the tree blocking [the path to Erika's Gym](https://github.com/pokemon-speedrunning/speedrun-routes/blob/main/docs/gen-1/images/glitchless/00pathtoErika.png). 
 - Enter the gym.  
-- <img src="https://i.imgur.com/cl4CRGn.png">
+- <img src="gen-1/images/glitchless/21ErikaGym.png">
 
 #### Beauty's Exeggcute: **Blizz**
 
@@ -953,7 +961,7 @@ Menu after leaving the gym (+ hopping the ledge):
 
 ## Victory Road
 
-<img src="https://i.imgur.com/ys46wMK.png">
+<img src="gen-1/images/glitchless/22VictoryRoad.png">
 
 #### Menu one step up into cave - "Boulder #1"
 - Use Strength
@@ -1034,7 +1042,7 @@ HP      | Healing Strategy before Lance
 78-98   | Super Potion
 99-106  | Potion x2
 107-127 | Potion
-<img src="https://i.imgur.com/QfIueNL.png" height="200" >
+<img src="gen-1/images/glitchless/23Lance.png" height="200" >
 
 Menu before Lance:
 - **Use Elixer**
